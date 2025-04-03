@@ -102,6 +102,6 @@ If the destination is empty in redus in json its saves nothing
 
 ## Notes
 
-- The script uses a visible browser window by default. For headless operation, modify the `setup_driver()` function.
+- The script uses a visible browser window by default. For headless operation, modify the `setup_driver()` function just remove this comment #options.add_argument('--headless')
 - For large result sets, the script may take some time to scroll and load all buses.
 
