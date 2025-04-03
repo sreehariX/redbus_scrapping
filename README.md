@@ -89,6 +89,13 @@ The scripts has error handling:
 - Handles cases where no buses are found
 - Implements multiple fallback strategies for calendar navigation
 
+If the destination is empty in redus in json its saves nothing
+![image](https://github.com/user-attachments/assets/630a91ab-a1f9-481a-96e8-b9b81a3f1351)
+
+![image](https://github.com/user-attachments/assets/ad1e69f4-0833-4532-a4ec-cdc748c5f98b)
+
+
+
 ## Notes
 
 - The script uses a visible browser window by default. For headless operation, modify the `setup_driver()` function.
