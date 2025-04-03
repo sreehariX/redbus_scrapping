@@ -1,6 +1,10 @@
-# RedBus Scraper
+![Screenshot 2025-04-03 165842](https://github.com/user-attachments/assets/e102ca6c-5c53-4a47-9de5-78e1de50325d)# RedBus Scraper
 
 A Python-based web scraper using selenium for extracting bus information from redbus and saves the results to a JSON file.
+
+# Youtube Demo
+
+[![Redbus Scrapper](https://github.com/user-attachments/assets/083b609c-1502-474d-b307-98a637f406d6)](https://youtu.be/mC7iDDJSs4Y?si=EuDjwMF5VrP_8onU)
 
 ## Features
 
