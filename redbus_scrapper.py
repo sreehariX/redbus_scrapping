@@ -30,7 +30,7 @@ def setup_driver(headless=False):
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--start-maximized')
-    # options.add_argument('--headless') to run without browser being shown
+    #options.add_argument('--headless') to run without browser being shown
     
     return webdriver.Chrome(options=options)
 
@@ -305,8 +305,6 @@ def search_buses(from_city, to_city, target_month_year, target_day):
             except IOError as e:
                  print(f"Error writing error status to JSON: {e}")
 
-        input("Press Enter to close the browser...")
-
     except Exception as e:
          print(f"An unexpected error occurred: {e}")
          timestamp = time.strftime("%Y%m%d-%H%M%S")
@@ -319,9 +317,9 @@ def search_buses(from_city, to_city, target_month_year, target_day):
              driver.quit()
 
 if __name__ == "__main__":
-    input_from_city = "Powai"
-    input_to_city = "Thane"
-    input_month_year = "Apr 2025"
-    input_day = "25"
+    input_from_city = input("Enter the source city: ")
+    input_to_city = input("Enter the destination city: ")
+    input_month_year = input("Enter the month and year (e.g., Apr 2025): ")
+    input_day = input("Enter the day (e.g., 25): ")
 
     search_buses(input_from_city, input_to_city, input_month_year, input_day)
