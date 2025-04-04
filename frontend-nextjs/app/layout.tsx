@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "RedBus Route Analysis",
+  title: "RedBus price/km calculator",
   description: "Analyze bus routes and find the most cost-effective journeys",
 };
 

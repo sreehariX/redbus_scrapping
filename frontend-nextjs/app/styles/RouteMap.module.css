@@ -78,4 +78,47 @@
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
   margin-top: -35px;
   white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .mapContainer {
+    height: 400px;
+  }
+  
+  .infoWindow {
+    max-width: 250px;
+  }
+  
+  .infoTitle {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .mapContainer {
+    height: 350px;
+    border-radius: 8px;
+  }
+  
+  .loading, .mapLoading, .mapError {
+    padding: 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .infoWindow {
+    max-width: 200px;
+  }
+  
+  .infoTitle {
+    font-size: 0.9rem;
+  }
+  
+  .infoText {
+    font-size: 0.8rem;
+  }
+  
+  .markerLabel {
+    font-size: 11px !important;
+    padding: 1px 3px;
+  }
 } 

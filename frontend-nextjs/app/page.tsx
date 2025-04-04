@@ -91,7 +91,7 @@ export default function Home() {
     <main className={styles.main}>
       <h1 className={styles.title}>
         <span className={styles.titleIcon}>🚌</span>
-        RedBus Route Analysis
+        RedBus price/km calculator
       </h1>
       
       {isLoading && <div className={styles.loading}>Loading bus data...</div>}
@@ -123,7 +123,7 @@ export default function Home() {
               endLocation: route.endLocation
             }))}
             selectedRoute={selectedRoute}
-            onRouteSelect={handleRouteSelect}
+            onSelectRoute={handleRouteSelect}
             priceCalculationMode={priceCalculationMode}
             onPriceCalculationModeChange={handlePriceCalculationModeChange}
           />

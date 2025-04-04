@@ -55,6 +55,7 @@
   overflow-x: auto;
   max-height: 600px;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
 }
 
 .busTable {
@@ -198,4 +199,63 @@
 .nameCell {
   min-width: 180px;
   max-width: 240px;
+}
+
+/* Responsive styling */
+@media (max-width: 768px) {
+  .tableHeader {
+    padding: 1rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .tableHeader h2 {
+    font-size: 1.3rem;
+  }
+  
+  .tableWrapper {
+    max-height: 500px;
+  }
+  
+  .busTable th, .busTable td {
+    padding: 0.6rem 0.8rem;
+  }
+  
+  .routeInfo {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .tableHeader h2 {
+    font-size: 1.2rem;
+  }
+  
+  .priceModeSelector {
+    font-size: 0.85rem;
+  }
+  
+  .tableWrapper {
+    max-height: 400px;
+  }
+  
+  .busTable th, .busTable td {
+    padding: 0.5rem 0.6rem;
+    font-size: 0.9rem;
+  }
+  
+  .busTypeChip {
+    font-size: 0.75rem;
+    padding: 3px 6px;
+  }
+  
+  .bestPriceBadge, .fastestBadge {
+    font-size: 0.65rem;
+    padding: 1px 4px;
+  }
+  
+  .routeInfoValue {
+    font-size: 1rem;
+  }
 } 
