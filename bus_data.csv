@@ -871,3 +871,57 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 870,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),06:00,12:23,06h 23m,450.0,750.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
 871,RK Travels,Non A/C Seater / Sleeper (2+1),20:20,03:20,07h 00m,699.0,1299.0,Chandapura,Lakshmi Puram Circle,Bangalore,Tirupathi
 872,RK Travels,A/C Seater / Sleeper (2+1),21:00,03:50,06h 50m,599.0,899.0,Chandapura,KARKAMPADU,Bangalore,Tirupathi
+873,NueGo,Electric A/C Seater (2+2),18:00,00:55,06h 55m,569.05,739.1,Majestic,Korramenugunta,Bangalore,Tirupathi
+874,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),21:45,03:33,05h 48m,680.0,830.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+875,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),11:55,18:18,06h 23m,720.0,1780.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+876,CHOPPA TRAVELS,Non A/C Seater / Sleeper (2+1),20:50,03:55,07h 05m,499.0,799.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+877,NueGo,Electric A/C Seater (2+2),23:50,05:20,05h 30m,569.05,739.1,Majestic,Korramenugunta,Bangalore,Tirupathi
+878,Sri Vinayaka Travels,A/C Seater / Sleeper (2+1),23:00,03:30,04h 30m,750.0,1000.0,KOLAR,RTC Bus Stand,Bangalore,Tirupathi
+879,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),04:55,11:18,06h 23m,550.0,1190.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+880,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),12:25,18:48,06h 23m,1100.0,1575.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+881,Navayuga Travels,A/C Sleeper (2+1),16:20,21:15,04h 55m,828.0,2395.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+882,Jabbar Travels,Bharat Benz A/C Sleeper (2+1),22:45,03:30,04h 45m,895.0,1343.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+883,Sai Sindhu Travels,NON A/C Sleeper (2+1),23:15,04:30,05h 15m,890.0,1090.0,Mahadevapura,RTC Bus Stand,Bangalore,Tirupathi
+884,FlixBus,VE A/C Sleeper (2+1),22:20,05:00,06h 40m,909.82,989.29,Kengeri,RTC Bus Stand,Bangalore,Tirupathi
+885,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),19:50,02:13,06h 23m,620.0,1190.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+886,Intercity travels,A/C Sleeper (2+1),22:30,03:30,05h 00m,999.0,1299.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+887,FlixBus,VE A/C Sleeper (2+1),20:30,02:45,06h 15m,811.61,811.61,Electronic City,RTC Bus Stand,Bangalore,Tirupathi
+888,FlixBus,A/C Sleeper (2+1),19:00,02:40,07h 40m,811.61,891.07,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+889,LUCKY TRAVELS,A/C Sleeper (2+1),22:45,04:00,05h 15m,649.0,849.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+890,Kaveri Travels,A/C Seater / Sleeper (2+1),19:00,23:30,04h 30m,899.0,1959.0,Silk Board,RTC Bus Stand,Bangalore,Tirupathi
+891,LUCKY TRAVELS,NON A/C Sleeper (2+1),22:50,04:20,05h 30m,599.0,799.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+892,FlixBus,A/C Sleeper (2+1),18:30,01:20,06h 50m,811.61,811.61,Electronic City,RTC Bus Stand,Bangalore,Tirupathi
+893,Jabbar Travels,NON A/C Sleeper (2+1),22:45,04:00,05h 15m,652.0,1243.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+894,GKT TRAVELS,A/C Seater/Sleeper (2+1),21:00,04:30,07h 30m,569.05,854.05,Majestic,Srinivasam,Bangalore,Tirupathi
+895,FlixBus,A/C Sleeper (2+1),15:30,21:40,06h 10m,811.61,811.61,Electronic City,RTC Bus Stand,Bangalore,Tirupathi
+896,Sri Vengamamba Bus Transport (SVBT),A/C Seater/Sleeper (2+1),21:40,03:00,05h 20m,785.0,1300.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+897,AKHILA TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:40,03:01,04h 21m,549.0,899.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+898,Sri Vengamamba Bus Transport (SVBT),Non A/C Seater / Sleeper (2+1),22:15,03:15,05h 00m,984.0,1791.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+899,Aditya Logistics,A/C Sleeper (2+1),23:50,04:30,04h 40m,899.0,1199.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+900,SRKT Travels,A/C Seater / Sleeper (2+1),20:00,00:40,04h 40m,1000.0,1600.0,Marathahalli,Srinivasam,Bangalore,Tirupathi
+901,CHOPPA TRAVELS,NON A/C Sleeper (2+1),21:00,03:30,06h 30m,499.0,599.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+902,CHOPPA TRAVELS,A/C Sleeper (2+1),21:00,03:45,06h 45m,799.0,899.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+903,RK Travels,Non A/C Seater / Sleeper (2+1),20:30,03:30,07h 00m,499.0,599.0,Kalasipalyam,Lakshmi Puram Circle,Bangalore,Tirupathi
+904,Sea Bird Tourist,A/C Sleeper (2+1),20:30,03:15,06h 45m,1551.0,1551.0,Gandhinagar,Tirupathi Drop,Bangalore,Tirupathi
+905,Sea Bird Tourist,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:30,03:15,06h 45m,1000.0,1000.0,Gandhinagar,Tirupathi Drop,Bangalore,Tirupathi
+906,LUCKY TRAVELS,A/C Sleeper (2+1),21:55,04:00,06h 05m,799.0,1199.0,Marathahalli,Tiruchanur,Bangalore,Tirupathi
+907,Sri Vengamamba Bus Transport (SVBT),Non A/C Seater / Sleeper (2+1),21:00,02:00,05h 00m,981.0,1846.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+908,Varsha Travels,A/C Sleeper (2+1),22:30,04:15,05h 45m,1999.0,1999.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+909,GKT TRAVELS,A/C Sleeper (2+1),22:30,04:30,06h 00m,854.05,1044.05,BTM Layout,Srinivasam,Bangalore,Tirupathi
+910,AKHILA TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:30,03:00,04h 30m,499.0,849.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+911,AKHILA TRAVELS,A/C Sleeper (2+1),22:25,02:45,04h 20m,949.0,1099.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+912,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),19:00,03:00,08h 00m,1500.0,1500.0,Anand Rao Circle,RTC Bus Stand,Bangalore,Tirupathi
+913,Bharathi Travels,Non A/C Seater / Sleeper (2+1),22:00,02:30,04h 30m,790.0,1200.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+914,Dream Line Travels Pvt Ltd,A/C Sleeper (2+1),22:30,02:30,04h 00m,976.0,1576.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+915,SRKT Travels,A/C Seater / Sleeper (2+1),19:15,23:55,04h 40m,1000.0,1600.0,Marathahalli,Srinivasam,Bangalore,Tirupathi
+916,Harikrishna Travels,Non A/C Seater / Sleeper (2+1),21:00,02:15,05h 15m,617.5,950.0,Electronic City,RTC Bus Stand,Bangalore,Tirupathi
+917,Sri Venkataramana Travels,Non A/C Seater / Sleeper (2+1),20:00,02:30,06h 30m,450.0,597.6,Electronic City,Tirupati R T C Bustand,Bangalore,Tirupathi
+918,VV Vinayak Travels,Non A/C Seater / Sleeper (2+1),19:10,01:30,06h 20m,999.0,1490.0,Attibele,RTC Bus Stand,Bangalore,Tirupathi
+919,RK Travels,NON A/C Seater (2+2),21:10,03:50,06h 40m,699.0,699.0,Chandapura,Lakshmi Puram Circle,Bangalore,Tirupathi
+920,Sri Keerthana Sai Travels,A/C Seater / Sleeper (2+1),17:30,23:16,05h 46m,899.0,1599.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+921,RDS Travels,NON A/C Sleeper (2+1),22:30,04:15,05h 45m,3599.0,3599.0,Anand Rao Circle,Srinivasam,Bangalore,Tirupathi
+922,Varsha Travels,A/C Sleeper (2+1),20:00,04:00,08h 00m,1299.0,1299.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+923,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,04:40,06h 40m,1009.0,2319.0,Majestic,Leela Mahal Circle,Bangalore,Tirupathi
+924,AGR Travels,A/C Sleeper (2+1),22:00,03:30,05h 30m,2000.0,2000.0,Silk Board,Srinivasam,Bangalore,Tirupathi
+925,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),23:20,03:30,04h 10m,1102.0,1545.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+926,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:15,21:15,05h 00m,1971.0,3113.0,Marathahalli,Tiruchanur,Bangalore,Tirupathi

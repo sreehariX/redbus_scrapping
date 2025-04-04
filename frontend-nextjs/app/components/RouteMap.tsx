@@ -162,7 +162,7 @@ export default function RouteMap({
         onUnmount={onUnmount}
         options={MAP_OPTIONS}
       >
-        {/* Display all routes - thin gray lines for non-selected routes */}
+        {/* Draw all routes first as polylines */}
         {routes.map(route => {
           if (!route.startCoords || !route.endCoords) return null;
           
@@ -197,22 +197,29 @@ export default function RouteMap({
           );
         })}
         
-        {/* Render selected route with markers and yellow highlight */}
+        {/* Render selected route: first polyline, then markers on top */}
         {selectedRoute && selectedRoute.startCoords && selectedRoute.endCoords && (
           <React.Fragment key={`selected-${selectedRoute.id}`}>
-            {/* Start marker */}
+            {/* Polyline for selected route - thicker and on bottom layer */}
+            <Polyline
+              path={[selectedRoute.startCoords, selectedRoute.endCoords]}
+              options={{
+                strokeWeight: 6,
+                strokeColor: ROUTE_COLORS.selected,
+                strokeOpacity: 1,
+                zIndex: 99,
+                clickable: true,
+                geodesic: true
+              }}
+            />
+            
+            {/* Start marker exactly on the endpoint */}
             <Marker
               position={selectedRoute.startCoords}
               onClick={() => handleMarkerClick(`start-${selectedRoute.id}`)}
               icon={MARKER_ICONS.start}
-              label={{
-                text: selectedRoute.startLocation,
-                className: styles.markerLabel,
-                fontWeight: '500',
-                fontSize: '13px',
-                color: '#333333'
-              }}
               animation={showMarkerAnimation ? window.google?.maps.Animation.BOUNCE : undefined}
+              zIndex={101}
             >
               {activeMarker === `start-${selectedRoute.id}` && (
                 <InfoWindow onCloseClick={handleInfoWindowClose}>
@@ -225,19 +232,32 @@ export default function RouteMap({
               )}
             </Marker>
             
-            {/* End marker */}
+            {/* Start location label */}
+            <Marker
+              position={selectedRoute.startCoords}
+              icon={{
+                path: "M 0,0",
+                fillOpacity: 0,
+                strokeWeight: 0,
+                scale: 0
+              }}
+              label={{
+                text: selectedRoute.startLocation,
+                className: styles.markerLabel,
+                fontWeight: '600',
+                fontSize: '13px',
+                color: '#333333'
+              }}
+              zIndex={102}
+            />
+            
+            {/* End marker exactly on the endpoint */}
             <Marker
               position={selectedRoute.endCoords}
               onClick={() => handleMarkerClick(`end-${selectedRoute.id}`)}
               icon={MARKER_ICONS.end}
-              label={{
-                text: selectedRoute.endLocation,
-                className: styles.markerLabel,
-                fontWeight: '500',
-                fontSize: '13px',
-                color: '#333333'
-              }}
               animation={showMarkerAnimation ? window.google?.maps.Animation.BOUNCE : undefined}
+              zIndex={101}
             >
               {activeMarker === `end-${selectedRoute.id}` && (
                 <InfoWindow onCloseClick={handleInfoWindowClose}>
@@ -250,17 +270,23 @@ export default function RouteMap({
               )}
             </Marker>
             
-            {/* Polyline for selected route - yellow and thicker */}
-            <Polyline
-              path={[selectedRoute.startCoords, selectedRoute.endCoords]}
-              options={{
-                strokeWeight: 6,
-                strokeColor: ROUTE_COLORS.selected,
-                strokeOpacity: 1,
-                zIndex: 100,
-                clickable: true,
-                geodesic: true
+            {/* End location label */}
+            <Marker
+              position={selectedRoute.endCoords}
+              icon={{
+                path: "M 0,0",
+                fillOpacity: 0,
+                strokeWeight: 0,
+                scale: 0
               }}
+              label={{
+                text: selectedRoute.endLocation,
+                className: styles.markerLabel,
+                fontWeight: '600',
+                fontSize: '13px',
+                color: '#333333'
+              }}
+              zIndex={102}
             />
           </React.Fragment>
         )}
