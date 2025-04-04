@@ -1,0 +1,109 @@
+.tableContainer {
+  width: 100%;
+  margin-top: 1rem;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.tableHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.tableHeader h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  color: #333;
+}
+
+.priceModeSelector {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.priceModeSelector span {
+  font-size: 0.875rem;
+  color: #555;
+}
+
+.toggleContainer {
+  display: flex;
+  border-radius: 4px;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
+
+.toggleButton {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #f1f3f5;
+  cursor: pointer;
+  font-size: 0.875rem;
+  transition: all 0.2s ease;
+}
+
+.toggleButton.active {
+  background-color: #0070f3;
+  color: white;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+.busTable {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.busTable th {
+  padding: 1rem;
+  background-color: #f8f9fa;
+  font-weight: 600;
+  color: #333;
+  border-bottom: 2px solid #e9ecef;
+  position: sticky;
+  top: 0;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.2s;
+}
+
+.busTable th:hover {
+  background-color: #e9ecef;
+}
+
+.sortIcon {
+  margin-left: 0.5rem;
+  display: inline-block;
+}
+
+.busTable td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e9ecef;
+  color: #555;
+}
+
+.busTable tr:hover {
+  background-color: #f8f9fa;
+}
+
+.busTable tr:last-child td {
+  border-bottom: none;
+}
+
+.noData {
+  padding: 3rem;
+  text-align: center;
+  color: #6c757d;
+} 

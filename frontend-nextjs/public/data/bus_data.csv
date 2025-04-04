@@ -1,0 +1,8 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,HRTC - 505,Ordinary 3+2 Non AC Seater,06:40,20:30,13h 50m,847.0,847.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+2,HRTC - 514,Ordinary 3+2 Non AC Seater,11:30,04:00,16h 30m,842.0,842.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+3,HRTC - 516,Ordinary 3+2 Non AC Seater,12:10,02:30,14h 20m,849.0,849.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+4,HRTC - 1532,Ordinary 3+2 Non AC Seater,14:00,06:00,16h 00m,841.0,841.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+5,HRTC - 521,Ordinary 3+2 Non AC Seater,16:40,06:30,13h 50m,847.0,847.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+6,HRTC - 586,Ordinary 3+2 Non AC Seater,17:40,07:30,13h 50m,847.0,847.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+7,HRTC - 530,Ordinary 3+2 Non AC Seater,18:20,08:30,14h 10m,847.0,847.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali 

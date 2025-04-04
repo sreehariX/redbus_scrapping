@@ -1,0 +1,269 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,HRTC - 505,Ordinary 3+2 Non AC Seater,06:40,20:30,13h 50m,847.0,847.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+2,HRTC - 514,Ordinary 3+2 Non AC Seater,11:30,04:00,16h 30m,842.0,842.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+3,HRTC - 516,Ordinary 3+2 Non AC Seater,12:10,02:30,14h 20m,849.0,849.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+4,HRTC - 1532,Ordinary 3+2 Non AC Seater,14:00,06:00,16h 00m,841.0,841.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+5,HRTC - 521,Ordinary 3+2 Non AC Seater,16:40,06:30,13h 50m,847.0,847.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+6,HRTC - 586,Ordinary 3+2 Non AC Seater,17:40,07:30,13h 50m,847.0,847.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+7,HRTC - 530,Ordinary 3+2 Non AC Seater,18:20,08:30,14h 10m,847.0,847.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+8,HRTC - 703,Himsuta AC Seater Volvo/Scania 2+2,19:00,06:00,11h 00m,1488.0,1488.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+9,HRTC - 545,Ordinary 3+2 Non AC Seater,19:32,09:30,13h 58m,834.0,834.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+10,HRTC - 21,Himsuta AC Seater Volvo/Scania 2+2,20:00,09:00,13h 00m,1488.0,1488.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+11,HRTC - 567,Himsuta AC Seater Volvo/Scania 2+2,21:03,10:00,12h 57m,1488.0,1488.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+12,HRTC - 574,Ordinary 3+2 Non AC Seater,21:14,08:30,11h 16m,834.0,834.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+13,HRTC - 600,Himsuta AC Seater Volvo/Scania 2+2,21:50,10:50,13h 00m,1506.0,1506.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+14,HRTC - 583,Ordinary 3+2 Non AC Seater,22:02,11:00,12h 58m,845.0,845.0,ISBT Kashmiri Gate,MANALI,Delhi,Manali
+15,Himachal Pradesh Tourism Development Corporation (HPTDC) - 49531,AC Seater (2+2),20:00,08:00,12h 00m,1600.0,1600.0,Mandi House,Govt Bus Stand,Delhi,Manali
+16,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:00,07:20,11h 20m,1040.0,1480.0,Majnu Ka Tilla,Mall Road,Delhi,Manali
+17,Laxmi holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),22:00,09:30,11h 30m,989.0,1648.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+18,AdPAL Travel Lines,Volvo A/C Semi Sleeper (2+2),19:15,08:25,13h 10m,649.0,899.0,Majnu Ka Tilla,Private Bus Stand,Delhi,Manali
+19,ReoBus Pro,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:25,07:40,11h 15m,1397.0,1747.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+20,ReoBus Pro,Volvo 9600 Multi Axle Semi-Sleeper (2+2),22:25,09:30,11h 05m,1297.0,1647.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+21,Deltin Travels Pvt Ltd,Volvo 9600 Multi Axle Semi-Sleeper (2+2),23:50,10:50,11h 00m,940.0,1370.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+22,AdPAL Travel Lines,Volvo A/C Semi Sleeper (2+2),23:00,09:05,10h 05m,699.0,949.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+23,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),20:45,08:45,12h 00m,893.38,1483.13,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+24,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),17:20,04:50,11h 30m,885.5,1404.38,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+25,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),22:00,09:55,11h 55m,993.13,1574.13,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+26,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),22:45,10:25,11h 40m,993.13,1574.13,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+27,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),18:45,06:45,12h 00m,843.5,1260.0,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+28,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),21:45,09:20,11h 35m,844.0,844.0,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+29,City Land Travels,Volvo A/C Semi Sleeper (2+2),16:30,05:40,13h 10m,853.2,1069.2,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+30,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:00,07:00,11h 00m,799.0,1049.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+31,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),20:30,08:30,12h 00m,993.0,993.0,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+32,Laxmi holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),23:00,10:30,11h 30m,1099.0,1349.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+33,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,06:30,11h 30m,799.0,1049.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+34,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),21:30,09:00,11h 30m,993.0,993.0,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+35,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),23:15,11:05,11h 50m,993.13,1574.13,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+36,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),21:00,08:00,11h 00m,993.13,1574.13,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+37,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),22:00,08:55,10h 55m,1310.0,1860.0,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+38,Malana Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:30,07:30,10h 00m,1234.0,1234.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+39,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:00,05:30,11h 30m,699.0,949.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+40,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),20:00,08:00,12h 00m,900.0,1350.0,RK Ashram,Private Bus Stand,Delhi,Manali
+41,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,07:15,10h 45m,899.0,1498.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+42,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:30,06:00,11h 30m,809.0,1348.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+43,RS YADAV SMART BUS,Volvo 9600 A/C Semi Sleeper (2+2),21:15,09:15,12h 00m,799.0,999.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+44,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),21:30,08:30,11h 00m,1189.0,1499.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+45,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:50,10:20,10h 30m,989.0,1795.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+46,Yolo Bus,Bharat Benz A/C Semi Sleeper (2+2),22:00,09:19,11h 19m,940.0,1230.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+47,Yolo Bus,Bharat Benz A/C Semi Sleeper (2+2),23:14,10:33,11h 19m,970.0,1220.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+48,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),17:00,05:00,12h 00m,809.0,1348.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+49,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,08:30,11h 30m,810.0,1120.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+50,ReoBus Pro,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:25,07:00,11h 35m,1197.0,1547.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+51,SIDDHI VINAYAK TRAVELS,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),20:00,08:00,12h 00m,850.0,1035.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+52,Travel hub,Volvo A/C Semi Sleeper (2+2),18:45,07:15,12h 30m,630.0,900.0,Majnu Ka Tilla,Manali,Delhi,Manali
+53,City Land Travels,Volvo A/C Semi Sleeper (2+2),09:00,22:00,13h 00m,1123.2,1339.2,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+54,Deltin Travels Pvt Ltd,Volvo 9600 A/C Semi Sleeper (2+2),22:30,09:20,10h 50m,1040.0,1610.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+55,City Land Travels,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,12:00,12h 05m,943.2,1159.2,Majnu Ka Tilla,Private Bus Stand,Delhi,Manali
+56,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),21:25,10:25,13h 00m,943.2,1159.2,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+57,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:15,07:15,12h 00m,810.0,1260.0,RK Ashram,Private Bus Stand,Delhi,Manali
+58,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),22:40,10:00,11h 20m,989.0,1648.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+59,HIMACHAL TOURIST BUS SERVICE,Volvo A/C Semi Sleeper (2+2),21:15,09:30,12h 15m,900.0,1400.0,Majnu Ka Tilla,Private Bus Parking Manali,Delhi,Manali
+60,Khurana Bus Service,Volvo A/C Semi Sleeper (2+2 ),22:05,08:35,10h 30m,1061.65,1359.15,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+61,Vacation Express,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:15,08:05,11h 50m,3499.0,3499.0,ISBT Kashmiri Gate,Private Bus Parking,Delhi,Manali
+62,JSM Travels,Volvo A/C Semi Sleeper (2+2),10:00,22:30,12h 30m,1800.0,1800.0,Inside Kashmiri Gate ISBT,Private Bus Parking,Delhi,Manali
+63,MAHARANI HOLIDAYS,Volvo Multi-Axle A/C Seater (2+2),19:20,07:20,12h 00m,1234.05,1424.05,ISBT Kashmiri Gate,Manali,Delhi,Manali
+64,RS YADAV SMART BUS,Volvo 9600 A/C Semi Sleeper (2+2),21:15,09:10,11h 55m,1199.0,1199.0,ISBT Kashmiri Gate,Private bus parking (manali),Delhi,Manali
+65,RS YADAV SMART BUS,VE A/C Semi Sleeper (2+2),21:30,10:15,12h 45m,999.0,1099.0,ISBT Kashmiri Gate,Private bus parking (manali),Delhi,Manali
+66,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),17:30,05:30,12h 00m,699.0,949.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+67,Deltin Travels Pvt Ltd,Volvo 9600 A/C Semi Sleeper (2+2),20:30,08:30,12h 00m,1040.0,1660.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+68,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),21:20,09:00,11h 40m,899.0,1498.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+69,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),21:55,09:00,11h 05m,1189.0,1189.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+70,IntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),22:50,10:00,11h 10m,1189.0,1189.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+71,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),22:05,08:00,09h 55m,1050.0,1450.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+72,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,07:45,12h 20m,943.2,1159.2,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+73,Deltin Travels Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),23:20,10:30,11h 10m,940.0,1360.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+74,RS YADAV SMART BUS,A/C Semi Sleeper (2+2),21:30,10:15,12h 45m,799.0,999.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+75,Deltin Travels Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),21:30,08:30,11h 00m,940.0,1510.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+76,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:30,10:00,10h 30m,999.0,1249.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+77,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,07:00,11h 30m,809.0,1348.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+78,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),20:00,07:00,11h 00m,940.0,1480.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+79,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),21:30,08:30,11h 00m,699.0,949.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+80,FlixBus,Volvo 9600 A/C Semi Sleeper (2+2),18:00,07:25,13h 25m,1266.96,1712.5,RK Ashram,Private Bus Stand,Delhi,Manali
+81,BSS COOL COOL TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),22:00,09:30,11h 30m,4000.0,4000.0,ISBT Kashmiri Gate,Manali Private Volvo Bus Parking,Delhi,Manali
+82,Travel Zap India Pvt LTD.,Volvo A/C Semi Sleeper (2+2),20:30,07:10,10h 40m,999.0,1299.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+83,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),20:15,08:05,11h 50m,649.0,899.0,Civil Lines,Private Bus Stand,Delhi,Manali
+84,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:40,08:10,10h 30m,899.0,1498.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+85,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),23:00,09:50,10h 50m,1130.0,1680.0,ISBT Kashmiri Gate,Mall Road,Delhi,Manali
+86,FlixBus,A/C Seater (2+2),22:10,10:50,12h 40m,1266.96,1712.5,Dhaula Kuan,Private Bus Stand,Delhi,Manali
+87,FlixBus,Volvo 9600 A/C Semi Sleeper (2+2),21:30,09:15,11h 45m,1302.68,1748.21,RK Ashram,Private Bus Stand,Delhi,Manali
+88,Kashi Bus,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),20:15,06:00,09h 45m,899.0,1299.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+89,Kashi Bus,Scania Multi-Axle AC Semi Sleeper (2+2),22:30,08:15,09h 45m,990.0,1299.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+90,HIMALAYAN HOLIDAYS,Scania A/C Semi Sleeper (2+2),19:30,06:30,11h 00m,949.05,1424.05,ISBT Kashmiri Gate,Manali,Delhi,Manali
+91,DKN HOLIDAYS,Scania Multi-Axle AC Semi Sleeper (2+2),20:00,08:05,12h 05m,1078.0,1478.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+92,Northern Travels,Scania Multi-Axle AC Semi Sleeper (2+2),23:20,10:50,11h 30m,1080.0,1630.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+93,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:30,07:25,11h 55m,810.0,1260.0,RK Ashram,Private Bus Stand,Delhi,Manali
+94,Cab India Travels,Volvo A/C Semi Sleeper (2+2),19:20,07:30,12h 10m,999.0,999.0,Majnu Ka Tilla,Private Bus Stand,Delhi,Manali
+95,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),23:40,10:30,10h 50m,1050.0,1600.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+96,Northern Travels,Scania Multi-Axle AC Semi Sleeper (2+2),22:30,10:00,11h 30m,940.0,1450.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+97,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),19:30,07:30,12h 00m,1000.0,1000.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+98,Metahills holidays,Scania A/C Semi Sleeper (2+2),18:00,04:00,10h 00m,1299.0,1299.0,Rk ashram metro station gate no.3 parking back side,Private Bus Stand,Delhi,Manali
+99,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:20,09:50,11h 30m,800.0,1280.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+100,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:00,05:30,11h 30m,1079.1,1325.7,RK Ashram,Private Bus Stand,Delhi,Manali
+101,Northern Travels,Volvo A/C Semi Sleeper (2+2),20:20,07:20,11h 00m,940.0,1490.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+102,FlixBus,A/C Seater (2+2),19:45,08:50,13h 05m,1266.96,1712.5,RK Ashram,Private Bus Stand,Delhi,Manali
+103,Holiday Appeal Private Limited,Volvo A/C Semi Sleeper (2+2),19:30,07:30,12h 00m,1699.0,2599.0,Holiday Appeal Private Limited Office Jagatpur,Private Bus Stand,Delhi,Manali
+104,Northern Travels,Scania Multi-Axle AC Semi Sleeper (2+2),21:55,08:00,10h 05m,940.0,1490.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+105,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),21:15,07:15,10h 00m,2430.0,2430.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+106,JN HOLIDAYS,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:30,08:00,12h 30m,770.0,1080.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+107,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),21:00,09:00,12h 00m,1079.1,1325.7,RK Ashram,Private Bus Stand,Delhi,Manali
+108,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:00,06:55,11h 55m,810.0,1260.0,RK Ashram,Private Bus Stand,Delhi,Manali
+109,HIMACHAL TOURIST BUS SERVICE,Volvo A/C Semi Sleeper (2+2),19:30,07:45,12h 15m,900.0,1400.0,Majnu Ka Tilla,Private Bus Parking Manali,Delhi,Manali
+110,Royal Safari India Travels,A/C Seater Push Back (2+2),21:00,08:45,11h 45m,1133.0,1133.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+111,Metahills holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,05:00,10h 00m,1099.0,1099.0,Rk ashram metro station gate no.3 parking back side,Private Bus Stand,Delhi,Manali
+112,Royal Travels Hills,Volvo A/C Semi Sleeper (2+2),19:30,06:00,10h 30m,999.0,999.0,Majnu Ka Tilla,Manali,Delhi,Manali
+113,FLY BUS INDIA,Volvo A/C Semi Sleeper (2+2),19:00,07:00,12h 00m,787.0,787.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+114,Yak Holiday Tours,Volvo A/C Semi Sleeper (2+2),19:00,07:00,12h 00m,497.0,897.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+115,Zakir Flights,Volvo A/C Semi Sleeper (2+2),19:00,06:00,11h 00m,741.0,1011.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+116,PAL Travel Lines,Scania A/C Semi Sleeper (2+2),20:35,08:45,12h 10m,699.0,949.0,Majnu Ka Tilla,Private Bus Stand,Delhi,Manali
+117,Travel hub,Volvo A/C Semi Sleeper (2+2),21:30,09:00,11h 30m,850.0,1150.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+118,Smart Airbus,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,08:25,11h 25m,735.0,735.0,ISBT Kashmiri Gate,manali,Delhi,Manali
+119,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),21:00,08:15,11h 15m,1079.0,1079.0,RK Ashram,Private Bus Stand,Delhi,Manali
+120,Smart Airbus,Scania Multi-Axle AC Semi Sleeper (2+2),21:10,08:25,11h 15m,774.0,774.0,ISBT Kashmiri Gate,manali,Delhi,Manali
+121,Om Sidh Express,Volvo A/C Semi Sleeper (2+2),21:30,08:30,11h 00m,1100.0,1100.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+122,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),21:30,09:30,12h 00m,1500.0,1500.0,Majnu Ka Tilla,Private Bus Stand,Delhi,Manali
+123,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),23:33,10:50,11h 17m,1499.0,1499.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+124,PAL Travel Lines,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:30,10:50,11h 20m,1799.0,1799.0,Majnu Ka Tilla,Private Bus Stand,Delhi,Manali
+125,JSR HOLIDAYS,Volvo A/C Semi Sleeper (2+2),19:00,06:45,11h 45m,749.0,899.0,Majnu Ka Tilla,MANALI PRIVET BUS PARKING,Delhi,Manali
+126,CARAVAN HOLIDAY,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),20:00,07:30,11h 30m,944.1,1169.1,Majnu Ka Tilla,Private Bus Stand,Delhi,Manali
+127,FlixBus,A/C Seater (2+2),23:00,11:30,12h 30m,1266.96,1712.5,RK Ashram,Private Bus Stand,Delhi,Manali
+128,PAL Travel Lines,Bharat Benz A/C Semi Sleeper (2+2),21:30,08:30,11h 00m,1099.0,1099.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+129,PAL Travel Lines,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:30,07:30,11h 00m,1099.0,1099.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+130,Royal Safari India Travels,A/C Seater Push Back (2+2),21:00,08:30,11h 30m,809.0,809.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+131,Yash Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:45,10:30,10h 45m,1500.0,1500.0,GT Karnal Road,Private Bus Stand,Delhi,Manali
+132,Raj travels Jhunjhunu,Volvo A/C Semi Sleeper (2+2),19:00,08:00,13h 00m,1399.0,1399.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+133,Travel hub,Volvo A/C Semi Sleeper (2+2),21:30,12:30,15h 00m,2582.0,2582.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+134,Maa Chamunda Holidays,Volvo A/C Semi Sleeper (2+2 ),19:30,07:30,12h 00m,999.0,1699.0,Majnu Ka Tilla,Manali Volvo Parking,Delhi,Manali
+135,SWAGATAM TOUR HOLIDAY,Volvo A/C Multi-Axle Semi Sleeper (2+2),20:00,07:30,11h 30m,2999.0,2999.0,ISBT Kashmiri Gate,Manali,Delhi,Manali
+136,TANISHQ HOLIDAYS TOUR,A/C Semi Sleeper (2+2),20:00,08:00,12h 00m,1500.0,1500.0,Majnu Ka Tilla,Private Bus Stand,Delhi,Manali
+137,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),20:30,08:30,12h 00m,1500.0,1500.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+138,TANISHQ HOLIDAYS TOUR,Volvo Multi-Axle A/C Semi Sleeper (2+2),21:00,10:00,13h 00m,1799.0,1799.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+139,Heera Himachal Holidays,Volvo A/C Semi Sleeper (2+2),20:30,09:30,13h 00m,1649.0,1649.0,Akshardham Metro Station,Manali,Delhi,Manali
+140,Heera Himachal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),19:30,09:00,13h 30m,949.0,1049.0,Akshardham Metro Station,Manali,Delhi,Manali
+141,RAO TRAVELS INDIA PVT LTD.,Volvo AC Seater Pushback 2+2,18:40,07:25,12h 45m,499.0,1099.0,ISBT Kashmiri Gate,Private Volvo Parking,Delhi,Manali
+142,Tomar Travels,Volvo A/C (2+2),18:45,06:45,12h 00m,1100.0,1100.0,ISBT Kashmiri Gate,Bus Stand,Delhi,Manali
+143,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),21:00,11:15,14h 15m,850.0,1300.0,RK Ashram,Private Bus Stand,Delhi,Manali
+144,Supreme Travels,Volvo A/C (2+2),18:30,06:00,11h 30m,1399.0,1399.0,ISBT Kashmiri Gate,Private Bus Stand,Delhi,Manali
+145,UPSRTC - LNI0249,Ordinary Non AC Seater 2+3,04:30,10:00,05h 30m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+146,UPSRTC - LNI0433,Ordinary Non AC Seater 2+3,04:35,10:09,05h 34m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+147,UPSRTC - LNI0089,Ordinary Non AC Seater 2+3,05:00,11:20,06h 20m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+148,UPSRTC - KTL0089,Ordinary Non AC Seater 2+3,06:21,12:50,06h 29m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+149,UPSRTC - LNI0087,Ordinary Non AC Seater 2+3,07:00,13:20,06h 20m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+150,UPSRTC - LNI0420,Ordinary Non AC Seater 2+3,07:05,12:33,05h 28m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+151,UPSRTC - KTL0084,Ordinary Non AC Seater 2+3,08:02,14:30,06h 28m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+152,UPSRTC - KTL0068,Ordinary Non AC Seater 2+3,09:00,16:00,07h 00m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+153,UPSRTC - LNI0255,Ordinary Non AC Seater 2+3,09:03,14:30,05h 27m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+154,UPSRTC - KTL0072,Ordinary Non AC Seater 2+3,10:02,16:30,06h 28m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+155,UPSRTC - LNI0430,Ordinary Non AC Seater 2+3,10:24,15:57,05h 33m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+156,UPSRTC - SRG0105,Ordinary Non AC Seater 2+3,10:30,16:30,06h 00m,472.0,472.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+157,UPSRTC - LNI0247,Ordinary Non AC Seater 2+3,10:32,16:00,05h 28m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+158,UPSRTC - KTL0076,Ordinary Non AC Seater 2+3,11:03,17:30,06h 27m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+159,UPSRTC - KTL0081,Ordinary Non AC Seater 2+3,11:40,18:30,06h 50m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+160,UPSRTC - MZF0057,Ordinary Non AC Seater 2+3,12:00,18:45,06h 45m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+161,UPSRTC - KTL0079,Ordinary Non AC Seater 2+3,12:01,18:30,06h 29m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+162,UPSRTC - BRT0352,Ordinary Non AC Seater 2+3,12:21,18:22,06h 01m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+163,UPSRTC - BRT0364,Ordinary Non AC Seater 2+3,12:57,19:29,06h 32m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+164,UPSRTC - MZF0058,Ordinary Non AC Seater 2+3,13:20,20:05,06h 45m,445.0,445.0,ISBT Kashmiri Gate,RISHIKESH BUS STAND,Delhi,Rishikesh
+165,Uttarakhand Transport Corporation (UTC) - 469I1007,Ordinary 3+2 Non AC Seater,06:00,13:00,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+166,Uttarakhand Transport Corporation (UTC) - 39I362,Volvo A/C Seater (2+2),07:00,13:00,06h 00m,956.0,956.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+167,Uttarakhand Transport Corporation (UTC) - 470I1009,Ordinary 3+2 Non AC Seater,07:30,14:30,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+168,Uttarakhand Transport Corporation (UTC) - 489I1053,Volvo A/C Seater (2+2),11:30,17:30,06h 00m,956.0,956.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+169,Uttarakhand Transport Corporation (UTC) - 466I1001,Ordinary 3+2 Non AC Seater,16:00,23:00,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+170,Uttarakhand Transport Corporation (UTC) - 467I1003,Ordinary 3+2 Non AC Seater,21:45,04:45,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+171,Uttarakhand Transport Corporation (UTC) - 184I354,Volvo A/C Seater (2+2),22:00,04:00,06h 00m,956.0,956.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+172,Uttarakhand Transport Corporation (UTC) - 186I358,Volvo A/C Seater (2+2),23:00,05:00,06h 00m,956.0,956.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+173,Uttarakhand Transport Corporation (UTC) - 468I1005,Ordinary 3+2 Non AC Seater,23:15,06:15,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+174,Uttarakhand Transport Corporation (UTC) - 187I360,Volvo A/C Seater (2+2),23:59,05:59,06h 00m,956.0,956.0,DELHI KASHMIRIGATE,RISHIKESH,Delhi,Rishikesh
+175,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),15:00,19:50,04h 50m,724.0,1119.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+176,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,03:35,04h 50m,309.0,699.0,Anand Vihar,Nepali Farm,Delhi,Rishikesh
+177,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),11:50,16:40,04h 50m,724.0,1143.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+178,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:20,05:05,05h 45m,309.0,699.0,ISBT Kashmiri Gate,Nepali Farm,Delhi,Rishikesh
+179,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),11:00,15:50,04h 50m,724.0,1114.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+180,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),11:30,17:05,05h 35m,309.0,699.0,ISBT Kashmiri Gate,Nepali Farm,Delhi,Rishikesh
+181,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,02:40,03h 40m,299.0,497.88,Munirka,Rishikesh Nepali Farm,Delhi,Rishikesh
+182,NueGo,Electric A/C Seater (2+2),09:35,16:40,07h 05m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+183,NueGo,Electric A/C Seater (2+2),12:35,19:40,07h 05m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+184,FlixBus,A/C Seater (2+2),15:00,21:05,06h 05m,641.96,792.86,ISBT Kashmiri Gate,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+185,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),12:30,17:55,05h 25m,309.0,689.0,ISBT Kashmiri Gate,Nepali Farm,Delhi,Rishikesh
+186,NueGo,Electric A/C Seater (2+2),06:30,11:23,04h 53m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+187,FlixBus,A/C Seater (2+2),09:00,15:00,06h 00m,490.18,641.07,ISBT Kashmiri Gate,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+188,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),22:13,03:15,05h 02m,500.0,950.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+189,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:20,04:05,06h 45m,309.0,759.0,RK Ashram,Nepali Farm,Delhi,Rishikesh
+190,TSB Tour express,AC Seater (2+2),23:30,05:45,06h 15m,669.0,669.0,ISBT Kashmiri Gate,Rishikesh bus stand,Delhi,Rishikesh
+191,Leafy Bus,Electric A/C Seater (2+2),15:20,20:40,05h 20m,499.0,1199.0,ISBT Kashmiri Gate,Near Nepali Farm Rishikesh,Delhi,Rishikesh
+192,NueGo,Electric A/C Seater (2+2),17:35,00:35,07h 00m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+193,NueGo,Electric A/C Seater (2+2),20:35,03:15,06h 40m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+194,Gola Bus Service,VE A/C Seater (2+2),22:40,04:40,06h 00m,719.0,939.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+195,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:30,03:44,05h 14m,411.25,708.75,Munirka,Rishikesh Nepali Farm,Delhi,Rishikesh
+196,FlixBus,A/C Seater (2+2),22:30,04:50,06h 20m,534.82,534.82,Majnu Ka Tilla,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+197,Leafy Bus,Electric A/C Seater (2+2),06:35,11:40,05h 05m,599.0,999.0,ISBT Kashmiri Gate,Rishikesh,Delhi,Rishikesh
+198,FlixBus,A/C Seater (2+2),23:55,05:40,05h 45m,454.46,605.36,ISBT Kashmiri Gate,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+199,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,03:15,04h 15m,455.88,592.38,Munirka,Rishikesh Nepali Farm,Delhi,Rishikesh
+200,Leafy Bus,Electric A/C Seater (2+2),23:15,04:15,05h 00m,499.0,1199.0,ISBT Kashmiri Gate,Near Nepali Farm Rishikesh,Delhi,Rishikesh
+201,City Land Travels,A/C Sleeper (2+1),08:00,13:30,05h 30m,540.0,855.0,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+202,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),09:20,15:05,05h 45m,349.0,689.0,ISBT Kashmiri Gate,Nepali Farm,Delhi,Rishikesh
+203,NueGo,Electric A/C Seater (2+2),15:35,22:15,06h 40m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+204,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),06:00,11:00,05h 00m,497.88,935.38,Munirka,Rishikesh Nepali Farm,Delhi,Rishikesh
+205,City Land Travels,A/C Sleeper (2+1),15:30,20:00,04h 30m,583.2,979.2,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+206,NueGo,Electric A/C Seater (2+2),16:35,21:58,05h 23m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+207,FlixBus,A/C Seater (2+2),10:20,16:55,06h 35m,695.54,846.43,Majnu Ka Tilla,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+208,NueGo,Electric A/C Seater (2+2),14:30,19:58,05h 28m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+209,NueGo,Electric A/C Seater (2+2),22:35,05:15,06h 40m,501.6,651.7,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+210,NueGo,Electric A/C Seater (2+2),23:30,06:10,06h 40m,501.6,651.7,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+211,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),15:30,20:20,04h 50m,724.0,1043.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+212,NueGo,Electric A/C Seater (2+2),13:35,20:15,06h 40m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+213,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),08:00,13:19,05h 19m,410.0,950.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+214,TSB Tour express,AC Seater (2+2),22:45,05:17,06h 32m,673.0,673.0,ISBT Kashmiri Gate,Rishikesh bus stand (Pickup Van/Bus),Delhi,Rishikesh
+215,NueGo,Electric A/C Seater (2+2),07:30,12:32,05h 02m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+216,NueGo,Electric A/C Seater (2+2),21:35,04:40,07h 05m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+217,FlixBus,A/C Seater (2+2),07:30,13:35,06h 05m,490.18,641.07,ISBT Kashmiri Gate,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+218,FlixBus,A/C Seater (2+2),22:30,04:20,05h 50m,499.11,650.0,ISBT Kashmiri Gate,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+219,NueGo,Electric A/C Seater (2+2),11:35,18:15,06h 40m,514.9,669.75,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+220,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),13:00,18:12,05h 12m,300.0,720.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+221,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:00,04:30,05h 30m,699.0,799.0,Chandni Chowk,Shree Ram Tours And Travels Rishikesh,Delhi,Rishikesh
+222,IntrCity SmartBus,A/C Seater / Sleeper (2+1),09:30,16:35,07h 05m,279.0,719.0,IFFCO Chowk -Boarding Zone,Nepali Farm,Delhi,Rishikesh
+223,YOLO PINK (Women's only),Bharat Benz A/C Semi Sleeper (2+2),07:30,12:28,04h 58m,550.0,980.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+224,FlixBus,A/C Seater (2+2),23:00,04:50,05h 50m,534.82,534.82,ISBT Kashmiri Gate,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+225,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,04:10,06h 10m,289.0,719.0,IFFCO Chowk -Boarding Zone,Nepali Farm,Delhi,Rishikesh
+226,NueGo,Electric A/C Seater (2+2),09:35,15:30,05h 55m,522.5,679.25,Dhaula Kuan,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+227,OurBus India Limited,Electric A/C Seater (2+2),09:30,15:25,05h 55m,472.5,612.5,ISBT Kashmiri Gate,NEPALI FARM,Delhi,Rishikesh
+228,NueGo,Electric A/C Seater (2+2),23:00,04:40,05h 40m,514.9,669.75,Dhaula Kuan,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+229,OurBus India Limited,Electric A/C Seater (2+2),11:00,16:55,05h 55m,472.5,612.5,ISBT Kashmiri Gate,NEPALI FARM,Delhi,Rishikesh
+230,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),14:30,19:42,05h 12m,380.0,850.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+231,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,05:00,06h 00m,999.0,1599.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+232,Vikas Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),04:50,09:30,04h 40m,699.0,999.0,Anand Vihar,Nepali Farm chauraha,Delhi,Rishikesh
+233,India Tours & Travels (GetBookCab),A/C Seater Push Back (2+2),21:00,03:20,06h 20m,726.0,726.0,Munirka,Rishikesh Nepali Farm,Delhi,Rishikesh
+234,YOLO PINK (Women's only),Bharat Benz A/C Semi Sleeper (2+2),22:30,03:32,05h 02m,520.0,740.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+235,Shakti Travels,A/C Seater / Sleeper (2+1),02:45,08:15,05h 30m,650.0,1050.0,Dhaula Kuan,nepali farm circle rishikesh,Delhi,Rishikesh
+236,Shakti Travels,A/C Seater / Sleeper (2+1),03:20,09:15,05h 55m,650.0,1050.0,Dhaula Kuan,nepali farm circle rishikesh,Delhi,Rishikesh
+237,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),02:00,06:30,04h 30m,699.0,1099.0,Morigate,Shri Krishna Travels Nepali Farm,Delhi,Rishikesh
+238,India Tours & Travels (GetBookCab),Bharat Benz A/C Semi Sleeper (2+2),21:30,04:00,06h 30m,507.5,1093.75,Munirka,Rishikesh Nepali Farm,Delhi,Rishikesh
+239,City Land Travels,A/C Sleeper (2+1),22:30,04:00,05h 30m,889.2,1249.2,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+240,City Land Travels,A/C Sleeper (2+1),20:00,01:20,05h 20m,1159.2,1519.2,ISBT Kashmiri Gate,A/C Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+241,WELCOME TOUR & TRAVELS,A/C Seater Push Back (2+2),23:59,06:00,06h 01m,549.0,549.0,ISBT Kashmiri Gate,Gaura Devi chowk near Natraj chowk,Delhi,Rishikesh
+242,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+1),07:30,13:45,06h 15m,277.5,1312.5,Munirka,Rishikesh Nepali Farm,Delhi,Rishikesh
+243,Akash Yadav Travels,A/C Seater/Sleeper (2+1),23:20,04:55,05h 35m,649.0,749.0,ISBT Kashmiri Gate,Nepali farm house rishikesh,Delhi,Rishikesh
+244,OurBus India Limited,Electric A/C Seater (2+2),21:00,02:55,05h 55m,428.75,621.25,ISBT Kashmiri Gate,NEPALI FARM,Delhi,Rishikesh
+245,NueGo,Electric A/C Seater (2+2),23:59,05:40,05h 41m,501.6,651.7,Dhaula Kuan,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+246,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),23:01,03:59,04h 58m,250.0,760.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+247,IntrCity SmartBus,A/C Seater (2+2),10:00,16:35,06h 35m,419.0,539.0,ISBT Kashmiri Gate,Nepali Farm,Delhi,Rishikesh
+248,Yolo Bus,Bharat Benz A/C Semi Sleeper (2+2),07:00,12:02,05h 02m,680.0,1100.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+249,Gajraj bus service,A/C Seater / Sleeper (2+1),02:55,07:40,04h 45m,699.0,1199.0,ISBT Kashmiri Gate,Nepali farm,Delhi,Rishikesh
+250,Maa Ganga Yatra Co,A/C Seater / Sleeper (2+1),03:15,08:30,05h 15m,600.0,1000.0,Dhaula Kuan,Nepali farm,Delhi,Rishikesh
+251,WELCOME TOUR & TRAVELS,A/C Seater Push Back (2+2),23:30,06:00,06h 30m,549.0,549.0,Morigate,Gaura Devi chowk near Natraj chowk,Delhi,Rishikesh
+252,Hill Travels,VE A/C Seater / Sleeper (2+1),23:10,04:30,05h 20m,719.1,899.1,Morigate,Natraj chowk rishikesh,Delhi,Rishikesh
+253,AG BUS SERVICE,A/C Seater / Sleeper (2+1),23:55,04:56,05h 01m,719.1,989.1,ISBT Kashmiri Gate,Natraj chowk rishikesh,Delhi,Rishikesh
+254,Crown Travels,A/C Seater / Sleeper (2+1),23:59,05:30,05h 31m,399.0,599.0,Chandni Chowk,Rishikesh 2,Delhi,Rishikesh
+255,BSS COOL COOL TRAVELS,A/C Seater/Sleeper (2+1),03:40,07:50,04h 10m,4000.0,4000.0,Akshardham Metro Station,NEPALI FARM,Delhi,Rishikesh
+256,Yuvraj Travels,A/C Seater / Sleeper (2+1),03:25,08:30,05h 05m,699.0,1099.0,Mahipalpur,NEPALI FARM,Delhi,Rishikesh
+257,Classic Travels,A/C Seater/Sleeper (2+1),22:55,04:25,05h 30m,609.0,1110.0,ISBT Kashmiri Gate,Rishikesh Nepali Farm,Delhi,Rishikesh
+258,Classic Travels,A/C Seater/Sleeper (2+1),11:50,17:20,05h 30m,699.0,1199.0,ISBT Kashmiri Gate,Rishikesh Nepali Farm,Delhi,Rishikesh
+259,OurBus India Limited,Electric A/C Seater (2+2),23:00,04:55,05h 55m,393.75,656.25,ISBT Kashmiri Gate,NEPALI FARM,Delhi,Rishikesh
+260,Hill Travels,VE A/C Seater / Sleeper (2+1),22:50,05:21,06h 31m,719.1,899.1,Morigate,Natraj chowk rishikesh,Delhi,Rishikesh
+261,IntrCity SmartBus,A/C Seater (2+2),22:30,04:30,06h 00m,319.0,389.0,ISBT Kashmiri Gate,Nepali Farm,Delhi,Rishikesh
+262,City Land Travels,A/C Seater / Sleeper (2+2),10:15,14:45,04h 30m,799.2,1159.2,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+263,Shree Hare Rama Travels,A/C Seater/Sleeper (2+1),23:59,05:30,05h 31m,719.1,1349.1,ISBT Kashmiri Gate,Rishikesh Nepali Farm,Delhi,Rishikesh
+264,WELCOME TOUR & TRAVELS,AC Seater (2+2),23:55,06:45,06h 50m,549.0,549.0,ISBT Kashmiri Gate,Gaura Devi chowk near Natraj chowk,Delhi,Rishikesh
+265,Rinku travels,A/C Seater / Sleeper (2+1),03:00,08:40,05h 40m,500.0,750.0,Barapula Flyover,Nepali farm rishikesh,Delhi,Rishikesh
+266,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),23:30,04:30,05h 00m,600.0,800.0,Mahipalpur,Shekhar Travels Nepali Farm Choraha,Delhi,Rishikesh
+267,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),23:59,05:00,05h 01m,1462.5,2566.8,Akshardham Mandir,Nepali Farm Rishikesh,Delhi,Rishikesh
+268,GV Tours,A/C Seater/Sleeper (2+1),03:15,08:25,05h 10m,665.0,1092.5,Dhaula Kuan,Shri Krishna Travels Nepali Farm Circle,Delhi,Rishikesh
