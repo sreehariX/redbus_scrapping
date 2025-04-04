@@ -861,3 +861,13 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 860,NueGo,Electric A/C Seater (2+2),09:00,14:30,05h 30m,521.55,677.35,Majestic,Korramenugunta,Bangalore,Tirupathi
 861,NueGo,Electric A/C Seater (2+2),22:00,03:30,05h 30m,521.55,677.35,Majestic,Korramenugunta,Bangalore,Tirupathi
 862,FRESHBUS,Electric A/C Seater (2+2),23:50,06:20,06h 30m,799.0,1129.0,Nayanadahalli,RTC Bus Stand - Tirupati,Bangalore,Tirupathi
+863,NueGo,Electric A/C Seater (2+2),06:00,11:30,05h 30m,521.55,677.35,Majestic,Korramenugunta,Bangalore,Tirupathi
+864,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),14:55,21:39,06h 44m,540.0,950.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+865,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,02:48,05h 48m,450.0,750.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+866,NueGo,Electric A/C Seater (2+2),05:00,11:15,06h 15m,569.05,739.1,Majestic,Korramenugunta,Bangalore,Tirupathi
+867,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),09:00,15:23,06h 23m,680.0,1000.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+868,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),07:00,13:23,06h 23m,449.0,739.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+869,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,04:33,05h 48m,350.0,740.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+870,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),06:00,12:23,06h 23m,450.0,750.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+871,RK Travels,Non A/C Seater / Sleeper (2+1),20:20,03:20,07h 00m,699.0,1299.0,Chandapura,Lakshmi Puram Circle,Bangalore,Tirupathi
+872,RK Travels,A/C Seater / Sleeper (2+1),21:00,03:50,06h 50m,599.0,899.0,Chandapura,KARKAMPADU,Bangalore,Tirupathi
