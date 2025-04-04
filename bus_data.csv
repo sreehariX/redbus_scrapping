@@ -267,3 +267,508 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 266,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),23:30,04:30,05h 00m,600.0,800.0,Mahipalpur,Shekhar Travels Nepali Farm Choraha,Delhi,Rishikesh
 267,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),23:59,05:00,05h 01m,1462.5,2566.8,Akshardham Mandir,Nepali Farm Rishikesh,Delhi,Rishikesh
 268,GV Tours,A/C Seater/Sleeper (2+1),03:15,08:25,05h 10m,665.0,1092.5,Dhaula Kuan,Shri Krishna Travels Nepali Farm Circle,Delhi,Rishikesh
+269,Hill Travels,VE A/C Seater / Sleeper (2+1),22:50,03:50,05h 00m,719.1,899.1,Morigate,Natraj chowk rishikesh,Delhi,Rishikesh
+270,Ram Pratap Travels,AC Seater (2+2),23:15,04:30,05h 15m,599.0,599.0,ISBT Kashmiri Gate,Near Nepali Farm Rishikesh,Delhi,Rishikesh
+271,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:50,04:40,04h 50m,789.0,1367.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+272,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),07:00,11:50,04h 50m,750.0,1124.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+273,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:40,04:30,04h 50m,1081.0,1405.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+274,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),08:00,12:50,04h 50m,862.0,1119.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+275,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:20,04:10,04h 50m,832.0,1438.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+276,City Land Travels,A/C Sleeper (2+1),17:00,23:00,06h 00m,889.2,1339.2,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+277,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:00,03:50,04h 50m,792.0,1376.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+278,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),22:20,03:10,04h 50m,792.0,1371.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+279,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:55,04:45,04h 50m,789.0,1367.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+280,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),16:00,20:50,04h 50m,852.0,1110.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+281,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),09:00,13:50,04h 50m,750.0,1252.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+282,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),02:45,07:05,04h 20m,1179.0,1909.0,Akshardham Mandir,NEPALI FARM,Delhi,Rishikesh
+283,E Bus India,VE A/C Seater / Sleeper (2+1),23:30,05:00,05h 30m,999.0,1799.0,Anand Vihar,Rishikesh (Nepali Form),Delhi,Rishikesh
+284,Shree Hare Rama Travels,VE A/C Seater (2+2),23:30,05:30,06h 00m,851.0,851.0,ISBT Kashmiri Gate,Rishikesh Nepali Farm,Delhi,Rishikesh
+285,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),06:00,10:59,04h 59m,930.0,1640.0,ISBT Kashmiri Gate,"Near Nepali Farm, Rishikesh",Delhi,Rishikesh
+286,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),10:00,14:50,04h 50m,767.0,1252.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+287,City Land Travels,A/C Seater / Sleeper (2+2),23:55,04:55,05h 00m,2239.2,2599.2,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+288,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),05:00,09:50,04h 50m,1062.0,2126.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+289,FlixBus,A/C Sleeper (2+1),05:10,11:50,06h 40m,972.32,972.32,Dhaula Kuan,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+290,City Land Travels,A/C Sleeper (2+1),13:30,19:00,05h 30m,979.2,1519.2,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+291,FlixBus,A/C Sleeper (2+1),00:35,07:00,06h 25m,1106.25,1185.71,Dhaula Kuan,Rishikesh - Nepali Farm (N),Delhi,Rishikesh
+292,Mahalaxmi Travels,Volvo 9600 A/C Sleeper (2+1),02:00,07:00,05h 00m,2499.0,2999.0,Redfort Parking Opp Near Sunehri Masjid,Shree Ram Tours And Travels Rishikesh,Delhi,Rishikesh
+293,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),03:00,08:30,05h 30m,1499.0,2099.0,Redfort Parking Opp Near Sunehri Masjid,Nepali Farm Rishikesh,Delhi,Rishikesh
+294,PAL BUS(Patel Travels®),Bharat Benz A/C Sleeper (2+1),03:10,07:35,04h 25m,950.0,999.0,Dhaula Kuan,Nepali farm,Delhi,Rishikesh
+295,City Land Travels,A/C Sleeper (2+1),23:30,05:00,05h 30m,943.2,1303.2,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+296,NueGo,Electric A/C Sleeper (2+1),23:45,06:00,06h 15m,759.05,986.1,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+297,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),04:15,10:00,05h 45m,1499.0,2099.0,Redfort Parking Opp Near Sunehri Masjid,Shree Ram Tours And Travels Rishikesh,Delhi,Rishikesh
+298,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),04:30,08:40,04h 10m,6399.0,6999.0,ISBT Kashmiri Gate,NEPALI FARM,Delhi,Rishikesh
+299,Babu Travels,Bharat Benz A/C Sleeper (2+1),03:30,08:45,05h 15m,900.0,1200.0,ISBT Flyover,Nepali farm circle,Delhi,Rishikesh
+300,NueGo,Electric A/C Sleeper (2+1),13:05,19:20,06h 15m,759.05,986.1,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+301,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),02:50,07:20,04h 30m,799.0,1199.0,Morigate,Shri Krishna Travels Nepali Farm,Delhi,Rishikesh
+302,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Seater/Sleeper (2+1),03:30,09:00,05h 30m,899.0,1099.0,Morigate,Rishikesh,Delhi,Rishikesh
+303,Shree Raj Akanshi travels,Bharat Benz A/C Seater /Sleeper (2+1),02:00,06:00,04h 00m,799.0,1299.0,Dhaula Kuan,Nepali farm,Delhi,Rishikesh
+304,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),02:00,07:00,05h 00m,1199.0,1599.0,Akshardham Metro Station,Rishikesh,Delhi,Rishikesh
+305,NueGo,Electric A/C Sleeper (2+1),00:30,06:14,05h 44m,792.3,1028.85,ISBT Kashmiri Gate,"Nepali Farm, Rishikesh",Delhi,Rishikesh
+306,India Tours & Travels (GetBookCab),A/C Seater Push Back (2+2),22:00,04:20,06h 20m,765.0,765.0,South Extension Metro Station,Rishikesh Nepali Farm,Delhi,Rishikesh
+307,Ram Dalal Holidays,Bharat Benz (2+2),23:30,05:00,05h 30m,999.0,999.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+308,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:58,04:35,04h 37m,4545.0,4545.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+309,Laxmi Holidays Pvt Ltd,A/C Seater (2+1),23:30,06:00,06h 30m,1000.0,1248.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+310,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,05:00,06h 00m,999.0,1599.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+311,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),03:30,08:40,05h 10m,1699.0,1799.0,Koushami Metro Station Delhi,Rishikesh,Delhi,Rishikesh
+312,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),04:30,08:30,04h 00m,2699.0,2799.0,Koushami Metro Station Delhi,Shri Krishna Travels Nepali Farm,Delhi,Rishikesh
+313,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),03:10,07:00,03h 50m,3007.62,3007.62,"Akshardham metro station, delhi(akshardham metro station)",Nepali farm tiraha rishikesh,Delhi,Rishikesh
+314,Star City Bus,Bharat Benz A/C Seater / Sleeper (2+2),22:30,05:30,07h 00m,1099.0,1499.0,ISBT Kashmiri Gate,Rishikesh,Delhi,Rishikesh
+315,Star City Bus,A/C Seater / Sleeper (2+2),22:15,05:30,07h 15m,1099.0,1499.0,RK Ashram,Rishikesh,Delhi,Rishikesh
+316,Ram Dalal Holidays,Bharat Benz (2+2),23:00,04:30,05h 30m,999.0,999.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+317,Ram Dalal Holidays,Bharat Benz (2+2),23:15,04:45,05h 30m,899.0,999.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+318,Maharani Travels,A/C Seater/Sleeper (2+1),02:00,07:30,05h 30m,799.0,1299.0,Mahipalpur,Nepali Farm Tirahya,Delhi,Rishikesh
+319,Mahalaxmi Travels,Volvo 9600 A/C Sleeper (2+1),03:45,09:15,05h 30m,3999.0,3999.0,Redfort Parking Opp Near Sunehri Masjid,Shree Ram Tours And Travels Rishikesh,Delhi,Rishikesh
+320,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),03:10,07:00,03h 50m,1599.0,1599.0,Akshardham Metro Station,Nepali farm tiraha rishikesh,Delhi,Rishikesh
+321,Mahalaxmi Travels,A/C Sleeper (2+1),01:45,05:30,03h 45m,1499.0,1599.0,Redfort Parking Opp Near Sunehri Masjid,Shree Ram Tour and Travels Nepali farm Tiraha (Rishikesh),Delhi,Rishikesh
+322,Ram Dalal Holidays,Bharat Benz (2+2),23:55,05:25,05h 30m,899.0,999.0,ISBT Kashmiri Gate,Nepali farm Under New Flyover,Delhi,Rishikesh
+323,City Land Travels,A/C Sleeper (2+1),06:00,11:35,05h 35m,799.2,1339.2,ISBT Kashmiri Gate,Waiting Lounge Nepali Farm Rishikesh,Delhi,Rishikesh
+324,Shree Hare Rama Travels,A/C Seater Push Back (2+2),23:59,05:30,05h 31m,799.0,799.0,ISBT Kashmiri Gate,Rishikesh Nepali Farm,Delhi,Rishikesh
+325,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),01:30,05:30,04h 00m,800.0,1400.0,Dhaula Kuan,Shekhar Travels Nepali Farm Choraha,Delhi,Rishikesh
+326,Ravina Travels (Regd),A/C Sleeper (2+1),05:15,11:00,05h 45m,3869.1,4499.0,Mahipalpur,Shri Krishna Travels Nepali Farm,Delhi,Rishikesh
+327,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),04:04,08:25,04h 21m,800.0,1200.0,Akshardham Mandir,Shekhar Travels Nepali Farm Choraha,Delhi,Rishikesh
+328,Shree Saroj Travels,A/C Seater (2+2),23:00,04:00,05h 00m,999.0,999.0,Morigate,Rishikesh,Delhi,Rishikesh
+329,AG BUS SERVICE,A/C Seater Push Back (2+2),11:35,16:36,05h 01m,1439.0,1439.0,ISBT Kashmiri Gate,Natraj chowk rishikesh,Delhi,Rishikesh
+330,AG BUS SERVICE,A/C Seater / Sleeper (2+1),23:45,04:46,05h 01m,1599.0,1699.0,ISBT Kashmiri Gate,Natraj chowk rishikesh,Delhi,Rishikesh
+331,Shishpal Bus Service,A/C Seater Push Back (2+2),23:40,06:20,06h 40m,999.0,999.0,ISBT Kashmiri Gate,Rishikesh,Delhi,Rishikesh
+332,DIVYANSHU TRAVELS,A/C Sleeper (2+1),03:00,07:00,04h 00m,1080.0,1170.0,Sarai Kale Khan,Neplai Farm (Bus change in haridwar),Delhi,Rishikesh
+333,Nath Travels,A/C Seater (2+2),10:15,15:45,05h 30m,2500.0,2500.0,ISBT Goverment Bus Terminal Counter Number 9 To 13,NEPALI FARM,Delhi,Rishikesh
+334,HRTC - 2100720,Ordinary 3+2 Non AC Seater,05:00,14:50,09h 50m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+335,HRTC - 6,Himsuta AC Seater Volvo/Scania 2+2,06:45,16:45,10h 00m,912.0,912.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+336,HRTC - 592,A/C Executive (2+3),08:05,18:10,10h 05m,632.0,632.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+337,HRTC - 129,Ordinary 3+2 Non AC Seater,08:50,18:40,09h 50m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+338,HRTC - 7,Himsuta AC Seater Volvo/Scania 2+2,09:25,18:30,09h 05m,912.0,912.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+339,HRTC - 657,Ordinary 3+2 Non AC Seater,11:00,22:00,11h 00m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+340,HRTC - 515,Ordinary 3+2 Non AC Seater,12:30,22:50,10h 20m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+341,HRTC - 551,A/C Executive (2+3),15:30,01:30,10h 00m,632.0,632.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+342,HRTC - 525,Ordinary 3+2 Non AC Seater,16:50,03:00,10h 10m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+343,HRTC - 532,Ordinary 3+2 Non AC Seater,17:59,04:15,10h 16m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+344,HRTC - 2040094,Ordinary 3+2 Non AC Seater,18:31,04:15,09h 44m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+345,HRTC - 93,Himsuta AC Seater Volvo/Scania 2+2,19:35,04:50,09h 15m,912.0,912.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+346,HRTC - 301,Ordinary 3+2 Non AC Seater,19:43,05:30,09h 47m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+347,HRTC - 591,A/C Executive (2+3),21:00,07:20,10h 20m,632.0,632.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+348,HRTC - 8,Himsuta AC Seater Volvo/Scania 2+2,21:02,06:30,09h 28m,912.0,912.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+349,HRTC - 570,Ordinary 3+2 Non AC Seater,21:25,06:45,09h 20m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+350,HRTC - 9,Himsuta AC Seater Volvo/Scania 2+2,22:00,07:30,09h 30m,912.0,912.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+351,HRTC - 579,Ordinary 3+2 Non AC Seater,22:30,08:15,09h 45m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+352,HRTC - 22,Himsuta AC Seater Volvo/Scania 2+2,23:00,07:50,08h 50m,912.0,912.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+353,HRTC - 564,Ordinary 3+2 Non AC Seater,23:40,09:05,09h 25m,512.0,512.0,ISBT Kashmiri Gate,Govt Bus Stand,Delhi,Shimla
+354,RSRTC - 192344,Super Luxury Volvo AC Seater Pushback 2+2,03:00,14:00,11h 00m,1117.0,1117.0,ISBT KASHMERE GATE DELHI,SHIMLA,Delhi,Shimla
+355,Bedi Travels,Volvo A/C Semi Sleeper (2+2),23:00,08:00,09h 00m,539.1,854.1,ISBT Kashmiri Gate,Shimla By-Pass Crossing,Delhi,Shimla
+356,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,08:00,08h 30m,799.0,1049.0,ISBT Kashmiri Gate,Shimla By pass Mc Car Parking,Delhi,Shimla
+357,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),22:50,07:20,08h 30m,765.0,1390.0,ISBT Kashmiri Gate,Shimla By pass Mc Car Parking,Delhi,Shimla
+358,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),23:00,07:40,08h 40m,800.0,1110.0,ISBT Kashmiri Gate,Shimla,Delhi,Shimla
+359,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),23:25,07:45,08h 20m,849.0,1289.0,ISBT Kashmiri Gate,Shimla By pass Mc Car Parking,Delhi,Shimla
+360,City Land Travels,Volvo A/C Semi Sleeper (2+2),09:40,19:00,09h 20m,979.2,1159.2,ISBT Kashmiri Gate,Shimla New Bus Stand,Delhi,Shimla
+361,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),22:30,07:40,09h 10m,765.0,1420.0,ISBT Kashmiri Gate,Shimla By pass Mc Car Parking,Delhi,Shimla
+362,City Land Travels,Volvo A/C Semi Sleeper (2+2),22:30,06:00,07h 30m,1159.2,1429.2,ISBT Kashmiri Gate,Shimla New Bus Stand,Delhi,Shimla
+363,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:50,07:10,09h 20m,760.0,1070.0,Majnu Ka Tilla,Shimla,Delhi,Shimla
+364,Deltin Travels Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),23:10,06:40,07h 30m,810.0,1070.0,ISBT Kashmiri Gate,Shimla By pass Crossing,Delhi,Shimla
+365,Deltin Travels Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),23:05,06:35,07h 30m,920.0,1270.0,ISBT Kashmiri Gate,Shimla By pass Crossing,Delhi,Shimla
+366,City Land Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:55,07:25,07h 30m,1249.2,1519.2,Majnu Ka Tilla,Shimla New Bus Stand,Delhi,Shimla
+367,City Land Travels,Volvo A/C Semi Sleeper (2+2),09:15,19:05,09h 50m,619.2,810.0,ISBT Kashmiri Gate,Shimla New Bus Stand,Delhi,Shimla
+368,FlixBus,A/C Seater (2+2),22:00,07:40,09h 40m,927.68,1194.64,RK Ashram,Shimla - Bypass MC Car Parking,Delhi,Shimla
+369,Royal Safari India Travels,A/C Seater Push Back (2+2),23:00,08:05,09h 05m,809.0,809.0,ISBT Kashmiri Gate,Shimla By Pass Crossing Car Parking,Delhi,Shimla
+370,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),22:55,07:00,08h 05m,1399.0,1399.0,Majnu Ka Tilla,Shimla,Delhi,Shimla
+371,FlixBus,AC Seater (2+2),23:15,08:55,09h 40m,927.68,1194.64,RK Ashram,Shimla - Bypass MC Car Parking,Delhi,Shimla
+372,Raj travels Jhunjhunu,Volvo A/C Semi Sleeper (2+2),22:55,07:00,08h 05m,1299.0,1299.0,ISBT Kashmiri Gate,Bus stand,Delhi,Shimla
+373,PAL Travel Lines,Bharat Benz A/C Semi Sleeper (2+2),23:45,07:50,08h 05m,1399.0,1399.0,Majnu Ka Tilla,Shimla,Delhi,Shimla
+374,Vamika Travels,A/C Seater Push Back (2+2),22:30,07:30,09h 00m,988.0,988.0,ISBT Kashmiri Gate,Shimla By Pass Crossing Car Parking,Delhi,Shimla
+375,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:00,07:00,08h 00m,1260.0,2270.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+376,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:25,07:10,08h 45m,1499.0,2099.0,ISBT Kashmiri Gate,Mall Road Nainital,Delhi,Nainital
+377,Laxmi Holidays Pvt Ltd,VE A/C Sleeper (2+1),23:30,07:30,08h 00m,1227.0,2128.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+378,AdPRIME BUS,A/C Sleeper (2+1),22:45,06:30,07h 45m,1050.0,1100.0,ISBT Kashmiri Gate,Nainital,Delhi,Nainital
+379,Laxmi Holidays Pvt Ltd,VE A/C Seater / Sleeper (2+1),23:40,07:40,08h 00m,1308.0,2917.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+380,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,04:40,05h 40m,410.38,611.63,Munirka,Nainital Bus Stand,Delhi,Nainital
+381,V DHANRAJ,A/C Seater / Sleeper (2+2),23:15,06:40,07h 25m,1050.0,1454.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+382,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:45,04:30,05h 45m,646.63,1206.63,Munirka,Nainital Bus Stand,Delhi,Nainital
+383,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+1),23:00,04:31,05h 31m,612.5,1006.25,Munirka,Nainital Bus Stand,Delhi,Nainital
+384,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+1),22:00,04:00,06h 00m,612.5,1225.0,Munirka,Nainital Bus Stand,Delhi,Nainital
+385,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:50,07:50,08h 00m,1161.0,2092.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+386,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:00,07:00,09h 00m,1399.0,1799.0,ISBT Kashmiri Gate,Nainital(kathgodham to nainital drop via taxi),Delhi,Nainital
+387,Laxmi Holidays Pvt Ltd,VE A/C Seater / Sleeper (2+1),22:30,06:30,08h 00m,1325.0,2380.0,ISBT Kashmiri Gate,Nainital Bus Stand (Pickup Van/Bus),Delhi,Nainital
+388,V DHANRAJ,A/C Sleeper (2+2),23:20,06:55,07h 35m,1385.0,1425.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+389,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),06:00,12:21,06h 21m,830.38,1267.88,Munirka,Nainital Bus Stand,Delhi,Nainital
+390,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:15,07:00,08h 45m,1499.0,2099.0,ISBT Kashmiri Gate,Mall Road Nainital,Delhi,Nainital
+391,Mahadev SmartBus,A/C Seater / Sleeper (2+2),23:15,05:30,06h 15m,570.0,741.0,Munirka,Tallital bus stand,Delhi,Nainital
+392,MOUNTAIN TRAVELS,A/C Seater / Sleeper (2+2),11:53,19:15,07h 22m,1999.0,1999.0,Anand Vihar,Nainital,Delhi,Nainital
+393,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:00,07:00,09h 00m,1599.0,1599.0,ISBT KASHMIRI GATE INSIDE ARRIVAL PLATFORM NEAR 1 AND 2,Nainital(kathgodham to nainital drop via taxi),Delhi,Nainital
+394,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),22:30,06:30,08h 00m,1199.0,1699.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+395,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),23:25,06:35,07h 10m,599.0,999.0,Anand Vihar,Mall Road,Delhi,Nainital
+396,Laxmi Holidays Pvt Ltd,VE A/C Seater / Sleeper (2+1),23:55,07:50,07h 55m,1007.0,2357.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+397,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),22:50,06:25,07h 35m,999.0,1285.0,Anand Vihar,Mall Road,Delhi,Nainital
+398,Vamika Travels,A/C Seater / Sleeper (2+1),22:00,05:30,07h 30m,988.2,1438.2,ISBT Kashmiri Gate,Mandi Gate Haldwani,Delhi,Nainital
+399,Vijay Tour and Travels,Volvo Multi-Axle A/C Sleeper (2+1),02:00,08:40,06h 40m,1299.0,1499.0,Dhaula Kuan,Nainital Bus Stand,Delhi,Nainital
+400,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),11:00,19:00,08h 00m,799.0,1099.0,Morigate,Nainital Bus Stand,Delhi,Nainital
+401,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+1),22:15,05:00,06h 45m,896.0,1311.63,Munirka,Nainital Bus Stand,Delhi,Nainital
+402,Gajraj bus service,A/C Seater / Sleeper (2+1),02:25,08:45,06h 20m,599.0,899.0,Dhaula Kuan,Nainital Bus Stand,Delhi,Nainital
+403,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),02:30,09:20,06h 50m,999.0,1399.0,Dhaula Kuan,Nainital Bus Stand,Delhi,Nainital
+404,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),01:20,09:50,08h 30m,1099.0,1799.0,Dhaula Kuan,Nainital Bus Stand,Delhi,Nainital
+405,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),23:50,08:50,09h 00m,6000.0,6000.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+406,Go Devbhoomi Tours and Travels,A/C Seater / Sleeper (2+2),23:15,07:30,08h 15m,3000.0,3000.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+407,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),02:00,11:30,09h 30m,2499.0,2999.0,Redfort Parking Opp Near Sunehri Masjid,Nainital Bus Stand,Delhi,Nainital
+408,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),03:00,12:45,09h 45m,2499.0,3499.0,Redfort Parking Opp Near Sunehri Masjid,Nainital Bus Stand,Delhi,Nainital
+409,Deluxe bus service,A/C Seater/Sleeper (2+1),22:30,06:30,08h 00m,2500.0,3000.0,ISBT Kashmiri Gate,New bus stand tallital,Delhi,Nainital
+410,Fasttrack Travels,A/C Seater/Sleeper (2+1),11:30,19:30,08h 00m,1199.0,1499.0,Morigate,Nainital Bus Stand,Delhi,Nainital
+411,Fasttrack Travels,A/C Seater/Sleeper (2+1),22:15,06:45,08h 30m,1099.0,1699.0,Morigate,Nainital Bus Stand,Delhi,Nainital
+412,KVS Holidays,A/C Sleeper (2+2),22:00,05:30,07h 30m,3000.0,3000.0,ISBT Kashmiri Gate,Mandi Gate Haldwani,Delhi,Nainital
+413,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),23:15,06:50,07h 35m,999.0,999.0,Anand Vihar,Mall Road,Delhi,Nainital
+414,Rjroadrunner,A/C Seater / Sleeper (2+2),22:30,05:00,06h 30m,999.0,1299.0,ISBT Kashmiri Gate,Drop of AT HALDWANI,Delhi,Nainital
+415,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),11:58,19:59,08h 01m,799.0,899.0,Anand Vihar,Mall Road,Delhi,Nainital
+416,Smart Airbus,Scania Multi-Axle AC Semi Sleeper (2+2),23:40,06:00,06h 20m,619.0,619.0,Akshardham Metro Station,Drop off Haldwani,Delhi,Nainital
+417,Shree Hare Rama Travels,VE A/C Seater (2+2),23:55,08:30,08h 35m,1199.0,1199.0,Morigate,Nainital Bus Stand,Delhi,Nainital
+418,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),11:50,19:36,07h 46m,799.0,899.0,Anand Vihar,Mall Road,Delhi,Nainital
+419,City Heart Travels (Regd.),Volvo A/C Seater / Sleeper (2+2),22:30,06:00,07h 30m,661.0,771.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+420,Rjroadrunner,A/C Seater / Sleeper (2+2),11:00,18:00,07h 00m,799.0,1099.0,ISBT Kashmiri Gate,Drop of AT HALDWANI,Delhi,Nainital
+421,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),11:55,19:41,07h 46m,799.0,999.0,Anand Vihar,Mall Road,Delhi,Nainital
+422,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05:30,06h 00m,8000.0,8000.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+423,India Tours & Travels (GetBookCab),Bharat Benz A/C Semi Sleeper (2+2),23:15,05:00,05h 45m,962.5,1312.5,South Extension Metro Station,Nainital Bus Stand,Delhi,Nainital
+424,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:30,05:31,06h 01m,1928.0,1928.0,ISBT Kashmiri Gate,Nainital Bus Stand,Delhi,Nainital
+425,Shree Mahaveer Travels Jaipur,A/C Seater/Sleeper (2+1),02:45,09:30,06h 45m,1099.0,1499.0,ISBT Kashmiri Gate,Tallital New Bus Stand (Pickup Van/Bus),Delhi,Nainital
+426,Fasttrack Travels,AC Seater (2+2),22:30,07:15,08h 45m,1299.0,1299.0,Morigate,Nainital Bus Stand,Delhi,Nainital
+427,DELHI TOUR & TRAVELS,A/C Seater / Sleeper (2+1),22:00,07:35,09h 35m,899.0,1199.0,Delhi,Nainital Bus Stand,Delhi,Nainital
+428,Vijay Tour and Travels,Volvo Multi-Axle A/C Sleeper (2+1),03:30,10:50,07h 20m,1199.0,1399.0,Dhaula Kuan,Nainital Bus Stand,Delhi,Nainital
+429,SHAGUN CARGO & TRAVELS,A/C Seater / Sleeper (2+1),02:30,10:30,08h 00m,1199.0,1399.0,Airport Mahipalpur Red Light,Nainital Bus Stand,Delhi,Nainital
+430,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),18:30,08:25,13h 55m,1229.0,1229.0,ISBT Kashmiri Gate,New Bus Stand Katra,Delhi,Katra
+431,Ram Dalal Holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:15,09:15,13h 00m,1290.0,2200.0,ISBT Kashmiri Gate,katra,Delhi,Katra
+432,Ram Dalal Holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,11:50,13h 50m,1210.0,3360.0,ISBT Kashmiri Gate,Katra private parking bus stand,Delhi,Katra
+433,AdOrbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),12:55,04:10,15h 15m,1089.0,1499.0,ISBT Kashmiri Gate,Subhash Parking,Delhi,Katra
+434,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,11:30,14h 30m,1239.0,2519.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+435,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,07:30,14h 30m,1157.0,2520.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+436,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),18:30,07:30,13h 00m,1090.0,1980.0,ISBT Kashmiri Gate,katra,Delhi,Katra
+437,AdLucky Bus Service,VE A/C Sleeper (2+2),19:30,08:30,13h 00m,1619.1,1709.1,ISBT Kashmiri Gate,Durga Parking Katra,Delhi,Katra
+438,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+1),21:15,11:00,13h 45m,952.88,1819.13,Munirka,Katra (jammu and kashmir),Delhi,Katra
+439,Gola Bus Service,A/C Seater/Sleeper (2+1),20:00,10:15,14h 15m,1239.0,2379.0,ISBT Kashmiri Gate,Katra,Delhi,Katra
+440,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,11:45,14h 15m,2200.0,2970.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+441,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,10:00,14h 30m,1239.0,2520.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+442,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:30,12:45,14h 15m,1239.0,2519.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+443,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,08:00,13h 30m,2200.0,2970.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+444,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:50,12:45,14h 55m,1285.0,2520.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+445,Ram Dalal Holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,07:00,14h 00m,1160.0,2110.0,ISBT Kashmiri Gate,katra,Delhi,Katra
+446,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),19:50,10:25,14h 35m,1199.0,2099.0,ISBT Kashmiri Gate,Subhash parking katra,Delhi,Katra
+447,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),21:00,11:30,14h 30m,1089.0,1949.0,ISBT Kashmiri Gate,Katra private parking bus stand,Delhi,Katra
+448,IntrCity SmartBus,VE A/C Sleeper (2+1),21:30,11:30,14h 00m,1799.0,2519.0,ISBT Kashmiri Gate,Moonlight Parking - Boarding Zone,Delhi,Katra
+449,Deltin Travels Pvt Ltd,VE A/C Seater / Sleeper (2+1),20:00,09:00,13h 00m,749.0,1259.0,ISBT Kashmiri Gate,katra new bus stand,Delhi,Katra
+450,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),18:20,08:30,14h 10m,1349.1,2429.1,ISBT Kashmiri Gate,Guru Nanak Parking,Delhi,Katra
+451,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:00,12:30,14h 30m,1739.0,2430.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+452,Gola Bus Service,Bharat Benz A/C Sleeper (2+1),19:00,08:55,13h 55m,1176.0,2379.0,ISBT Kashmiri Gate,Katra,Delhi,Katra
+453,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:00,08:15,14h 15m,1739.0,2430.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+454,Ram Dalal Holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:00,09:45,14h 45m,1140.0,2110.0,ISBT Kashmiri Gate,Katra private parking bus stand,Delhi,Katra
+455,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),23:00,12:50,13h 50m,1160.0,2400.0,ISBT Kashmiri Gate,Katra private parking bus stand,Delhi,Katra
+456,Ram Dalal Holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,11:58,14h 28m,2200.0,2600.0,ISBT Kashmiri Gate,katra,Delhi,Katra
+457,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),17:30,08:00,14h 30m,799.2,1339.2,Redfort,moonlight parking katra,Delhi,Katra
+458,SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),20:45,10:45,14h 00m,1099.0,2099.0,Chandni Chowk,Katra Subhash Parking,Delhi,Katra
+459,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:30,09:30,14h 00m,1199.0,2639.0,ISBT Kashmiri Gate,Moonlight Parking - Boarding Zone,Delhi,Katra
+460,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),19:50,09:30,13h 40m,1199.0,1699.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+461,FlixBus,A/C Sleeper (2+1),17:00,08:15,15h 15m,1713.39,1837.5,RK Ashram,Bus Stand,Delhi,Katra
+462,Travel Point,A/C Seater / Sleeper (2+2),18:45,09:00,14h 15m,1046.67,1427.62,"Red fort, metro gate no 4 near travel point office shop no.3 red fort delhi",New bus stand katra,Delhi,Katra
+463,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,11:00,14h 30m,1199.0,2520.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+464,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:00,13:20,14h 20m,1157.0,2430.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+465,Lavish Travels,A/C Seater / Sleeper (2+2),17:40,09:30,15h 50m,739.08,1664.08,Red Fort,Katra,Delhi,Katra
+466,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:00,06:30,13h 30m,1220.0,2270.0,Shop No 9 Capital Holidays,Katra,Delhi,Katra
+467,Ram Dalal Holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:50,06:50,13h 00m,1280.0,2340.0,ISBT Kashmiri Gate,katra,Delhi,Katra
+468,RK Holiday,A/C Seater / Sleeper (2+2),23:00,13:10,14h 10m,1899.0,1899.0,Majnu Ka Tilla,Subhash Parking,Delhi,Katra
+469,Perfect Holiday,VE A/C Sleeper (2+2),18:20,07:40,13h 20m,904.65,1098.9,Redfort Metro Station,Main Chowk Katra,Delhi,Katra
+470,Lucky Bus Service,VE A/C Sleeper (2+2),17:30,07:45,14h 15m,1979.1,2024.1,ISBT Kashmiri Gate,Durga Parking Katra,Delhi,Katra
+471,Big Bus,A/C Seater / Sleeper (2+2),21:15,10:45,13h 30m,2599.0,3810.0,ISBT Kashmiri Gate,Moon Light Parking,Delhi,Katra
+472,India Tours & Travels (GetBookCab),A/C Semi Sleeper / Sleeper (2+2),21:45,12:00,14h 15m,1127.58,2191.33,Munirka,Katra (jammu and kashmir),Delhi,Katra
+473,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),08:30,23:05,14h 35m,1114.0,1524.0,Majnu Ka Tilla,Subhash Parking,Delhi,Katra
+474,Ashiana Travels(India),A/C Seater / Sleeper (2+2),21:55,11:50,13h 55m,809.1,1349.1,"Jmana bazar, anguri bagh, near nagpal dairy, redfort delhi",Katra bus stand,Delhi,Katra
+475,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:45,09:50,13h 05m,1099.0,2519.0,ISBT Kashmiri Gate,Moonlight Parking - Boarding Zone,Delhi,Katra
+476,Classic Travels,A/C Seater / Sleeper (2+2),19:15,07:45,12h 30m,900.0,1100.0,ISBT Kashmiri Gate,Katra Bus Stand,Delhi,Katra
+477,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),21:40,10:50,13h 10m,799.2,1339.2,Redfort,moonlight parking katra,Delhi,Katra
+478,IntrCity SmartBus,A/C Seater / Sleeper (2+1),18:00,10:00,16h 00m,1069.0,2699.0,IFFCO Chowk -Boarding Zone,Moonlight Parking - Boarding Zone,Delhi,Katra
+479,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,10:00,13h 30m,1290.0,2270.0,Shop No 9 Capital Holidays,Katra,Delhi,Katra
+480,FlixBus,A/C Sleeper (2+1),21:00,11:45,14h 45m,1427.68,1551.79,RK Ashram,Bus Stand,Delhi,Katra
+481,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:45,13:15,14h 30m,1157.0,2430.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+482,Shub Yatra Holidays,A/C Sleeper (2+2),22:00,12:00,14h 00m,1079.1,2069.1,Laal Quila (Metro Gate No.2),Moon Light Parking,Delhi,Katra
+483,SHARMA EXPRESS,A/C Seater / Sleeper (2+2),21:15,11:00,13h 45m,3999.0,3999.0,ISBT Kashmiri Gate,Katra,Delhi,Katra
+484,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),21:30,11:45,14h 15m,949.0,1549.0,Shop no-21 new lajpat rai market red fort delhi,Subash parking jammu road katra,Delhi,Katra
+485,Tiwari and Brothers,A/C Sleeper (2+1),19:00,09:30,14h 30m,4750.0,4750.0,ISBT Kashmiri Gate,Subhash Parking Katra,Delhi,Katra
+486,OurBus India Limited,Bharat Benz A/C Sleeper (2+1),21:00,11:00,14h 00m,1575.0,1855.0,ISBT Kashmiri Gate,New Bus Stand Katra,Delhi,Katra
+487,Awadh Travels,A/C Sleeper (2+2),21:10,11:10,14h 00m,1049.0,1049.0,Chandni Chowk,Moon Light Parking Katra,Delhi,Katra
+488,NKS Holidays,A/C Sleeper (2+2),17:00,07:00,14h 00m,1619.0,1619.0,"Sunehari masjid,redfort",Subhash parking katra,Delhi,Katra
+489,Ravika Travel Heights,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),18:30,07:30,13h 00m,989.1,1619.1,Morigate,Durga Parking Near Hp Petrol Pump,Delhi,Katra
+490,Travel Point,A/C Seater / Sleeper (2+2),22:00,11:45,13h 45m,1046.67,1903.81,"Red fort, metro gate no 4 near travel point office shop no.3 red fort delhi",New bus stand katra,Delhi,Katra
+491,Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),21:15,10:15,13h 00m,1200.0,2200.0,ISBT Kashmiri Gate,katra new bus stand,Delhi,Katra
+492,Gajraj bus service,Volvo 9600 A/C Sleeper (2+1),21:25,11:15,13h 50m,1400.0,1600.0,ISBT Kashmiri Gate,Subhash parking katra,Delhi,Katra
+493,King Luxuries,Bharat Benz A/C Sleeper (2+1),18:40,08:40,14h 00m,1425.0,2660.0,Sunehri Masjid,Katra,Delhi,Katra
+494,Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),19:00,09:00,14h 00m,1240.0,2250.0,ISBT Kashmiri Gate,katra new bus stand,Delhi,Katra
+495,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),13:30,05:00,15h 30m,799.0,1199.0,Sunehari Majid Lal Quila,Katra,Delhi,Katra
+496,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),16:00,06:00,14h 00m,899.0,1499.0,ISBT Kashmiri Gate,Railway Road Geeta Lodge Parking Katra,Delhi,Katra
+497,Perfect Holiday,A/C Seater / Sleeper (2+2),21:50,11:10,13h 20m,831.58,1479.08,Redfort Metro Station,Main Chowk Katra,Delhi,Katra
+498,Orbit Aviation Pvt Ltd,Mercedes Benz Multi-Axle A/C Sleeper (2+1),20:50,11:20,14h 30m,1625.0,2445.0,ISBT Kashmiri Gate,Subhash Parking,Delhi,Katra
+499,Vaishnoyatra services pvt ltd,A/C Seater / Sleeper (2+2),20:30,10:30,14h 00m,1035.0,1035.0,Jamana Bazar Red Fort,Katra,Delhi,Katra
+500,KVS Holidays,A/C Sleeper (2+2),21:00,10:30,13h 30m,399.0,1599.0,Redfort,Moon Light Parking,Delhi,Katra
+501,Big Bus,A/C Seater / Sleeper (2+2),17:35,06:30,12h 55m,1299.0,2499.0,ISBT Kashmiri Gate,Moon Light Parking,Delhi,Katra
+502,Maheshwaram Travels,A/C Seater / Sleeper (2+2),19:40,09:00,13h 20m,1463.4,1975.5,Red Fort Metro Station,Katra,Delhi,Katra
+503,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),22:00,11:30,13h 30m,1099.0,1649.0,Gate 4 Red Fort Metro Station,Katra,Delhi,Katra
+504,Vamika Travels,A/C Seater / Sleeper (2+1),21:00,09:30,12h 30m,449.1,1708.2,Redfort,Moon Light Parking,Delhi,Katra
+505,KVS Holidays,A/C Seater / Sleeper (2+2),17:00,06:30,13h 30m,1599.0,2100.0,Redfort,Moon Light Parking,Delhi,Katra
+506,MM Travels,A/C Seater / Sleeper (2+2),11:00,23:45,12h 45m,849.0,1299.0,Redfort Metro Station Gate No.2,Moon Light Parking Katra,Delhi,Katra
+507,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),19:00,09:30,14h 30m,1599.0,1699.0,Gate 4 Red Fort Metro Station,Katra,Delhi,Katra
+508,City Land Travels,A/C Seater/Sleeper (2+1),20:30,10:50,14h 20m,889.2,1609.2,ISBT Kashmiri Gate,Moon Light Parking Katra,Delhi,Katra
+509,Lucky Bus Service,Volvo A/C Sleeper (2+2),18:30,09:00,14h 30m,1979.1,2024.1,ISBT Kashmiri Gate,Durga Parking Katra,Delhi,Katra
+510,New National Travels,A/C Seater / Sleeper (2+2),22:30,12:00,13h 30m,1449.0,1599.0,Red Fort,Railway Road Katra,Delhi,Katra
+511,Ashok Bus Service,A/C Seater / Sleeper (2+2),21:30,11:30,14h 00m,1349.1,1889.1,ISBT Kashmiri Gate,Guru Nanak Parking,Delhi,Katra
+512,SHAH HOLIDAY TRAVEL,A/C Seater / Sleeper (2+2),17:00,07:00,14h 00m,989.1,1439.1,Chandni Chowk,New Bus Stand Katra,Delhi,Katra
+513,Travel Point World LLP,A/C Seater / Sleeper (2+2),18:30,08:20,13h 50m,1099.0,1499.0,Shop no 3 near metro gate no 3 red fort delhi,Katra bus stand,Delhi,Katra
+514,Orbit Aviation Pvt Ltd,Mercedes Benz Multi-Axle A/C Sleeper (2+1),20:25,10:25,14h 00m,1459.0,1969.0,ISBT Kashmiri Gate,Subhash Parking,Delhi,Katra
+515,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),18:30,08:30,14h 00m,999.0,1549.0,Shop no-21 new lajpat rai market red fort delhi,Subash parking jammu road katra,Delhi,Katra
+516,Travel Point World LLP,A/C Seater / Sleeper (2+2),21:30,11:20,13h 50m,1099.0,1699.0,Shop no 3 near metro gate no 3 red fort delhi,Katra bus stand,Delhi,Katra
+517,Go Devbhoomi Tours and Travels,A/C Seater / Sleeper (2+2),21:00,11:00,14h 00m,5000.0,5000.0,ISBT Kashmiri Gate,Katra,Delhi,Katra
+518,KISSAN TRAVELS PILANI,Bharat Benz A/C Seater /Sleeper (2+1),21:05,08:45,11h 40m,1199.0,1599.0,"Anshi rajshree mori gate ,near golchakkar",Subhash parking katra,Delhi,Katra
+519,Vaishnoyatra services pvt ltd,A/C Sleeper (2+1),20:30,10:30,14h 00m,1619.1,1979.1,Jamana Bazar Red Fort,Katra,Delhi,Katra
+520,Vaishnoyatra services pvt ltd,A/C Seater / Sleeper (2+2),22:30,11:30,13h 00m,1080.0,1080.0,Jamana Bazar Red Fort,Katra,Delhi,Katra
+521,Lucky Bus Service,A/C Sleeper (2+2),21:30,09:45,12h 15m,1619.1,1709.1,ISBT Kashmiri Gate,Durga Parking Katra,Delhi,Katra
+522,Vamika Travels,A/C Sleeper (2+2),21:15,09:30,12h 15m,899.1,1708.2,Redfort,Katra,Delhi,Katra
+523,Here Bus,A/C Seater / Sleeper (2+2),18:55,09:50,14h 55m,1612.0,2374.0,Red fort metro station gate no 2,"New bus stand katra entrance gate, opp masijid katra",Delhi,Katra
+524,Cool cool Tour and Travels India Pvt LTD,A/C Seater / Sleeper (2+2),20:30,10:31,14h 01m,899.1,1259.1,Red fort metro station,Subhash parking katra,Delhi,Katra
+525,Lavish Travels,A/C Seater / Sleeper (2+2),20:30,10:20,13h 50m,739.08,1664.08,Red Fort,Katra,Delhi,Katra
+526,RK Holiday,A/C Seater / Sleeper (2+2),22:00,12:10,14h 10m,854.05,1424.05,Majnu Ka Tilla,Subhash Parking,Delhi,Katra
+527,RK Holiday,A/C Seater / Sleeper (2+2),18:40,09:40,15h 00m,999.0,1599.0,Chandni Chowk,Subhash Parking,Delhi,Katra
+528,Apex Bus Travels,A/C Seater / Sleeper (2+2),21:45,11:45,14h 00m,719.1,1619.1,Lal Quila,Katra,Delhi,Katra
+529,Rjroadrunner,A/C Seater / Sleeper (2+2),21:00,09:00,12h 00m,949.0,1599.0,ISBT Kashmiri Gate,Moon Light Parking,Delhi,Katra
+530,Ashok Travels,A/C Seater / Sleeper (2+2),21:30,10:30,13h 00m,2999.0,3699.0,ISBT Kashmiri Gate,Moon Light Parking Area,Delhi,Katra
+531,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),22:30,12:45,14h 15m,949.0,1549.0,Shop no-21 new lajpat rai market red fort delhi,Subash parking jammu road katra,Delhi,Katra
+532,Pooja Travel Point,A/C Seater / Sleeper (2+1),22:20,11:55,13h 35m,2000.0,2000.0,ISBT Kashmiri Gate,Katra,Delhi,Katra
+533,Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),20:00,10:01,14h 01m,1800.0,1800.0,Red fort,Katra bus stand,Delhi,Katra
+534,Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),17:00,07:01,14h 01m,1800.0,1800.0,Red fort,Katra bus stand,Delhi,Katra
+535,Apex Bus Travels,A/C Seater/Sleeper (2+1),18:45,08:45,14h 00m,899.1,1529.1,Lal Quila,Katra Bus Stand,Delhi,Katra
+536,Northern Travels,Bharat Benz A/C Sleeper (2+1),20:30,11:00,14h 30m,1999.0,2499.0,ISBT Kashmiri Gate,Katra,Delhi,Katra
+537,Kadamba Transport Corporation Limited (KTCL) - 180251,A/C Sleeper (2+1),19:45,07:00,11h 15m,1400.0,1500.0,Majestic,Panjim,Bangalore,Goa
+538,Intercity travels,Bharat Benz A/C Sleeper (2+1),21:00,10:00,13h 00m,1499.0,1999.0,Anand Rao Circle,Panjim,Bangalore,Goa
+539,Sunrise Tours and Travels,Bharat Benz A/C Sleeper (2+1),20:15,08:45,12h 30m,1499.0,1799.0,Anand Rao Circle,Panjim,Bangalore,Goa
+540,AdSea Bird Tourist,NON A/C Sleeper (2+1),20:30,10:30,14h 00m,1350.0,1620.0,Anand Rao Circle,Panjim,Bangalore,Goa
+541,Sunrise Tours and Travels,A/C Sleeper (2+1),21:20,09:25,12h 05m,1499.0,1799.0,Anand Rao Circle,Panjim,Bangalore,Goa
+542,Butterfly Holidays,VE A/C Sleeper (2+1),21:10,09:35,12h 25m,1299.0,1599.0,Anand Rao Circle,Panjim,Bangalore,Goa
+543,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:45,10:55,14h 10m,1366.0,1366.0,Anand Rao Circle,Panjim,Bangalore,Goa
+544,AdSea Bird Tourist,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:30,12:30,13h 00m,1900.0,2400.0,Anand Rao Circle,Panjim,Bangalore,Goa
+545,IntrCity SmartBus,A/C Sleeper (2+1),20:05,10:15,14h 10m,2121.0,3086.0,Anand Rao Circle,Panjim,Bangalore,Goa
+546,Streamline tours and travels,A/C Sleeper (2+1),21:00,09:10,12h 10m,1419.0,1889.0,Anand Rao Circle,Panjim,Bangalore,Goa
+547,IntrCity SmartBus,AC Sleeper (2+1),21:30,11:50,14h 20m,2121.0,3086.0,Anand Rao Circle,Panjim,Bangalore,Goa
+548,Sea Bird Tourist,NON A/C Sleeper (2+1),18:00,07:30,13h 30m,1300.0,1800.0,Anand Rao Circle,Panjim,Bangalore,Goa
+549,Streamline tours and travels,A/C Sleeper (2+1),22:00,10:05,12h 05m,1419.0,1769.0,Anand Rao Circle,Panjim,Bangalore,Goa
+550,Limousine Tours & Travels,A/C Sleeper (2+1),20:20,09:50,13h 30m,1200.0,1500.0,Anand Rao Circle,Panjim,Bangalore,Goa
+551,VKV Travels,A/C Sleeper (2+1),22:55,10:00,11h 05m,1491.5,1776.5,Yeshwantpur,Panjim,Bangalore,Goa
+552,Shanta Travels,NON A/C Sleeper (2+1),19:30,08:20,12h 50m,1110.0,1210.0,Yeshwantpur,Panjim,Bangalore,Goa
+553,VRL Travels,NON A/C Sleeper (2+1),20:00,09:30,13h 30m,1200.0,1500.0,Anand Rao Circle,Panjim,Bangalore,Goa
+554,Shanta Travels,Bharat Benz A/C Sleeper (2+1),20:30,09:30,13h 00m,1210.0,1510.0,Yeshwantpur,Panjim,Bangalore,Goa
+555,VRL Travels,A/C Seater / Sleeper (2+1),19:30,09:15,13h 45m,1000.0,1500.0,Anand Rao Circle,Panjim,Bangalore,Goa
+556,VRL Travels,A/C Sleeper (2+1),21:00,10:45,13h 45m,1200.0,1500.0,Anand Rao Circle,Panjim,Bangalore,Goa
+557,Sugama Tourist,NON A/C Sleeper (2+1),19:00,06:45,11h 45m,1050.0,1050.0,Anand Rao Circle,Panjim,Bangalore,Goa
+558,Rajat Travels,A/C Seater / Sleeper (2+1),21:20,10:30,13h 10m,10000.0,10000.0,Anand Rao Circle,Panjim,Bangalore,Goa
+559,FlixBus,A/C Sleeper (2+1),18:55,11:05,16h 10m,2391.96,2391.96,Electronic City,Mapusa,Bangalore,Goa
+560,FlixBus,Bharat Benz A/C Sleeper (2+1),18:10,10:00,15h 50m,2391.96,2391.96,Electronic City,Mapusa,Bangalore,Goa
+561,IntrCity SmartBus,AC Sleeper (2+1),22:10,12:00,13h 50m,2121.0,3086.0,Anand Rao Circle,Panjim,Bangalore,Goa
+562,Anand Travels,A/C Sleeper (2+1),21:00,10:30,13h 30m,1800.0,2200.0,Anand Rao Circle,Panjim,Bangalore,Goa
+563,Butterfly Holidays,VE A/C Sleeper (2+1),21:10,09:30,12h 20m,3999.0,3999.0,Anand Rao Circle,Panjim,Bangalore,Goa
+564,Sea Bird Tourist,A/C Sleeper (2+1),22:30,11:30,13h 00m,1500.0,2000.0,Anand Rao Circle,Panjim,Bangalore,Goa
+565,Anand Travels,NON A/C Sleeper (2+1),18:30,07:30,13h 00m,1705.0,2000.0,Anand Rao Circle,Panjim,Bangalore,Goa
+566,Sri Tourist,A/C Sleeper (2+1),21:05,08:30,11h 25m,1099.0,1399.0,Anand Rao Circle,Panjim,Bangalore,Goa
+567,Poulo Travels,A/C Sleeper (2+1),20:30,09:55,13h 25m,1700.0,1800.0,Anand Rao Circle,Panjim,Bangalore,Goa
+568,Poulo Travels,A/C Sleeper (2+1),21:00,10:30,13h 30m,1700.0,1800.0,Anand Rao Circle,Panjim,Bangalore,Goa
+569,Sri Tourist,A/C Sleeper (2+1),20:15,07:32,11h 17m,1099.0,1299.0,Anand Rao Circle,Panjim,Bangalore,Goa
+570,Sea Bird Tourist,A/C Sleeper (2+1),21:00,10:00,13h 00m,1500.0,2000.0,Anand Rao Circle,Panjim,Bangalore,Goa
+571,Sri Varalakshmi Travels,NON A/C Sleeper (2+1),19:25,07:30,12h 05m,2999.0,2999.0,Anand Rao Circle,Panjim,Bangalore,Goa
+572,TGSRTC - 1004,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:10,16:00,10h 50m,946.0,946.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+573,TGSRTC - 4494,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:25,16:50,10h 25m,946.0,946.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+574,TGSRTC - 1298,LAHARI A/C SLEEPER CUM SEATER,08:25,19:25,11h 00m,1203.0,1203.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+575,TGSRTC - 89149,Lahari Non A/C Sleeper Cum Seater,09:10,19:50,10h 40m,951.0,951.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+576,TGSRTC - 1038,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,20:15,10h 05m,946.0,946.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+577,TGSRTC - 7144,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:00,00:30,12h 30m,944.0,944.0,KEMPEGOWDA BUS STATION,Jubilee Bus Station JBS,Bangalore,Hyderabad
+578,TGSRTC - 6818,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:40,00:35,10h 55m,946.0,946.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+579,TGSRTC - 2995,LAHARI A/C SLEEPER CUM SEATER,15:45,02:45,11h 00m,1203.0,1203.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+580,TGSRTC - 8208,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:25,02:50,09h 25m,946.0,946.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+581,TGSRTC - 7291,LAHARI A/C SLEEPER CUM SEATER,17:45,04:30,10h 45m,1203.0,1203.0,Hebbal,Jubilee Bus Station JBS,Bangalore,Hyderabad
+582,TGSRTC - 7809,LAHARI A/C SLEEPER CUM SEATER,18:30,05:20,10h 50m,1201.0,1201.0,KEMPEGOWDA BUS STATION,Jubilee Bus Station JBS,Bangalore,Hyderabad
+583,TGSRTC - 1957,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:10,07:10,12h 00m,954.0,954.0,Hebbal,Kukatpally,Bangalore,Hyderabad
+584,TGSRTC - 8212,LAHARI A/C SLEEPER CUM SEATER,19:30,06:00,10h 30m,1203.0,1203.0,Hebbal,Uppal,Bangalore,Hyderabad
+585,TGSRTC - 8666,LAHARI A/C SLEEPER CUM SEATER,19:57,05:00,09h 03m,1203.0,1203.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+586,TGSRTC - 1010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:10,07:10,11h 00m,946.0,946.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+587,TGSRTC - 7661,LAHARI A/C SLEEPER CUM SEATER,20:45,06:15,09h 30m,1203.0,1203.0,Hebbal,Shivarampalli,Bangalore,Hyderabad
+588,TGSRTC - 9572,Lahari A/C sleeper,21:10,07:45,10h 35m,1569.0,1569.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+589,TGSRTC - 8210,LAHARI A/C SLEEPER CUM SEATER,21:30,07:30,10h 00m,1203.0,1203.0,Hebbal,Uppal,Bangalore,Hyderabad
+590,TGSRTC - 1295,Lahari A/C sleeper,21:40,08:00,10h 20m,1569.0,1569.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+591,TGSRTC - 1002,LAHARI A/C SLEEPER CUM SEATER,21:55,07:45,09h 50m,1203.0,1203.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+592,TGSRTC - 1083,LAHARI A/C SLEEPER CUM SEATER,22:10,08:40,10h 30m,1203.0,1203.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+593,TGSRTC - 1030,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:40,09:40,11h 00m,946.0,946.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+594,TGSRTC - 1300,Lahari Non A/C Sleeper Cum Seater,23:10,08:30,09h 20m,951.0,951.0,Hebbal,Shamshabad,Bangalore,Hyderabad
+595,KSM Roadways,Bharat Benz A/C Sleeper (2+1),22:32,07:30,08h 58m,2519.0,3389.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+596,TVK TRAVELS,Bharat Benz A/C Sleeper (2+1),21:45,06:51,09h 06m,2999.0,3199.0,Hebbal,Kukatpally,Bangalore,Hyderabad
+597,KSM Roadways,Bharat Benz A/C Sleeper (2+1),21:45,07:30,09h 45m,2549.0,3429.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+598,AdStreamline tours and travels,Bharat Benz A/C Sleeper (2+1),21:15,07:50,10h 35m,1899.0,3009.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+599,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:00,05:57,08h 57m,2709.0,4049.0,Hebbal,Kukatpally,Bangalore,Hyderabad
+600,Vikram Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:15,07:40,09h 25m,2209.0,3539.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+601,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:00,07:00,09h 00m,2929.0,3979.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+602,AdJabbar Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:45,07:45,10h 00m,1890.0,3264.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+603,Mythri Tours And Travels,A/C Sleeper (2+1),22:00,08:02,10h 02m,1859.0,2839.0,Hebbal,Kukatpally,Bangalore,Hyderabad
+604,Pramukh Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:50,07:30,08h 40m,2799.0,2999.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+605,Dream Line Travels Pvt Ltd,VE A/C Sleeper (2+1),21:45,06:30,08h 45m,2100.0,3150.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+606,BSR Tours And Travels,A/C Sleeper (2+1),20:57,07:20,10h 23m,1749.0,2589.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+607,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:10,07:40,10h 30m,2709.0,3509.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+608,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:50,07:40,08h 50m,2749.0,3649.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+609,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:35,07:51,09h 16m,3479.0,4349.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+610,FlixBus,VE A/C Sleeper (2+1),19:45,07:50,12h 05m,1472.32,1472.32,Marathahalli,Kukatpally,Bangalore,Hyderabad
+611,November Travels,Bharat Benz A/C Sleeper (2+1),22:00,07:15,09h 15m,1920.0,2890.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+612,Intercity travels,Bharat Benz A/C Sleeper (2+1),21:50,07:45,09h 55m,1899.0,2799.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+613,Intercity travels,Bharat Benz A/C Sleeper (2+1),21:20,06:15,08h 55m,1899.0,2799.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+614,Intercity travels,Bharat Benz A/C Sleeper (2+1),22:20,07:15,08h 55m,1899.0,2799.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+615,VSR Tours and Travels,A/C Sleeper (2+1),20:42,07:00,10h 18m,1601.1,2589.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+616,BSR Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:00,07:20,09h 20m,2499.0,3399.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+617,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:20,07:20,10h 00m,1890.0,3379.0,Marathahalli,Kukatpally,Bangalore,Hyderabad
+618,TVK TRAVELS,A/C Sleeper (2+1),22:35,07:40,09h 05m,2999.0,3199.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+619,BSR Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:10,07:20,09h 10m,2270.0,3600.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+620,November Travels,A/C Seater / Sleeper (2+1),21:30,07:10,09h 40m,1460.0,2070.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+621,Pramukh Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:47,07:50,09h 03m,2699.0,3299.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+622,FlixBus,A/C Sleeper (2+1),19:20,06:50,11h 30m,1079.46,1203.57,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+623,Intercity travels,Bharat Benz A/C Sleeper (2+1),22:05,07:30,09h 25m,1899.0,2799.0,Hebbal,Kukatpally,Bangalore,Hyderabad
+624,BSR Tours And Travels,Scania AC Multi Axle Sleeper (2+1),20:07,06:40,10h 33m,2480.0,2980.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+625,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:15,07:45,12h 30m,1519.0,3539.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+626,Jabbar Travels,Scania AC Multi Axle Sleeper (2+1),22:00,08:00,10h 00m,1796.0,2695.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+627,Highline Transports,VE A/C Sleeper (2+1),21:30,07:50,10h 20m,2000.0,2800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+628,LVP Travels,A/C Sleeper (2+1),22:00,07:45,09h 45m,1699.0,2080.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+629,IntrCity SmartBus,AC Sleeper (2+1),17:55,06:45,12h 50m,2139.0,3539.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+630,Raj’s Travels and Transports,Benz A/C Sleeper (2+1),21:35,07:20,09h 45m,1799.0,2399.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+631,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:10,07:05,09h 55m,2709.0,4049.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+632,KSM Roadways,Bharat Benz A/C Sleeper (1+1),22:43,07:25,08h 42m,3199.0,3299.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+633,Vikram Travels,A/C Sleeper (2+1),22:30,07:00,08h 30m,1719.0,2569.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+634,SRI MARUTHI TRAVELS,A/C Sleeper (2+1),21:30,06:55,09h 25m,3399.0,3499.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+635,November Travels,Bharat Benz A/C Sleeper (2+1),22:00,07:15,09h 15m,2160.0,3090.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+636,IntrCity SmartBus,A/C Seater / Sleeper (2+1),17:25,05:55,12h 30m,1519.0,3539.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+637,Jabbar Travels,NON AC Seater / Sleeper 2+1,22:30,08:00,09h 30m,1227.0,2290.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+638,CMR Express,A/C Sleeper (2+1),22:15,07:35,09h 20m,1400.0,2150.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+639,Yolo Bus,Bharat Benz A/C Sleeper (2+1),18:05,07:19,13h 14m,1890.0,2670.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+640,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),17:50,06:40,12h 50m,2139.0,3539.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+641,Sri Krishna Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:02,06:47,08h 45m,1999.0,3299.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+642,Jabbar Travels,VE A/C Sleeper (2+1),21:00,07:30,10h 30m,1750.0,2450.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+643,Jabbar Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:50,07:30,08h 40m,1354.0,1624.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+644,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:30,08:35,10h 05m,1890.0,2900.0,Marathahalli,Kukatpally,Bangalore,Hyderabad
+645,Jabbar Travels,Scania Multi-Axle AC Semi Sleeper (2+2),22:20,07:25,09h 05m,1367.0,1708.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+646,SL Travels,A/C Sleeper (2+1),18:30,08:00,13h 30m,2309.0,3569.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+647,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:15,07:00,07h 45m,2200.0,3000.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+648,Aditya Logistics,A/C Sleeper (2+1),21:25,07:40,10h 15m,1399.0,1399.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+649,IntrCity SmartBus,AC Sleeper (2+1),20:40,07:25,10h 45m,2139.0,3539.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+650,V Kaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:00,07:50,09h 50m,1890.0,2660.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+651,FlixBus,A/C Sleeper (2+1),21:10,10:25,13h 15m,1186.61,1186.61,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+652,Sri Durgamba Travels - R No H,A/C Sleeper (2+1),21:00,06:50,09h 50m,1960.0,2500.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+653,IntrCity SmartBus,AC Sleeper (2+1),22:30,08:40,10h 10m,2139.0,3539.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+654,KGN INDIA,NON A/C Sleeper (2+1),18:45,07:00,12h 15m,780.0,799.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+655,Sree Rama Tours & Travels,A/C Sleeper (2+1),21:50,05:45,07h 55m,1785.0,2422.5,Hebbal,Lakdikapul,Bangalore,Hyderabad
+656,Jabbar Travels,VE Non A/C Sleeper (2+1),21:30,07:30,10h 00m,1450.0,2172.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+657,IntrCity SmartBus,AC Sleeper (2+1),21:35,08:40,11h 05m,2139.0,3539.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+658,IRA Transports,A/C Sleeper (2+1),20:00,06:10,10h 10m,1629.0,2429.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+659,Royal Rich India - R No 102,Bharat Benz A/C Sleeper (2+1),23:47,08:50,09h 03m,4050.0,4150.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+660,S.L Travels,NON A/C Sleeper (2+1),19:10,06:10,11h 00m,1710.0,2180.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+661,Sugama Tourist,A/C Sleeper (2+1),20:20,07:45,11h 25m,1600.0,2100.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+662,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:55,07:15,11h 20m,1519.0,3539.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+663,NS Holidays,NON A/C Sleeper (2+1),22:30,08:40,10h 10m,1400.0,2150.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+664,Ramana Tours And Travels,A/C Sleeper (2+1),22:00,07:15,09h 15m,1578.0,2338.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+665,Ramana Tours And Travels,A/C Sleeper (2+1),21:30,08:15,10h 45m,1558.0,2258.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+666,Delta Transports Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:30,07:00,07h 30m,2000.0,2350.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+667,SL Travels,NON A/C Sleeper (2+1),23:05,07:25,08h 20m,1519.0,1889.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+668,GEE PEE TRAVELS,VE A/C Sleeper (2+1),21:50,08:20,10h 30m,2090.0,2940.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+669,GEE PEE TRAVELS,NON A/C Sleeper (2+1),22:55,09:25,10h 30m,1590.0,2260.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+670,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:45,08:05,11h 20m,1519.0,3539.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+671,GEE PEE TRAVELS,VE Non A/C Sleeper (2+1),22:05,08:30,10h 25m,1600.0,2270.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+672,Sri Vinayaka Travels,NON A/C Seater/ Sleeper (2+1),21:15,07:30,10h 15m,950.0,1550.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+673,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),18:25,06:50,12h 25m,1519.0,3539.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+674,Reshma Tourists,Bharat Benz A/C Sleeper (2+1),22:05,07:30,09h 25m,2500.0,2500.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+675,Kaveri Travels,A/C Sleeper (2+1),21:40,07:32,09h 52m,2070.0,3339.0,Hebbal,Kukatpally,Bangalore,Hyderabad
+676,Intercity travels,Bharat Benz A/C Sleeper (2+1),20:15,05:45,09h 30m,1799.0,2699.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+677,Intercity travels,Bharat Benz A/C Sleeper (2+1),23:35,08:30,08h 55m,1999.0,2899.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+678,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,07:40,10h 10m,4000.0,4000.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+679,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),23:53,08:10,08h 17m,1800.0,2100.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+680,Swamy Ayyappa Travels,A/C Sleeper (2+1),23:40,07:25,07h 45m,2000.0,2100.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+681,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,07:40,10h 10m,5000.0,5000.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+682,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:25,07:20,08h 55m,1400.0,1700.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+683,FlixBus,A/C Sleeper (2+1),17:15,06:45,13h 30m,1222.32,1222.32,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+684,V Kaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:00,06:45,08h 45m,1749.0,2520.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+685,Swamy Ayyappa Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:15,07:10,07h 55m,2000.0,2100.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+686,Orange Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:30,07:15,08h 45m,1800.0,2000.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+687,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:30,07:00,08h 30m,2300.0,2500.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+688,Bmcc Travels,NON AC Seater / Sleeper 2+1,20:30,07:00,10h 30m,1549.0,2199.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+689,Northern Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:20,06:40,10h 20m,1129.0,1999.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+690,Bmcc Travels,Non A/C Seater / Sleeper (2+1),20:57,07:35,10h 38m,1150.0,1550.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+691,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),01:20,09:45,08h 25m,1500.0,1700.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+692,VRL Travels,NON A/C Sleeper (2+1),22:00,06:30,08h 30m,1800.0,2100.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+693,Pooja Travels (Nagpur),Mercedes Benz A/C Sleeper (2+1),12:30,23:20,10h 50m,4800.0,5050.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+694,Kaveri Travels,A/C Sleeper (2+1),21:40,06:50,09h 10m,2070.0,3219.0,Hebbal,Kukatpally,Bangalore,Hyderabad
+695,SVR Tours and Travels,A/C Sleeper (2+1),21:55,06:50,08h 55m,1490.0,1790.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+696,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:30,08:10,08h 40m,2000.0,2200.0,Madiwala,Lakdikapul,Bangalore,Hyderabad
+697,YAS Tours and Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),01:00,09:10,08h 10m,1400.0,1500.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+698,Bharathi Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:25,08:30,09h 05m,1700.0,1999.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+699,BigBus,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:50,08:20,08h 30m,2800.0,3200.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+700,Orange Tours and Travels,A/C Seater / Sleeper (2+1),17:15,04:15,11h 00m,1100.0,1500.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+701,S.L Travels,NON A/C Sleeper (2+1),00:50,08:10,07h 20m,1550.0,1650.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+702,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:35,08:35,09h 00m,2000.0,2200.0,Madiwala,Lakdikapul,Bangalore,Hyderabad
+703,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:10,07:05,09h 55m,2775.0,3175.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+704,PSK Travels,Bharat Benz A/C Sleeper (2+1),23:45,09:05,09h 20m,2690.0,2890.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+705,Northern Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,07:10,09h 40m,1129.0,2329.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+706,Orange Tours and Travels,A/C Sleeper (2+1),19:40,04:40,09h 00m,1400.0,1600.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+707,TVK TRAVELS,Bharat Benz A/C Sleeper (2+1),21:50,06:51,09h 01m,3199.0,3199.0,Hebbal,Kukatpally,Bangalore,Hyderabad
+708,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:45,08:45,09h 00m,2000.0,2200.0,Madiwala,Lakdikapul,Bangalore,Hyderabad
+709,VRL Travels,A/C Sleeper (2+1),23:15,08:30,09h 15m,2000.0,2200.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+710,Kallada Travels (Suresh Kallada),Volvo Multi-Axle I-Shift A/C Semi Sleeper (2+2),01:40,09:10,07h 30m,1700.0,1900.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+711,Saleem Travels,NON A/C Sleeper (2+1),22:20,07:10,08h 50m,1249.0,1549.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+712,Orange Tours and Travels,Scania AC Multi Axle Sleeper (2+1),21:10,06:40,09h 30m,1800.0,2000.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+713,VRL Travels,NON A/C Sleeper (2+1),20:15,04:45,08h 30m,1300.0,1500.0,Anand Rao Circle,Mehdipatnam,Bangalore,Hyderabad
+714,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),03:05,11:25,08h 20m,1200.0,1300.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+715,Sri Tulasi Tours and Travels,A/C Seater / Sleeper (2+1),20:30,07:15,10h 45m,2200.0,2400.0,Marathahalli,Kukatpally,Bangalore,Hyderabad
+716,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),23:59,08:50,08h 51m,1499.0,1499.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+717,Morning Star Travels,A/C Sleeper (2+1),18:35,05:55,11h 20m,1590.0,1790.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+718,Orange Tours and Travels,Volvo Multi-Axle Sleeper A/C (2+1),23:25,08:00,08h 35m,1600.0,1800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+719,Naveen Travels (Durg),Bharat Benz A/C Sleeper (2+1),17:00,02:45,09h 45m,2500.0,3300.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+720,Dhanunjaya Travels,A/C Seater / Sleeper (2+1),23:59,09:30,09h 31m,1999.0,2799.0,Anand Rao Circle,Mehdipatnam,Bangalore,Hyderabad
+721,Morning Star Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),17:30,04:20,10h 50m,1590.0,1790.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+722,Bmcc Travels,A/C Sleeper (2+1),23:55,08:30,08h 35m,1881.0,2190.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+723,Orange Tours and Travels,Scania AC Multi Axle Sleeper (2+1),19:40,04:40,09h 00m,1600.0,1800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+724,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:20,08:35,09h 15m,2000.0,2200.0,Kalasipalyam,Lakdikapul,Bangalore,Hyderabad
+725,Jabbar Travels,Scania AC Multi Axle Sleeper (2+1),22:00,07:30,09h 30m,2590.0,2890.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+726,Orange Tours and Travels,Volvo Multi-Axle Sleeper A/C (2+1),00:50,07:01,06h 11m,1600.0,1800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+727,Orange Tours and Travels,A/C Sleeper (2+1),19:45,05:15,09h 30m,1400.0,1400.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+728,Dhanunjaya Travels,A/C Semi Sleeper / Sleeper (2+1),20:40,07:10,10h 30m,1490.0,2090.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+729,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),00:30,11:05,10h 35m,1200.0,1400.0,Bommasandra,Lakdikapul,Bangalore,Hyderabad
+730,Kaleswari Travels,Non A/C Seater / Sleeper (2+1),00:00,10:00,10h 00m,1890.5,1899.05,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+731,Kaleswari Travels,Non A/C Seater / Sleeper (2+1),22:15,08:55,10h 40m,1890.5,1899.05,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+732,Morning Star Travels,A/C Sleeper (2+1),22:00,07:20,09h 20m,1490.0,1690.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+733,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),11:20,21:35,10h 15m,1999.0,2399.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+734,Orange Tours and Travels,Scania AC Multi Axle Sleeper (2+1),23:25,08:00,08h 35m,1600.0,1800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+735,Orange Tours and Travels,A/C Sleeper (2+1),02:10,11:50,09h 40m,1200.0,1400.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+736,Orange Tours and Travels,Scania AC Multi Axle Sleeper (2+1),14:00,23:30,09h 30m,1600.0,1800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+737,Raja Express,VE A/C Sleeper (2+1),22:40,08:00,09h 20m,2699.0,2699.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+738,Tranzindia Travels,Non A/C Seater / Sleeper (2+1),22:10,07:05,08h 55m,1150.0,1550.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+739,DNR Express,Bharat Benz A/C Sleeper (2+1),13:45,21:40,07h 55m,1999.0,2999.0,Anand Rao Circle,Jadcherla near munwar dhaba,Bangalore,Hyderabad
+740,Orange Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:30,08:00,11h 30m,1800.0,2000.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+741,Tranzindia Travels,VE A/C Sleeper (2+1),20:35,06:05,09h 30m,2450.0,2750.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+742,Kallada Travels (Suresh Kallada),Scania AC Multi Axle Sleeper (2+1),01:10,10:00,08h 50m,2300.0,2500.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+743,Kallada Travels (Suresh Kallada),Scania Multi-Axle AC Semi Sleeper (2+2),02:20,09:55,07h 35m,1200.0,1200.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+744,JAI MARUTHI TRAVELS,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),13:20,23:05,09h 45m,1600.0,1800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+745,IRA Transports,VE A/C Sleeper (2+1),20:00,05:07,09h 07m,1399.0,1999.0,Anand Rao Circle,Kukatpally,Bangalore,Hyderabad
+746,Orange Tours and Travels,NON A/C Seater/ Sleeper (2+1),19:30,07:30,12h 00m,1000.0,1300.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+747,Orange Tours and Travels,NON A/C Sleeper (2+1),20:30,08:00,11h 30m,1300.0,1500.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+748,Shyamoli Paribahan Pvt Ltd,A/C Sleeper (2+1),17:15,04:00,10h 45m,1461.6,2186.1,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+749,AVM Tours And Travels,Non A/C Seater / Sleeper (2+1),22:10,08:30,10h 20m,1083.0,1795.5,Hebbal,Lakdikapul,Bangalore,Hyderabad
+750,Swamy Ayyappa Travels,Volvo Multi-Axle I-Shift A/C Sleeper (2+1),01:40,10:00,08h 20m,1760.0,1860.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+751,YAS Tours and Travels,Volvo A/C Semi Sleeper (2+2),23:59,09:00,09h 01m,950.0,950.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+752,SAT (Sri Anjaneya Travels),A/C Sleeper (2+1),22:00,08:20,10h 20m,1450.0,1750.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+753,PSK Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),01:30,10:20,08h 50m,3890.0,4090.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+754,Orange Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:15,07:50,08h 35m,1600.0,1800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+755,Bmcc Travels,A/C Sleeper (2+1),23:55,09:30,09h 35m,1799.1,2199.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+756,VKV Travels,A/C Sleeper (2+1),19:35,05:40,10h 05m,2365.5,2650.5,Hebbal,Lakdikapul,Bangalore,Hyderabad
+757,S.L Travels,NON A/C Sleeper (2+1),23:55,08:10,08h 15m,990.0,1650.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+758,Dhanunjaya Travels,A/C Seater / Sleeper (2+1),00:30,09:40,09h 10m,2299.0,2999.0,Anand Rao Circle,Mehdipatnam,Bangalore,Hyderabad
+759,Saleem Travels,Non AC Seater (2+2),19:45,07:40,11h 55m,1500.0,1500.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+760,Anmol Tours & Travels,Bharat Benz A/C Sleeper (2+1),21:32,07:45,10h 13m,4000.0,4000.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+761,Northern Travels,Bharat Benz A/C Sleeper (2+1),23:00,08:30,09h 30m,1049.0,1499.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+762,Orange Tours and Travels,Bharat Benz A/C Sleeper (2+1),23:30,08:40,09h 10m,1600.0,1800.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+763,Dhanunjaya Travels,A/C Semi Sleeper / Sleeper (2+1),20:40,07:10,10h 30m,1990.0,2990.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+764,Shree Savariya Travels & Transport,A/C Seater / Sleeper (2+1),12:15,23:15,11h 00m,4799.0,4999.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+765,Jabbar Travels,Scania AC Multi Axle Sleeper (2+1),22:00,07:30,09h 30m,2590.0,2890.0,Marathahalli,Lakdikapul,Bangalore,Hyderabad
+766,Travel Point World LLP,A/C Seater / Sleeper (2+2),21:15,09:30,12h 15m,2760.95,4000.0,Anand Rao Circle,Afzalgunj,Bangalore,Hyderabad
+767,Dream Line Travels Pvt Ltd,Bharat Benz A/C Sleeper (2+1),21:00,06:00,09h 00m,2600.0,3000.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+768,K.L.A Travels,A/C Sleeper (2+1),23:00,09:05,10h 05m,1899.0,1899.0,Hebbal,Lakdikapul,Bangalore,Hyderabad
+769,Skyline Transport,Non A/C Seater / Sleeper (2+1),20:20,07:35,11h 15m,3999.0,3999.0,Marathahalli,Kukatpally,Bangalore,Hyderabad
+770,SL Travels,A/C Sleeper (2+1),18:20,07:45,13h 25m,1550.0,1850.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+771,SL Travels,A/C Sleeper (2+1),18:15,07:45,13h 30m,1550.0,1850.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+772,Dhanunjaya Travels,A/C Sleeper (2+1),22:40,07:00,08h 20m,1599.0,1999.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad
+773,Shree Savariya Travels & Transport,A/C Sleeper (2+1),18:15,05:15,11h 00m,4799.0,4999.0,Anand Rao Circle,Lakdikapul,Bangalore,Hyderabad

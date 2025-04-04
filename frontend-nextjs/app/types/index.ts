@@ -11,9 +11,10 @@ export interface BusRoute {
   destination: string;
   startingPointParent: string;
   destinationPointParent: string;
+  distance?: number;
   pricePerKmLow?: number;
   pricePerKmHigh?: number;
-  distance?: number;
+  routeDuration?: string;
 }
 
 export interface LocationCoordinates {
@@ -28,11 +29,12 @@ export interface RouteMapData {
   startCoords: LocationCoordinates;
   endCoords: LocationCoordinates;
   distance: number;
+  routeDuration: string;
   buses: BusRoute[];
 }
 
 export interface BusDataState {
-  rawData: BusRoute[];
+  rawBusData: BusRoute[];
   routes: RouteMapData[];
   uniqueRoutes: string[];
   selectedRoute: string | null;

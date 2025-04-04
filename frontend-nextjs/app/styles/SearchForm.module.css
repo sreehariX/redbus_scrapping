@@ -1,23 +1,30 @@
 .formContainer {
-  width: 100%;
   background-color: white;
-  border-radius: 10px;
-  padding: 1.5rem;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  margin-bottom: 1.5rem;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e5e7eb;
+  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.formContainer h2 {
+.formTitle {
   margin-top: 0;
   margin-bottom: 1.5rem;
   font-size: 1.5rem;
-  color: #333;
+  color: #1f2937;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
 }
 
 .form {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1.25rem;
 }
 
 .inputGroup {
@@ -25,37 +32,90 @@
   min-width: 250px;
 }
 
-.inputGroup label {
-  display: block;
+.inputLabel {
+  display: flex;
+  align-items: center;
   margin-bottom: 0.5rem;
   font-weight: 500;
-  color: #555;
+  color: #4b5563;
+}
+
+.routeIcon {
+  margin-right: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.selectWrapper {
+  position: relative;
+}
+
+.selectWrapper::after {
+  content: '';
+  position: absolute;
+  right: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #4b5563;
+  pointer-events: none;
 }
 
 .select {
   width: 100%;
-  padding: 0.75rem;
-  border-radius: 6px;
-  border: 1px solid #ddd;
-  background-color: #f8f9fa;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  background-color: #f9fafb;
   font-size: 1rem;
-  color: #333;
+  color: #1f2937;
+  font-weight: 500;
   appearance: none;
-  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.4-12.8z%22%2F%3E%3C%2Fsvg%3E");
-  background-repeat: no-repeat;
-  background-position: right 0.7rem top 50%;
-  background-size: 0.65rem auto;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  transition: all 0.2s ease;
 }
 
 .select:focus {
   outline: none;
-  border-color: #0070f3;
-  box-shadow: 0 0 0 3px rgba(0, 112, 243, 0.2);
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
 }
 
 .select:disabled {
-  background-color: #e9ecef;
-  color: #adb5bd;
+  background-color: #e5e7eb;
+  color: #9ca3af;
   cursor: not-allowed;
+}
+
+.toggleGroup {
+  display: flex;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  background-color: #f9fafb;
+}
+
+.toggleButton {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: none;
+  background-color: #f9fafb;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  color: #4b5563;
+  font-weight: 500;
+}
+
+.toggleButton:not(:last-child) {
+  border-right: 1px solid #d1d5db;
+}
+
+.toggleButton.active {
+  background-color: #3b82f6;
+  color: white;
 } 

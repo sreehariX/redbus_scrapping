@@ -1,33 +1,81 @@
 .mapContainer {
+  width: 100%;
   height: 500px;
-  width: 100%;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  margin-bottom: 2rem;
   position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5rem;
 }
 
-.loading {
+.loading, .mapLoading, .mapError {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100%;
   width: 100%;
-  background-color: #f8f9fa;
-  color: #666;
-  font-size: 1.2rem;
-}
-
-.error {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-  width: 100%;
-  background-color: #f8d7da;
-  color: #721c24;
-  font-size: 1.2rem;
+  background-color: #f3f4f6;
+  color: #4b5563;
+  font-size: 1rem;
   text-align: center;
-  padding: 1rem;
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+.mapError {
+  background-color: #fef2f2;
+  color: #dc2626;
+  border: 1px solid #fecaca;
+}
+
+.errorDetails {
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  color: #6b7280;
+  max-width: 500px;
+  word-break: break-word;
+}
+
+.infoWindow {
+  padding: 8px;
+  max-width: 300px;
+}
+
+.infoTitle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 8px 0;
+  color: #1f2937;
+}
+
+.infoText {
+  margin: 4px 0;
+  color: #4b5563;
+  font-size: 0.9rem;
+}
+
+.infoButton {
+  margin-top: 8px;
+  padding: 6px 12px;
+  background-color: #4285F4;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+}
+
+.infoButton:hover {
+  background-color: #3367D6;
+}
+
+.markerLabel {
+  background-color: white;
+  padding: 2px 4px;
+  border-radius: 2px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  margin-top: -35px;
+  white-space: nowrap;
 } 

@@ -4,7 +4,8 @@ This Next.js application provides a visual interface for analyzing RedBus routes
 
 ## Features
 
-- Interactive map interface to visualize bus routes
+- Interactive Google Maps interface to visualize bus routes
+- Dynamic geocoding of locations using Google Maps Geocoding API
 - Price per kilometer calculation
 - Filtering and sorting by various criteria
 - Responsive design for both desktop and mobile devices
@@ -14,8 +15,11 @@ This Next.js application provides a visual interface for analyzing RedBus routes
 ### Prerequisites
 
 - Node.js 18+ and npm
+- Google Maps API key with the following APIs enabled:
+  - Maps JavaScript API
+  - Geocoding API
 
-### Installation
+### Setup
 
 1. Clone the repository
 2. Navigate to the project directory
@@ -24,6 +28,29 @@ This Next.js application provides a visual interface for analyzing RedBus routes
 ```bash
 npm install
 ```
+
+4. Create a `.env.local` file in the root directory and add your Google Maps API key:
+
+```
+NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_actual_api_key_here
+```
+
+5. Make sure your Google Maps API key has the necessary APIs enabled:
+   - Go to the [Google Cloud Console](https://console.cloud.google.com/)
+   - Navigate to "APIs & Services" > "Dashboard"
+   - Click "ENABLE APIS AND SERVICES"
+   - Search for and enable both "Maps JavaScript API" and "Geocoding API"
+   - Ensure your API key is not restricted or has the appropriate restrictions set up
+   - Make sure billing is enabled for your Google Cloud project
+
+### Common API Issues
+
+If you encounter errors like `REQUEST_DENIED`, check the following:
+
+- Verify that your API key is correctly set in the `.env.local` file
+- Ensure both Maps JavaScript API and Geocoding API are enabled
+- Check if your key has any restrictions that might block the geocoding requests
+- Verify that billing is set up for your Google Cloud project (required for API usage)
 
 ### Running the Development Server
 
@@ -52,6 +79,7 @@ npm start
   - `/services` - Service utilities
   - `/styles` - CSS modules
   - `/types` - TypeScript type definitions
+  - `/config` - Configuration files
 - `/public` - Static assets
   - `/data` - CSV data files
 
@@ -59,7 +87,7 @@ npm start
 
 - Next.js 14
 - TypeScript
-- React Leaflet for map visualizations
+- Google Maps API for map visualizations and geocoding
 - Papaparse for CSV parsing
 - Tailwind CSS for styling
 

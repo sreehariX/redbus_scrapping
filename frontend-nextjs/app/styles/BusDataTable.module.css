@@ -2,35 +2,32 @@
   width: 100%;
   margin-top: 1rem;
   background-color: white;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   overflow: hidden;
+  border: 1px solid #e5e7eb;
 }
 
 .tableHeader {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 1.5rem;
+  padding: 1.25rem 1.5rem;
   background-color: #f8f9fa;
   border-bottom: 1px solid #e9ecef;
 }
 
 .tableHeader h2 {
   margin: 0;
-  font-size: 1.25rem;
-  color: #333;
+  font-size: 1.5rem;
+  color: #1f2937;
+  font-weight: 600;
 }
 
 .priceModeSelector {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-}
-
-.priceModeSelector span {
-  font-size: 0.875rem;
-  color: #555;
+  font-size: 0.95rem;
+  color: #4b5563;
+  font-weight: 500;
 }
 
 .toggleContainer {
@@ -56,7 +53,7 @@
 
 .tableWrapper {
   overflow-x: auto;
-  max-height: 500px;
+  max-height: 600px;
   overflow-y: auto;
 }
 
@@ -68,19 +65,20 @@
 
 .busTable th {
   padding: 1rem;
-  background-color: #f8f9fa;
+  background-color: #f3f4f6;
   font-weight: 600;
-  color: #333;
-  border-bottom: 2px solid #e9ecef;
+  color: #1f2937;
+  border-bottom: 2px solid #e5e7eb;
   position: sticky;
   top: 0;
   cursor: pointer;
   user-select: none;
   transition: background-color 0.2s;
+  white-space: nowrap;
 }
 
 .busTable th:hover {
-  background-color: #e9ecef;
+  background-color: #e5e7eb;
 }
 
 .sortIcon {
@@ -90,12 +88,13 @@
 
 .busTable td {
   padding: 0.75rem 1rem;
-  border-bottom: 1px solid #e9ecef;
-  color: #555;
+  border-bottom: 1px solid #e5e7eb;
+  color: #4b5563;
+  white-space: nowrap;
 }
 
 .busTable tr:hover {
-  background-color: #f8f9fa;
+  background-color: #f9fafb;
 }
 
 .busTable tr:last-child td {
@@ -105,5 +104,98 @@
 .noData {
   padding: 3rem;
   text-align: center;
-  color: #6c757d;
+  color: #6b7280;
+  font-size: 1rem;
+}
+
+.routeInfo {
+  padding: 1.25rem 1.5rem;
+  background-color: #f3f4f6;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.routeDetails {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+}
+
+.routeDistance, .routeTime, .routePrice {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.routeInfoLabel {
+  font-size: 0.85rem;
+  color: #5f6368;
+  font-weight: 400;
+}
+
+.routeInfoValue {
+  font-size: 1.1rem;
+  color: #1f2937;
+  font-weight: 600;
+}
+
+.badgeContainer {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+
+.bestPriceBadge, .fastestBadge {
+  display: inline-block;
+  font-size: 0.7rem;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.bestPriceBadge {
+  background-color: #0f9d58;
+  color: white;
+}
+
+.fastestBadge {
+  background-color: #1a73e8;
+  color: white;
+}
+
+.busTypeChip {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 16px;
+  background-color: #f1f3f4;
+  font-size: 0.85rem;
+  color: #5f6368;
+}
+
+.timeCell {
+  font-weight: 500;
+  color: #202124;
+}
+
+.durationCell {
+  font-weight: 500;
+  color: #1a73e8;
+}
+
+.priceCell {
+  font-weight: 600;
+  color: #202124;
+}
+
+.pricePerKmCell {
+  color: #5f6368;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.nameCell {
+  min-width: 180px;
+  max-width: 240px;
 } 

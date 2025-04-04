@@ -320,7 +320,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
                         print("Button is not displayed, skipping and trying next cycle.")
                         # Optional: Scroll slightly differently or wait longer?
                         driver.execute_script("window.scrollBy(0, 100);") # Small scroll adjust
-                        time.sleep(1)
+            time.sleep(1)
                         continue # Go to next iteration of the loop
                         
                     # Click the button
@@ -338,7 +338,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
                 except NoSuchElementException:
                     # This might happen if the page structure changes unexpectedly
                     print("No more View Buses buttons found (NoSuchElementException). Exiting loop.")
-                    break
+                        break
                 except Exception as e:
                     print(f"An error occurred during View Buses button processing: {e}")
                     # Check if the error is related to the element becoming stale
@@ -346,7 +346,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
                         print("Stale element reference encountered. Retrying search...")
                         time.sleep(1) # Short pause before retry
                         continue # Continue to next loop iteration to re-find elements
-                    else:
+                else:
                         print("Unhandled error. Exiting loop to prevent infinite execution.")
                         break # Exit loop on unexpected error
             
@@ -452,7 +452,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
                             # else:
                             #     print(f"JSON file {json_file_path} does not contain a list. Creating new list.")
                             #     all_buses_data = []
-                            all_buses_data = []
+                                all_buses_data = []
                             print("JSON file saving is disabled, initializing empty list for processing.")
                         except json.JSONDecodeError:
                             print(f"Error decoding existing JSON file. Creating new list.")
@@ -470,7 +470,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
                     fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
                                   "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
                                   "Starting Point Parent", "Destination Point Parent"]
-
+                    
                     # Get the starting bus ID by checking existing CSV file
                     starting_bus_id = 1
                     if csv_exists:
@@ -487,11 +487,11 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
                                     row_count = 0
 
                             # The next ID is the count of existing data rows + 1
-                            starting_bus_id = row_count + 1
+                                starting_bus_id = row_count + 1
                             print(f"Found existing CSV '{csv_file_path}' with {row_count} valid data entries. Will start next Bus ID from {starting_bus_id}")
                         except StopIteration: # Handles files with only a header
                              print(f"CSV file {csv_file_path} contains only a header. Starting next Bus ID from 1.")
-                             starting_bus_id = 1
+                            starting_bus_id = 1
                         except Exception as e:
                             print(f"Error reading existing CSV '{csv_file_path}' to count rows: {e}. Will start with ID 1.")
                             starting_bus_id = 1 # Fallback
@@ -735,7 +735,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
                 #     json.dump({"status": "Error - Results page did not load"}, f, indent=4, ensure_ascii=False)
                 print("JSON file saving is disabled. Not saving error status.")
             except IOError as e:
-                print(f"Error writing error status to JSON: {e}")
+                 print(f"Error writing error status to JSON: {e}")
 
     except Exception as e:
          print(f"An unexpected error occurred: {e}")
@@ -751,7 +751,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
 def process_multiple_routes(routes_list, target_month_year, target_day, visible=False):
     """
     Process multiple routes in sequence, appending all data to a single CSV file.
-
+    
     Args:
         routes_list: List of tuples with (from_city, to_city)
         target_month_year: Month and year for all searches (e.g., "Apr 2025")
@@ -759,14 +759,14 @@ def process_multiple_routes(routes_list, target_month_year, target_day, visible=
         visible: Whether to run the browser in visible mode (default: False)
     """
     total_routes = len(routes_list)
-
+    
     print(f"\n{'='*50}")
     print(f"Starting batch processing of {total_routes} routes")
     print(f"Date for all routes: {target_month_year} {target_day}")
     print(f"Browser mode: {'Visible' if visible else 'Headless'}")
     print("Data will be appended to 'bus_data.csv' in the main directory.") # Added info
     print(f"{'='*50}\n")
-
+    
     # Define the single CSV file path (used for initial check/creation)
     main_csv_file_path = 'bus_data.csv'
     fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
@@ -789,11 +789,11 @@ def process_multiple_routes(routes_list, target_month_year, target_day, visible=
         # REMOVED: route_folder creation
         # route_folder = f"{from_city}_to_{to_city}"
         # os.makedirs(route_folder, exist_ok=True)
-
+        
         print(f"\n{'='*50}")
         print(f"Processing route {index}/{total_routes}: {from_city} to {to_city}")
         print(f"{'='*50}\n")
-
+        
         try:
             # Call search_buses WITHOUT output_folder argument
             search_buses(
@@ -807,15 +807,15 @@ def process_multiple_routes(routes_list, target_month_year, target_day, visible=
             print(f"\nCompleted route {index}/{total_routes}: {from_city} to {to_city}")
             # REMOVED: message about saving to folder
             # print(f"Data saved in folder: {route_folder}")
-
+            
         except Exception as e:
             print(f"\nERROR processing route {from_city} to {to_city}: {e}")
             print("Continuing with next route...\n")
-
+            
         # Add a delay between routes to avoid overloading the server
         print("Waiting 5 seconds before processing next route...")
         time.sleep(5)
-
+    
     print(f"\n{'='*50}")
     print(f"Batch processing completed. Processed {total_routes} routes.")
     print(f"All data appended to '{main_csv_file_path}'.") # Updated final message

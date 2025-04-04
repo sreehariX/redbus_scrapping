@@ -9,117 +9,142 @@ import BusDataTable from './components/BusDataTable';
 import styles from './page.module.css';
 
 export default function Home() {
-  const [busData, setBusData] = useState<BusRoute[]>([]);
-  const [routes, setRoutes] = useState<RouteMapData[]>([]);
-  const [uniqueRoutes, setUniqueRoutes] = useState<{id: string; startLocation: string; endLocation: string}[]>([]);
+  const [rawBusData, setRawBusData] = useState<BusRoute[]>([]);
+  const [routeMapData, setRouteMapData] = useState<RouteMapData[]>([]);
+  const [uniqueRoutes, setUniqueRoutes] = useState<string[]>([]);
   const [selectedRoute, setSelectedRoute] = useState<string | null>(null);
-  const [loading, setLoading] = useState<boolean>(true);
+  const [isLoading, setIsLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   const [priceCalculationMode, setPriceCalculationMode] = useState<'highest' | 'lowest'>('lowest');
+  const [geocodingInProgress, setGeocodingInProgress] = useState<boolean>(false);
+  const [geocodingProgress, setGeocodingProgress] = useState<string>('');
 
-  // Fetch and process bus data
   useEffect(() => {
     const fetchData = async () => {
       try {
-        setLoading(true);
-        const data = await parseBusData('/data/bus_data.csv');
+        setIsLoading(true);
+        setError(null);
         
-        // Check if we got valid data
-        if (!data || data.length === 0) {
-          setError('No bus data available. Please check the CSV file.');
-          setLoading(false);
+        // Fetch and parse CSV data
+        const busData = await parseBusData('/data/bus_data.csv');
+        
+        if (!busData || busData.length === 0) {
+          setError('No bus data available');
+          setIsLoading(false);
           return;
         }
         
-        const { routes: routesData, uniqueRoutes: uniqueRoutesData } = processBusData(data);
+        setRawBusData(busData);
         
-        setBusData(data);
-        setRoutes(routesData);
+        // Process bus data with geocoding
+        setGeocodingInProgress(true);
+        setGeocodingProgress('Geocoding locations... This may take a moment.');
         
-        // Transform unique routes into the expected format
-        const formattedUniqueRoutes = routesData.map(route => ({
-          id: route.id,
-          startLocation: route.startLocation,
-          endLocation: route.endLocation
-        }));
-        
-        setUniqueRoutes(formattedUniqueRoutes);
-        
-        // Set default selected route
-        if (formattedUniqueRoutes.length > 0 && !selectedRoute) {
-          setSelectedRoute(formattedUniqueRoutes[0].id);
+        try {
+          const { routes, uniqueRoutes } = await processBusData(busData);
+          
+          setRouteMapData(routes);
+          setUniqueRoutes(uniqueRoutes.map(route => route.id));
+          
+          // Set default selected route if available
+          if (uniqueRoutes.length > 0) {
+            setSelectedRoute(uniqueRoutes[0].id);
+          }
+        } catch (geocodingError: any) {
+          console.error('Geocoding error:', geocodingError);
+          
+          // Check for specific error messages related to API access
+          const errorMessage = geocodingError.message || '';
+          if (errorMessage.includes('NOT_FOUND') || errorMessage.includes('ZERO_RESULTS')) {
+            setError('Could not find locations. Please check location names in your data.');
+          } else if (errorMessage.includes('REQUEST_DENIED') || errorMessage.includes('INVALID_REQUEST')) {
+            setError('API request was denied. Make sure your Google Maps API key is valid and has the necessary APIs enabled (Maps JavaScript API, Geocoding API, and Routes API).');
+          } else if (errorMessage.includes('OVER_QUERY_LIMIT')) {
+            setError('Google Maps API query limit exceeded. Try again later or upgrade your API plan.');
+          } else {
+            setError(`${errorMessage}. Please check your Google Maps API key and ensure all required APIs are enabled.`);
+          }
+        } finally {
+          setGeocodingInProgress(false);
         }
-        
-        setLoading(false);
-      } catch (err) {
-        console.error('Error fetching bus data:', err);
-        setError('Failed to load bus data. Please try again later.');
-        setLoading(false);
+      } catch (err: any) {
+        console.error('Error fetching data:', err);
+        setError(`Failed to load bus data: ${err.message || ''}`);
+      } finally {
+        setIsLoading(false);
       }
     };
     
     fetchData();
-  }, [selectedRoute]);
+  }, []);
 
-  // Handle route selection
   const handleRouteSelect = (routeId: string) => {
     setSelectedRoute(routeId);
   };
 
-  // Handle price calculation mode change
-  const handlePriceModeChange = (mode: 'highest' | 'lowest') => {
+  const handlePriceCalculationModeChange = (mode: 'highest' | 'lowest') => {
+    console.log(`Changing price calculation mode to: ${mode}`);
     setPriceCalculationMode(mode);
-  };
-
-  // Get buses for the selected route
-  const getSelectedRouteBuses = (): BusRoute[] => {
-    if (!selectedRoute) return [];
-    
-    const selectedRouteData = routes.find(route => route.id === selectedRoute);
-    if (!selectedRouteData) return [];
-    
-    return selectedRouteData.buses;
   };
 
   return (
     <main className={styles.main}>
-      <div className="container">
-        <header className={styles.header}>
-          <h1>RedBus Route Analysis</h1>
-          <p>Find the most cost-effective bus routes between cities in India</p>
-        </header>
-
-        {loading ? (
-          <div className="card">
-            <div className={styles.loading}>Loading bus data...</div>
-          </div>
-        ) : error ? (
-          <div className="card">
-            <div className={styles.error}>{error}</div>
-          </div>
-        ) : (
-          <>
-            <SearchForm 
-              uniqueRoutes={uniqueRoutes}
-              onRouteSelect={handleRouteSelect}
-              selectedRoute={selectedRoute}
-            />
-            
+      <h1 className={styles.title}>
+        <span className={styles.titleIcon}>🚌</span>
+        RedBus Route Analysis
+      </h1>
+      
+      {isLoading && <div className={styles.loading}>Loading bus data...</div>}
+      
+      {geocodingInProgress && (
+        <div className={styles.loading}>{geocodingProgress}</div>
+      )}
+      
+      {error && (
+        <div className={styles.error}>
+          <p>{error}</p>
+          <p className={styles.errorHint}>
+            Check your API key in the .env.local file and make sure all required APIs are enabled:
+            <ul className={styles.errorList}>
+              <li>Maps JavaScript API</li>
+              <li>Geocoding API</li>
+              <li>Routes API</li>
+            </ul>
+          </p>
+        </div>
+      )}
+      
+      {!isLoading && !error && (
+        <>
+          <SearchForm 
+            uniqueRoutes={routeMapData.map(route => ({
+              id: route.id,
+              startLocation: route.startLocation,
+              endLocation: route.endLocation
+            }))}
+            selectedRoute={selectedRoute}
+            onRouteSelect={handleRouteSelect}
+            priceCalculationMode={priceCalculationMode}
+            onPriceCalculationModeChange={handlePriceCalculationModeChange}
+          />
+          
+          <div className={styles.mapContainer}>
             <RouteMap 
-              routes={routes}
-              selectedRoute={selectedRoute}
-              onRouteClick={handleRouteSelect}
-              priceCalculationMode={priceCalculationMode}
+              routeMapData={routeMapData}
+              selectedRouteId={selectedRoute}
+              onSelectRoute={handleRouteSelect}
+              geocodingInProgress={geocodingInProgress}
             />
-            
-            <BusDataTable 
-              buses={getSelectedRouteBuses()}
-              priceCalculationMode={priceCalculationMode}
-              onChangePriceMode={handlePriceModeChange}
-            />
-          </>
-        )}
-      </div>
+          </div>
+          
+          <BusDataTable 
+            busData={rawBusData}
+            selectedRoute={selectedRoute}
+            priceCalculationMode={priceCalculationMode}
+            routeMapData={routeMapData}
+          />
+        </>
+      )}
     </main>
   );
 }
