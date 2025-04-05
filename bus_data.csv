@@ -1981,17 +1981,15 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 1980,Rainbow Tours And Travels,Non A/C Seater / Sleeper (2+1),19:25,02:20,06h 55m,5000.0,5000.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
 1981,V Kaveri Travels,A/C Sleeper (2+1),21:45,04:30,06h 45m,1590.0,1590.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
 1982,SAMANVI CITICONNECT,A/C Sleeper (2+1),22:12,04:30,06h 18m,1069.0,1069.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
-1984,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:50,02:10,07h 20m,1111.0,1111.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
-1985,V Kaveri Travels,A/C Seater / Sleeper (2+1),16:20,23:15,06h 55m,1490.0,1490.0,Kukatpally,Old RTC Bus Stand,Hyderabad,Vijayawada
-1987,Mayuri Travels,Non A/C Seater / Sleeper (2+1),21:00,02:00,05h 00m,1220.0,1220.0,Chintal,Police Control Room,Hyderabad,Vijayawada
-1988,FlixBus,A/C Sleeper (2+1),22:30,04:30,06h 00m,686.61,686.61,Kukatpally,Benz Circle,Hyderabad,Vijayawada
-1990,Ramana Tours And Travels,Non A/C Seater / Sleeper (2+1),22:15,04:45,06h 30m,675.0,675.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
-1991,Vikram Travels,VE A/C Sleeper (2+1),23:15,05:15,06h 00m,1889.0,1889.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
-1994,Shree Manikanta Travels,A/C Seater / Sleeper (2+1),13:42,19:50,06h 08m,1419.0,1419.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
-1995,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),14:50,21:00,06h 10m,1890.0,1890.0,Kukatpally,Old RTC Bus Stand,Hyderabad,Vijayawada
-1998,Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:10,04:30,06h 20m,1280.0,1280.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
-1999,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:25,04:30,06h 05m,990.0,990.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
-2002,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),15:20,01:00,09h 40m,1428.0,1428.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
-2003,IntrCity SmartBus,AC Sleeper (2+1),20:10,03:00,06h 50m,1419.0,1419.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
-2006,Vikram Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:10,01:35,06h 25m,1549.0,1549.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
-2007,Vikram Travels,A/C Sleeper (2+1),20:25,02:45,06h 20m,1159.0,1159.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1983,BSR Tours And Travels,A/C Sleeper (2+1),22:00,04:00,06h 00m,1880.0,2380.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1984,MAHA BUS,A/C Seater / Sleeper (2+1),22:50,05:30,06h 40m,999.0,1890.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1985,Sri Ganga Travels,A/C Seater / Sleeper (2+1),22:35,04:30,05h 55m,1880.0,2550.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1986,Shri Ganesh Travels (LR SIYOL),A/C Seater / Sleeper (2+1),05:10,09:00,03h 50m,500.0,500.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1987,Orange Tours and Travels,A/C Sleeper (2+1),22:20,04:35,06h 15m,870.0,870.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1988,Srivastav Travels,A/C Sleeper (2+1),21:00,04:00,07h 00m,899.0,1399.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1989,Morning Star Travels,A/C Sleeper (2+1),23:05,04:55,05h 50m,790.0,990.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1990,Srivastav Travels,Bharat Benz A/C Sleeper (2+1),21:00,05:15,08h 15m,1899.0,2799.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1992,Rainbow Tours And Travels,Non A/C Seater / Sleeper (2+1),19:25,02:20,06h 55m,5000.0,5000.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
+1993,V Kaveri Travels,A/C Sleeper (2+1),21:45,04:30,06h 45m,1590.0,1790.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1994,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:50,02:40,07h 50m,1111.0,1999.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1995,SAMANVI CITICONNECT,A/C Sleeper (2+1),22:12,04:30,06h 18m,1069.0,1749.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
