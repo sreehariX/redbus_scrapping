@@ -107,3 +107,19 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 106,VEE VEE BUS,A/C Seater / Sleeper (2+1),17:00,20:00,03h 00m,1349.1,1799.1,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
 107,Sri Mahaganapathi Travels,Non A/C Seater / Sleeper (2+1),05:45,09:25,03h 40m,2000.0,3500.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
 108,ALEGRIA HOLIDAYS,Non A/C Seater / Sleeper (2+1),20:55,23:59,03h 04m,799.0,1049.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+109,Nisha Travels,A/C Sleeper (2+1),22:40,03:10,04h 30m,2500.0,2500.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+110,Universal Bus( UTS),A/C Sleeper (2+1),23:10,02:10,03h 00m,890.0,1090.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+111,Rithikh Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:00,01:00,03h 00m,3000.0,3000.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+112,Universal Bus( UTS),A/C Sleeper (2+1),17:30,21:00,03h 30m,890.0,1090.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+113,Universal Bus( UTS),A/C Sleeper (2+1),06:00,09:30,03h 30m,890.0,1090.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+114,Sri Krishna Travels,A/C Sleeper (2+1),04:45,08:00,03h 15m,1480.0,1780.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+115,GMR Ragu Travels,A/C Seater/Sleeper (2+1),22:00,01:30,03h 30m,2400.0,2400.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+116,Thajudeen Yasmin Travels,NON A/C Sleeper (2+1),20:55,23:59,03h 04m,749.0,849.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+117,National Travels CHN,A/C Sleeper (2+1),23:10,03:00,03h 50m,899.0,1199.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+118,Wahab Travels,NON A/C Sleeper (2+1),20:45,23:55,03h 10m,2849.0,2849.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+119,GMR Ragu Travels,NON A/C Seater/ Sleeper (2+1),22:15,01:45,03h 30m,2400.0,2400.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+120,J J YATRA,A/C Sleeper (2+1),19:45,23:20,03h 35m,1895.0,2095.0,Koyambedu,Pondicherry Kootheripattu Bypass,Chennai,Pondicherry
+121,Sri Sugam Bus Tours and Travels,A/C Sleeper (2+1),05:30,08:20,02h 50m,5000.0,5000.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+122,Nataraja Travels,NON A/C Sleeper (2+1),22:00,02:35,04h 35m,999.0,1149.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+123,AVS Travels,Non A/C Seater / Sleeper (2+1),23:05,01:15,02h 10m,900.0,999.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+124,Bombay Raja Roadlinks,A/C Sleeper (2+1),22:00,02:00,04h 00m,1899.0,1899.0,Koyambedu,Muruga Theater,Chennai,Pondicherry
