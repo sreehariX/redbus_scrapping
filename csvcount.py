@@ -222,7 +222,46 @@ def process_specific_routes(csv_file_path):
         ("Hyderabad", "Bangalore"),
         ("Hyderabad", "Goa"),
         ("Hyderabad", "Srisailam"),
-        ("Hyderabad", "Vijayawada")
+        ("Hyderabad", "Vijayawada"),
+        ("Mumbai", "Shirdi"),
+        ("Mumbai", "Mahabaleshwar"),
+        ("Mumbai", "Kolhapur"),
+        ("Kolkata", "Digha"),
+        ("Kolkata", "Siliguri"),
+        ("Kolkata", "Puri"),
+        ("Kolkata", "Bakkhali"),
+        ("Kolkata", "Mandarmani"),
+        ("Chennai", "Bangalore"),
+        ("Chennai", "Pondicherry"),
+        ("Chennai", "Coimbatore"),
+        ("Chennai", "Madurai"),
+        ("Chennai", "Tirupathi"),
+        ("Chandigarh", "Manali"),
+        ("Chandigarh", "Shimla"),
+        ("Chandigarh", "Delhi"),
+        ("Chandigarh", "Dehradun"),
+        ("Chandigarh", "Amritsar"),
+        ("Coimbatore", "Chennai"),
+        ("Coimbatore", "Bangalore"),
+        ("Coimbatore", "Ooty"),
+        ("Coimbatore", "Tiruchendur"),
+        ("Coimbatore", "Madurai"),
+        ("Agra", "Bareilly"),
+        ("Hisar", "Chandigarh"),
+        ("Ayodhya", "Varanasi"),
+        ("Lucknow", "Ballia"),
+        ("Lucknow", "Moradabad"),
+        ("Rajkot", "Dwarka"),
+        ("Siliguri", "Gangtok"),
+        ("Ahmedabad", "Goa"),
+        ("Ahmedabad", "Kanpur"),
+        ("Akola", "Pune"),
+        ("Delhi", "Dehradun"),
+        ("Delhi", "Haridwar"),
+        ("Dehradun", "Delhi"),
+        ("Delhi", "Agra"),
+        ("Delhi", "Varanasi")
+
     ]
     
     print("\n" + "=" * 60)
@@ -345,7 +384,7 @@ def interactive_mode(csv_file_path):
         input("\nPress Enter to continue...")
 
 def main():
-    csv_file_path = 'bus_data.csv'
+    csv_file_path = 'merged_output_v1_test.csv'
     
     # Check if custom CSV file path is provided
     for arg in sys.argv:
@@ -392,6 +431,6 @@ def main():
 if __name__ == "__main__":
     # If run directly without arguments, process the specified routes
     if len(sys.argv) == 1:
-        process_specific_routes('bus_data.csv')
+        process_specific_routes('merged_output_v1_test.csv')
     else:
         main()

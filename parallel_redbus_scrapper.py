@@ -1075,35 +1075,35 @@ if __name__ == "__main__":
         # ("Hyderabad", "Bangalore"),
         # ("Hyderabad", "Goa"),
         # ("Hyderabad", "Srisailam"),
-        # ("Hyderabad", "Vijayawada"), error one  600+ routes
+        # ("Hyderabad", "Vijayawada"),
         # ("Hyderabad", "Tirupathi"),
         # ("Pune", "Goa"),
-        # ("Pune", "Mumbai"), error 428 routes
+        # ("Pune", "Mumbai"),
         # ("Pune", "Nagpur"),
-        # ("Pune", "Kolhapur"), error 283 busses
+        # ("Pune", "Kolhapur"),
         # ("Pune", "Nashik"),
         # ("Mumbai", "Goa"),
-        # ("Mumbai", "Pune"), error 545 entries
-        ("Mumbai", "Shirdi"),
-        ("Mumbai", "Mahabaleshwar"),
-        ("Mumbai", "Kolhapur"),
-        ("Kolkata", "Digha"),
-        ("Kolkata", "Siliguri"),
-        ("Kolkata", "Puri"),
-        ("Kolkata", "Bakkhali"),
-        ("Kolkata", "Mandarmani"),
-        ("Chennai", "Bangalore"),
-        ("Chennai", "Pondicherry"),
-        ("Chennai", "Coimbatore"),
-        ("Chennai", "Madurai"),
+        # ("Mumbai", "Pune"),
+        # ("Mumbai", "Shirdi"), done
+        # ("Mumbai", "Mahabaleshwar"), done
+        # ("Mumbai", "Kolhapur"), error 191
+        # ("Kolkata", "Digha"), error 255
+        # ("Kolkata", "Siliguri"), done
+        # ("Kolkata", "Puri"), done
+        # ("Kolkata", "Bakkhali"), done 
+        # ("Kolkata", "Mandarmani"), done
+        # ("Chennai", "Bangalore"),  error 160
+        # ("Chennai", "Pondicherry"),done
+        # ("Chennai", "Coimbatore"), 156
+        # ("Chennai", "Madurai"), 321
         ("Chennai", "Tirupathi"),
-        ("Chandigarh", "Manali"),
+        # ("Chandigarh", "Manali"),
         ("Chandigarh", "Shimla"),
-        ("Chandigarh", "Delhi"),
+        # ("Chandigarh", "Delhi"),
         ("Chandigarh", "Dehradun"),
         ("Chandigarh", "Amritsar"),
-        ("Coimbatore", "Chennai"),
-        ("Coimbatore", "Bangalore"),
+        # ("Coimbatore", "Chennai"),
+        # ("Coimbatore", "Bangalore"),
         ("Coimbatore", "Ooty"),
         ("Coimbatore", "Tiruchendur"),
         ("Coimbatore", "Madurai"),
@@ -1117,10 +1117,10 @@ if __name__ == "__main__":
         ("Ahmedabad", "Goa"),
         ("Ahmedabad", "Kanpur"),
         ("Akola", "Pune"),
-        ("Delhi", "Dehradun"),
-        ("Delhi", "Haridwar"),
-        ("Dehradun", "Delhi"),
-        ("Delhi", "Agra"),
+        # ("Delhi", "Dehradun"),
+        # ("Delhi", "Haridwar"),
+        # ("Dehradun", "Delhi"),
+        # ("Delhi", "Agra"),
         ("Delhi", "Varanasi")
     ]
     
