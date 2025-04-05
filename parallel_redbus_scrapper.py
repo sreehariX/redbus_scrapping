@@ -307,8 +307,15 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                 driver.execute_script("window.scrollTo(0, 0);")
                 time.sleep(2)
 
-                # Initial three scrolls as requested to potentially load buttons
-                print(f"[{from_city} to {to_city}] Performing initial three scrolls...")
+                # Initial scrolls to load content
+                print(f"[{from_city} to {to_city}] Performing initial scrolls to preload content...")
+                # First a full scroll to bottom and back to ensure page is fully loaded
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                time.sleep(2)
+                driver.execute_script("window.scrollTo(0, 0);")
+                time.sleep(2)
+                
+                # Then do progressive scrolls as before
                 for i in range(3):
                     # Scroll down progressively
                     scroll_amount = 750 * (i + 1)
@@ -323,7 +330,10 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
 
                 # Loop to find and click buttons one by one
                 clicked_button_count = 0
-                while True:
+                find_button_attempts = 0
+                max_find_attempts = 10  # Maximum number of attempts to find buttons
+                
+                while find_button_attempts < max_find_attempts:
                     try:
                         # Find all currently available "View Buses" buttons that are not "Hide Buses"
                         view_buses_xpath = "//div[contains(@class,'button') and contains(text(),'View Buses') and not(contains(text(), 'Hide'))]"
@@ -332,11 +342,24 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                         current_button_count = len(view_buses_buttons)
                         print(f"[{from_city} to {to_city}] Found {current_button_count} View Buses buttons remaining.")
 
-                        # If no buttons are found, exit the loop
+                        # If no buttons are found, retry a few times before exiting
                         if current_button_count == 0:
-                            print(f"[{from_city} to {to_city}] No more View Buses buttons found. Exiting loop.")
-                            break
+                            find_button_attempts += 1
+                            if find_button_attempts >= max_find_attempts:
+                                print(f"[{from_city} to {to_city}] No more View Buses buttons found after {find_button_attempts} attempts. Exiting loop.")
+                                break
+                            else:
+                                print(f"[{from_city} to {to_city}] No buttons found, attempt {find_button_attempts}/{max_find_attempts}. Scrolling to refresh...")
+                                # Try scrolling up and down to refresh the view
+                                driver.execute_script("window.scrollTo(0, 0);")
+                                time.sleep(1)
+                                driver.execute_script("window.scrollBy(0, 500);")
+                                time.sleep(1)
+                                continue
 
+                        # Reset find attempts counter since we found buttons
+                        find_button_attempts = 0
+                        
                         # Target the first button in the list
                         button_to_click = view_buses_buttons[0]
 
@@ -348,9 +371,9 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                         # Verify button is displayed before clicking
                         if not button_to_click.is_displayed():
                             print(f"[{from_city} to {to_city}] Button is not displayed, skipping and trying next cycle.")
-                            # Optional: Scroll slightly differently or wait longer?
+                            # Scroll slightly differently and wait longer
                             driver.execute_script("window.scrollBy(0, 100);") # Small scroll adjust
-                            time.sleep(1) # Correctly indented sleep
+                            time.sleep(2) # Longer wait time
                             continue # Go to next iteration of the loop
 
                         # Click the button
@@ -398,7 +421,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                 # Get initial bus count after button clicks and returning to top
                 last_bus_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                 consecutive_no_change = 0
-                max_consecutive_no_change = 3
+                max_consecutive_no_change = 6  # Increased from 3 to 6
 
                 # Do a complete scroll to load all buses
                 while True:
@@ -423,8 +446,15 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                         if consecutive_no_change >= max_consecutive_no_change:
                             # Final full scroll to bottom to ensure everything is loaded
                             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                            time.sleep(2)  # Increased wait time after final scroll
+                            
+                            # Force one more complete scroll to ensure everything is loaded
+                            driver.execute_script("window.scrollTo(0, 0);")  # Back to top
                             time.sleep(1)
-                            print(f"[{from_city} to {to_city}] Confirmed: All buses loaded. Ending scroll.")
+                            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # To bottom again
+                            time.sleep(2)
+                            
+                            print(f"[{from_city} to {to_city}] Confirmed: All buses loaded after extended scrolling. Ending scroll.")
                             break
                     else:
                         # Reset counter if either height or bus count changed

@@ -59,3 +59,13 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 58,Muthumari Travels,NON A/C Sleeper (2+1),20:25,05:15,08h 50m,950.0,1000.0,Koyambedu,Mattuthavani,Chennai,Madurai
 59,IntrCity SmartBus,A/C Sleeper (2+1),21:50,05:15,07h 25m,1599.0,2659.0,Perungalathur,Mattuthavani,Chennai,Madurai
 60,National Travels CHN,A/C Seater / Sleeper (2+1),19:25,03:50,08h 25m,950.0,1600.0,Koyambedu,Mattuthavani,Chennai,Madurai
+61,YBM Travels(BLM),A/C Sleeper (2+1),20:45,04:30,07h 45m,1500.0,1790.0,Koyambedu,Mattuthavani,Chennai,Madurai
+62,National Travels CHN,Bharat Benz A/C Sleeper (2+1),22:00,06:35,08h 35m,1499.0,1699.0,Koyambedu,Mattuthavani,Chennai,Madurai
+63,Tranz king travels,A/C Sleeper (2+1),20:05,04:35,08h 30m,1300.0,1400.0,Koyambedu,Mattuthavani,Chennai,Madurai
+64,GKR TRAVELS,NON A/C Sleeper (2+1),20:15,04:30,08h 15m,850.0,950.0,Koyambedu,Mattuthavani,Chennai,Madurai
+65,YBM Travels(BLM),A/C Sleeper (2+1),20:45,04:00,07h 15m,1800.0,2100.0,Koyambedu,Mattuthavani,Chennai,Madurai
+66,YBM Travels(BLM),Volvo A/C B11R Multi Axle Semi Sleeper (2+2),09:00,16:30,07h 30m,1600.0,2150.0,Koyambedu,Mattuthavani,Chennai,Madurai
+67,BLUE BIRDS TRAVELS,A/C Sleeper (2+1),21:30,06:30,09h 00m,1129.0,1429.0,Egmore,Mattuthavani,Chennai,Madurai
+68,FlixBus,A/C Sleeper (2+1),22:00,06:10,08h 10m,570.54,570.54,Koyambedu,Mattuthavani,Chennai,Madurai
+69,YBM Travels(BLM),A/C Sleeper (2+1),21:30,05:00,07h 30m,1700.0,1850.0,Koyambedu,Mattuthavani,Chennai,Madurai
+70,RP Tours and Travels,A/C Sleeper (2+1),23:59,07:50,07h 51m,990.0,1290.0,Koyambedu,Mattuthavani,Chennai,Madurai

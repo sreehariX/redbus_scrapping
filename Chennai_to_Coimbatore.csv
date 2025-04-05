@@ -94,3 +94,16 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 93,Hindusthan Travels,A/C Sleeper (2+1),21:30,07:05,09h 35m,1200.0,1300.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
 94,YBM Travels(BLM),A/C Sleeper (2+1),18:00,04:00,10h 00m,1850.0,2180.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
 95,National Travels CHN,A/C Seater / Sleeper (2+1),21:15,07:30,10h 15m,960.0,1860.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+96,Vetri Travels,Bharat Benz A/C Sleeper (2+1),19:15,04:35,09h 20m,999.0,1099.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+97,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:20,04:00,09h 40m,1300.0,1600.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+98,Krish Travels,Bharat Benz A/C Seater /Sleeper (2+1),15:00,23:55,08h 55m,950.0,1500.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+99,SBM TRAANSPORT,Bharat Benz A/C Sleeper (2+1),16:55,03:45,10h 50m,1850.0,2200.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+100,Air Indiaa Travels,NON A/C Semi Sleeper / Sleeper (2+1),20:35,07:00,10h 25m,990.0,1190.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+101,Delta Transports Pvt Ltd,Bharat Benz A/C Sleeper (2+1),19:30,05:05,09h 35m,1870.0,2270.0,Koyambedu,Madhukkarai,Chennai,Coimbatore
+102,ANA TRAVELS,A/C Seater (2+2),20:20,06:30,10h 10m,1499.0,1499.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+103,City Travels,NON AC Seater / Sleeper 2+1,22:00,07:30,09h 30m,1099.0,1399.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+104,Jayavin Travels,A/C Seater / Sleeper (2+1),18:00,04:05,10h 05m,1500.0,2420.0,Koyambedu,Karumathampatti,Chennai,Coimbatore
+105,Vijay Travels,VE A/C Seater / Sleeper (2+1),19:00,05:30,10h 30m,2699.0,2699.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+106,National Travels CHN,Non A/C Seater / Sleeper (2+1),20:15,06:40,10h 25m,800.0,1400.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+107,Jai Vishnu Travels,NON A/C Seater/ Sleeper (2+1),22:35,07:25,08h 50m,1350.0,1530.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+108,City Travels,Non A/C Seater / Sleeper (2+1),23:00,08:30,09h 30m,1099.0,1399.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
