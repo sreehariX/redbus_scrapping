@@ -223,18 +223,26 @@ def process_specific_routes(csv_file_path):
         ("Hyderabad", "Goa"),
         ("Hyderabad", "Srisailam"),
         ("Hyderabad", "Vijayawada"),
-        ("Mumbai", "Shirdi"),
-        ("Mumbai", "Mahabaleshwar"),
-        ("Mumbai", "Kolhapur"),
-        ("Kolkata", "Digha"),
-        ("Kolkata", "Siliguri"),
-        ("Kolkata", "Puri"),
-        ("Kolkata", "Bakkhali"),
-        ("Kolkata", "Mandarmani"),
-        ("Chennai", "Bangalore"),
+        ("Hyderabad", "Tirupathi"),
+        ("Pune", "Goa"),
+        ("Pune", "Mumbai"),
+        ("Pune", "Nagpur"),
+        ("Pune", "Kolhapur"),
+        ("Pune", "Nashik"),
+        ("Mumbai", "Goa"),
+        ("Mumbai", "Pune"),
+        ("Mumbai", "Shirdi"), 
+        ("Mumbai", "Mahabaleshwar"), 
+        ("Mumbai", "Kolhapur"), 
+        ("Kolkata", "Digha"), 
+        ("Kolkata", "Siliguri"), 
+        ("Kolkata", "Puri"), 
+        ("Kolkata", "Bakkhali"), 
+        ("Kolkata", "Mandarmani"), 
+        ("Chennai", "Bangalore"), 
         ("Chennai", "Pondicherry"),
-        ("Chennai", "Coimbatore"),
-        ("Chennai", "Madurai"),
+        ("Chennai", "Coimbatore"), 
+        ("Chennai", "Madurai"), 
         ("Chennai", "Tirupathi"),
         ("Chandigarh", "Manali"),
         ("Chandigarh", "Shimla"),
@@ -384,7 +392,7 @@ def interactive_mode(csv_file_path):
         input("\nPress Enter to continue...")
 
 def main():
-    csv_file_path = 'merged_output_v1_test.csv'
+    csv_file_path = 'merged_output_v2_test.csv'
     
     # Check if custom CSV file path is provided
     for arg in sys.argv:
@@ -431,6 +439,6 @@ def main():
 if __name__ == "__main__":
     # If run directly without arguments, process the specified routes
     if len(sys.argv) == 1:
-        process_specific_routes('merged_output_v1_test.csv')
+        process_specific_routes('merged_output_v2_test.csv')
     else:
         main()

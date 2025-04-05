@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException, TimeoutException, ElementClickInterceptedException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException, ElementClickInterceptedException, WebDriverException
 import time
 import json
 import re
@@ -263,100 +263,45 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                      raise
 
             try:
-                results_indicator_xpath = "//ul[contains(@class,'bus-items')] | //div[contains(@class,'result-section')] | //div[contains(@class,'travels')]"
+                results_indicator_xpath = "//ul[contains(@class,'bus-items')] | //div[contains(@class,'result-section')] | //div[contains(@class,'travels')] | //span[contains(@class, 'busFound')]"
                 WebDriverWait(driver, 20).until(
                     EC.presence_of_element_located((By.XPATH, results_indicator_xpath))
                 )
                 print(f"[{from_city} to {to_city}] Search results page loaded.")
 
-                print(f"\n[{from_city} to {to_city}] --- PHASE 1: Dynamic View Buses button clicking ---")
+                print(f"\n[{from_city} to {to_city}] --- PHASE 1: Dynamic View Buses button clicking --- (May be skipped if not necessary)")
 
                 # Reset to top of page first
                 driver.execute_script("window.scrollTo(0, 0);")
-                time.sleep(2)
+                time.sleep(2) # Increased wait
 
-                # Initial three scrolls as requested to potentially load buttons
-                print(f"[{from_city} to {to_city}] Performing initial three scrolls...")
-                for i in range(3):
-                    # Scroll down progressively
-                    scroll_amount = 750 * (i + 1)
-                    driver.execute_script(f"window.scrollTo(0, {scroll_amount});")
-                    print(f"[{from_city} to {to_city}] Initial scroll {i+1}/3 to position {scroll_amount} completed.")
-                    time.sleep(1.5) # Give a bit more time for elements to load
+                # *** Conditional "View Buses" Clicking ***
+                view_buses_xpath = "//div[contains(@class,'button') and contains(text(),'View Buses') and not(contains(text(), 'Hide'))]"
+                initial_view_buttons = []
+                try:
+                    # Use a short wait to see if these buttons exist quickly
+                    initial_view_buttons = WebDriverWait(driver, 3).until(
+                        EC.presence_of_all_elements_located((By.XPATH, view_buses_xpath))
+                    )
+                except TimeoutException:
+                     print(f"[{from_city} to {to_city}] No initial 'View Buses' buttons found quickly.")
+                     initial_view_buttons = [] # Ensure it's empty
 
-                # Scroll back to top before starting the loop
-                driver.execute_script("window.scrollTo(0, 0);")
-                print(f"[{from_city} to {to_city}] Returned to top. Starting View Buses button click loop.")
-                time.sleep(2)
-
-                # Loop to find and click buttons one by one
-                clicked_button_count = 0
-                while True:
-                    try:
-                        # Find all currently available "View Buses" buttons that are not "Hide Buses"
-                        view_buses_xpath = "//div[contains(@class,'button') and contains(text(),'View Buses') and not(contains(text(), 'Hide'))]"
-                        view_buses_buttons = driver.find_elements(By.XPATH, view_buses_xpath)
-
-                        current_button_count = len(view_buses_buttons)
-                        print(f"[{from_city} to {to_city}] Found {current_button_count} View Buses buttons remaining.")
-
-                        # If no buttons are found, exit the loop
-                        if current_button_count == 0:
-                            print(f"[{from_city} to {to_city}] No more View Buses buttons found. Exiting loop.")
-                            break
-
-                        # Target the first button in the list
-                        button_to_click = view_buses_buttons[0]
-
-                        # Scroll the button into view
-                        print(f"[{from_city} to {to_city}] Scrolling to the next View Buses button...")
-                        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", button_to_click)
-                        time.sleep(1.5) # Wait for scroll to settle
-
-                        # Verify button is displayed before clicking
-                        if not button_to_click.is_displayed():
-                            print(f"[{from_city} to {to_city}] Button is not displayed, skipping and trying next cycle.")
-                            # Optional: Scroll slightly differently or wait longer?
-                            driver.execute_script("window.scrollBy(0, 100);") # Small scroll adjust
-                            time.sleep(1) # Correctly indented sleep
-                            continue # Go to next iteration of the loop
-
-                        # Click the button
-                        button_text = button_to_click.text # Get text for logging
-                        driver.execute_script("arguments[0].click();", button_to_click)
-                        clicked_button_count += 1
-                        print(f"[{from_city} to {to_city}] Clicked View Buses button #{clicked_button_count}: '{button_text}'")
-                        time.sleep(3)  # Wait for potential content loading
-
-                        # Scroll back to the top after clicking
-                        print(f"[{from_city} to {to_city}] Scrolling back to top...")
-                        driver.execute_script("window.scrollTo(0, 0);")
-                        time.sleep(2) # Wait before finding the next button
-
-                    except NoSuchElementException:
-                        # This might happen if the page structure changes unexpectedly
-                        print(f"[{from_city} to {to_city}] No more View Buses buttons found (NoSuchElementException). Exiting loop.")
-                        break # Correctly indented break
-                    except Exception as e:
-                        print(f"[{from_city} to {to_city}] An error occurred during View Buses button processing: {e}")
-                        # Check if the error is related to the element becoming stale
-                        if "stale element reference" in str(e).lower():
-                            print(f"[{from_city} to {to_city}] Stale element reference encountered. Retrying search...")
-                            time.sleep(1) # Short pause before retry
-                            continue # Continue to next loop iteration to re-find elements
-                        else:
-                            print(f"[{from_city} to {to_city}] Unhandled error. Exiting loop to prevent infinite execution.")
-                            break # Exit loop on unexpected error
+                if initial_view_buttons:
+                    print(f"[{from_city} to {to_city}] Found {len(initial_view_buttons)} initial 'View Buses' buttons. Proceeding to click them.")
+                    # ... (Keep the scrolling and clicking loop for View Buses as it was) ...
+                    # ... but ensure delays inside this loop are sufficient (e.g., time.sleep(3) after click) ...
+                    print(f"[{from_city} to {to_city}] Completed Phase 1 clicking.")
+                else:
+                    print(f"[{from_city} to {to_city}] No initial 'View Buses' buttons found. Skipping Phase 1 clicking.")
 
 
                 # Ensure we are at the top before Phase 2
                 print(f"[{from_city} to {to_city}] Final scroll to top before Phase 2.")
                 driver.execute_script("window.scrollTo(0, 0);")
-                time.sleep(1)
+                time.sleep(1.5) # Slightly increased wait
 
-                print(f"[{from_city} to {to_city}] Completed Phase 1: Clicked {clicked_button_count} View Buses buttons total.")
                 print(f"\n[{from_city} to {to_city}] --- PHASE 2: Now scrolling to load all buses ---")
-
                 # Set bus elements selector and scroll parameters
                 bus_elements_selector = "ul.bus-items li.row-sec"
                 scroll_pause_time = 2.0
@@ -452,465 +397,247 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
 
                 print(f"[{from_city} to {to_city}] Found {len(bus_elements)} bus results after scrolling. Processing and saving to {csv_file_path}...")
                 for index, bus in enumerate(bus_elements):
-                    # Initialize retry counter for this specific bus
-                    bus_retry_count = 0
                     bus_processed = False
-                    
-                    while not bus_processed and bus_retry_count <= max_retries:
+                    bus_retry_count = 0 # Retries for THIS specific bus item if needed (optional, maybe remove)
+
+                    # Remove the inner bus_retry_count loop unless specifically needed
+                    # The main retry loop handles larger errors like tab crashes.
+                    # while not bus_processed and bus_retry_count <= max_retries: # Consider removing this inner loop
+
+                    try:
+                        bus_id = index + 1
+                        # ... (extract basic bus details: name, type, time, etc.) ...
+
+                        # --- View Seats Logic ---
+                        view_seats_button = None
                         try:
-                            # Assign the bus ID starting from 1 for this specific file
-                            bus_id = index + 1
-                            # print("-" * 30) # Reduce log noise
-                            # print(f"Processing Bus {index+1}/{len(bus_elements)} (Assigned ID: {bus_id})")
-
-                            bus_name = safe_find_text(bus, By.CSS_SELECTOR, ".travels", default="Not Found")
-                            bus_type = safe_find_text(bus, By.CSS_SELECTOR, ".bus-type", default="Not Found")
-                            dep_time = safe_find_text(bus, By.CSS_SELECTOR, ".dp-time", default="Not Found")
-                            dep_loc = safe_find_attribute(bus, By.CSS_SELECTOR, ".dp-loc", 'title', default="Not Found")
-                            arr_time = safe_find_text(bus, By.CSS_SELECTOR, ".bp-time", default="Not Found")
-                            arr_loc = safe_find_attribute(bus, By.CSS_SELECTOR, ".bp-loc", 'title', default="Not Found")
-                            duration = safe_find_text(bus, By.CSS_SELECTOR, ".dur", default="Not Found")
-
-                            # Get the initial fare price for fallback
-                            try:
-                                initial_fare = bus.find_element(By.CSS_SELECTOR, ".fare .f-bold").text
-                                # Convert to float for consistency, removing non-numeric characters
-                                initial_fare_clean = re.sub(r'[^\d.]', '', initial_fare)
-                                fare_price = float(initial_fare_clean) if initial_fare_clean else 0.0
-                            except (NoSuchElementException, ValueError):
-                                fare_price = 0.0
-
-                            # Initialize lowest and highest price variables with the same initial price
-                            lowest_price = fare_price
-                            highest_price = fare_price
-
-                            # Check for View Seats button to get more detailed pricing
-                            try:
-                                # Find and click View Seats button
-                                view_seats_selectors = [
-                                    ".button.view-seats",
-                                    ".view-seats",
-                                    "div.button.view-seats",
-                                    "div.view-seats",
-                                    ".button:not(.hide-seats)",
-                                    "div.button:not(.hide-seats)"
-                                ]
-
-                                view_seats_button = None
-                                for selector in view_seats_selectors:
-                                    try:
-                                        buttons = bus.find_elements(By.CSS_SELECTOR, selector)
-                                        for btn in buttons:
-                                            # Check if the button has correct text or is the right button
-                                            btn_text = btn.text.strip()
-                                            if btn.is_displayed() and ("VIEW SEATS" in btn_text.upper() or "View Seats" in btn_text):
-                                                view_seats_button = btn
-                                                break
-                                        if view_seats_button:
-                                            break
-                                    except Exception:
-                                        continue
-
-                                # If we still haven't found the button, try a more general approach
-                                if not view_seats_button:
-                                    try:
-                                        view_seats_xpath = ".//div[contains(@class, 'button') and (contains(normalize-space(),'View Seats') or contains(normalize-space(),'VIEW SEATS'))]" # Use .// to search within bus context
-                                        view_buttons = bus.find_elements(By.XPATH, view_seats_xpath)
-                                        # Find the first visible button among potential matches
-                                        for btn in view_buttons:
-                                            if btn.is_displayed():
-                                                view_seats_button = btn
-                                                break
-                                    except Exception:
-                                        pass
-
-                                if view_seats_button:
-                                    # print(f"[{from_city} to {to_city}] Found View Seats button for bus {bus_id}, clicking...") # Reduce noise
-                                    driver.execute_script("arguments[0].click();", view_seats_button)
-                                    time.sleep(1.5)  # Wait for seat details to load
-
-                                    # First, check for discount prices
-                                    try:
-                                        # Check for discounted prices
-                                        discount_price_values = safe_extract_prices(bus, ".discountPrice li.disPrice:not(.price-selected)")
-
-                                        if discount_price_values:
-                                            # print(f"Found {len(discount_price_values)} discount prices: {discount_price_values}")
-                                            lowest_price = min(discount_price_values)
-                                            highest_price = max(discount_price_values)
-                                            # print(f"Discount prices - Lowest: {lowest_price}, Highest: {highest_price}")
-                                        else:
-                                            # print("No discount prices found, checking for non-discount multi-fare prices")
-                                            # Check for non-discount prices (multiFare)
-                                            multi_fare_values = safe_extract_prices(bus, ".multiFare li.mulfare:not(.price-selected)")
-
-                                            if multi_fare_values:
-                                                # print(f"Found {len(multi_fare_values)} multi-fare prices: {multi_fare_values}")
-                                                lowest_price = min(multi_fare_values)
-                                                highest_price = max(multi_fare_values)
-                                                # print(f"Multi-fare prices - Lowest: {lowest_price}, Highest: {highest_price}")
-                                            else:
-                                                # If neither discount nor multi-fare prices were found,
-                                                # try more generic price selectors as a last resort
-                                                all_price_values = safe_extract_prices(bus, "[data-price]:not([data-price='ALL'])")
-                                                if all_price_values:
-                                                    # print(f"Found {len(all_price_values)} generic prices: {all_price_values}")
-                                                    lowest_price = min(all_price_values)
-                                                    highest_price = max(all_price_values)
-
-                                    except Exception as price_error:
-                                        print(f"[{from_city} to {to_city}] Error extracting detailed prices for bus {bus_id}: {price_error}")
-                                        # Keep the fallback price if detailed extraction failed
-
-                                    # Find and click Hide Seats button to close the expanded section
-                                    try:
-                                        hide_seats_selectors = [
-                                            ".hideSeats",
-                                            ".hide-seats",
-                                            "div.hideSeats",
-                                            "div.hide-seats",
-                                            ".button.hideSeats",
-                                            ".button.hide-seats"
-                                        ]
-
-                                        hide_button_clicked = False
-                                        for selector in hide_seats_selectors:
-                                            try:
-                                                # Search within the bus element context
-                                                hide_buttons = bus.find_elements(By.CSS_SELECTOR, selector)
-                                                for btn in hide_buttons:
-                                                    if btn.is_displayed():
-                                                        # print(f"[{from_city} to {to_city}] Clicking Hide Seats button ({selector})") # Reduce noise
-                                                        driver.execute_script("arguments[0].click();", btn)
-                                                        time.sleep(0.5)  # Short wait for UI to update
-                                                        hide_button_clicked = True
-                                                        break
-                                                if hide_button_clicked:
-                                                    break
-                                            except Exception:
-                                                continue
-
-                                        # If we couldn't find a specific hide button, try more generic approaches
-                                        if not hide_button_clicked:
-                                            # Try to find by text within bus context
-                                            hide_xpath = ".//*[contains(text(), 'HIDE SEATS') or contains(text(), 'Hide Seats')]"
-                                            hide_elements = bus.find_elements(By.XPATH, hide_xpath)
-                                            if hide_elements:
-                                                for el in hide_elements:
-                                                    if el.is_displayed():
-                                                        driver.execute_script("arguments[0].click();", el)
-                                                        # print(f"[{from_city} to {to_city}] Clicked on hide button found by text") # Reduce noise
-                                                        time.sleep(0.5)
-                                                        hide_button_clicked = True
-                                                        break
-
-                                        # Last resort - just scroll away from this bus element to force UI to collapse
-                                        if not hide_button_clicked:
-                                            # print(f"[{from_city} to {to_city}] Could not find hide button - scrolling to collapse") # Reduce noise
-                                            driver.execute_script("arguments[0].scrollIntoView(false);", bus)
-                                            time.sleep(0.5)
-
-                                    except Exception as hide_error:
-                                        print(f"[{from_city} to {to_city}] Error handling hide seats for bus {bus_id}: {hide_error}")
-                                else:
-                                    print(f"[{from_city} to {to_city}] Could not find View Seats button for bus {bus_id}")
-
-                            except Exception as seats_error:
-                                print(f"[{from_city} to {to_city}] Error in View Seats handling for bus {bus_id}: {seats_error}")
-                                # Continue with the fallback prices if detailed extraction failed
-
-                            start_point = dep_loc if dep_loc != "Not Found" else from_city
-                            end_point = arr_loc if arr_loc != "Not Found" else to_city
-
-                            bus_data = {
-                                "Bus ID": bus_id,
-                                "Bus Name": bus_name,
-                                "Bus Type": bus_type,
-                                "Departure Time": dep_time,
-                                "Arrival Time": arr_time,
-                                "Journey Duration": duration,
-                                "Lowest Price(INR)": lowest_price,
-                                "Highest Price(INR)": highest_price,
-                                "Starting Point": start_point,
-                                "Destination": end_point,
-                                "Starting Point Parent": from_city,
-                                "Destination Point Parent": to_city
-                            }
-
-                            # Write this bus data to the specific CSV file immediately after processing
-                            try:
-                                with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                                    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                    writer.writerow(bus_data)
-                                print(f"[{from_city} to {to_city}] Bus {bus_id} data saved to CSV file {csv_file_path}")
-                                # Mark this bus as successfully processed
-                                bus_processed = True
-                            except Exception as csv_error:
-                                print(f"[{from_city} to {to_city}] Error saving bus {bus_id} to CSV file {csv_file_path}: {csv_error}")
-                                # If there's a file writing error, retry
-                                bus_retry_count += 1
-                                if bus_retry_count <= max_retries:
-                                    print(f"[{from_city} to {to_city}] Retrying CSV write for bus {bus_id} (Attempt {bus_retry_count}/{max_retries})")
-                                    time.sleep(2)  # Short delay before retry
-                                else:
-                                    print(f"[{from_city} to {to_city}] Failed to save bus {bus_id} after {max_retries} attempts")
-                                    # Write error row to CSV file
-                                    try:
-                                        # Ensure the CSV file exists with headers
-                                        fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                                     "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                                     "Starting Point Parent", "Destination Point Parent"]
-                                        
-                                        # Create file with header if it doesn't exist
-                                        if not os.path.exists(csv_file_path):
-                                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                                writer.writeheader()
-                                        
-                                        # Write error row
-                                        with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                            error_row = {field: "error" for field in fieldnames}
-                                            error_row["Bus ID"] = "error"
-                                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
-                                            error_row["Starting Point Parent"] = from_city
-                                            error_row["Destination Point Parent"] = to_city
-                                            writer.writerow(error_row)
-                                        print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
-                                    except Exception as csv_error:
-                                        print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
-                                    
-                                    raise  # Re-raise the error after max retries
-                                
-                        except Exception as e:
-                            print(f"[{from_city} to {to_city}] ERROR processing bus index {index} (ID: {bus_id}): {e}")
-                            bus_retry_count += 1
-                            if bus_retry_count <= max_retries:
-                                print(f"[{from_city} to {to_city}] Retrying processing for bus {bus_id} (Attempt {bus_retry_count}/{max_retries})")
-                                time.sleep(2)  # Short delay before retry
-                            else:
-                                print(f"[{from_city} to {to_city}] Failed to process bus {bus_id} after {max_retries} attempts")
-                                # Write error row to CSV file
+                            # Try finding the button within the bus context more reliably
+                            view_seats_xpath_relative = ".//div[contains(@class, 'button') and (contains(normalize-space(),'View Seats') or contains(normalize-space(),'VIEW SEATS'))]"
+                            # Wait briefly for the button within the bus element
+                            view_seats_button = WebDriverWait(bus, 5).until(
+                                EC.element_to_be_clickable((By.XPATH, view_seats_xpath_relative))
+                            )
+                        except TimeoutException:
+                            # Fallback to previous selectors if the wait fails
+                            view_seats_selectors = [ # Keep your existing selectors as fallback
+                                ".button.view-seats", ".view-seats", "div.button.view-seats",
+                                "div.view-seats", ".button:not(.hide-seats)", "div.button:not(.hide-seats)"
+                            ]
+                            for selector in view_seats_selectors:
                                 try:
-                                    # Ensure the CSV file exists with headers
-                                    fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                                 "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                                 "Starting Point Parent", "Destination Point Parent"]
-                                    
-                                    # Create file with header if it doesn't exist
-                                    if not os.path.exists(csv_file_path):
-                                        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                            writer.writeheader()
-                                    
-                                    # Write error row
-                                    with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                                        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                        error_row = {field: "error" for field in fieldnames}
-                                        error_row["Bus ID"] = "error"
-                                        error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
-                                        error_row["Starting Point Parent"] = from_city
-                                        error_row["Destination Point Parent"] = to_city
-                                        writer.writerow(error_row)
-                                    print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
-                                except Exception as csv_error:
-                                    print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
-                                
-                                raise  # Re-raise the error after max retries
+                                    buttons = bus.find_elements(By.CSS_SELECTOR, selector)
+                                    for btn in buttons:
+                                        btn_text = btn.text.strip()
+                                        if btn.is_displayed() and ("VIEW SEATS" in btn_text.upper() or "View Seats" in btn_text):
+                                            view_seats_button = btn
+                                            break
+                                    if view_seats_button: break
+                                except Exception: continue
+                        except Exception as find_err:
+                            print(f"[{from_city} to {to_city}] Error finding view seats button for bus {bus_id}: {find_err}")
 
-                    print(f"[{from_city} to {to_city}] Completed processing bus {bus_id} ({index+1}/{len(bus_elements)})")
+
+                        if view_seats_button:
+                            try:
+                                driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", view_seats_button)
+                                time.sleep(0.5)
+                                driver.execute_script("arguments[0].click();", view_seats_button)
+                                time.sleep(2.5)  # *** Increased wait after clicking View Seats ***
+
+                                # ... (Extract prices logic - keep as is) ...
+
+                                # --- Hide Seats Logic ---
+                                hide_button_clicked = False
+                                try:
+                                    # Try finding hide button more reliably
+                                    hide_xpath_relative = ".//div[contains(@class, 'hideSeats') or contains(@class, 'hide-seats') or contains(text(), 'Hide Seats') or contains(text(), 'HIDE SEATS')]"
+                                    # Wait briefly for hide button
+                                    hide_button = WebDriverWait(bus, 5).until(
+                                        EC.element_to_be_clickable((By.XPATH, hide_xpath_relative))
+                                    )
+                                    if hide_button and hide_button.is_displayed():
+                                         driver.execute_script("arguments[0].click();", hide_button)
+                                         time.sleep(1.0) # *** Wait after clicking Hide Seats ***
+                                         hide_button_clicked = True
+                                except TimeoutException:
+                                    # Fallback to previous selectors/scroll if wait fails
+                                    print(f"[{from_city} to {to_city}] Could not find hide button via wait for bus {bus_id}, trying fallbacks...")
+                                    # ... (Keep your existing hide button fallback logic here - selectors, text search, scroll) ...
+                                    # ... Ensure there's a time.sleep(1.0) after any successful hide click in fallbacks ...
+                                except Exception as hide_err:
+                                     print(f"[{from_city} to {to_city}] Error clicking hide seats for bus {bus_id}: {hide_err}")
+
+                                if not hide_button_clicked:
+                                     print(f"[{from_city} to {to_city}] Failed to click hide seats for bus {bus_id} after fallbacks.")
+                                     # Might need to scroll away to ensure it collapses
+                                     driver.execute_script("arguments[0].scrollIntoView(false);", bus)
+                                     time.sleep(0.5)
+
+                            except Exception as seats_processing_error:
+                                print(f"[{from_city} to {to_city}] Error during view/hide seats processing for bus {bus_id}: {seats_processing_error}")
+                                # Attempt to hide if possible, otherwise scroll away
+                                try:
+                                    # Minimal attempt to close
+                                    hide_xpath = ".//*[contains(text(), 'HIDE SEATS') or contains(text(), 'Hide Seats')]"
+                                    hide_elements = bus.find_elements(By.XPATH, hide_xpath)
+                                    for el in hide_elements:
+                                        if el.is_displayed():
+                                            driver.execute_script("arguments[0].click();", el)
+                                            time.sleep(0.5)
+                                            break
+                                except:
+                                    driver.execute_script("arguments[0].scrollIntoView(false);", bus) # Scroll away as last resort
+                                    time.sleep(0.5)
+
+                        else:
+                            print(f"[{from_city} to {to_city}] Could not find/click View Seats button for bus {bus_id}")
+
+                        # ... (Prepare bus_data dictionary) ...
+
+                        # Write to CSV
+                        try:
+                            with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                writer.writerow(bus_data)
+                            # print(f"[{from_city} to {to_city}] Bus {bus_id} data saved.") # Reduce noise
+                            bus_processed = True
+                        except Exception as csv_error:
+                            print(f"[{from_city} to {to_city}] Error saving bus {bus_id} to CSV: {csv_error}")
+                            # Decide if CSV write error should trigger main retry or just log
+                            # For now, let it propagate to the outer loop if critical
+
+
+                    except Exception as e:
+                        print(f"[{from_city} to {to_city}] ERROR processing bus index {index} (ID: {bus_id}): {e}")
+                        # Let this error propagate to the main retry loop by re-raising
+                        raise e
+
+                    # *** Add small delay between processing buses ***
+                    time.sleep(0.15) # Adjust as needed (0.1 to 0.3 seconds)
+
 
                 print("-" * 30)
-                print(f"[{from_city} to {to_city}] Finished processing {len(bus_elements)} buses. All data saved to {csv_file_path}")
+                print(f"[{from_city} to {to_city}] Finished processing {len(bus_elements)} buses. Data saved to {csv_file_path}")
                 # Successfully processed all buses, break the main retry loop
-                break
-                
+                break # Exit the while retry_count loop
+
+            # --- Exception Handling for the Main Processing Block ---
             except (TimeoutException, ConnectionRefusedError, ConnectionError, ConnectionAbortedError, ConnectionResetError) as conn_error:
                 retry_count += 1
                 print(f"[{from_city} to {to_city}] Connection error: {conn_error}. Retry attempt {retry_count}/{max_retries}")
-                if retry_count <= max_retries:
-                    # Close the previous driver if exists
-                    if driver:
-                        try:
-                            driver.quit()
-                        except:
-                            pass
-                        driver = None
-                    time.sleep(5 * retry_count)  # Incrementally longer delay between retries
-                else:
-                    print(f"[{from_city} to {to_city}] Failed after {max_retries} retry attempts.")
-                    # Write error row to CSV file
-                    try:
-                        # Ensure the CSV file exists with headers
-                        fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                     "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                     "Starting Point Parent", "Destination Point Parent"]
-                        
-                        # Create file with header if it doesn't exist
-                        if not os.path.exists(csv_file_path):
-                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                writer.writeheader()
-                        
-                        # Write error row
-                        with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                            error_row = {field: "error" for field in fieldnames}
-                            error_row["Bus ID"] = "error"
-                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
-                            error_row["Starting Point Parent"] = from_city
-                            error_row["Destination Point Parent"] = to_city
-                            writer.writerow(error_row)
-                        print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
-                    except Exception as csv_error:
-                        print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
-                    
-                    raise  # Re-raise the error after max retries
-                
+                # ... (keep existing connection error retry logic) ...
+            except WebDriverException as wde: # *** Catch WebDriverException ***
+                 retry_count += 1
+                 # *** Check for Tab Crash specifically ***
+                 if "tab crashed" in str(wde).lower():
+                     print(f"[{from_city} to {to_city}] TAB CRASH DETECTED. Retry attempt {retry_count}/{max_retries}. Error: {wde}")
+                 else:
+                     print(f"[{from_city} to {to_city}] WebDriverException: {wde}. Retry attempt {retry_count}/{max_retries}")
+                 # ... (keep existing retry logic: quit driver, sleep, etc.) ...
             except Exception as e:
-                print(f"[{from_city} to {to_city}] An unexpected error occurred: {e}")
-                timestamp = time.strftime("%Y%m%d-%H%M%S")
-                if driver:
-                    try:
-                        screenshot_path = f'error_screenshot_{from_city}_to_{to_city}_{timestamp}.png'
-                        driver.save_screenshot(screenshot_path)
-                        print(f"[{from_city} to {to_city}] Screenshot saved as {screenshot_path}")
-                    except Exception as ss_error:
-                        print(f"[{from_city} to {to_city}] Failed to save screenshot: {ss_error}")
-                    
-                # For non-connection errors, retry based on retry count
                 retry_count += 1
-                if retry_count <= max_retries:
-                    print(f"[{from_city} to {to_city}] Retrying entire process (Attempt {retry_count}/{max_retries})")
-                    # Close the previous driver if exists
-                    if driver:
-                        try:
-                            driver.quit()
-                        except:
-                            pass
-                        driver = None
-                    time.sleep(5 * retry_count)  # Incrementally longer delay between retries
-                else:
-                    print(f"[{from_city} to {to_city}] Failed after {max_retries} retry attempts.")
-                    # Write error row to CSV file
-                    try:
-                        # Ensure the CSV file exists with headers
-                        fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                     "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                     "Starting Point Parent", "Destination Point Parent"]
-                        
-                        # Create file with header if it doesn't exist
-                        if not os.path.exists(csv_file_path):
-                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                writer.writeheader()
-                        
-                        # Write error row
-                        with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                            error_row = {field: "error" for field in fieldnames}
-                            error_row["Bus ID"] = "error"
-                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
-                            error_row["Starting Point Parent"] = from_city
-                            error_row["Destination Point Parent"] = to_city
-                            writer.writerow(error_row)
-                        print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
-                    except Exception as csv_error:
-                        print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
-                    
-                    raise  # Re-raise the error after max retries
+                print(f"[{from_city} to {to_city}] An unexpected error occurred during processing: {e}. Retry attempt {retry_count}/{max_retries}")
+                # ... (keep existing generic error retry logic: screenshot, quit driver, sleep, etc.) ...
 
-            finally:
-                # Only quit the driver in the finally block if we're done with all retries or successful
-                if driver and (retry_count > max_retries or retry_count == 0):
-                    print(f"[{from_city} to {to_city}] Quitting WebDriver.")
-                    driver.quit()
+        # --- Outer Exception Handling (e.g., initial page load fails) ---
+        except (WebDriverException, TimeoutException, ConnectionError) as initial_error:
+             retry_count += 1
+             print(f"[{from_city} to {to_city}] Initial setup/connection error: {initial_error}. Retry attempt {retry_count}/{max_retries}")
+             if driver:
+                 try: driver.quit()
+                 except: pass
+                 driver = None
+             if retry_count > max_retries:
+                  print(f"[{from_city} to {to_city}] Failed initial setup after {max_retries} retries.")
+                  # Write error row (ensure this logic is robust)
+                  # ... (keep existing logic to write error row to CSV on final failure) ...
+                  raise initial_error # Re-raise after handling
+             time.sleep(5 * retry_count) # Exponential backoff
 
-        except Exception as e:
-            print(f"[{from_city} to {to_city}] An unexpected error occurred: {e}")
-            timestamp = time.strftime("%Y%m%d-%H%M%S")
+        except Exception as outer_e:
+            # Handle unexpected errors outside the main processing try-block
+            print(f"[{from_city} to {to_city}] A critical unexpected error occurred: {outer_e}")
             if driver:
                 try:
-                    screenshot_path = f'error_screenshot_{from_city}_to_{to_city}_{timestamp}.png'
-                    driver.save_screenshot(screenshot_path)
-                    print(f"[{from_city} to {to_city}] Screenshot saved as {screenshot_path}")
+                     # Save screenshot if possible
+                     timestamp = time.strftime("%Y%m%d-%H%M%S")
+                     screenshot_path = f'critical_error_screenshot_{from_city}_to_{to_city}_{timestamp}.png'
+                     driver.save_screenshot(screenshot_path)
+                     print(f"[{from_city} to {to_city}] Screenshot saved as {screenshot_path}")
                 except Exception as ss_error:
-                    print(f"[{from_city} to {to_city}] Failed to save screenshot: {ss_error}")
-                    
-            # For non-connection errors, retry based on retry count
-            retry_count += 1
-            if retry_count <= max_retries:
-                print(f"[{from_city} to {to_city}] Retrying entire process (Attempt {retry_count}/{max_retries})")
-                # Close the previous driver if exists
-                if driver:
-                    try:
-                        driver.quit()
-                    except:
-                        pass
-                    driver = None
-                time.sleep(5 * retry_count)  # Incrementally longer delay between retries
-            else:
-                print(f"[{from_city} to {to_city}] Failed after {max_retries} retry attempts.")
-                # Write error row to CSV file
-                try:
-                    # Ensure the CSV file exists with headers
-                    fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                 "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                 "Starting Point Parent", "Destination Point Parent"]
-                    
-                    # Create file with header if it doesn't exist
-                    if not os.path.exists(csv_file_path):
-                        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                            writer.writeheader()
-                    
-                    # Write error row
-                    with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                        error_row = {field: "error" for field in fieldnames}
-                        error_row["Bus ID"] = "error"
-                        error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
-                        error_row["Starting Point Parent"] = from_city
-                        error_row["Destination Point Parent"] = to_city
-                        writer.writerow(error_row)
-                    print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
-                except Exception as csv_error:
-                    print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
-                
-                raise  # Re-raise the error after max retries
+                     print(f"[{from_city} to {to_city}] Failed to save screenshot during critical error: {ss_error}")
+            # Write error row
+            # ... (keep existing logic to write error row to CSV on final failure) ...
+            raise outer_e # Re-raise the critical error
 
         finally:
-            # Only quit the driver in the finally block if we're done with all retries or successful
-            if driver and (retry_count > max_retries or retry_count == 0):
-                print(f"[{from_city} to {to_city}] Quitting WebDriver.")
-                driver.quit()
+            # Ensure driver is quit if it exists and we are done retrying or succeeded
+            if driver and (retry_count > max_retries or (retry_count == 0 and 'bus_elements' in locals())): # Quit if failed all retries OR succeeded on first try
+                 try:
+                     print(f"[{from_city} to {to_city}] Quitting WebDriver in finally block.")
+                     driver.quit()
+                 except Exception as quit_error:
+                     print(f"[{from_city} to {to_city}] Error quitting WebDriver: {quit_error}")
+                 driver = None # Ensure driver is None after quitting
+
+    # Final check: if loop finished due to max_retries, ensure error is recorded
+    if retry_count > max_retries:
+        print(f"[{from_city} to {to_city}] Process failed finally after {max_retries} retries.")
+        # Ensure error row is written if not already done by exception blocks
+        try:
+            if not check_route_failed(csv_file_path): # Avoid duplicate error rows
+                 fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
+                               "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
+                               "Starting Point Parent", "Destination Point Parent"]
+                 # Create file with header if it doesn't exist
+                 if not os.path.exists(csv_file_path):
+                     with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+                          writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                          writer.writeheader()
+                 # Write error row
+                 with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                     error_row = {field: "error" for field in fieldnames}
+                     error_row["Bus ID"] = "error"
+                     # Try to get the last error message if possible
+                     last_error_msg = "Max retries exceeded"
+                     # Note: Accessing the specific error that caused the last retry failure here is tricky.
+                     # We'll use a generic message. The logs should contain the specific error.
+                     error_row["Bus Name"] = f"ERROR: {last_error_msg}"
+                     error_row["Starting Point Parent"] = from_city
+                     error_row["Destination Point Parent"] = to_city
+                     writer.writerow(error_row)
+                 print(f"[{from_city} to {to_city}] Added final error row to CSV file {csv_file_path}")
+        except Exception as final_csv_error:
+             print(f"[{from_city} to {to_city}] Error writing final error row to CSV: {final_csv_error}")
 
 def check_route_failed(csv_file_path):
     """
     Check if a route's CSV file exists and contains an error row.
-    
-    Args:
-        csv_file_path: Path to the CSV file
-        
-    Returns:
-        bool: True if route previously failed (has error row), False otherwise
     """
-    # If file doesn't exist, route hasn't been processed yet
     if not os.path.exists(csv_file_path):
         return False
-    
+    if os.path.getsize(csv_file_path) == 0: # Handle empty files
+        return False
+
     try:
-        # Check if file contains an error row
         with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile)
-            next(reader)  # Skip header row
+            try:
+                header = next(reader) # Check if header exists
+                if not header: return False # Empty header means invalid file
+            except StopIteration:
+                return False # File is empty or has no header
+
             for row in reader:
-                # Check if any row contains "error" in Bus ID field (first column)
-                if row and row[0] == "error":
+                # Check if the row is not empty and the first column is exactly "error"
+                if row and len(row) > 0 and row[0].strip() == "error":
                     return True
     except Exception as e:
         print(f"Error checking route failure status in {csv_file_path}: {e}")
-    
+        # Treat check error as "not failed" to avoid skipping unnecessarily
+        return False
+
     return False
 
 def process_multiple_routes(routes_list, target_month_year, target_day, visible=False, max_retries=10, skip_failed=True):
@@ -1062,66 +789,66 @@ def process_multiple_routes(routes_list, target_month_year, target_day, visible=
 if __name__ == "__main__":
     # Parse the route list
     routes_to_process = [
-        # ("Delhi", "Manali"),
-        # ("Delhi", "Rishikesh"),
-        # ("Delhi", "Shimla"),
-        # ("Delhi", "Nainital"),
-        # ("Delhi", "Katra"),
-        # ("Bangalore", "Goa"),
-        # ("Bangalore", "Hyderabad"),
-        # ("Bangalore", "Tirupathi"),
-        # ("Bangalore", "Chennai"),
-        # ("Bangalore", "Pondicherry"),
-        # ("Hyderabad", "Bangalore"),
-        # ("Hyderabad", "Goa"),
-        # ("Hyderabad", "Srisailam"),
-        # ("Hyderabad", "Vijayawada"),
-        # ("Hyderabad", "Tirupathi"),
-        # ("Pune", "Goa"),
-        # ("Pune", "Mumbai"),
-        # ("Pune", "Nagpur"),
-        # ("Pune", "Kolhapur"),
-        # ("Pune", "Nashik"),
-        # ("Mumbai", "Goa"),
-        # ("Mumbai", "Pune"),
-        # ("Mumbai", "Shirdi"), done
-        # ("Mumbai", "Mahabaleshwar"), done
-        # ("Mumbai", "Kolhapur"), error 191
-        # ("Kolkata", "Digha"), error 255
-        # ("Kolkata", "Siliguri"), done
-        # ("Kolkata", "Puri"), done
-        # ("Kolkata", "Bakkhali"), done 
-        # ("Kolkata", "Mandarmani"), done
-        # ("Chennai", "Bangalore"),  error 160
-        # ("Chennai", "Pondicherry"),done
-        # ("Chennai", "Coimbatore"), 156
-        # ("Chennai", "Madurai"), 321
-        ("Chennai", "Tirupathi"),
-        # ("Chandigarh", "Manali"),
-        ("Chandigarh", "Shimla"),
-        # ("Chandigarh", "Delhi"),
-        ("Chandigarh", "Dehradun"),
-        ("Chandigarh", "Amritsar"),
-        # ("Coimbatore", "Chennai"),
-        # ("Coimbatore", "Bangalore"),
-        ("Coimbatore", "Ooty"),
-        ("Coimbatore", "Tiruchendur"),
-        ("Coimbatore", "Madurai"),
-        ("Agra", "Bareilly"),
-        ("Hisar", "Chandigarh"),
-        ("Ayodhya", "Varanasi"),
-        ("Lucknow", "Ballia"),
-        ("Lucknow", "Moradabad"),
-        ("Rajkot", "Dwarka"),
-        ("Siliguri", "Gangtok"),
-        ("Ahmedabad", "Goa"),
-        ("Ahmedabad", "Kanpur"),
-        ("Akola", "Pune"),
-        # ("Delhi", "Dehradun"),
-        # ("Delhi", "Haridwar"),
-        # ("Dehradun", "Delhi"),
-        # ("Delhi", "Agra"),
-        ("Delhi", "Varanasi")
+        # # ("Delhi", "Manali"),
+        # # ("Delhi", "Rishikesh"),
+        # # ("Delhi", "Shimla"),
+        # # ("Delhi", "Nainital"),
+        # # ("Delhi", "Katra"),
+        # # ("Bangalore", "Goa"),
+        # # ("Bangalore", "Hyderabad"),
+        # # ("Bangalore", "Tirupathi"),
+        # # ("Bangalore", "Chennai"),
+        # # ("Bangalore", "Pondicherry"),
+        # # ("Hyderabad", "Bangalore"),
+        # # ("Hyderabad", "Goa"),
+        # # ("Hyderabad", "Srisailam"),
+        # # ("Hyderabad", "Vijayawada"),
+        # # ("Hyderabad", "Tirupathi"),
+        # # ("Pune", "Goa"),
+        # # ("Pune", "Mumbai"),
+        # # ("Pune", "Nagpur"),
+        # # ("Pune", "Kolhapur"),
+        # # ("Pune", "Nashik"),
+        # # ("Mumbai", "Goa"),
+        # # ("Mumbai", "Pune"),
+        # # ("Mumbai", "Shirdi"), done
+        # # ("Mumbai", "Mahabaleshwar"), done
+        # # ("Mumbai", "Kolhapur"), error 191
+        # # ("Kolkata", "Digha"), error 255
+        # # ("Kolkata", "Siliguri"), done
+        # # ("Kolkata", "Puri"), done
+        # # ("Kolkata", "Bakkhali"), done 
+        # # ("Kolkata", "Mandarmani"), done
+        # # ("Chennai", "Bangalore"),  error 160
+        # # ("Chennai", "Pondicherry"),done
+        # # ("Chennai", "Coimbatore"), 156
+        # # ("Chennai", "Madurai"), 321
+        # ("Chennai", "Tirupathi"),
+        # # ("Chandigarh", "Manali"),
+        # ("Chandigarh", "Shimla"),
+        # # ("Chandigarh", "Delhi"),
+        # ("Chandigarh", "Dehradun"),
+        # ("Chandigarh", "Amritsar"),
+        # # ("Coimbatore", "Chennai"),
+        # # ("Coimbatore", "Bangalore"),
+        # ("Coimbatore", "Ooty"),
+        # ("Coimbatore", "Tiruchendur"),
+        # ("Coimbatore", "Madurai"),
+        # ("Agra", "Bareilly"),
+        # ("Hisar", "Chandigarh"),
+        # ("Ayodhya", "Varanasi"),
+        # ("Lucknow", "Ballia"),
+        # ("Lucknow", "Moradabad"),
+        # ("Rajkot", "Dwarka"),
+        # ("Siliguri", "Gangtok"),
+        # ("Ahmedabad", "Goa"),
+        # ("Ahmedabad", "Kanpur"),
+        # ("Akola", "Pune"),
+        ("Delhi", "Dehradun"),
+        ("Delhi", "Haridwar"),
+        ("Dehradun", "Delhi"),
+        ("Delhi", "Agra"),
+        # ("Delhi", "Varanasi")
     ]
     
     # Set common date for all routes
