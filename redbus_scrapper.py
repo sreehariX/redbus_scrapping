@@ -388,10 +388,10 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
                 new_height = driver.execute_script("return document.body.scrollHeight")
                 new_bus_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                 
-                print(f"Scroll progress: Height {last_height}->{new_height}, Buses {current_bus_count}->{new_bus_count}")
+                print(f"Scroll progress: Height {last_height}->{new_height}, Buses {last_bus_count}->{new_bus_count}")
                 
                 # Check if we've reached the end (no new height AND no new buses)
-                if new_height == last_height and new_bus_count == current_bus_count:
+                if new_height == last_height and new_bus_count == last_bus_count:
                     consecutive_no_change += 1
                     print(f"No changes detected ({consecutive_no_change}/{max_consecutive_no_change})")
                     
