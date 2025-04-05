@@ -78,3 +78,235 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 77,City Express (Shinjini),AC Seater (2+3),23:50,04:55,05h 05m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
 78,City Express (Snemita),AC Seater (2+3),06:25,10:30,04h 05m,375.0,375.0,Dunlop More,Bus Stand,Kolkata,Digha
 79,Parameswar Travels,A/C Seater Push Back (2+3),21:50,03:45,05h 55m,400.0,400.0,Esplanade,New Digha,Kolkata,Digha
+80,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),08:15,12:45,04h 30m,749.0,999.0,Esplanade,Digha,Kolkata,Digha
+81,Snemita Parisheba (Sneha Gold),AC Seater (2+3),09:15,13:45,04h 30m,380.0,380.0,Esplanade,Bus Stand,Kolkata,Digha
+82,Basu Travels,A/C Seater Push Back (2+3),23:30,04:30,05h 00m,399.0,399.0,Esplanade,Bus Stand,Kolkata,Digha
+83,Monikanchan Bus Service,A/C Seater (2+3),07:15,11:50,04h 35m,375.0,375.0,Sodepur,Bus Stand,Kolkata,Digha
+84,Snemita Paribahan,AC Seater (2+3),06:30,11:10,04h 40m,370.0,370.0,Barrackpore,Bus Stand,Kolkata,Digha
+85,Jay Baba Bhutnath(Jackson),A/C Seater (2+3),06:00,10:30,04h 30m,420.0,420.0,Esplanade,Bus Stand,Kolkata,Digha
+86,Snemita Paribahan(Snemita),AC Seater (2+3),05:55,10:26,04h 31m,370.0,370.0,Barrackpore,Bus Stand,Kolkata,Digha
+87,City Express,AC Seater (2+3),07:00,11:10,04h 10m,370.0,370.0,Dunlop,Old Digha Petrol Pump,Kolkata,Digha
+88,Sagufta Travels(Maa chandi),A/C Seater Push Back (2+3),06:20,11:00,04h 40m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+89,Sagufta Travels (Sneha),A/C Seater (2+3),09:10,13:40,04h 30m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+90,City Express,AC Seater (2+3),05:50,10:20,04h 30m,370.0,370.0,Airport,Old Digha Petrol Pump,Kolkata,Digha
+91,Sagufta Travels (Jackson),A/C Seater (2+2),08:00,12:40,04h 40m,365.0,365.0,Esplanade,New Digha,Kolkata,Digha
+92,Mayuri Express,A/C Seater (2+3),18:20,22:50,04h 30m,444.0,444.0,Esplanade,New Digha,Kolkata,Digha
+93,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,05:00,05h 01m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+94,Sagufta Travels (Maity),A/C Seater (2+3),00:55,05:50,04h 55m,415.0,415.0,Esplanade,New Digha,Kolkata,Digha
+95,Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),07:30,12:00,04h 30m,1199.0,1199.0,Esplanade,Digha Bus Stand,Kolkata,Digha
+96,Parameswar Travels,A/C Seater Push Back (2+3),00:35,05:35,05h 00m,470.0,470.0,Esplanade,New Digha,Kolkata,Digha
+97,City Express (Maa Gauri),AC Seater (2+3),12:40,17:10,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+98,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,05:00,05h 05m,550.0,699.0,Esplanade,New Digha Bus Stand,Kolkata,Digha
+99,Bhorpet Travels,A/C Seater/Sleeper (2+1),23:50,04:00,04h 10m,500.0,700.0,Esplanade,New Digha Bus Stand,Kolkata,Digha
+100,Shyam N R Travels,Volvo A/C Seater (2+2),23:45,04:45,05h 00m,500.0,500.0,Esplanade,Digha,Kolkata,Digha
+101,Rohit Travels,A/C Seater (2+2),23:40,05:00,05h 20m,500.0,500.0,Birati More,Digha Bus Stand,Kolkata,Digha
+102,Snemita Paribahan(Jackson),AC Seater (2+2),08:00,12:30,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+103,Snemita Paribahan(JACKSON),A/C Push Back (2+3),06:05,10:30,04h 25m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+104,Satya Paribahan,A/C Seater (2+3),05:00,09:10,04h 10m,420.0,420.0,Esplanade,Digha,Kolkata,Digha
+105,Snemita Pariseba(Santosh),AC Seater (2+3),18:30,23:30,05h 00m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+106,Ankita Paribahan (Lokenath),AC Seater (2+3),00:35,05:15,04h 40m,550.0,550.0,Esplanade,Old Digha Bus stand,Kolkata,Digha
+107,Monikanchan Bus Service,A/C Seater (2+3),06:25,11:10,04h 45m,375.0,375.0,Sodepur,Bus Stand,Kolkata,Digha
+108,Sagufta Travels (Jagannath),A/C Seater Push Back (2+3),08:20,12:40,04h 20m,315.0,315.0,Esplanade,old digha bus stand,Kolkata,Digha
+109,Arunita Paribahan,A/C Seater (2+3),06:00,10:30,04h 30m,320.0,320.0,Esplanade,Bus Stand,Kolkata,Digha
+110,Sagufta Travels(Shinjini),A/C Seater (2+3),05:50,10:30,04h 40m,365.0,365.0,Esplanade,New Digha,Kolkata,Digha
+111,City Express (Angel),AC Seater (2+3),08:30,13:00,04h 30m,370.0,370.0,Esplanade,Old Digha Petrol Pump,Kolkata,Digha
+112,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),16:45,21:20,04h 35m,450.0,450.0,Esplanade,Digha,Kolkata,Digha
+113,Sagufta Travels (Samanta),A/C Seater Push Back (2+3),08:40,13:20,04h 40m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+114,Basu Travels,A/C Seater Push Back (2+3),14:32,19:00,04h 28m,390.0,390.0,Esplanade,Bus Stand,Kolkata,Digha
+115,Parameswar Travels,A/C Seater Push Back (2+3),10:10,14:56,04h 46m,340.0,340.0,Esplanade,Digha Bus Stand,Kolkata,Digha
+116,Snemita Parisheba(Samanta),AC Seater (2+3),18:00,22:25,04h 25m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+117,Samanta Travels,A/C Seater (2+3),18:50,23:30,04h 40m,300.0,300.0,Esplanade,Digha bus stand,Kolkata,Digha
+118,Ankita Paribahan( Haimanti),A/C Seater Push Back (2+3),19:50,00:05,04h 15m,450.0,450.0,Esplanade,Old Digha Bus stand,Kolkata,Digha
+119,Sagufta Travels(Shinjini),A/C Seater (2+3),06:40,11:10,04h 30m,365.0,365.0,Esplanade,New Digha,Kolkata,Digha
+120,Sree Jagannath Travels,A/C Seater Push Back (2+3),07:40,12:30,04h 50m,355.0,355.0,Esplanade,Digha Bus stand,Kolkata,Digha
+121,Sree Jagannath Travels,A/C Seater Push Back (2+3),08:20,13:20,05h 00m,355.0,355.0,Esplanade,Digha Bus stand,Kolkata,Digha
+122,Ankita Paribahan(Atithi),A/C Seater (2+3),23:55,05:00,05h 05m,450.0,450.0,Esplanade,Old Digha Bus stand,Kolkata,Digha
+123,Purusottam Travels,A/C Seater (2+3),14:39,20:05,05h 26m,300.0,300.0,Esplanade,Old Digha,Kolkata,Digha
+124,Snemita Paribahan(Maa Gauri Gold),AC Seater (2+3),11:00,15:45,04h 45m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+125,Sagufta Travels(Janhabi),A/C Seater Push Back (2+3),16:45,21:15,04h 30m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+126,Sagufta Travels(Satya),A/C Seater Push Back (2+3),05:00,09:30,04h 30m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+127,Sagufta Travels (Kojagor),A/C Seater (2+3),15:50,20:20,04h 30m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+128,SANTOSH BUS SERVICE,AC Seater (2+3),11:51,17:00,05h 09m,349.0,349.0,Esplanade,Digha,Kolkata,Digha
+129,Sagufta Travels(Satya),A/C Seater Push Back (2+3),06:50,11:20,04h 30m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+130,Snemita Parisheba (Manikanchan),AC Seater (2+3),06:35,11:20,04h 45m,370.0,370.0,Barrackpore,Bus Stand,Kolkata,Digha
+131,SANTOSH BUS SERVICE,AC Seater (2+3),05:55,10:45,04h 50m,450.0,450.0,Esplanade,Digha,Kolkata,Digha
+132,Haimanti Bus Service,AC Seater (2+3),19:50,01:30,05h 40m,390.0,390.0,Esplanade,Digha old Bus Stand,Kolkata,Digha
+133,Sagufta Travels (Samanta),A/C Seater (2+3),18:00,22:30,04h 30m,315.0,315.0,Esplanade,old digha bus stand,Kolkata,Digha
+134,Rudraksha City Service,A/C Seater (2+3),08:05,12:20,04h 15m,400.0,400.0,Dunlop,Bus Stand,Kolkata,Digha
+135,Sagufta Travels (Maa Gauri),A/C Seater Push Back (2+3),12:30,17:20,04h 50m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+136,SANTOSH BUS SERVICE,AC Seater (2+3),19:25,23:59,04h 34m,299.0,299.0,Esplanade,Digha,Kolkata,Digha
+137,Satya Paribahan,A/C Seater (2+3),06:50,11:40,04h 50m,420.0,420.0,Esplanade,Digha,Kolkata,Digha
+138,Monikanchan Bus Service,A/C Seater (2+3),05:55,10:20,04h 25m,375.0,375.0,Sodepur,Bus Stand,Kolkata,Digha
+139,Sneha Gold Bus Service,A/C Seater (2+3),09:10,13:40,04h 30m,300.0,300.0,Kolkata,Digha,Kolkata,Digha
+140,SANTOSH BUS SERVICE,A/C Seater / Sleeper (2+2),23:59,05:05,05h 06m,349.0,549.0,Esplanade,Digha,Kolkata,Digha
+141,SANTOSH BUS SERVICE,AC Seater (2+3),06:00,10:20,04h 20m,310.0,310.0,Barasat Colony More,Digha,Kolkata,Digha
+142,Snemita Paribahan,Non AC Seater (2+3),05:00,09:45,04h 45m,230.0,230.0,Barrackpore,Bus Stand,Kolkata,Digha
+143,ADHIKARY PARIBAHAN,A/C Seater (2+3),15:15,20:00,04h 45m,299.0,299.0,Esplanade,Bus Stand,Kolkata,Digha
+144,Sagufta Travels (Snemita),A/C Seater (2+3),05:35,09:50,04h 15m,315.0,315.0,Esplanade,old digha bus stand,Kolkata,Digha
+145,SANTOSH BUS SERVICE,AC Seater (2+3),19:25,00:45,05h 20m,250.0,250.0,Esplanade,Digha,Kolkata,Digha
+146,Sagufta Travels (Kojagor),A/C Seater Push Back (2+3),17:00,21:50,04h 50m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+147,SANTOSH BUS SERVICE,AC Seater (2+3),23:59,05:00,05h 01m,350.0,350.0,Esplanade,Digha,Kolkata,Digha
+148,Jay Baba Bhutnath,A/C Seater (2+3),08:30,13:00,04h 30m,420.0,420.0,Esplanade,Bus Stand,Kolkata,Digha
+149,Sagufta Travels(Angel),A/C Seater (2+2),23:58,05:10,05h 12m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+150,Satya Paribahan,A/C Seater (2+3),07:20,11:35,04h 15m,400.0,400.0,Esplanade,Digha,Kolkata,Digha
+151,Raipur Cruiser,Volvo 9600 A/C Seater (2+2),07:45,12:45,05h 00m,461.58,693.75,Karunamoyee,New Digha  Bus stand,Kolkata,Digha
+152,Raipur Cruiser,Volvo 9600 A/C Seater (2+2),08:15,13:15,05h 00m,694.0,694.0,Karunamoyee,New Digha  Bus stand,Kolkata,Digha
+153,Mayuri Express,A/C Seater / Sleeper (2+1),00:10,04:45,04h 35m,600.0,800.0,Esplanade,New Digha,Kolkata,Digha
+154,City Express (Shinjini),AC Seater (2+2),23:45,04:35,04h 50m,420.0,420.0,Esplanade,Old Digha Petrol Pump,Kolkata,Digha
+155,Samanta Travels,A/C Seater (2+3),18:10,23:10,05h 00m,300.0,300.0,Esplanade,Digha bus stand,Kolkata,Digha
+156,City Express (Jackson),AC Seater (2+2),08:00,12:30,04h 30m,470.0,470.0,Esplanade,Bus Stand,Kolkata,Digha
+157,Snemita Paribahan,AC Seater (2+3),06:00,10:30,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+158,SANTOSH BUS SERVICE,AC Seater (2+3),00:50,06:00,05h 10m,350.0,350.0,Esplanade,Digha,Kolkata,Digha
+159,Sagufta Travels (Santosh),A/C Seater / Sleeper (2+2),01:20,06:00,04h 40m,515.0,715.0,Esplanade,New Digha Bus Stand,Kolkata,Digha
+160,SANTOSH BUS SERVICE,A/C Seater / Sleeper (2+2),22:40,05:30,06h 50m,349.0,549.0,Madhyamgram,Digha,Kolkata,Digha
+161,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:50,04:30,04h 40m,420.0,420.0,Esplanade,Bus Stand,Kolkata,Digha
+162,Basu Travels,A/C Seater Push Back (2+3),10:40,15:00,04h 20m,399.0,399.0,Esplanade,Bus Stand,Kolkata,Digha
+163,Vishwakarma Travels,AC Seater (2+3),07:15,12:00,04h 45m,310.0,310.0,Madhyamgram,Digha,Kolkata,Digha
+164,Ankita Paribahan (Satya),A/C Seater Push Back (2+3),07:20,11:35,04h 15m,450.0,450.0,Esplanade,Old Digha Bus stand,Kolkata,Digha
+165,Sagufta Travels(Satya),A/C Seater Push Back (2+3),07:20,12:00,04h 40m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+166,Purusottam Travels,A/C Seater (2+3),14:40,19:55,05h 15m,320.0,320.0,Esplanade,Old Digha,Kolkata,Digha
+167,Snemita Paribahan(SONAMONI),A/C Seater (2+3),11:28,16:10,04h 42m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+168,Chetak Parivahan,A/C Seater (2+3),07:45,12:10,04h 25m,370.0,370.0,Dunlop,Bus Stand,Kolkata,Digha
+169,Ankita Paribahan,AC Seater (2+3),05:55,10:00,04h 05m,420.0,420.0,Dunlop,Old Digha Bus stand,Kolkata,Digha
+170,Sagufta Travels(Lokenath),A/C Seater Push Back (2+3),00:30,05:30,05h 00m,415.0,415.0,Esplanade,New Digha,Kolkata,Digha
+171,SANTOSH BUS SERVICE,AC Seater (2+3),19:00,23:35,04h 35m,299.0,299.0,Esplanade,Digha,Kolkata,Digha
+172,Snemita Paribahan (Angel),A/C Seater (2+3),08:30,13:00,04h 30m,430.0,430.0,Esplanade,Bus Stand,Kolkata,Digha
+173,SANTOSH BUS SERVICE,AC Seater (2+3),15:55,21:10,05h 15m,250.0,250.0,Esplanade,Bus Stand,Kolkata,Digha
+174,City Express (SONAMONI),AC Seater (2+3),11:28,16:10,04h 42m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+175,Jay Baba Bhutnath(Sree Jagganath),A/C Seater (2+3),07:40,12:00,04h 20m,420.0,420.0,Esplanade,Bus Stand,Kolkata,Digha
+176,Snemita Paribahan (Maa Gouri),AC Seater (2+3),12:40,17:10,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+177,Sagufta Travels (Maa Chandi),A/C Seater Push Back (2+3),13:30,18:05,04h 35m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+178,Sagufta Travels (Maa Gauri),A/C Seater (2+3),09:30,14:20,04h 50m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+179,Snemita Paribahan (Sathi),A/C Seater (2+3),17:40,22:00,04h 20m,380.0,380.0,Esplanade,Bus Stand,Kolkata,Digha
+180,Snemita Parisheba,A/C Push Back (2+3),15:15,19:45,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+181,Bengal Surface Transport,A/C Seater Push Back (2+3),23:59,05:00,05h 01m,399.0,399.0,Esplanade,New Digha Bus Stand,Kolkata,Digha
+182,Snemita Parisheba,AC Seater (2+3),19:30,00:10,04h 40m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+183,Snemita Parisheba (Samanta),AC Seater (2+3),14:15,18:45,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+184,Tara Ma Paribahan,Non AC Seater (2+3),06:00,11:00,05h 00m,220.0,220.0,Howrah Bus Stand,Digha,Kolkata,Digha
+185,Basu Travels,A/C Seater Push Back (2+3),14:25,19:10,04h 45m,399.0,399.0,Howrah Digha LDBT Bus Stand,Bus Stand,Kolkata,Digha
+186,Bengal Surface Transport,A/C Seater Push Back (2+3),14:29,19:15,04h 46m,379.0,379.0,Esplanade,New Digha Bus Stand,Kolkata,Digha
+187,City Express (Ruposhi),AC Seater (2+3),15:55,20:50,04h 55m,370.0,370.0,Esplanade,Old Digha Petrol Pump,Kolkata,Digha
+188,Friends Travels,A/C Seater (2+3),23:55,05:10,05h 15m,350.0,350.0,Esplanade,old digha bus stand,Kolkata,Digha
+189,Snemita Paribahan (ANGEL),A/C Seater Push Back (2+2),23:58,05:00,05h 02m,420.0,420.0,Esplanade,Bus Stand,Kolkata,Digha
+error,"ERROR: Message: tab crashed
+  (Session info: chrome=135.0.7049.52)
+Stacktrace:
+#0 0x6000665e2e8a <unknown>
+",error,error,error,error,error,error,error,error,Kolkata,Digha
+1,WBTC (CTC) BARASAT-DIGHA via Bally - 38|04:10,Non AC Seater (2+3),04:10,07:40,03h 30m,146.0,146.0,Dunlop,Digha,Kolkata,Digha
+2,WBTC (CTC) Belgachia - Digha via Esplanade - 51|05:30,Non AC Seater (2+3),05:30,10:30,05h 00m,155.0,155.0,Belgharia,Digha,Kolkata,Digha
+3,WBTC (CTC) Barasat-Digha Via Bally (AC VOLVO) - 201|05:45,A/C Seater (2+2),05:45,09:00,03h 15m,380.0,380.0,Dunlop,Digha,Kolkata,Digha
+4,"WBTC (CTC) BARASAT-DIGHA via Esplanade, Karunamoyee,Airport - 206|06:00",Non AC Seater (2+3),06:00,10:45,04h 45m,156.0,156.0,Karunamoyee,Digha,Kolkata,Digha
+5,WBTC (CTC) Khidderpur - Digha - 97|06:05,Non AC Seater (2+3),06:05,11:05,05h 00m,151.0,151.0,Khidirpur,Digha,Kolkata,Digha
+6,WBTC (CTC) Joka - Tollygunge - Digha - 99|06:15,Non AC Seater (2+3),06:15,12:15,06h 00m,157.0,157.0,Joka,Digha,Kolkata,Digha
+7,WBTC (CTC) KARUNAMOYEE (Salt Lake) - DIGHA (AC VOLVO) - 94|06:15,A/C Seater (2+2),06:15,10:25,04h 10m,420.0,420.0,Karunamoyee,Digha,Kolkata,Digha
+8,WBTC (CTC) Belgachia - Digha via Esplanade - 51|06:15,Non AC Seater (2+3),06:15,10:30,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+9,WBTC (CTC) KARUNAMOYEE (Salt Lake) - DIGHA (AC VOLVO) - 94|06:25,A/C Seater (2+2),06:25,10:25,04h 00m,420.0,420.0,Baguihati,Digha,Kolkata,Digha
+10,WBTC (CTC) Joka - Tollygunge - Digha - 99|06:30,Non AC Seater (2+3),06:30,12:45,06h 15m,157.0,157.0,Joka,Digha,Kolkata,Digha
+11,WBTC (CTC) Tollygunge - Digha - 200|06:30,Non AC Seater (2+3),06:30,11:45,05h 15m,151.0,151.0,Tollygunge Metro Station,Digha,Kolkata,Digha
+12,WBTC (CTC) Joka - Tollygunge - Digha - 99|06:45,Non AC Seater (2+3),06:45,12:15,05h 30m,151.0,151.0,Tollygunge Metro Station,Digha,Kolkata,Digha
+13,WBTC (CTC) Khidderpur - Digha - 97|06:50,Non AC Seater (2+3),06:50,11:05,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+14,WBTC (CTC) KARUNAMOYEE (Salt Lake) - DIGHA (AC VOLVO) - 94|06:55,A/C Seater (2+2),06:55,10:25,03h 30m,380.0,380.0,Dunlop,Digha,Kolkata,Digha
+15,"WBTC (CTC) BARASAT-DIGHA via Esplanade, Karunamoyee,Airport - 206|07:20",Non AC Seater (2+3),07:20,10:45,03h 25m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+16,WBTC (CTC) Joka - Tollygunge - Digha - 99|07:20,Non AC Seater (2+3),07:20,12:45,05h 25m,151.0,151.0,Tollygunge Metro Station,Digha,Kolkata,Digha
+17,WBTC (CTC) Tollygunge - Digha - 200|07:30,Non AC Seater (2+3),07:30,11:45,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+18,WBTC (CTC) Barasat-Digha Via Bally (AC VOLVO) - 201|07:30,A/C Seater (2+2),07:30,11:15,03h 45m,380.0,380.0,Dunlop,Digha,Kolkata,Digha
+19,WBTC (CTC) SHYAMBAZAR - DIGHA VIA- ESPLANADE (AC-VOLVO) - 52|07:30,A/C Seater (2+2),07:30,12:45,05h 15m,370.0,370.0,Belgharia,Digha,Kolkata,Digha
+20,WBTC (CTC) Kolkata - Digha - 124|07:45,Non AC Seater (2+3),07:45,12:00,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+21,WBTC (CTC) BARASAT-DIGHA via Bally - 38|07:45,Non AC Seater (2+3),07:45,11:15,03h 30m,146.0,146.0,Dunlop,Digha,Kolkata,Digha
+22,WBTC (CTC) BARASAT-DIGHA (AC-VOLVO) - 28|07:55,A/C Seater (2+2),07:55,12:05,04h 10m,370.0,370.0,Esplanade,Digha,Kolkata,Digha
+23,WBTC (CTC) Joka - Tollygunge - Digha - 99|08:00,Non AC Seater (2+3),08:00,12:15,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+24,WBTC (CTC) Tollygunge - Digha - 200|08:15,Non AC Seater (2+3),08:15,13:30,05h 15m,151.0,151.0,Tollygunge Metro Station,Digha,Kolkata,Digha
+25,WBTC (CTC) Joka - Tollygunge - Digha - 99|08:30,Non AC Seater (2+3),08:30,12:45,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+26,WBTC (CTC) SHYAMBAZAR - DIGHA VIA- ESPLANADE (AC-VOLVO) - 52|08:45,A/C Seater (2+2),08:45,12:45,04h 00m,370.0,370.0,Esplanade,Digha,Kolkata,Digha
+27,WBTC (CTC) Tollygunge - Digha - 200|09:15,Non AC Seater (2+3),09:15,13:30,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+28,WBTC (CTC) Belgachia - Digha via Esplanade - 51|12:15,Non AC Seater (2+3),12:15,17:30,05h 15m,155.0,155.0,Belgharia,Digha,Kolkata,Digha
+29,WBTC (CTC) Belgachia - Digha via Esplanade - 51|13:00,Non AC Seater (2+3),13:00,17:30,04h 30m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+30,WBTC (CTC) BARASAT-DIGHA via Bally - 38|14:25,Non AC Seater (2+3),14:25,18:00,03h 35m,146.0,146.0,Dunlop,Digha,Kolkata,Digha
+31,WBTC (CTC) Kolkata - Digha - 124|14:40,Non AC Seater (2+3),14:40,19:05,04h 25m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+32,WBTC (CTC) Belgachia - Digha via Esplanade - 51|14:45,Non AC Seater (2+3),14:45,20:10,05h 25m,155.0,155.0,Belgharia,Digha,Kolkata,Digha
+33,WBTC (CTC) KARUNAMOYEE (Salt Lake) -DIGHA - 102|15:25,Non AC Seater (2+3),15:25,19:45,04h 20m,164.0,164.0,Karunamoyee,Digha,Kolkata,Digha
+34,WBTC (CTC) KARUNAMOYEE (Salt Lake) -DIGHA - 102|15:35,Non AC Seater (2+3),15:35,19:45,04h 10m,161.0,161.0,Baguihati,Digha,Kolkata,Digha
+35,WBTC (CTC) Belgachia - Digha via Esplanade - 51|15:45,Non AC Seater (2+3),15:45,20:10,04h 25m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+36,WBTC (CTC) Joka - Tollygunge - Digha - 99|16:00,Non AC Seater (2+3),16:00,22:00,06h 00m,157.0,157.0,Joka,Digha,Kolkata,Digha
+37,WBTC (CTC) KARUNAMOYEE (Salt Lake) -DIGHA - 102|16:00,Non AC Seater (2+3),16:00,19:45,03h 45m,146.0,146.0,Dunlop,Digha,Kolkata,Digha
+38,WBTC (CTC) Khidderpur - Digha - 97|16:00,Non AC Seater (2+3),16:00,21:00,05h 00m,151.0,151.0,Khidirpur,Digha,Kolkata,Digha
+39,WBTC (CTC) Joka - Tollygunge - Digha - 99|16:30,Non AC Seater (2+3),16:30,22:00,05h 30m,151.0,151.0,Tollygunge Metro Station,Digha,Kolkata,Digha
+40,WBTC (CTC) Khidderpur - Digha - 97|16:45,Non AC Seater (2+3),16:45,21:00,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+41,WBTC (CTC) Joka - Tollygunge - Digha - 99|17:45,Non AC Seater (2+3),17:45,22:00,04h 15m,145.0,145.0,Esplanade,Digha,Kolkata,Digha
+42,West bengal transport corporation - 74722,Non AC Seater (2+3),05:15,10:00,04h 45m,145.0,145.0,Esplanade,Old Digha Bus Stand,Kolkata,Digha
+43,West bengal transport corporation - 74723,Non AC Seater (2+3),15:15,19:45,04h 30m,145.0,145.0,Esplanade,Old Digha Bus Stand,Kolkata,Digha
+44,West bengal transport corporation - 123496,Non AC Seater (2+3),16:15,20:45,04h 30m,145.0,145.0,Esplanade,Old Digha Bus Stand,Kolkata,Digha
+45,West bengal transport corporation - 157764,Non AC Seater (2+3),17:15,21:40,04h 25m,145.0,145.0,Esplanade,Old Digha Bus Stand,Kolkata,Digha
+46,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,04:30,05h 00m,550.0,550.0,Esplanade,Digha,Kolkata,Digha
+47,Greenline,Volvo A/C Seater (2+2),06:45,11:45,05h 00m,650.0,650.0,Karunamoyee,RAJBARI KALI MANDIR,Kolkata,Digha
+48,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),07:15,12:00,04h 45m,665.0,665.0,Esplanade,Digha,Kolkata,Digha
+49,Greenline,Volvo A/C Seater (2+2),06:30,11:40,05h 10m,620.0,820.0,Karunamoyee,RAJBARI KALI MANDIR,Kolkata,Digha
+50,Express Line,Volvo 9600 A/C Semi Sleeper (2+2),07:30,11:55,04h 25m,749.0,899.0,Esplanade,Digha,Kolkata,Digha
+51,Express Line,VE A/C Seater (2+2),23:45,04:45,05h 00m,899.0,899.0,Esplanade,Digha,Kolkata,Digha
+52,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,05:30,07h 30m,600.0,800.0,Karunamoyee,Bus Stand,Kolkata,Digha
+53,Mayuri Express,AC Seater (2+2),23:15,04:30,05h 15m,550.0,550.0,Esplanade,Bus Stand,Kolkata,Digha
+54,Maa Chandi Travels,A/C Seater / Sleeper (2+2),23:57,05:10,05h 13m,600.0,800.0,Esplanade,Bus Stand,Kolkata,Digha
+55,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),08:15,12:45,04h 30m,475.0,475.0,Esplanade,Digha,Kolkata,Digha
+56,Sagufta Travels(Maa chandi),A/C Seater / Sleeper (2+2),23:57,05:10,05h 13m,365.0,515.0,Esplanade,New Digha Bus Stand,Kolkata,Digha
+57,Sagufta Travels(Maa chandi),A/C Seater / Sleeper (2+2),22:00,05:10,07h 10m,365.0,515.0,Karunamoyee,New Digha Bus Stand,Kolkata,Digha
+58,Parameswar Travels,A/C Seater Push Back (2+3),07:35,12:15,04h 40m,470.0,470.0,Esplanade,Digha Bus Stand,Kolkata,Digha
+59,Snemita Paribahan,AC Seater (2+3),05:50,10:20,04h 30m,370.0,370.0,Airport,Bus Stand,Kolkata,Digha
+60,Parameswar Travels,A/C Seater Push Back (2+3),23:45,05:00,05h 15m,470.0,490.0,Esplanade,New Digha,Kolkata,Digha
+61,Samanta Travels,A/C Seater (2+3),08:40,13:10,04h 30m,350.0,350.0,Esplanade,Digha bus stand,Kolkata,Digha
+62,Parameswar Travels,A/C Seater Push Back (2+3),23:59,05:00,05h 01m,400.0,400.0,Esplanade,New Digha,Kolkata,Digha
+63,Basu Travels,A/C Seater / Sleeper (2+2),23:59,05:00,05h 01m,599.0,799.0,Esplanade,Bus Stand,Kolkata,Digha
+64,Monikanchan Bus Service,Non AC Seater (2+3),06:00,10:20,04h 20m,215.0,215.0,Sodepur,Bus Stand,Kolkata,Digha
+65,City Express (Snemita),AC Seater (2+3),05:35,10:05,04h 30m,320.0,320.0,Esplanade,Bus Stand,Kolkata,Digha
+66,Sagufta Travels (Mayuri),A/C Seater (2+2),23:15,04:00,04h 45m,515.0,515.0,Esplanade,old digha bus stand,Kolkata,Digha
+67,Snemita Paribahan (SHINJINI),A/C Seater (2+3),05:50,10:20,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+68,Monikanchan Bus Service,A/C Seater (2+3),07:00,11:15,04h 15m,375.0,375.0,Dunlop,Bus Stand,Kolkata,Digha
+69,SANTOSH BUS SERVICE,A/C Seater / Sleeper (2+2),23:45,04:35,04h 50m,350.0,350.0,Esplanade,Bus Stand,Kolkata,Digha
+70,Parameswar Travels,A/C Seater Push Back (2+3),13:10,17:56,04h 46m,340.0,430.0,Esplanade,Digha Bus Stand,Kolkata,Digha
+71,City Express (SHINJINI),AC Seater (2+3),06:39,11:10,04h 31m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+72,Lokenath Bus Service,Benz A/C Seater (2+2),23:45,05:00,05h 15m,499.0,599.0,Esplanade,old digha bus stand,Kolkata,Digha
+73,Maa Chandi Travels,A/C Seater / Sleeper (2+1),23:40,04:30,04h 50m,600.0,800.0,Esplanade,Bus Stand,Kolkata,Digha
+74,Parameswar Travels,A/C Seater Push Back (2+3),23:55,05:00,05h 05m,400.0,400.0,Esplanade,New Digha,Kolkata,Digha
+75,Snemita Paribahan (Maa Chandi)),A/C Push Back (2+3),06:21,10:50,04h 29m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+76,Sagufta Travels(Sonamoni),A/C Seater Push Back (2+3),11:20,16:20,05h 00m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+77,City Express (Shinjini),AC Seater (2+3),23:50,04:55,05h 05m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+78,City Express (Snemita),AC Seater (2+3),06:25,10:30,04h 05m,375.0,375.0,Dunlop More,Bus Stand,Kolkata,Digha
+79,Parameswar Travels,A/C Seater Push Back (2+3),21:50,03:45,05h 55m,400.0,400.0,Esplanade,New Digha,Kolkata,Digha
+80,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),08:15,12:45,04h 30m,749.0,999.0,Esplanade,Digha,Kolkata,Digha
+81,Snemita Parisheba (Sneha Gold),AC Seater (2+3),09:15,13:45,04h 30m,380.0,380.0,Esplanade,Bus Stand,Kolkata,Digha
+82,Basu Travels,A/C Seater Push Back (2+3),23:30,04:30,05h 00m,399.0,399.0,Esplanade,Bus Stand,Kolkata,Digha
+83,Monikanchan Bus Service,A/C Seater (2+3),07:15,11:50,04h 35m,375.0,375.0,Sodepur,Bus Stand,Kolkata,Digha
+84,Snemita Paribahan,AC Seater (2+3),06:30,11:10,04h 40m,370.0,370.0,Barrackpore,Bus Stand,Kolkata,Digha
+85,Snemita Paribahan(Snemita),AC Seater (2+3),05:55,10:26,04h 31m,370.0,370.0,Barrackpore,Bus Stand,Kolkata,Digha
+86,City Express,AC Seater (2+3),07:00,11:10,04h 10m,370.0,370.0,Dunlop,Old Digha Petrol Pump,Kolkata,Digha
+87,Jay Baba Bhutnath(Jackson),A/C Seater (2+3),06:00,10:30,04h 30m,420.0,420.0,Esplanade,Bus Stand,Kolkata,Digha
+88,Sagufta Travels(Maa chandi),A/C Seater Push Back (2+3),06:20,11:00,04h 40m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+89,City Express,AC Seater (2+3),05:50,10:20,04h 30m,370.0,370.0,Airport,Old Digha Petrol Pump,Kolkata,Digha
+90,Sagufta Travels (Sneha),A/C Seater (2+3),09:10,13:40,04h 30m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+91,Sagufta Travels (Jackson),A/C Seater (2+2),08:00,12:40,04h 40m,365.0,365.0,Esplanade,New Digha,Kolkata,Digha
+92,Sagufta Travels (Maity),A/C Seater (2+3),00:55,05:50,04h 55m,415.0,415.0,Esplanade,New Digha,Kolkata,Digha
+93,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,05:00,05h 01m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+94,Mayuri Express,A/C Seater (2+3),18:20,22:50,04h 30m,444.0,444.0,Esplanade,New Digha,Kolkata,Digha
+95,Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),07:30,12:00,04h 30m,1199.0,1199.0,Esplanade,Digha Bus Stand,Kolkata,Digha
+96,Parameswar Travels,A/C Seater Push Back (2+3),00:35,05:35,05h 00m,470.0,470.0,Esplanade,New Digha,Kolkata,Digha
+97,City Express (Maa Gauri),AC Seater (2+3),12:40,17:10,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+98,Bhorpet Travels,A/C Seater/Sleeper (2+1),23:50,04:00,04h 10m,500.0,700.0,Esplanade,New Digha Bus Stand,Kolkata,Digha
+99,Shyam N R Travels,Volvo A/C Seater (2+2),23:45,04:45,05h 00m,500.0,500.0,Esplanade,Digha,Kolkata,Digha
+100,Rohit Travels,A/C Seater (2+2),23:40,05:00,05h 20m,500.0,500.0,Birati More,Digha Bus Stand,Kolkata,Digha
+101,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,05:00,05h 05m,550.0,699.0,Esplanade,New Digha Bus Stand,Kolkata,Digha
+102,Snemita Paribahan(Jackson),AC Seater (2+2),08:00,12:30,04h 30m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+103,Snemita Pariseba(Santosh),AC Seater (2+3),18:30,23:30,05h 00m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+104,Satya Paribahan,A/C Seater (2+3),05:00,09:10,04h 10m,420.0,420.0,Esplanade,Digha,Kolkata,Digha
+105,Snemita Paribahan(JACKSON),A/C Push Back (2+3),06:05,10:30,04h 25m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha
+106,Sagufta Travels (Jagannath),A/C Seater Push Back (2+3),08:20,12:40,04h 20m,315.0,315.0,Esplanade,old digha bus stand,Kolkata,Digha
+107,Ankita Paribahan (Lokenath),AC Seater (2+3),00:35,05:15,04h 40m,550.0,550.0,Esplanade,Old Digha Bus stand,Kolkata,Digha
+108,Monikanchan Bus Service,A/C Seater (2+3),06:25,11:10,04h 45m,375.0,375.0,Sodepur,Bus Stand,Kolkata,Digha
+109,Sagufta Travels(Shinjini),A/C Seater (2+3),05:50,10:30,04h 40m,365.0,365.0,Esplanade,New Digha,Kolkata,Digha
+110,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),16:45,21:20,04h 35m,450.0,450.0,Esplanade,Digha,Kolkata,Digha
+111,Sagufta Travels (Samanta),A/C Seater Push Back (2+3),08:40,13:20,04h 40m,315.0,315.0,Esplanade,New Digha,Kolkata,Digha
+112,Basu Travels,A/C Seater Push Back (2+3),14:32,19:00,04h 28m,390.0,390.0,Esplanade,Bus Stand,Kolkata,Digha
+113,City Express (Angel),AC Seater (2+3),08:30,13:00,04h 30m,370.0,370.0,Esplanade,Old Digha Petrol Pump,Kolkata,Digha
+114,Arunita Paribahan,A/C Seater (2+3),06:00,10:30,04h 30m,320.0,320.0,Esplanade,Bus Stand,Kolkata,Digha
+115,Sree Jagannath Travels,A/C Seater Push Back (2+3),08:20,13:20,05h 00m,355.0,355.0,Esplanade,Digha Bus stand,Kolkata,Digha
+116,Parameswar Travels,A/C Seater Push Back (2+3),10:10,14:56,04h 46m,340.0,340.0,Esplanade,Digha Bus Stand,Kolkata,Digha
+117,Snemita Parisheba(Samanta),AC Seater (2+3),18:00,22:25,04h 25m,370.0,370.0,Esplanade,Bus Stand,Kolkata,Digha

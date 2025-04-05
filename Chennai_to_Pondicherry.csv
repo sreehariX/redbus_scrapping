@@ -1,0 +1,109 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,NueGo,Electric A/C Seater (2+2),06:00,09:40,03h 40m,398.05,457.9,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+2,NueGo,Electric A/C Seater (2+2),07:00,10:40,03h 40m,398.05,457.9,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+3,NueGo,Electric A/C Seater (2+2),18:00,22:30,04h 30m,398.05,449.35,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+4,NueGo,Electric A/C Seater (2+2),10:00,13:40,03h 40m,398.05,457.9,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+5,NueGo,Electric A/C Seater (2+2),12:00,15:40,03h 40m,438.9,548.15,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+6,NueGo,Electric A/C Seater (2+2),05:00,08:40,03h 40m,398.05,457.9,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+7,NueGo,Electric A/C Seater (2+2),19:00,23:30,04h 30m,398.05,457.9,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+8,NueGo,Electric A/C Seater (2+2),16:00,19:40,03h 40m,398.05,457.9,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+9,NueGo,Electric A/C Seater (2+2),21:00,00:40,03h 40m,398.05,457.9,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+10,Rathimeena Travels B,Non A/C Seater / Sleeper (2+1),06:05,09:00,02h 55m,400.0,440.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+11,DELTAKING TRAVELS,A/C Seater / Sleeper (2+1),07:35,11:30,03h 55m,597.0,747.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+12,NueGo,Electric A/C Seater (2+2),14:00,17:40,03h 40m,398.05,467.4,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+13,NueGo,Electric A/C Seater (2+2),08:00,11:40,03h 40m,398.05,457.9,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+14,Rathimeena Travels B,Non A/C Seater / Sleeper (2+1),17:05,20:00,02h 55m,400.0,440.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+15,RKK Travels,Volvo A/C Semi Sleeper (2+2),15:30,19:15,03h 45m,395.0,395.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+16,Rathimeena Travels B,Non A/C Seater / Sleeper (2+1),23:35,03:15,03h 40m,400.0,440.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+17,Rathimeena Travels B,A/C Sleeper (2+1),15:05,19:00,03h 55m,562.0,562.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+18,Reliance Travels,NON A/C Semi Sleeper / Sleeper (2+1),21:05,01:30,04h 25m,550.0,850.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+19,THAI MOOKAMBIGAI XPRESS,Non A/C Seater / Sleeper (2+1),20:00,23:55,03h 55m,549.0,799.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+20,Olive Travels Lines,A/C Seater / Sleeper (2+1),11:20,15:30,04h 10m,600.0,870.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+21,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),17:00,21:00,04h 00m,600.0,800.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+22,DELTAKING TRAVELS,A/C Seater / Sleeper (2+1),21:15,01:15,04h 00m,597.0,847.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+23,Rathimeena Travels A,A/C Seater / Sleeper (2+1),21:46,01:45,03h 59m,524.0,562.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+24,Rathimeena Travels A,Non A/C Seater / Sleeper (2+1),22:21,01:30,03h 09m,400.0,500.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+25,VPS Transport,Non A/C Seater / Sleeper (2+1),21:00,01:30,04h 30m,500.0,650.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+26,VIVIN Travels,A/C Sleeper (2+1),21:45,01:00,03h 15m,700.0,900.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+27,Sri Poorvika Travels,A/C Seater / Sleeper (2+1),22:45,02:40,03h 55m,500.0,3899.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+28,R.S.MANI KNIGHT RIDERS,Bharat Benz A/C Sleeper (2+1),21:00,00:30,03h 30m,599.0,899.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+29,RGL Travels,Non A/C Seater / Sleeper (2+1),22:00,00:30,02h 30m,600.0,900.0,Sholinganallur,New Bus Stand,Chennai,Pondicherry
+30,Kalaimakal Travelss,NON AC Seater / Sleeper 2+1,21:20,01:30,04h 10m,550.0,650.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+31,Rathimeena Travels B,A/C Sleeper (2+1),23:05,02:15,03h 10m,562.0,562.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+32,Reliance Travels,NON A/C Semi Sleeper (2+2),22:06,01:45,03h 39m,650.0,650.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+33,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),18:05,22:35,04h 30m,700.0,800.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+34,Rathimeena Travels A,Non A/C Seater / Sleeper (2+1),22:36,01:50,03h 14m,400.0,500.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+35,Rathimeena Travels A,Non A/C Seater / Sleeper (2+1),22:01,01:45,03h 44m,400.0,500.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+36,Rathimeena Travels A,VE A/C Seater / Sleeper (2+1),21:31,01:30,03h 59m,524.0,562.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+37,Rathimeena Travels A,A/C Sleeper (2+1),22:06,02:05,03h 59m,562.0,562.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+38,VPS Transport,Non A/C Seater / Sleeper (2+1),20:55,00:45,03h 50m,500.0,700.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+39,VPS Transport,Non A/C Seater / Sleeper (2+1),21:00,00:45,03h 45m,500.0,750.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+40,Universal Bus( UTS),NON AC Seater / Sleeper 2+1,21:00,23:55,02h 55m,570.0,800.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+41,Aruna Bus Service,Bharat Benz A/C Sleeper (2+1),22:25,02:05,03h 40m,700.0,700.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+42,SKM Tours & Travels,A/C Semi Sleeper (2+2),22:00,00:45,02h 45m,500.0,500.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+43,Rathimeena Travels A,A/C Sleeper (2+1),15:05,19:00,03h 55m,562.0,562.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+44,Universal Bus( UTS),NON AC Seater / Sleeper 2+1,22:30,01:15,02h 45m,540.0,670.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+45,Universal Travels,A/C Seater/Sleeper (2+1),23:30,02:40,03h 10m,390.0,610.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+46,Olive Travels Lines,NON A/C Seater/ Sleeper (2+1),20:00,23:50,03h 50m,550.0,840.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+47,Orange Tours and Travels,A/C Sleeper (2+1),05:30,09:00,03h 30m,660.0,750.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+48,Orange Tours and Travels,Volvo Multi-Axle Sleeper A/C (2+1),04:35,08:30,03h 55m,700.0,700.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+49,Morning Star Travels,A/C Sleeper (2+1),04:40,08:05,03h 25m,450.0,600.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+50,Universal Bus( UTS),NON AC Seater / Sleeper 2+1,07:40,11:00,03h 20m,370.0,560.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+51,Uzhavan Travels,Non A/C Seater / Sleeper (2+1),20:15,23:55,03h 40m,649.0,799.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+52,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),A/C Seater / Sleeper (2+1),22:25,00:00,01h 35m,660.0,1140.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+53,Universal Travels,Non A/C Seater / Sleeper (2+1),21:40,02:15,04h 35m,350.0,470.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+54,Thajudeen Yasmin Travels,NON A/C Seater/ Sleeper (2+1),21:15,00:40,03h 25m,599.0,799.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+55,Olive Travels Lines,A/C Seater / Sleeper (2+1),07:20,11:30,04h 10m,600.0,900.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+56,Universal Travels,A/C Semi Sleeper / Sleeper (2+1),11:00,15:40,04h 40m,500.0,670.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+57,YBM Travels(BLM),A/C Sleeper (2+1),18:30,22:10,03h 40m,1850.0,2100.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+58,Octobus Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),09:00,12:55,03h 55m,3999.0,3999.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+59,SBM TRAANSPORT,Bharat Benz A/C Sleeper (2+1),16:55,20:20,03h 25m,1850.0,2200.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+60,LION Travels,A/C Sleeper (2+1),08:20,12:30,04h 10m,1800.0,2200.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+61,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:20,22:00,03h 40m,1300.0,1600.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+62,YBM Travels(BLM),A/C Sleeper (2+1),22:15,01:30,03h 15m,1300.0,1450.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+63,VKV Travels,Bharat Benz A/C Sleeper (2+1),18:31,22:15,03h 44m,3800.0,3800.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+64,ASR TRANZ,Bharat Benz A/C Sleeper (2+1),11:35,00:59,13h 24m,1400.0,1600.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+65,Sooriyan Travels,A/C Seater / Sleeper (2+1),20:30,00:45,04h 15m,1499.0,1799.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+66,RIDE INN KKR,Non A/C Seater / Sleeper (2+1),21:30,01:15,03h 45m,1300.0,1300.0,Koyambedu,Pondicherry,Chennai,Pondicherry
+67,RR TRAVELS,A/C Sleeper (2+1),22:15,01:50,03h 35m,1299.0,1299.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+68,VINOTH TRAVELS,VE A/C Seater / Sleeper (2+1),21:30,01:30,04h 00m,750.0,900.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+69,ASR TRANZ,Bharat Benz A/C Sleeper (2+1),22:05,00:59,02h 54m,833.0,944.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+70,SRI MUTHU JAYAM TRAVELS,Non A/C Seater / Sleeper (2+1),21:30,02:30,05h 00m,1999.0,1999.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+71,Raja Travels,A/C Seater / Sleeper (2+1),10:05,14:30,04h 25m,999.0,1099.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+72,SBM TRAANSPORT,Bharat Benz A/C Sleeper (2+1),15:30,18:50,03h 20m,2999.0,3299.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+73,RR TRAVELS,A/C Sleeper (2+1),22:00,01:40,03h 40m,1299.0,1299.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+74,Jayavin Travels,A/C Seater / Sleeper (2+1),18:00,22:00,04h 00m,1500.0,2420.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+75,VINOTH TRAVELS,VE A/C Sleeper (2+1),22:15,01:45,03h 30m,900.0,950.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+76,ALIF Travels,A/C Sleeper (2+1),22:35,02:30,03h 55m,901.55,949.05,Koyambedu,New Bus Stand,Chennai,Pondicherry
+77,KING TRAVELS,A/C Sleeper (2+1),21:05,00:55,03h 50m,749.0,899.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+78,ECSTASY BUS (EBS),A/C Sleeper (2+1),22:30,02:00,03h 30m,3000.0,3000.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+79,Aruna Bus Service,Bharat Benz A/C Sleeper (2+1),21:00,00:50,03h 50m,3999.0,3999.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+80,SKM Tours & Travels,A/C Semi Sleeper (2+2),14:05,18:35,04h 30m,900.0,900.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+81,SKM Tours & Travels,A/C Semi Sleeper (2+2),23:00,03:45,04h 45m,999.0,999.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+82,LION Travels,A/C Sleeper (2+1),22:20,01:45,03h 25m,1800.0,2200.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+83,Sooriyan Travels,A/C Sleeper (2+1),21:35,02:00,04h 25m,2375.0,2375.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+84,Apple Bus,Non A/C Seater / Sleeper (2+1),21:30,00:50,03h 20m,3000.0,3000.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+85,Apple Bus,Non A/C Seater / Sleeper (2+1),20:55,01:05,04h 10m,3000.0,3000.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+86,Apple Bus,Non A/C Seater / Sleeper (2+1),21:00,01:15,04h 15m,2999.0,2999.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+87,Vetri Travels,A/C Sleeper (2+1),18:15,19:40,01h 25m,2500.0,2600.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+88,Vetri Travels,A/C Sleeper (2+1),21:10,23:10,02h 00m,777.0,877.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+89,Vetri Travels,Bharat Benz A/C Sleeper (2+1),21:45,23:10,01h 25m,599.6,1821.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+90,Vetri Travels,A/C Sleeper (2+1),20:30,22:55,02h 25m,777.0,877.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+91,ECSTASY BUS (EBS),A/C Sleeper (2+1),10:30,14:45,04h 15m,2399.0,2399.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+92,Raja Travels,A/C Seater / Sleeper (2+1),22:40,01:30,02h 50m,1099.0,1299.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+93,Octobus Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),17:45,21:40,03h 55m,3999.0,4099.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+94,Octobus Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),09:00,13:00,04h 00m,3999.0,3999.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+95,Surya Connect,Bharat Benz A/C Sleeper (2+1),20:01,22:50,02h 49m,1000.0,1100.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+96,ARUNA TRAVELS,Bharat Benz A/C Sleeper (2+1),21:10,01:00,03h 50m,795.0,795.0,Koyambedu,Pondicherry,Chennai,Pondicherry
+97,ARUNA TRAVELS,Bharat Benz A/C Sleeper (2+1),22:30,02:20,03h 50m,795.0,795.0,Koyambedu,Pondicherry,Chennai,Pondicherry
+98,ASR TRANZ,Bharat Benz A/C Sleeper (2+1),10:10,13:30,03h 20m,4500.0,4500.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+99,VINOTH TRAVELS,A/C Seater / Sleeper (2+1),07:45,11:15,03h 30m,1000.0,1550.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+100,SBM TRAANSPORT,A/C Seater Push Back (2+2),20:30,22:10,01h 40m,1999.0,1999.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+101,ASR TRANZ,Bharat Benz A/C Sleeper (2+1),14:10,17:30,03h 20m,4500.0,4500.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+102,ASR TRANZ,Bharat Benz A/C Sleeper (2+1),22:10,01:30,03h 20m,4500.0,4500.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+103,Raja Travels,Non A/C Seater / Sleeper (2+1),20:50,00:30,03h 40m,999.0,1199.0,Koyambedu,New Bus Stand,Chennai,Pondicherry
+104,Azul Transports Private Limited,Bharat Benz A/C Sleeper (2+1),18:05,21:30,03h 25m,1480.0,2000.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+105,VEE VEE BUS,A/C Sleeper (2+1),17:00,21:10,04h 10m,917.46,1529.1,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+106,VEE VEE BUS,A/C Seater / Sleeper (2+1),17:00,20:00,03h 00m,1349.1,1799.1,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
+107,Sri Mahaganapathi Travels,Non A/C Seater / Sleeper (2+1),05:45,09:25,03h 40m,2000.0,3500.0,Koyambedu,Rajiv Gandhi Statue,Chennai,Pondicherry
+108,ALEGRIA HOLIDAYS,Non A/C Seater / Sleeper (2+1),20:55,23:59,03h 04m,799.0,1049.0,Koyambedu,Indira Gandhi Statue,Chennai,Pondicherry
