@@ -654,6 +654,32 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                                     time.sleep(2)  # Short delay before retry
                                 else:
                                     print(f"[{from_city} to {to_city}] Failed to save bus {bus_id} after {max_retries} attempts")
+                                    # Write error row to CSV file
+                                    try:
+                                        # Ensure the CSV file exists with headers
+                                        fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
+                                                     "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
+                                                     "Starting Point Parent", "Destination Point Parent"]
+                                        
+                                        # Create file with header if it doesn't exist
+                                        if not os.path.exists(csv_file_path):
+                                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+                                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                                writer.writeheader()
+                                        
+                                        # Write error row
+                                        with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                            error_row = {field: "error" for field in fieldnames}
+                                            error_row["Bus ID"] = "error"
+                                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
+                                            error_row["Starting Point Parent"] = from_city
+                                            error_row["Destination Point Parent"] = to_city
+                                            writer.writerow(error_row)
+                                        print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
+                                    except Exception as csv_error:
+                                        print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
+                                    
                                     raise  # Re-raise the error after max retries
                                 
                         except Exception as e:
@@ -664,6 +690,32 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                                 time.sleep(2)  # Short delay before retry
                             else:
                                 print(f"[{from_city} to {to_city}] Failed to process bus {bus_id} after {max_retries} attempts")
+                                # Write error row to CSV file
+                                try:
+                                    # Ensure the CSV file exists with headers
+                                    fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
+                                                 "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
+                                                 "Starting Point Parent", "Destination Point Parent"]
+                                    
+                                    # Create file with header if it doesn't exist
+                                    if not os.path.exists(csv_file_path):
+                                        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+                                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                            writer.writeheader()
+                                    
+                                    # Write error row
+                                    with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                                        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                        error_row = {field: "error" for field in fieldnames}
+                                        error_row["Bus ID"] = "error"
+                                        error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
+                                        error_row["Starting Point Parent"] = from_city
+                                        error_row["Destination Point Parent"] = to_city
+                                        writer.writerow(error_row)
+                                    print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
+                                except Exception as csv_error:
+                                    print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
+                                
                                 raise  # Re-raise the error after max retries
 
                     print(f"[{from_city} to {to_city}] Completed processing bus {bus_id} ({index+1}/{len(bus_elements)})")
@@ -687,6 +739,32 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                     time.sleep(5 * retry_count)  # Incrementally longer delay between retries
                 else:
                     print(f"[{from_city} to {to_city}] Failed after {max_retries} retry attempts.")
+                    # Write error row to CSV file
+                    try:
+                        # Ensure the CSV file exists with headers
+                        fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
+                                     "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
+                                     "Starting Point Parent", "Destination Point Parent"]
+                        
+                        # Create file with header if it doesn't exist
+                        if not os.path.exists(csv_file_path):
+                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                writer.writeheader()
+                        
+                        # Write error row
+                        with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                            error_row = {field: "error" for field in fieldnames}
+                            error_row["Bus ID"] = "error"
+                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
+                            error_row["Starting Point Parent"] = from_city
+                            error_row["Destination Point Parent"] = to_city
+                            writer.writerow(error_row)
+                        print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
+                    except Exception as csv_error:
+                        print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
+                    
                     raise  # Re-raise the error after max retries
                 
             except Exception as e:
@@ -714,6 +792,32 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                     time.sleep(5 * retry_count)  # Incrementally longer delay between retries
                 else:
                     print(f"[{from_city} to {to_city}] Failed after {max_retries} retry attempts.")
+                    # Write error row to CSV file
+                    try:
+                        # Ensure the CSV file exists with headers
+                        fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
+                                     "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
+                                     "Starting Point Parent", "Destination Point Parent"]
+                        
+                        # Create file with header if it doesn't exist
+                        if not os.path.exists(csv_file_path):
+                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                writer.writeheader()
+                        
+                        # Write error row
+                        with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                            error_row = {field: "error" for field in fieldnames}
+                            error_row["Bus ID"] = "error"
+                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
+                            error_row["Starting Point Parent"] = from_city
+                            error_row["Destination Point Parent"] = to_city
+                            writer.writerow(error_row)
+                        print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
+                    except Exception as csv_error:
+                        print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
+                    
                     raise  # Re-raise the error after max retries
 
             finally:
@@ -747,6 +851,32 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                 time.sleep(5 * retry_count)  # Incrementally longer delay between retries
             else:
                 print(f"[{from_city} to {to_city}] Failed after {max_retries} retry attempts.")
+                # Write error row to CSV file
+                try:
+                    # Ensure the CSV file exists with headers
+                    fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
+                                 "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
+                                 "Starting Point Parent", "Destination Point Parent"]
+                    
+                    # Create file with header if it doesn't exist
+                    if not os.path.exists(csv_file_path):
+                        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                            writer.writeheader()
+                    
+                    # Write error row
+                    with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                        error_row = {field: "error" for field in fieldnames}
+                        error_row["Bus ID"] = "error"
+                        error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Truncate error message if too long
+                        error_row["Starting Point Parent"] = from_city
+                        error_row["Destination Point Parent"] = to_city
+                        writer.writerow(error_row)
+                    print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
+                except Exception as csv_error:
+                    print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
+                
                 raise  # Re-raise the error after max retries
 
         finally:
@@ -755,7 +885,35 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                 print(f"[{from_city} to {to_city}] Quitting WebDriver.")
                 driver.quit()
 
-def process_multiple_routes(routes_list, target_month_year, target_day, visible=False, max_retries=10):
+def check_route_failed(csv_file_path):
+    """
+    Check if a route's CSV file exists and contains an error row.
+    
+    Args:
+        csv_file_path: Path to the CSV file
+        
+    Returns:
+        bool: True if route previously failed (has error row), False otherwise
+    """
+    # If file doesn't exist, route hasn't been processed yet
+    if not os.path.exists(csv_file_path):
+        return False
+    
+    try:
+        # Check if file contains an error row
+        with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)  # Skip header row
+            for row in reader:
+                # Check if any row contains "error" in Bus ID field (first column)
+                if row and row[0] == "error":
+                    return True
+    except Exception as e:
+        print(f"Error checking route failure status in {csv_file_path}: {e}")
+    
+    return False
+
+def process_multiple_routes(routes_list, target_month_year, target_day, visible=False, max_retries=10, skip_failed=True):
     """
     Process multiple routes in PARALLEL, saving data for each route to a separate CSV file.
 
@@ -765,16 +923,43 @@ def process_multiple_routes(routes_list, target_month_year, target_day, visible=
         target_day: Day of month for all searches (e.g., "20")
         visible: Whether to run the browser in visible mode (default: False)
         max_retries: Maximum number of retries for connection issues (default: 3)
+        skip_failed: Whether to skip routes that previously failed (default: True)
     """
     total_routes = len(routes_list)
+    routes_to_process = []
+    skipped_routes = []
 
     print(f"\n{'='*50}")
     print(f"Starting PARALLEL batch processing of {total_routes} routes")
     print(f"Date for all routes: {target_month_year} {target_day}")
     print(f"Browser mode: {'Visible' if visible else 'Headless'}")
     print(f"Max retries per route: {max_retries}")
+    print(f"Skip previously failed routes: {skip_failed}")
     print("Data for each route will be saved to a separate '{from_city}_to_{to_city}.csv' file.")
     print(f"{'='*50}\n")
+
+    # First, check all routes to see which ones should be skipped
+    if skip_failed:
+        print("Checking for previously failed routes to skip...")
+        for from_city, to_city in routes_list:
+            route_csv_file_path = f"{from_city}_to_{to_city}.csv"
+            route_info = f"{from_city} to {to_city}"
+            
+            if check_route_failed(route_csv_file_path):
+                print(f"Skipping previously failed route: {route_info}")
+                skipped_routes.append((from_city, to_city))
+            else:
+                routes_to_process.append((from_city, to_city))
+        
+        print(f"Routes to process: {len(routes_to_process)} | Skipped routes: {len(skipped_routes)}")
+    else:
+        # Process all routes if not skipping failed ones
+        routes_to_process = routes_list
+        print(f"Processing all {len(routes_to_process)} routes (not skipping any failed routes)")
+    
+    if not routes_to_process:
+        print("No routes to process. Exiting.")
+        return
 
     # Use ThreadPoolExecutor for parallel processing
     # Determine max_workers based on CPU or a reasonable default like 4-8
@@ -782,52 +967,96 @@ def process_multiple_routes(routes_list, target_month_year, target_day, visible=
     max_workers = min(os.cpu_count() or 1, 4) # Limit to 4 workers initially, can be adjusted
     print(f"Using up to {max_workers} parallel workers.")
 
+    # Execute routes in batches to prevent submitting all at once
+    # This allows for better handling of failed routes in the current run
+    completed_count = 0
+    failed_count = 0
+    active_routes = set()  # Track routes currently being processed
+    routes_queue = list(routes_to_process)  # Queue of routes to process
+    
+    print(f"\nProcessing routes in batches with max {max_workers} concurrent routes...")
+    
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {} # Use a dictionary to map futures to route info for better error reporting
-        for index, (from_city, to_city) in enumerate(routes_list, 1):
-            # Define the specific CSV file path for this route
+        # Initial submission of batch
+        futures_to_routes = {}  # Map futures to route info
+        
+        # Fill the initial worker pool
+        while routes_queue and len(futures_to_routes) < max_workers:
+            from_city, to_city = routes_queue.pop(0)
             route_csv_file_path = f"{from_city}_to_{to_city}.csv"
             route_info = f"{from_city} to {to_city}"
-
-            print(f"Submitting route {index}/{total_routes}: {route_info} (Output: {route_csv_file_path})")
-
-            # Submit the search_buses function to the executor
-            # Pass the specific csv_file_path for this route and max_retries
+            
+            print(f"Starting route: {route_info} (Output: {route_csv_file_path})")
+            active_routes.add((from_city, to_city))
+            
             future = executor.submit(
                 search_buses,
                 from_city=from_city,
                 to_city=to_city,
                 target_month_year=target_month_year,
                 target_day=target_day,
-                csv_file_path=route_csv_file_path, # Pass the specific CSV path
+                csv_file_path=route_csv_file_path,
                 visible=visible,
                 max_retries=max_retries
             )
-            futures[future] = route_info # Map future to route info
-
-        # Wait for all futures to complete and handle results/exceptions
-        print("\nWaiting for all routes to complete...")
-        completed_count = 0
-        failed_count = 0
-        for future in concurrent.futures.as_completed(futures):
-            route_info = futures[future]
-            try:
-                # Retrieve result (search_buses doesn't return anything, but calling result() checks for exceptions)
-                future.result()
-                print(f"[{route_info}] Processing completed successfully.")
-                completed_count += 1
-            except Exception as e:
-                # Log errors from parallel tasks
-                print(f"!!! ERROR processing route [{route_info}]: {e} !!!")
-                failed_count += 1
-
-
+            futures_to_routes[future] = (from_city, to_city, route_info)
+        
+        # Process futures as they complete and add new ones from the queue
+        while futures_to_routes:
+            # Wait for the next future to complete
+            done, _ = concurrent.futures.wait(
+                futures_to_routes, 
+                return_when=concurrent.futures.FIRST_COMPLETED
+            )
+            
+            # Process completed futures
+            for future in done:
+                from_city, to_city, route_info = futures_to_routes[future]
+                
+                try:
+                    future.result()  # This will raise exceptions from the task
+                    print(f"[{route_info}] Processing completed successfully.")
+                    completed_count += 1
+                except Exception as e:
+                    print(f"!!! ERROR processing route [{route_info}]: {e} !!!")
+                    failed_count += 1
+                    # Note: Error row is added to CSV in search_buses function
+                
+                # Remove the completed future
+                del futures_to_routes[future]
+                active_routes.remove((from_city, to_city))
+                
+                # Start a new route if any are available
+                if routes_queue:
+                    next_from_city, next_to_city = routes_queue.pop(0)
+                    next_route_csv_file_path = f"{next_from_city}_to_{next_to_city}.csv"
+                    next_route_info = f"{next_from_city} to {next_to_city}"
+                    
+                    print(f"Starting route: {next_route_info} (Output: {next_route_csv_file_path})")
+                    active_routes.add((next_from_city, next_to_city))
+                    
+                    next_future = executor.submit(
+                        search_buses,
+                        from_city=next_from_city,
+                        to_city=next_to_city,
+                        target_month_year=target_month_year,
+                        target_day=target_day,
+                        csv_file_path=next_route_csv_file_path,
+                        visible=visible,
+                        max_retries=max_retries
+                    )
+                    futures_to_routes[next_future] = (next_from_city, next_to_city, next_route_info)
+    
     print(f"\n{'='*50}")
     print(f"Batch processing finished.")
     print(f" - Successfully completed routes: {completed_count}")
-    print(f" - Failed routes: {failed_count}")
-    print(f"Total routes submitted: {total_routes}")
+    print(f" - Failed routes in this run: {failed_count}")
+    if skip_failed:
+        print(f" - Skipped previously failed routes: {len(skipped_routes)}")
+    print(f"Total routes processed: {completed_count + failed_count}")
+    print(f"Total routes in original list: {total_routes}")
     print(f"Results are saved in separate CSV files named '{{from_city}}_to_{{to_city}}.csv'.")
+    print(f"Note: For failed routes, an 'error' row has been added to the CSV file.")
     print(f"{'='*50}\n")
 
 if __name__ == "__main__":
@@ -905,6 +1134,7 @@ if __name__ == "__main__":
     visible_browser = "--visible" in sys.argv
     single_route = "--single" in sys.argv
     max_retries = 3  # Default max retries
+    skip_failed_routes = not ("--no-skip" in sys.argv)  # Skip failed routes by default
     
     # Check for custom max retries argument
     for arg in sys.argv:
@@ -923,7 +1153,16 @@ if __name__ == "__main__":
         input_from_city = "Mumbai"
         input_to_city = "Thane"
         csv_file_path = f"{input_from_city}_to_{input_to_city}.csv"
+        
+        # Check if route previously failed and confirm whether to proceed
+        if skip_failed_routes and check_route_failed(csv_file_path):
+            print(f"Route {input_from_city} to {input_to_city} previously failed.")
+            proceed = input("Do you want to proceed anyway? (y/n): ")
+            if proceed.lower() != 'y':
+                print("Exiting without processing route.")
+                sys.exit(0)
+        
         search_buses(input_from_city, input_to_city, target_month_year, target_day, csv_file_path, visible=visible_browser, max_retries=max_retries)
     else:
         # Process all routes in parallel
-        process_multiple_routes(routes_to_process, target_month_year, target_day, visible=visible_browser, max_retries=max_retries)
+        process_multiple_routes(routes_to_process, target_month_year, target_day, visible=visible_browser, max_retries=max_retries, skip_failed=skip_failed_routes)
