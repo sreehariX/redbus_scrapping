@@ -37,3 +37,4 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 36,UPSRTC - SKB0018,Ordinary Non AC Seater 2+3,18:00,23:20,05h 20m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
 37,UPSRTC - TAJ0014,Janrath AC Seater 2+2,18:01,22:15,04h 14m,457.0,457.0,Kaushambi Bus Stand(Delhi),Agra ISBT,Delhi,Agra
 38,UPSRTC - NDD0012,Ordinary Non AC Seater 2+3,20:00,23:58,03h 58m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+50,RSRTC - 159508,Express Non AC Seater 2+3,14:00,17:50,03h 50m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
