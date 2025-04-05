@@ -1,0 +1,70 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Dolphin Travel House (14),A/C Sleeper (2+1),21:30,07:00,09h 30m,910.0,1010.0,Borivali West,Bus Stand,Mumbai,Shirdi
+2,Laxminarayan Travels,A/C Seater / Sleeper (2+1),20:00,05:30,09h 30m,700.0,1000.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+3,Neeta tours and travels,Bharat Benz A/C Seater (2+2),06:00,13:45,07h 45m,600.0,719.0,Borivali West,Neeta Annex Hotel,Mumbai,Shirdi
+4,Dolphin Travel House (42),Non AC Seater (2+2),21:00,05:30,08h 30m,460.0,460.0,Borivali West,Bus Stand,Mumbai,Shirdi
+5,Neeta tours and travels,Bharat Benz A/C Sleeper (2+1),21:00,05:30,08h 30m,752.0,950.0,Borivali West,Neeta Annex Hotel,Mumbai,Shirdi
+6,Neeta tours and travels,Bharat Benz A/C Sleeper (2+1),22:30,05:45,07h 15m,724.0,919.0,Borivali West,Neeta Annex Hotel,Mumbai,Shirdi
+7,Dolphin Travel House (19),A/C Sleeper (2+2),20:30,05:15,08h 45m,810.0,810.0,Borivali West,Bus Stand,Mumbai,Shirdi
+8,Sai travels chembur,A/C Seater / Sleeper (2+1),22:30,07:00,08h 30m,450.0,810.0,Borivali West,Sai Plaza,Mumbai,Shirdi
+9,Sai travels chembur,A/C Seater / Sleeper (2+1),20:15,05:15,09h 00m,400.0,810.0,Borivali West,Sai Plaza,Mumbai,Shirdi
+10,Dolphin Travel House (11),Non AC Seater (2+2),20:00,07:00,11h 00m,460.0,460.0,Borivali West,Bus Stand,Mumbai,Shirdi
+11,Dolphin travel house,A/C Sleeper (2+1),21:45,06:00,08h 15m,610.0,610.0,Masjid Bundar,Bus Stand,Mumbai,Shirdi
+12,Lakshmi Travel Mumbai(MH),A/C Sleeper (2+1),21:00,06:30,09h 30m,600.0,600.0,Borivali West,Bus Stand,Mumbai,Shirdi
+13,Lakshmi Travels,NON A/C Seater (2+2),21:45,07:00,09h 15m,350.0,350.0,Borivali West,Bus Stand,Mumbai,Shirdi
+14,Lakshmi Travel Mumbai(MH),NON A/C Seater (2+2),07:30,16:00,08h 30m,350.0,350.0,Borivali East,Bus Stand,Mumbai,Shirdi
+15,Lakshmi Travels,A/C Sleeper (2+1),22:00,06:30,08h 30m,600.0,600.0,Borivali West,Bus Stand,Mumbai,Shirdi
+16,Renuka Tours and Travels,A/C Sleeper (2+1),20:15,05:00,08h 45m,800.0,800.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+17,Neeta tours and travels,Bharat Benz A/C Seater (2+2),07:00,14:30,07h 30m,500.0,750.0,Borivali West,Neeta Annex Hotel,Mumbai,Shirdi
+18,Sai Malhar Travels,A/C Sleeper (2+1),21:45,07:30,09h 45m,700.0,800.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+19,Shree Sai Chhaya Travels,NON A/C Seater (2+2),21:00,04:00,07h 00m,450.0,450.0,Kalyan,Shirdi,Mumbai,Shirdi
+20,Sai travels chembur,Non AC Seater (2+2),19:30,06:10,10h 40m,450.0,450.0,Borivali West,Sai Baba Temple,Mumbai,Shirdi
+21,Manish Travel,NON A/C Seater Push Back (2+2),21:00,06:15,09h 15m,1000.0,1000.0,Borivali West,Bus Stand,Mumbai,Shirdi
+22,Sai aradhya,NON A/C Seater Push Back (2+2),23:00,06:00,07h 00m,449.0,449.0,Dadar East,Shirdi Mandir,Mumbai,Shirdi
+23,Shivrameshwar Bane Tours & Travels,NON A/C Push Back (2+2),22:30,04:00,05h 30m,499.0,499.0,Dadar,Shirdi,Mumbai,Shirdi
+24,Shivrameshwar Bane Tours & Travels,A/C Sleeper (2+1),21:00,06:30,09h 30m,3000.0,3000.0,Borivali West,Shirdi,Mumbai,Shirdi
+25,Shivrameshwar Bane Tours & Travels,AC Seater (2+2),22:00,06:00,08h 00m,3000.0,3000.0,Borivali West,Shirdi,Mumbai,Shirdi
+26,Shree Sai Chhaya Travels,NON A/C Seater (2+2),20:30,04:15,07h 45m,1000.0,1000.0,Dombivali (E) Pandharkar College Near LIC Office,Shirdi,Mumbai,Shirdi
+27,Shree Sai Chhaya Travels,NON A/C Seater (2+2),20:30,04:15,07h 45m,500.0,500.0,Dombivali (E) Pandharkar College Near LIC Office,Shirdi,Mumbai,Shirdi
+28,Dolphin Travel House (10),Non AC Seater (2+2),22:30,06:30,08h 00m,510.0,510.0,Dadar East,Bus Stand,Mumbai,Shirdi
+29,Shree Sai Chhaya Travels,NON A/C Seater (2+2),21:00,04:30,07h 30m,500.0,500.0,Tisgaon,Shirdi,Mumbai,Shirdi
+30,Sai aradhya,A/C Seater Push Back (2+2),22:00,05:00,07h 00m,900.0,900.0,Dadar East,Shirdi Mandir,Mumbai,Shirdi
+31,Dolphin Travel House (25),A/C Sleeper (2+2),21:30,05:30,08h 00m,910.0,910.0,Panvel,Sai Plaza,Mumbai,Shirdi
+32,Dolphin Travels House (16),A/C Sleeper (2+1),22:15,06:30,08h 15m,560.0,610.0,Borivali West,Bus Stand,Mumbai,Shirdi
+33,Dolphin travel house,A/C Sleeper (2+1),19:30,04:15,08h 45m,910.0,910.0,Borivali West,Bus Stand,Mumbai,Shirdi
+34,Dolphin Travel House (36),A/C Sleeper (2+2),20:01,04:31,08h 30m,810.0,810.0,Borivali West,Bus Stand,Mumbai,Shirdi
+35,Sai Holidays Mumbai,AC Sleeper (2+1),19:50,05:05,09h 15m,1080.0,1080.0,Borivali West,Holiday Inn Park,Mumbai,Shirdi
+36,Classic Bus and Transport Pvt Ltd,VE A/C Sleeper (2+1),22:00,02:15,04h 15m,1942.5,2127.5,"Majiwada ,Thane ( W ) Classic MMT",,Mumbai,Shirdi
+37,Dolphin travel house,A/C Sleeper (2+1),21:50,06:15,08h 25m,1010.0,1010.0,Panvel,Sai Plaza,Mumbai,Shirdi
+38,Sai travels chembur,A/C Sleeper (2+1),21:50,05:50,08h 00m,765.0,855.0,Kalamboli,Bus Stand,Mumbai,Shirdi
+39,Dadar Travels Mumbai,AC Sleeper (2+1),08:30,18:45,10h 15m,749.0,749.0,Borivali East,Nagar Panchayat,Mumbai,Shirdi
+40,Lakshmi Travels,NON A/C Seater (2+2),20:30,06:00,09h 30m,350.0,350.0,Borivali West,Bus Stand,Mumbai,Shirdi
+41,Jay Sai Humrahi Travels,A/C Sleeper (2+1),22:00,06:00,08h 00m,1800.0,1800.0,Borivali West,Bus Stand,Mumbai,Shirdi
+42,Sai aradhya,NON A/C Seater Push Back (2+2),22:00,05:00,07h 00m,449.0,449.0,Dadar East,Shirdi Mandir,Mumbai,Shirdi
+43,Sai travels chembur,A/C Seater / Sleeper (2+1),21:45,06:45,09h 00m,900.0,1350.0,Borivali West,Sai Plaza,Mumbai,Shirdi
+44,MK Travels,Non AC Seater (2+2),21:00,05:00,08h 00m,300.0,300.0,Borivali West,Sai Baba Temple,Mumbai,Shirdi
+45,JAY SAI TOURS AND TRAVELS,A/C Sleeper (2+1),22:00,06:05,08h 05m,550.0,600.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+46,Manish Travels (Sai Baba),NON A/C Seater Push Back (2+2),21:30,07:00,09h 30m,1000.0,1000.0,Borivali West,Bus Stand,Mumbai,Shirdi
+47,Dadar Travels Mumbai,AC Sleeper (2+1),22:45,06:20,07h 35m,900.0,900.0,Dadar East,Nagar Panchayat,Mumbai,Shirdi
+48,SAMEERA HOLIDAYS,A/C Sleeper (2+1),21:35,05:30,07h 55m,700.0,700.0,Dahisar East,Sai Shubham Hotel,Mumbai,Shirdi
+49,Saimaya Travel House,A/C Sleeper (2+1),21:30,05:30,08h 00m,800.0,800.0,Borivali East,Hotel Holiday Park,Mumbai,Shirdi
+50,SAMEERA HOLIDAYS,NON A/C Seater (2+2),21:45,06:45,09h 00m,450.0,450.0,Borivali East,Sai Shubham Hotel,Mumbai,Shirdi
+51,Sai travels chembur,A/C Seater / Sleeper (2+1),21:35,05:35,08h 00m,900.0,900.0,Kalamboli,Bus Stand,Mumbai,Shirdi
+52,Humrahi Travels,A/C Sleeper (2+1),22:00,06:00,08h 00m,1800.0,1800.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+53,JAY SAI TOURS AND TRAVELS,Non AC Seater (2+2),21:00,05:05,08h 05m,500.0,500.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+54,MK Travels,AC Seater (2+2),21:15,06:15,09h 00m,350.0,350.0,Borivali West,Sai Baba Temple,Mumbai,Shirdi
+55,SAMEERA HOLIDAYS,A/C Sleeper (2+1),22:30,06:00,07h 30m,700.0,700.0,Borivali East,Sai Shubham Hotel,Mumbai,Shirdi
+56,SAMEERA HOLIDAYS,A/C Sleeper (2+2),22:30,06:00,07h 30m,700.0,700.0,Borivali East,Sai Shubham Hotel,Mumbai,Shirdi
+57,Saimaya Travel House,NON A/C Seater Push Back (2+2),21:30,06:00,08h 30m,550.0,550.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+58,Saimaya Travel House,A/C Seater Push Back (2+2),21:45,06:15,08h 30m,600.0,600.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+59,DNR Express,AC Sleeper (2+1),15:15,23:45,08h 30m,2400.0,2400.0,Borivali West,Hotel Sai Chhatra,Mumbai,Shirdi
+60,Global Travels Black Horse,AC Sleeper (2+1),17:45,23:54,06h 09m,3000.0,3300.0,Vashi,Sai Baba Temple,Mumbai,Shirdi
+61,Bharuka Travels,Bharat Benz A/C Sleeper (2+1),18:00,00:45,06h 45m,1500.0,1600.0,Vashi,Bus Stand,Mumbai,Shirdi
+62,Anand Travels,A/C Sleeper (2+1),21:30,04:00,06h 30m,1600.0,1600.0,Borivali East,Sai International Hotel,Mumbai,Shirdi
+63,Naveen Travels (Durg),A/C Sleeper (2+1),14:30,00:45,10h 15m,2000.0,2600.0,Borivali West,Sai Baba Temple,Mumbai,Shirdi
+64,Chintamani Travels,A/C Sleeper (2+1),15:30,23:45,08h 15m,1400.0,1400.0,Andheri East,Bus stand,Mumbai,Shirdi
+65,Eagle Travels Sai Travels,Bharat Benz A/C Sleeper (2+1),19:30,04:15,08h 45m,1430.0,1630.0,Borivali East,Shirdi,Mumbai,Shirdi
+66,Sai Sanskar Travels and Logistics,Non AC Seater (2+2),20:30,05:45,09h 15m,2250.0,2250.0,Borivali West,Bus stand,Mumbai,Shirdi
+67,Humrahi Travels,A/C Sleeper (2+1),22:00,06:00,08h 00m,1800.0,1800.0,Borivali West,Hotel Holiday Park,Mumbai,Shirdi
+68,Sai travels chembur,A/C Seater / Sleeper (2+1),20:00,04:00,08h 00m,1800.0,1800.0,Borivali West,Sai Plaza,Mumbai,Shirdi
+69,Himalaya Travels,Bharat Benz A/C Sleeper (2+1),23:00,04:30,05h 30m,1110.0,1210.0,Sion,SAMRRUDDHI TOLL PLAZA,Mumbai,Shirdi

@@ -1,0 +1,4 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,WBTC (CTC) Kolkata - Namkhana ferry ghat - Bakkhali (AC VOLVO) - 127|06:30,A/C Seater (2+2),06:30,09:45,03h 15m,255.0,255.0,Esplanade,Bakkhali,Kolkata,Bakkhali
+2,WBTC (CTC) HABRA - BAKKHALI - 153|07:50,Non AC Seater (2+3),07:50,11:55,04h 05m,102.0,102.0,Esplanade,Bakkhali,Kolkata,Bakkhali
+3,West bengal transport corporation - 152546,AC Seater (2+2),07:00,11:30,04h 30m,240.0,240.0,Esplanade,Bakkhali Bus Stand,Kolkata,Bakkhali

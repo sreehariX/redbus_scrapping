@@ -279,3 +279,33 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 97,Sanadi Tourism,Non AC Seater (2+2),23:30,05:00,05h 30m,810.0,855.0,Swargate,Bus Stand,Pune,Kolhapur
 98,Pareek Travels,A/C Sleeper (2+1),01:55,08:00,06h 05m,1000.0,1000.0,Nashik Phata,Bus Stand,Pune,Kolhapur
 99,Shree Balaji Travels,NON A/C Sleeper (2+1),04:45,09:30,04h 45m,1100.0,1100.0,Tale Gaon,Kawala Naka,Pune,Kolhapur
+100,East West Travels,NON A/C Sleeper (2+1),19:00,00:30,05h 30m,1200.0,1500.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+101,Gogte Travels,A/C Sleeper (2+1),20:15,23:14,02h 59m,1200.0,1200.0,Swargate,,Pune,Kolhapur
+102,Gogte Travels,NON A/C Sleeper (2+1),21:30,01:59,04h 29m,1200.0,1200.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+103,Vaibhav Tours and Travels,Non A/C Seater / Sleeper (2+1),22:45,04:00,05h 15m,1200.0,1400.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+104,East West Travels,NON A/C Sleeper (2+1),19:00,23:15,04h 15m,1100.0,1300.0,Bavdhan,Kolhapura Bypass,Pune,Kolhapur
+105,Vaibhav Tours and Travels,A/C Seater / Sleeper (2+1),23:50,03:45,03h 55m,1200.0,1600.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+106,Gogte Travels (Manish),Non AC Seater (2+2),18:50,01:00,06h 10m,1200.0,1200.0,Padmavati Parking,Dabholkar Corner,Pune,Kolhapur
+107,PRAWAS TOURS & TRAVELS,AC Seater (2+2),02:55,10:55,08h 00m,4990.0,4990.0,Bhosari,Bus Stand,Pune,Kolhapur
+108,AAINATH TRAVELS,A/C Sleeper (2+1),19:00,02:30,07h 30m,950.0,999.0,Wakad,Bus Stand,Pune,Kolhapur
+109,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:30,21:00,04h 30m,3500.0,4000.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+110,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),02:15,07:00,04h 45m,2050.0,2050.0,Wagholi,Kawala Naka,Pune,Kolhapur
+111,MB Link Travels,A/C Sleeper (2+1),00:45,07:00,06h 15m,1500.0,1500.0,Kharadi,KOLHAPUR BUS STAND LAST STOP,Pune,Kolhapur
+112,N.T Ashoka,AC Sleeper (2+1),02:30,07:00,04h 30m,1616.0,1818.0,Wakad,Panchshil hotel,Pune,Kolhapur
+113,MB Link Travels,VE A/C Sleeper (2+1),23:59,07:15,07h 16m,2000.0,2000.0,Supa,KOLHAPUR BUS STAND LAST STOP,Pune,Kolhapur
+114,KVT Narmada Benz,Bharat Benz A/C Sleeper (2+1),19:30,03:00,07h 30m,1800.0,1800.0,Bhosari,Kolhapur (bypass),Pune,Kolhapur
+115,IntrCity SmartBus,AC Sleeper (2+1),20:30,02:00,05h 30m,1710.0,1881.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+116,VRL Travels,A/C Sleeper (2+1),17:00,22:00,05h 00m,3000.0,3200.0,Wadgaon Bridge,Kawala Naka,Pune,Kolhapur
+117,IntrCity SmartBus,Volvo Multi Axle Sleeper B11R (2+1),18:30,23:55,05h 25m,2099.0,3419.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+118,IntrCity SmartBus,AC Sleeper (2+1),21:55,03:25,05h 30m,2000.0,2000.0,Hinje Wadi,Dabholkar Corner,Pune,Kolhapur
+119,Manish Travels Private Limited,VE A/C Sleeper (2+1),08:00,14:00,06h 00m,1400.0,1400.0,Wakad,Vathar - shubham travels,Pune,Kolhapur
+120,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:00,21:45,04h 45m,3500.0,4000.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+121,Maharaja Travels,VE A/C Sleeper (2+1),02:15,07:25,05h 10m,1713.0,1713.0,Ravet Mumbai Pune Expressway End,Opposite CBS Stand,Pune,Kolhapur
+122,Nakoda Travels Rahi,A/C Sleeper (2+1),02:00,07:05,05h 05m,1500.0,1500.0,Swargate,Kolhapur Bus Stand,Pune,Kolhapur
+123,IntrCity SmartBus,AC Sleeper (2+1),23:45,05:15,05h 30m,2000.0,2200.0,Bavdhan,Dabholkar Corner,Pune,Kolhapur
+124,MB Link Travels,A/C Sleeper (2+1),23:39,05:10,05h 31m,1500.0,1600.0,Koregaon Park,Kolhapura Bypass,Pune,Kolhapur
+125,N.T M.B LINK,VE A/C Sleeper (2+1),03:30,09:00,05h 30m,1616.0,1818.0,Wakad,Bus Stand,Pune,Kolhapur
+126,MB Link Travels,A/C Sleeper (2+1),04:00,08:30,04h 30m,2010.48,2110.48,Swargate,Sahara travels mahalaxmi chambers s t bus stand,Pune,Kolhapur
+127,IntrCity SmartBus,Volvo Multi Axle Sleeper B11R (2+1),19:40,01:00,05h 20m,2159.0,3419.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+128,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:00,03:10,05h 10m,1710.0,2053.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+129,Konduskar Travels Pvt. Ltd,Volvo Multi-Axle A/C Sleeper (2+1),02:05,06:50,04h 45m,1450.0,1450.0,Dandekar Pool,Opp Bus Stand,Pune,Kolhapur

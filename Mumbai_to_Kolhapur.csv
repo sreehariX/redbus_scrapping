@@ -1,0 +1,67 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,N.T Ashoka,AC Sleeper (2+1),21:00,07:00,10h 00m,1616.0,1818.0,Mazgaon,Panchshil hotel,Mumbai,Kolhapur
+2,N.T Ashoka,AC Sleeper (2+1),19:30,06:50,11h 20m,1616.0,1818.0,Borivali West,Bus Stand,Mumbai,Kolhapur
+3,Maharaja Travels,VE A/C Sleeper (2+1),20:25,07:25,11h 00m,1713.0,1713.0,Kandivali East,Opposite CBS Stand,Mumbai,Kolhapur
+4,Nakoda Travels,A/C Sleeper (2+1),20:50,06:10,09h 20m,1048.0,1048.0,Parel,Bus Stand,Mumbai,Kolhapur
+5,Dolphin travel house,Bharat Benz A/C Sleeper (2+1),22:30,08:30,10h 00m,1501.0,1951.0,Borivali West,Dabholkar Corner,Mumbai,Kolhapur
+6,N.T M.B LINK,VE A/C Sleeper (2+1),22:30,09:00,10h 30m,1616.0,1818.0,Borivali West,Bus Stand,Mumbai,Kolhapur
+7,Mohan travels (ghatge patil transport ltd.),AC Sleeper (2+1),21:15,06:45,09h 30m,1260.0,1350.0,Andheri East,Kawala Naka,Mumbai,Kolhapur
+8,N.T M.B LINK,VE A/C Sleeper (2+1),22:00,08:15,10h 15m,1616.0,1818.0,Borivali West,Kawala Naka,Mumbai,Kolhapur
+9,Dolphin Travel House (34),A/C Sleeper (2+1),21:20,07:30,10h 10m,1310.0,1610.0,Andheri East,Kolhapur CBS,Mumbai,Kolhapur
+10,Nakoda Travels,A/C Sleeper (2+1),20:00,06:12,10h 12m,1048.0,1048.0,Borivali West,Bus Stand,Mumbai,Kolhapur
+11,N.T M.B LINK,AC Sleeper (2+1),23:00,09:50,10h 50m,1616.0,1818.0,Borivali West,Kolhapura Bypass,Mumbai,Kolhapur
+12,Sadguru Balumama Travels,A/C Sleeper (2+1),20:50,07:40,10h 50m,1500.0,1500.0,Borivali West,Vathar - shubham travels,Mumbai,Kolhapur
+13,Sadguru Balumama Travels,A/C Sleeper (2+1),21:00,06:35,09h 35m,1500.0,1500.0,Delai Road Balumama Travels Opp Petrol Pump,Vathar - shubham travels,Mumbai,Kolhapur
+14,Dolphin Travel House (43),A/C Sleeper (2+1),21:30,07:30,10h 00m,1393.0,1813.0,Borivali West,Dabholkar Corner,Mumbai,Kolhapur
+15,N.T Vaibhav,AC Sleeper (2+1),20:35,07:50,11h 15m,1515.0,1818.0,Mazgaon,Bus Stand,Mumbai,Kolhapur
+16,Dolphin Travel House (21),A/C Sleeper (2+1),21:00,07:15,10h 15m,1310.0,1610.0,Dadar East,Kolhapur CBS,Mumbai,Kolhapur
+17,Mohan travels (ghatge patil transport ltd.),Bharat Benz A/C Sleeper (2+1),20:00,06:45,10h 45m,1260.0,1260.0,Borivali West,Kawala Naka,Mumbai,Kolhapur
+18,Vaibhav travels,A/C Sleeper (2+1),19:30,07:30,12h 00m,1200.0,1500.0,Borivali East,Bus Stand,Mumbai,Kolhapur
+19,Vaibhav travels,A/C Sleeper (2+1),23:00,08:15,09h 15m,1200.0,1500.0,Borivali East,Bus Stand,Mumbai,Kolhapur
+20,Konduskar Travels Pvt. Ltd,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),20:20,08:50,12h 30m,1050.0,1300.0,Borivali West,Opp Bus Stand,Mumbai,Kolhapur
+21,N.T Kartik,AC Sleeper (2+1),21:01,08:01,11h 00m,1515.0,1818.0,Borivali West,Bus Stand,Mumbai,Kolhapur
+22,Dolphin travel house,Mercedes Benz A/C Sleeper (2+1),20:45,07:40,10h 55m,1243.0,1615.0,Santacruz East,Kolhapura Bypass,Mumbai,Kolhapur
+23,N.T Kartik,A/C Sleeper (2+1),21:50,07:50,10h 00m,1818.0,2020.0,Byculla,Bus Stand,Mumbai,Kolhapur
+24,Vaibhav travels,A/C Sleeper (2+1),20:30,07:30,11h 00m,1200.0,1500.0,Borivali East,Bus Stand,Mumbai,Kolhapur
+25,Vaibhav travels,A/C Sleeper (2+1),22:30,07:50,09h 20m,1200.0,1500.0,Borivali East,Bus Stand,Mumbai,Kolhapur
+26,IntrCity SmartBus,AC Sleeper (2+1),17:15,03:25,10h 10m,1900.0,1900.0,Borivali East,Dabholkar Corner,Mumbai,Kolhapur
+27,Dolphin Travel House (13),A/C Sleeper (2+1),20:30,06:00,09h 30m,1310.0,1610.0,Dadar East,Kolhapur CBS,Mumbai,Kolhapur
+28,Syndicate Travels (India),A/C Sleeper (2+1),21:15,07:15,10h 00m,1600.0,1700.0,Borivali East,"Kolhapur,Bus Stand",Mumbai,Kolhapur
+29,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),18:35,03:25,08h 50m,1366.75,2445.63,Sion,Bus Stand,Mumbai,Kolhapur
+30,N.T M.B LINK,Non AC Seater (2+2),21:00,08:20,11h 20m,1212.0,1212.0,Borivali West,Bus Stand,Mumbai,Kolhapur
+31,Konduskar Travels Pvt. Ltd,Volvo Multi-Axle A/C Sleeper (2+1),20:15,08:45,12h 30m,1050.0,1400.0,Badlapur - Near McDonald Resturant,Opp Bus Stand,Mumbai,Kolhapur
+32,Vaibhav Tours and Travels,Non A/C Seater / Sleeper (2+1),17:45,05:15,11h 30m,2000.0,2000.0,Kandivali West,Kawala Naka,Mumbai,Kolhapur
+33,Dolphin Travel House (37),Bharat Benz A/C Sleeper (2+1),13:00,00:45,11h 45m,1756.0,2196.0,Borivali West,Kawala Naka,Mumbai,Kolhapur
+34,N.T Kartik,A/C Sleeper (2+1),20:05,08:25,12h 20m,1515.0,1818.0,Borivali East,Bus Stand,Mumbai,Kolhapur
+35,Zingbus Plus,VE A/C Sleeper (2+1),21:35,06:25,08h 50m,1614.0,2887.0,Sion,Bus Stand,Mumbai,Kolhapur
+36,IntrCity SmartBus,AC Sleeper (2+1),19:00,05:15,10h 15m,1900.0,2090.0,Borivali East,Dabholkar Corner,Mumbai,Kolhapur
+37,Ajara Travels (Swami),A/C Seater / Sleeper (2+1),20:15,04:40,08h 25m,1235.0,1995.0,Kopar Khainar,Bus Stand,Mumbai,Kolhapur
+38,Vaibhav travels,A/C Sleeper (2+1),21:00,07:50,10h 50m,1200.0,1500.0,Borivali East,Bus Stand,Mumbai,Kolhapur
+39,Vaibhav travels,A/C Sleeper (2+1),21:00,07:20,10h 20m,1200.0,1500.0,Borivali West,Bus Stand,Mumbai,Kolhapur
+40,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),19:35,04:25,08h 50m,1389.5,2485.88,Sion,Bus Stand,Mumbai,Kolhapur
+41,Dolphin Travel House (38),A/C Sleeper (2+1),14:30,02:00,11h 30m,1799.0,2249.0,Borivali West,Kawala Naka,Mumbai,Kolhapur
+42,N.T M.B LINK,AC Sleeper (2+1),21:30,07:45,10h 15m,1825.0,2025.0,Borivali West,Bus Stand,Mumbai,Kolhapur
+43,Vaibhav travels,NON AC Seater / Sleeper 2+1,21:15,07:45,10h 30m,1000.0,1200.0,Borivali West,Bus Stand,Mumbai,Kolhapur
+44,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),20:10,05:45,09h 35m,800.0,1000.0,Chembur East,Dabholkar Corner,Mumbai,Kolhapur
+45,N.T Ashoka,AC Sleeper (2+1),19:30,06:00,10h 30m,1515.0,1818.0,Badlapur - kharwai chowk,Bus Stand,Mumbai,Kolhapur
+46,IntrCity SmartBus,VE A/C Sleeper (2+1),21:00,05:40,08h 40m,1900.0,2090.0,Sion,Dabholkar Corner,Mumbai,Kolhapur
+47,Vaibhav Tours and Travels,Non A/C Seater / Sleeper (2+1),17:35,05:30,11h 55m,1200.0,1400.0,Badlapur (MIDC),Kalmba Jail,Mumbai,Kolhapur
+48,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,04:00,09h 30m,2000.0,2200.0,Borivali East,Kolhapura Bypass,Mumbai,Kolhapur
+49,Mahalaxmi Bus (Lokre Bandhu),NON A/C Seater Push Back (2+2),17:10,04:55,11h 45m,800.0,800.0,Kandivali East,Dabholkar Corner,Mumbai,Kolhapur
+50,Dolphin Travel House (40),Bharat Benz A/C Sleeper (2+1),20:15,06:15,10h 00m,1246.0,1732.0,Malad East,Bus Stand,Mumbai,Kolhapur
+51,Rajlaxmi Travels And Cargo,A/C Sleeper (2+1),15:30,23:30,08h 00m,5500.0,5500.0,Dahisar East,Kolhapura Bypass,Mumbai,Kolhapur
+52,Shree Mokambika Travels,A/C Sleeper (2+1),11:00,21:40,34h 40m,2000.0,2000.0,BHAYANDER (EAST) NEAR STATION,Kolhapur,Mumbai,Kolhapur
+53,PVS Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:00,02:45,09h 45m,5500.0,5500.0,Mira Road East,Kolhapura Bypass,Mumbai,Kolhapur
+54,Dolphin travel house,A/C Sleeper (2+1),19:45,07:00,11h 15m,1510.0,1710.0,Andheri East,Kolhapura Bypass,Mumbai,Kolhapur
+55,Pawan Travels Mumbai,NON A/C Seater/ Sleeper (2+1),18:00,05:00,11h 00m,1312.5,2000.0,Borivali East,Dabholkar Corner,Mumbai,Kolhapur
+56,IntrCity SmartBus,AC Sleeper (2+1),18:30,05:15,10h 45m,1900.0,2090.0,Borivali East,Dabholkar Corner,Mumbai,Kolhapur
+57,Konduskar Travels Pvt. Ltd,Bharat Benz A/C Sleeper (2+1),19:20,09:00,13h 40m,1050.0,1300.0,Borivali West,Opp Bus Stand,Mumbai,Kolhapur
+58,Vaibhav travels,A/C Sleeper (2+1),18:30,05:30,11h 00m,2700.0,2700.0,Borivali East,Bus Stand,Mumbai,Kolhapur
+59,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),12:15,23:00,10h 45m,3500.0,4000.0,Mira Road East,Kolhapura Bypass,Mumbai,Kolhapur
+60,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),19:00,04:30,09h 30m,800.0,1000.0,Parel,Dabholkar Corner,Mumbai,Kolhapur
+61,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),20:15,04:45,08h 30m,800.0,1000.0,Sanpada,Dabholkar Corner,Mumbai,Kolhapur
+62,Mahalaxmi Bus (Lokre Bandhu),NON A/C Seater Push Back (2+2),16:45,04:00,11h 15m,800.0,800.0,Badlapur Kharvai Naka,Dabholkar Corner,Mumbai,Kolhapur
+63,Kesarkar Travels,Bharat Benz A/C Sleeper (2+1),18:00,05:00,11h 00m,1620.0,1620.0,Borivali East,Kawala Naka,Mumbai,Kolhapur
+64,N.T Shefali,AC Sleeper (2+1),18:00,05:45,11h 45m,1515.0,1818.0,Borivali West,Kolhapura Bypass,Mumbai,Kolhapur
+65,N.T Vaibhav,AC Sleeper (2+1),19:00,06:15,11h 15m,1515.0,1818.0,Mazgaon,Bus Stand,Mumbai,Kolhapur
+66,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),11:00,21:45,10h 45m,3500.0,3500.0,Borivali East,Kolhapura Bypass,Mumbai,Kolhapur

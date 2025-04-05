@@ -214,3 +214,43 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 22,Purple Bus - Metrolink,Volvo A/C Seater (2+2),16:35,22:00,05h 25m,449.0,570.0,Swargate,Andheri East,Pune,Mumbai
 23,Purple Bus - Metrolink,A/C Seater (2+2),05:30,09:30,04h 00m,449.0,520.0,Swargate,Andheri East,Pune,Mumbai
 24,Purple Bus - Metrolink,A/C Seater (2+2),06:40,11:35,04h 55m,449.0,520.0,Swargate,Andheri East,Pune,Mumbai
+25,Neeta tours and travels,Bharat Benz A/C Seater (2+2),12:30,17:20,04h 50m,450.0,550.0,Swargate,Andheri East,Pune,Mumbai
+26,Purple Bus - Metrolink,A/C Seater (2+2),21:30,02:00,04h 30m,449.0,520.0,Swargate,Andheri East,Pune,Mumbai
+27,Purple Bus - Metrolink,Bharat Benz A/C Seater (2+2),13:35,19:00,05h 25m,449.0,520.0,Swargate,Andheri East,Pune,Mumbai
+28,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),06:00,10:10,04h 10m,1112.13,1905.75,Bavdhan,Andheri East,Pune,Mumbai
+29,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),04:30,08:40,04h 10m,1112.0,1112.0,Bavdhan,Andheri East,Pune,Mumbai
+30,Neeta tours and travels,Bharat Benz A/C Seater (2+2),06:15,11:03,04h 48m,399.0,499.0,Swargate,Andheri East,Pune,Mumbai
+31,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),16:00,20:45,04h 45m,550.0,600.0,Swargate,Andheri East,Pune,Mumbai
+32,Neeta tours and travels,Bharat Benz A/C Seater (2+1),11:30,16:15,04h 45m,449.0,499.0,Swargate,Andheri East,Pune,Mumbai
+33,Neeta tours and travels,Bharat Benz A/C Seater (2+2),23:15,03:40,04h 25m,450.0,550.0,Swargate,Andheri East,Pune,Mumbai
+34,Neeta tours and travels,Bharat Benz A/C Seater (2+2),16:30,21:55,05h 25m,450.0,550.0,Swargate,Andheri East,Pune,Mumbai
+35,Neeta tours and travels,Bharat Benz A/C Seater (2+2),07:45,12:00,04h 15m,399.0,499.0,Swargate,Andheri East,Pune,Mumbai
+36,Neeta tours and travels,Bharat Benz A/C Seater (2+2),09:30,14:20,04h 50m,399.0,499.0,Swargate,Andheri East,Pune,Mumbai
+37,Purple Bus - Metrolink,A/C Seater (2+2),18:35,23:45,29h 10m,449.0,520.0,Swargate,Andheri East,Pune,Mumbai
+38,Neeta tours and travels,Bharat Benz A/C Seater (2+1),21:30,02:00,04h 30m,450.0,550.0,Swargate,Andheri East,Pune,Mumbai
+39,Purple Bus - Metrolink,A/C Seater (2+2),11:35,16:45,05h 10m,449.0,520.0,Swargate,Andheri East,Pune,Mumbai
+40,Neeta tours and travels,Bharat Benz A/C Seater (2+2),10:30,15:10,04h 40m,399.0,499.0,Swargate,Andheri East,Pune,Mumbai
+41,Shrinath Solitaire,Bharat Benz A/C Sleeper (2+1),12:15,16:45,04h 30m,500.0,700.0,Padmavati Parking,Chembur,Pune,Mumbai
+42,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),14:15,20:00,05h 45m,449.0,449.0,Swargate,Thane,Pune,Mumbai
+43,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),18:00,23:10,05h 10m,499.0,559.0,Swargate,Andheri East,Pune,Mumbai
+44,Neeta tours and travels,Bharat Benz A/C Seater (2+1),20:30,01:00,04h 30m,450.0,550.0,Swargate,Andheri East,Pune,Mumbai
+45,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),08:00,11:00,03h 00m,600.0,2600.0,Wadgaon Bridge,Panvel,Pune,Mumbai
+46,Pinkbus,Bharat Benz A/C Seater (2+1),17:00,21:35,04h 35m,550.0,550.0,Swargate,"M.S.E.B. Office, Near Railway Station,Dombivali (East)",Pune,Mumbai
+47,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),17:00,22:10,05h 10m,469.0,559.0,Swargate,Andheri East,Pune,Mumbai
+48,Purple Bus - Metrolink,A/C Seater (2+2),09:35,14:45,05h 10m,420.0,520.0,Swargate,Andheri East,Pune,Mumbai
+49,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),14:00,18:40,04h 40m,499.0,559.0,Swargate,Andheri East,Pune,Mumbai
+50,H.k. travels,NON A/C Seater/ Sleeper (2+1),17:15,22:10,04h 55m,459.0,510.0,Swargate,Vashi,Pune,Mumbai
+51,Pinkbus,Bharat Benz A/C Seater (2+2),12:00,16:35,04h 35m,500.0,500.0,Swargate,"M.S.E.B. Office, Near Railway Station,Dombivali (East)",Pune,Mumbai
+52,Pinkbus,Bharat Benz A/C Seater (2+1),06:45,11:10,04h 25m,525.0,525.0,Swargate,"M.S.E.B. Office, Near Railway Station,Dombivali (East)",Pune,Mumbai
+53,Neeta tours and travels,Bharat Benz A/C Seater (2+2),20:00,00:30,04h 30m,449.0,449.0,Swargate,Thane,Pune,Mumbai
+54,Pinkbus,Bharat Benz A/C Seater (2+2),16:30,19:30,03h 00m,500.0,500.0,Swargate,Kalamboli,Pune,Mumbai
+55,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),06:35,10:35,04h 00m,476.0,476.0,Swargate,"Dombivali, Mumbai",Pune,Mumbai
+56,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),16:00,20:45,04h 45m,469.0,559.0,Swargate,Andheri East,Pune,Mumbai
+57,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),19:00,23:20,04h 20m,550.0,600.0,Swargate,Andheri East,Pune,Mumbai
+58,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),10:00,14:40,04h 40m,429.0,529.0,Swargate,Andheri East,Pune,Mumbai
+59,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),22:00,02:25,04h 25m,550.0,600.0,Swargate,Andheri East,Pune,Mumbai
+60,Neeta tours and travels,Bharat Benz A/C Seater (2+1),13:30,18:30,05h 00m,450.0,550.0,Swargate,Andheri East,Pune,Mumbai
+61,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),05:10,09:15,04h 05m,600.0,2700.0,Wadgaon Bridge,Andheri East,Pune,Mumbai
+62,Shree Maharaja Travels (Prasanna),Bharat Benz A/C Seater (2+1),17:00,20:55,03h 55m,476.0,476.0,Swargate,"Dombivali-Gharda circle/ Vijay sales, Shree Maharaja Tours And Travels",Pune,Mumbai
+63,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),14:30,19:15,04h 45m,350.0,350.0,Swargate,Borivali,Pune,Mumbai
+64,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),20:00,00:50,04h 50m,550.0,550.0,Swargate,Andheri East,Pune,Mumbai

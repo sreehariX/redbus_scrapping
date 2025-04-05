@@ -1,0 +1,33 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,KMRL Kalaimakal,A/C Seater / Sleeper (2+1),23:15,06:10,06h 55m,1440.0,1890.0,Koyambedu,Madiwala,Chennai,Bangalore
+2,KMRL Kalaimakal(sk),A/C Seater / Sleeper (2+1),22:45,05:40,06h 55m,1440.0,1940.0,Koyambedu,Madiwala,Chennai,Bangalore
+3,KBS Luxury Bus,A/C Sleeper (2+1),23:20,05:55,06h 35m,1875.0,2907.0,Koyambedu,Madiwala,Chennai,Bangalore
+4,AdUST Bus,A/C Sleeper (2+1),23:15,05:15,06h 00m,1454.4,1481.4,Koyambedu,Madiwala,Chennai,Bangalore
+5,ADITHIYA AIRBUS,A/C Sleeper (2+1),21:40,04:45,07h 05m,1930.0,2420.0,Koyambedu,Madiwala,Chennai,Bangalore
+6,KBS Luxury Bus,A/C Sleeper (2+1),20:35,03:40,07h 05m,1862.0,2886.0,Koyambedu,Madiwala,Chennai,Bangalore
+7,KBS Luxury Bus,A/C Sleeper (2+1),03:35,10:15,06h 40m,1400.0,2099.0,Koyambedu,Madiwala,Chennai,Bangalore
+8,AdStreamline tours and travels,Bharat Benz A/C Sleeper (2+1),23:00,05:30,06h 30m,1899.0,2499.0,Koyambedu,Madiwala,Chennai,Bangalore
+9,Mettur Super Services(mss),A/C Seater / Sleeper (2+1),22:30,05:00,06h 30m,550.0,750.0,Koyambedu,Madiwala,Chennai,Bangalore
+10,PADMAVATHI TRAVELS,A/C Seater / Sleeper (2+1),22:35,05:55,07h 20m,1090.0,1600.0,Koyambedu,Madiwala,Chennai,Bangalore
+11,SST Limoliner,Bharat Benz A/C Sleeper (2+1),23:00,05:15,06h 15m,3283.0,3283.0,Koyambedu,Madiwala,Chennai,Bangalore
+12,Jai Sai Baba Travels,A/C Sleeper (2+1),23:00,05:50,06h 50m,1399.0,2099.0,Koyambedu,Madiwala,Chennai,Bangalore
+13,KMRL Kalaimakal,A/C Sleeper (2+1),23:45,06:35,06h 50m,1740.0,1940.0,Koyambedu,Madiwala,Chennai,Bangalore
+14,KBS Luxury Bus,A/C Sleeper (2+1),17:40,01:00,07h 20m,1744.0,2616.0,Koyambedu,Madiwala,Chennai,Bangalore
+15,GRS Travels,A/C Sleeper (2+1),22:35,05:25,06h 50m,1400.0,1500.0,Koyambedu,Madiwala,Chennai,Bangalore
+16,KBS Luxury Bus,A/C Seater / Sleeper (2+1),00:45,06:40,05h 55m,1470.0,2772.0,Koyambedu,Madiwala,Chennai,Bangalore
+17,FlixBus,A/C Sleeper (2+1),22:00,05:10,07h 10m,784.82,784.82,Koyambedu,Madiwala,Chennai,Bangalore
+18,Shri Abinesh Roadways,Bharat Benz A/C Sleeper (2+1),22:45,05:15,06h 30m,1150.0,1590.0,Koyambedu,Madiwala,Chennai,Bangalore
+19,KBS Luxury Bus,A/C Sleeper (2+1),07:40,15:10,07h 30m,1400.0,2100.0,Koyambedu,Madiwala,Chennai,Bangalore
+20,RKK Travels,A/C Sleeper (2+1),23:30,06:00,06h 30m,1445.0,1595.0,Koyambedu,Madiwala,Chennai,Bangalore
+21,KBS Luxury Bus,A/C Sleeper (2+1),10:40,18:00,07h 20m,1400.0,2100.0,Koyambedu,Madiwala,Chennai,Bangalore
+22,KMRL Kalaimakal(sk),A/C Seater / Sleeper (2+1),10:45,18:00,07h 15m,990.0,1200.0,Koyambedu,Madiwala,Chennai,Bangalore
+23,Krish Travels,A/C Seater / Sleeper (2+1),23:35,06:00,06h 25m,1600.0,2300.0,Koyambedu,Madiwala,Chennai,Bangalore
+24,PADMAVATHI TRAVELS,A/C Sleeper (2+1),22:40,05:40,07h 00m,1680.0,2030.0,Koyambedu,Madiwala,Chennai,Bangalore
+25,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:25,06:35,07h 10m,1149.0,3079.0,Koyambedu,Madiwala,Chennai,Bangalore
+26,PADMAVATHI TRAVELS,A/C Seater / Sleeper (2+1),13:30,20:50,07h 20m,710.0,1160.0,Koyambedu,Madiwala,Chennai,Bangalore
+27,KMRL Kalaimakal,A/C Sleeper (2+1),22:15,05:10,06h 55m,1790.0,1940.0,Koyambedu,Madiwala,Chennai,Bangalore
+28,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:45,05:55,08h 10m,1429.0,3079.0,Velachery,Madiwala,Chennai,Bangalore
+29,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:20,05:35,07h 15m,1219.0,3079.0,Koyambedu,Madiwala,Chennai,Bangalore
+30,Jabbar Travels,VE A/C Sleeper (2+1),23:15,05:45,06h 30m,1445.0,2905.0,Koyambedu,Madiwala,Chennai,Bangalore
+31,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:25,06:07,07h 42m,1139.0,3079.0,Koyambedu,Madiwala,Chennai,Bangalore
+32,Jabbar Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),23:40,05:45,06h 05m,945.0,1367.0,Koyambedu,Madiwala,Chennai,Bangalore

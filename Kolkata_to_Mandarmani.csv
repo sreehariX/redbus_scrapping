@@ -1,0 +1,33 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,West bengal transport corporation - 74722,Non AC Seater (2+3),05:15,09:20,04h 05m,145.0,145.0,Esplanade,Bus Stand,Kolkata,Mandarmani
+2,West bengal transport corporation - 123496,Non AC Seater (2+3),16:15,20:15,04h 00m,145.0,145.0,Esplanade,Bus Stand,Kolkata,Mandarmani
+3,West bengal transport corporation - 157764,Non AC Seater (2+3),17:15,21:15,04h 00m,145.0,145.0,Esplanade,Bus Stand,Kolkata,Mandarmani
+4,Greenline,Volvo A/C Seater (2+2),06:45,10:55,04h 10m,600.0,600.0,Karunamoyee,Chaulkhola Bus Stand,Kolkata,Mandarmani
+5,Express Line,Volvo 9600 A/C Semi Sleeper (2+2),07:30,11:10,03h 40m,749.0,899.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+6,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),07:15,11:15,04h 00m,665.0,665.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+7,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,03:45,04h 15m,550.0,550.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+8,Greenline,Volvo A/C Seater (2+2),06:30,10:50,04h 20m,620.0,820.0,Karunamoyee,Chaulkhola Bus Stand,Kolkata,Mandarmani
+9,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),08:15,12:00,03h 45m,475.0,475.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+10,Express Line,VE A/C Seater (2+2),23:45,04:05,04h 20m,899.0,899.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+11,Samanta Travels,A/C Seater (2+3),08:40,12:40,04h 00m,350.0,350.0,Esplanade,Chawlkhola bus stand,Kolkata,Mandarmani
+12,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),08:15,12:00,03h 45m,749.0,999.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+13,Sandhya Travels,A/C Seater Push Back (2+3),07:15,11:45,04h 30m,350.0,350.0,Esplanade,Mandarmani Mohona,Kolkata,Mandarmani
+14,Sagufta Travels (Jackson),A/C Seater (2+2),08:00,12:00,04h 00m,365.0,365.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+15,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,05:10,07h 10m,600.0,800.0,Karunamoyee,Chowlkhola bus stop,Kolkata,Mandarmani
+16,Maa Chandi Travels,A/C Seater / Sleeper (2+2),23:57,04:20,04h 23m,600.0,800.0,Esplanade,Chowlkhola bus stop,Kolkata,Mandarmani
+17,Snemita Paribahan(Snemita),AC Seater (2+3),05:55,10:00,04h 05m,370.0,370.0,Barrackpore,Chawlkhola Bus Stand,Kolkata,Mandarmani
+18,Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),07:30,11:15,03h 45m,999.0,999.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+19,City Express,AC Seater (2+3),05:50,09:50,04h 00m,370.0,370.0,Airport,Chawalkhola bus stand,Kolkata,Mandarmani
+20,Snemita Parisheba (Manikanchan),AC Seater (2+3),06:35,10:50,04h 15m,370.0,370.0,Barrackpore,Mandarin chowlkhola Bus Stand,Kolkata,Mandarmani
+21,Sagufta Travels (Direct Mandarmani),A/C Seater (2+3),07:15,11:45,04h 30m,315.0,315.0,Esplanade,Mandarmani Mohona,Kolkata,Mandarmani
+22,Basu Travels,A/C Seater / Sleeper (2+2),23:59,04:00,04h 01m,599.0,799.0,Esplanade,CHOULKHOLA BUS STAND,Kolkata,Mandarmani
+23,City Express (SHINJINI),AC Seater (2+3),06:39,10:40,04h 01m,370.0,370.0,Esplanade,Chawalkhola bus stand,Kolkata,Mandarmani
+24,City Express (Snemita),AC Seater (2+3),05:35,09:35,04h 00m,320.0,320.0,Esplanade,Chawalkhola bus stand,Kolkata,Mandarmani
+25,Satya Paribahan,A/C Seater (2+3),06:50,11:00,04h 10m,420.0,420.0,Esplanade,"Chaulkhola bus stand, Mandarmani",Kolkata,Mandarmani
+26,Parameswar Travels,A/C Seater Push Back (2+3),00:35,05:00,04h 25m,470.0,470.0,Esplanade,Mandarmani,Kolkata,Mandarmani
+27,Snemita Paribahan(JACKSON),A/C Push Back (2+3),06:05,10:00,03h 55m,370.0,370.0,Esplanade,Mandarin chowlkhola Bus Stand,Kolkata,Mandarmani
+28,Sagufta Travels(Satya),A/C Seater Push Back (2+3),06:50,10:50,04h 00m,315.0,315.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+29,Monikanchan Bus Service,A/C Seater (2+3),07:15,11:05,03h 50m,375.0,375.0,Sodepur,Chowlkhola Bus Stand,Kolkata,Mandarmani
+30,Sagufta Travels(Maa chandi),A/C Seater / Sleeper (2+2),23:57,04:27,04h 30m,365.0,515.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani
+31,City Express,AC Seater (2+3),07:00,10:30,03h 30m,370.0,370.0,Dunlop,Chawalkhola bus stand,Kolkata,Mandarmani
+32,Sagufta Travels (Snemita),A/C Seater (2+3),05:35,09:25,03h 50m,315.0,315.0,Esplanade,Chaulkhola Bus Stand,Kolkata,Mandarmani

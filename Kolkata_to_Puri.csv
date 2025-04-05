@@ -1,0 +1,17 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Greenline,Volvo Multi-Axle A/C Sleeper (2+1),20:15,06:00,09h 45m,2400.0,2600.0,Esplanade,Puri Masir Bari,Kolkata,Puri
+2,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),20:10,06:00,09h 50m,1198.0,2309.0,Esplanade,Puri,Kolkata,Puri
+3,SANA TRAVELS,A/C Seater/Sleeper (2+1),20:45,07:30,10h 45m,1008.0,1440.0,Babughat,Puri Bus Stand,Kolkata,Puri
+4,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,06:20,09h 50m,2200.0,2200.0,Esplanade,Puri,Kolkata,Puri
+5,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),20:00,06:30,10h 30m,1198.0,1920.0,Esplanade,Puri Bus Stand,Kolkata,Puri
+6,Dolphin tours and travels,Volvo AC Seater (2+2),21:20,07:20,10h 00m,784.0,784.0,Babughat,Puri - Near Main Bus Stand,Kolkata,Puri
+7,Dolphin tours and travels,A/C Seater / Sleeper (2+1),20:14,07:34,11h 20m,672.0,784.0,Babughat,PURI(BUS WILL CHANGE FROM BHUBANESWAR) (Pickup Van),Kolkata,Puri
+8,Dolphin tours and travels,A/C Seater / Sleeper (2+2),21:15,08:35,11h 20m,672.0,784.0,Babughat,Puri - Near Main Bus Stand,Kolkata,Puri
+9,Raipur Cruiser,Volvo 9600 A/C Seater (2+2),20:00,07:00,11h 00m,1571.58,2312.5,Esplanade,Puri Masir Bari,Kolkata,Puri
+10,Lokenath Bus Service,Volvo 9600 A/C Seater/Sleeper (2+1),20:45,07:15,10h 30m,1349.0,2099.0,Esplanade,Puri,Kolkata,Puri
+11,Greenline,Volvo Multi-Axle A/C Sleeper (2+1),20:30,06:00,09h 30m,2280.0,2780.0,Esplanade,Puri Masir Bari,Kolkata,Puri
+12,Dolphin tours and travels,Non AC Seater (2+2),19:15,08:15,13h 00m,616.0,616.0,Babughat,Puri Bus Stand,Kolkata,Puri
+13,Royal Cruiser,Volvo A/C Seater (2+2),20:50,05:30,08h 40m,999.0,999.0,Esplanade,MaltiPatpur Bus Stand,Kolkata,Puri
+14,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),20:15,06:45,10h 30m,1100.0,1100.0,Esplanade,Puri Bus Stand,Kolkata,Puri
+15,Pradhan,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:25,07:30,10h 05m,1200.0,1200.0,Babughat,Puri Bus Stand,Kolkata,Puri
+16,Aryan Travels,A/C Seater / Sleeper (2+2),20:15,07:15,11h 00m,1200.0,1900.0,Babughat,Puri Bus Stand,Kolkata,Puri

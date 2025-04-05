@@ -1,0 +1,53 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,NBSTC-KOL-COB-E2-3:00 pm - 171781,Non AC Seater (2+3),15:00,04:20,13h 20m,450.0,450.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+2,NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,05:00,12h 00m,486.0,486.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+3,NBSTC-KOL-SLG-R1-18:00 - 156411,NON A/C Seater Push Back (2+2),18:00,06:00,12h 00m,486.0,486.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+4,NBSTC-KOL-RAI-SLG-AC-19:30 - 176649,AC Seater (2+2),19:30,07:30,12h 00m,1245.0,1245.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+5,WBTC (CTC) KOLKATA-RAIGUNGE-SILIGURI(AC-VOLVO) - 195|17:50,A/C Seater (2+2),17:50,05:35,11h 45m,1355.0,1355.0,Esplanade,Siliguri,Kolkata,Siliguri
+6,WBTC (CTC) KOLKATA-RAIGUNGE-SILIGURI(AC-VOLVO) - 195|18:30,A/C Seater (2+2),18:30,06:15,11h 45m,1355.0,1355.0,Esplanade,Siliguri,Kolkata,Siliguri
+7,WBTC (CTC) BARUIPUR-KOLKATA-RAIGUNGE-SILIGURI(AC-VOLVO) - 213|19:00,A/C Seater (2+2),19:00,06:50,11h 50m,1355.0,1355.0,Esplanade,Siliguri,Kolkata,Siliguri
+8,Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:30,09:25,12h 55m,2999.0,2999.0,Esplanade,Siliguri Junction,Kolkata,Siliguri
+9,Raipur Cruiser,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:45,06:30,12h 45m,2081.25,2312.5,Santragachi,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+10,Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:50,08:45,12h 55m,3000.0,3000.0,Esplanade,Siliguri Junction,Kolkata,Siliguri
+11,AdRaipur Cruiser,Volvo 9600 A/C Seater (2+2),19:45,07:45,12h 00m,2313.0,2313.0,Santragachi,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+12,Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07:25,12h 55m,3000.0,3000.0,Esplanade,Siliguri Junction,Kolkata,Siliguri
+13,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,08:15,13h 00m,3000.0,3000.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+14,Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,07:30,12h 45m,2899.0,3099.0,Esplanade,Siliguri Junction bus stand,Kolkata,Siliguri
+15,AdRubi Paribahan  ,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,07:30,12h 30m,2400.0,2770.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+16,Greenline,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,08:15,13h 15m,2700.0,2800.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+17,Greenline,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07:30,13h 00m,2280.0,2620.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+18,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,06:50,12h 50m,3300.0,3300.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+19,Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,08:10,12h 55m,3000.0,3000.0,Esplanade,Siliguri Junction,Kolkata,Siliguri
+20,Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),18:45,08:00,13h 15m,1980.0,2830.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+21,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07:40,13h 10m,2399.0,2549.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+22,Shyam N R Travels,Volvo A/C Seater (2+2),19:45,09:00,13h 15m,1700.0,1700.0,Esplanade,Siliguri,Kolkata,Siliguri
+23,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),18:30,07:45,13h 15m,2070.0,2875.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+24,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),20:00,08:55,12h 55m,1999.0,2499.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+25,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),21:00,10:00,13h 00m,2000.0,3000.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+26,Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:15,06:30,12h 15m,1799.0,2799.0,Esplanade,Siliguri Junction bus stand,Kolkata,Siliguri
+27,Modern Travels,Bharat Benz A/C Sleeper (2+1),19:30,08:15,12h 45m,2850.0,3000.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+28,Aitiana Airwings,Benz A/C Sleeper (2+1),18:00,07:30,13h 30m,2000.0,2000.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+29,Poulami Paribahan,Volvo Multi-Axle A/C seater/sleeper (2+1),17:45,06:30,12h 45m,1499.0,2399.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+30,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:30,09:40,13h 10m,2899.0,3049.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+31,Lokenath Bus Service,Volvo A/C Seater (2+2),21:15,09:15,12h 00m,1799.0,1899.0,Esplanade,Siliguri Junction bus stand,Kolkata,Siliguri
+32,Raipur Cruiser,Volvo 9600 A/C Seater (2+2),20:30,08:30,12h 00m,2313.0,2313.0,Santragachi,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+33,Aitiana Airwings,Volvo Multi-Axle Sleeper A/C (2+1),18:30,07:30,13h 00m,2500.0,2500.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+34,Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),18:00,07:00,13h 00m,1500.0,1500.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+35,Prarthana Bus Service,A/C Seater / Sleeper (2+1),17:40,08:00,14h 20m,3900.0,5100.0,Babughat,Tenzing Norgay Bus Terminus,Kolkata,Siliguri
+36,Aitiana Airwings,Volvo Multi-Axle A/C Sleeper (2+1),19:00,07:45,12h 45m,2599.0,2599.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+37,Modern Travels,Bharat Benz A/C Sleeper (2+1),18:35,07:15,12h 40m,2850.0,3550.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+38,Lokenath Bus Service,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),20:20,08:50,12h 30m,1749.0,1799.0,Esplanade,Siliguri Junction bus stand,Kolkata,Siliguri
+39,Annesha Travels,NON A/C Seater / Sleeper (2+2),17:30,07:00,13h 30m,540.0,630.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+40,Maulik Paribahan,A/C Seater / Sleeper (2+2),18:30,07:45,13h 15m,1350.0,1980.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+41,Maa Durga Bus Service (SNT),A/C Seater / Sleeper (2+1),17:00,06:00,13h 00m,1500.0,2000.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+42,Maa Durga Bus Service,NON A/C Seater / Sleeper (2+2),19:00,09:00,14h 00m,600.0,700.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+43,Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),15:45,06:15,14h 30m,700.0,800.0,Esplanade,Siliguri Junction bus stand,Kolkata,Siliguri
+44,Shantanu Travels,NON A/C Seater / Sleeper (2+2),17:00,08:00,15h 00m,600.0,700.0,Esplanade,Siliguri,Kolkata,Siliguri
+45,Pammi Travels,A/C Sleeper (2+1),18:30,08:00,13h 30m,2199.0,2999.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+46,Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),16:45,07:00,14h 15m,750.0,750.0,Esplanade,Siliguri Bus Stand,Kolkata,Siliguri
+47,Shantanu Bus Service,NON A/C Seater / Sleeper (2+2),17:01,08:30,15h 29m,600.0,700.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+48,Shantanu Travels,A/C Seater / Sleeper (2+2),18:00,09:00,15h 00m,1400.0,1600.0,Esplanade,Siliguri,Kolkata,Siliguri
+49,Renuka Travels,A/C Seater / Sleeper (2+2),20:00,09:00,13h 00m,1200.0,1800.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+50,Rubi Paribahan  ,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),19:30,07:30,12h 00m,1900.0,2500.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+51,Jio Dolphin Travels,VE A/C Seater / Sleeper (2+2),20:30,08:00,11h 30m,3000.0,3000.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri
+52,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:00,09:00,13h 00m,3000.0,3000.0,Esplanade,Tenzing Norgay Central Bus Stand,Kolkata,Siliguri

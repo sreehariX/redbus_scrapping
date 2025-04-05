@@ -1,0 +1,45 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Garud Travels,A/C Sleeper (2+1),21:30,07:00,09h 30m,1000.0,1100.0,Borivali East,S T Stand,Mumbai,Mahabaleshwar
+2,Neeta tours and travels,Bharat Benz A/C Seater (2+2),05:45,14:00,08h 15m,662.0,790.0,Borivali West,"The Byke Shanti Villa Resort,Main Gate,Mahabaleshwar",Mumbai,Mahabaleshwar
+3,Neeta tours and travels,Bharat Benz A/C Sleeper (2+1),22:30,07:50,09h 20m,776.0,984.0,Borivali West,"The Byke Shanti Villa Resort,Main Gate,Mahabaleshwar",Mumbai,Mahabaleshwar
+4,Swami travel,Bharat Benz A/C Sleeper (2+1),22:15,07:05,08h 50m,750.0,750.0,Borivali West,Mahabaleshwar Swami Hotels Blue Park,Mumbai,Mahabaleshwar
+5,Vigneshwar Travels,A/C Seater / Sleeper (2+1),21:30,07:15,09h 45m,700.0,1000.0,Borivali West,Mahabaleshwar Bus Stand,Mumbai,Mahabaleshwar
+6,Garud Travels,A/C Sleeper (2+1),22:00,07:30,09h 30m,1000.0,1100.0,Borivali East,S T Stand,Mumbai,Mahabaleshwar
+7,Swami travel,VE A/C Seater / Sleeper (2+1),21:30,07:05,09h 35m,600.0,600.0,Borivali West,Mahabaleshwar Swami Hotels Blue Park,Mumbai,Mahabaleshwar
+8,Swami travel,VE A/C Seater / Sleeper (2+1),23:20,07:10,07h 50m,600.0,900.0,Thane West,Mahabaleshwar Swami Hotels Blue Park,Mumbai,Mahabaleshwar
+9,Neeta tours and travels,Bharat Benz A/C Sleeper (2+1),23:00,07:15,08h 15m,762.0,964.0,Borivali West,Lingmala Bus Stop,Mumbai,Mahabaleshwar
+10,Ravina Travels (Regd),A/C Sleeper (2+1),11:30,18:00,06h 30m,2099.0,2399.0,Borivali East,Wai,Mumbai,Mahabaleshwar
+11,Manish Travels Private Limited,VE A/C Sleeper (2+1),04:00,12:30,08h 30m,2300.0,2300.0,Borivali East,Hotel Sai Park In (Pickup By Car and Drop Mahabaleshwar Bus Stand),Mumbai,Mahabaleshwar
+12,Ravina Travels (Regd),A/C Sleeper (2+1),23:15,06:20,07h 05m,3149.1,3999.0,Virar,Wai,Mumbai,Mahabaleshwar
+13,Ravina Travels (Regd),A/C Sleeper (2+1),22:15,05:15,07h 00m,1799.1,2199.0,Borivali East,Wai,Mumbai,Mahabaleshwar
+14,KRSNA Travels,Mercedes Benz A/C Sleeper (2+1),21:45,06:45,09h 00m,910.0,1010.0,Borivali West,"Mahabaleshwar- Krushna Tours And Travels, below second gate Dreamland Hotel",Mumbai,Mahabaleshwar
+15,Supreme Holidays (Shivsagar),A/C Sleeper (2+1),21:00,07:00,10h 00m,1000.0,1200.0,Borivali West,Mahabaleshwar Bus Stand,Mumbai,Mahabaleshwar
+16,Jakhar Travels,VE A/C Sleeper (2+1),03:00,09:00,06h 00m,4000.0,4000.0,Borivali East,Hotel Sai Park In-Wai Phata,Mumbai,Mahabaleshwar
+17,Garud Travels,A/C Sleeper (2+1),23:20,07:00,07h 40m,1000.0,1200.0,Thane,S T Stand,Mumbai,Mahabaleshwar
+18,Neeta tours and travels,Bharat Benz A/C Sleeper (2+1),22:00,07:20,09h 20m,776.0,979.0,Borivali West,"The Byke Shanti Villa Resort,Main Gate,Mahabaleshwar",Mumbai,Mahabaleshwar
+19,Yash Yatra Tour Orgniser,VE A/C Seater / Sleeper (2+1),21:20,07:00,09h 40m,750.0,1000.0,Borivali West,Bondarwadi,Mumbai,Mahabaleshwar
+20,Bhagyalaxmi Travels,NON A/C Sleeper (2+1),02:30,11:00,08h 30m,1500.0,1500.0,Ghodbundar,Waiphata Hotel Abhiruchi 40 km distance from mahabaleshwer,Mumbai,Mahabaleshwar
+21,Bhagyalaxmi Travels,NON A/C Sleeper (2+1),02:01,10:00,07h 59m,1400.0,1400.0,Ghodbundar,Waiphata Hotel Abhiruchi 40 km distance from mahabaleshwer,Mumbai,Mahabaleshwar
+22,Bhagyalaxmi Travels (B!gbull),A/C Sleeper (2+1),03:00,09:30,06h 30m,1999.0,1999.0,Borivali East,Waiphata Hotel Abhiruchi 40 km distance from mahabaleshwer,Mumbai,Mahabaleshwar
+23,KRSNA Travels,Mercedes Benz A/C Sleeper (2+1),22:30,07:30,09h 00m,910.0,910.0,Borivali West,"Mahabaleshwar- Krushna Tours And Travels, below second gate Dreamland Hotel",Mumbai,Mahabaleshwar
+24,New Shree Patel Travels,NON A/C Sleeper (2+1),03:30,10:00,06h 30m,1800.0,2000.0,Virar,abhiruchi hotel Wai phata pune banglore highway,Mumbai,Mahabaleshwar
+25,New Shree Patel Travels,A/C Sleeper (2+1),03:00,08:00,05h 00m,2000.0,2000.0,Borivali East,abhiruchi hotel Wai phata pune banglore highway,Mumbai,Mahabaleshwar
+26,Garud Travels,A/C Seater (2+2),21:00,06:30,09h 30m,800.0,800.0,Borivali West,S T Stand,Mumbai,Mahabaleshwar
+27,Shree Patel Travels®,NON A/C Sleeper (2+1),03:10,09:55,06h 45m,2050.0,2250.0,Vasai Phata,Mahabaleshwar Bus Stand,Mumbai,Mahabaleshwar
+28,Shree Patel Travels®,A/C Sleeper (2+1),02:25,09:20,06h 55m,2300.0,2500.0,Vasai Phata,Mahabaleshwar Bus Stand,Mumbai,Mahabaleshwar
+29,Karan Tours And Travels,Bharat Benz A/C Sleeper (2+1),22:00,08:30,10h 30m,1200.0,1200.0,Borivali West,Bharat Petrol Pump,Mumbai,Mahabaleshwar
+30,KRSNA Travels,Mercedes Benz A/C Sleeper (2+1),05:54,14:39,08h 45m,900.0,1000.0,Borivali West,"Mahabaleshwar- Krushna Tours And Travels, below second gate Dreamland Hotel",Mumbai,Mahabaleshwar
+31,Manish Travels Private Limited,VE A/C Sleeper (2+1),08:00,14:00,06h 00m,3000.0,3100.0,Borivali East,Hotel Sai Park In (Pickup By Car and Drop Mahabaleshwar Bus Stand),Mumbai,Mahabaleshwar
+32,SUPREME HOLIDAYS,A/C Seater Push Back (2+2),21:00,07:00,10h 00m,800.0,800.0,Borivali West,Mahabaleshwar Bus Stand,Mumbai,Mahabaleshwar
+33,Shree Balaji Travels,NON A/C Sleeper (2+1),02:15,06:31,04h 16m,1600.0,1600.0,Kharghar,Pick Up By Van Crossing From Waiphata For Mahableshwar,Mumbai,Mahabaleshwar
+34,Garud Travels,A/C Sleeper (2+1),05:40,14:10,08h 30m,1200.0,1200.0,Borivali East,S T Stand,Mumbai,Mahabaleshwar
+35,Vigneshwar Travels,A/C Sleeper (2+1),23:35,07:00,07h 25m,5000.0,5000.0,Mulund East,Mahabaleshwar Bus Stand,Mumbai,Mahabaleshwar
+36,Vigneshwar Travels,A/C Sleeper (2+1),21:45,07:10,09h 25m,900.0,1000.0,Borivali East,Mahabaleshwar Bus Stand,Mumbai,Mahabaleshwar
+37,SIDDHANTH TRANSPORT,A/C Seater Push Back (2+2),21:30,07:10,09h 40m,3000.0,3000.0,Borivali West,Bondarwadi,Mumbai,Mahabaleshwar
+38,GR Travels (RJ),A/C Sleeper (2+1),11:50,19:50,08h 00m,1050.0,1099.0,Dahisar East,Pickup/Drop (44KM) WaiFata KOL-MUM highway Hotel Abhiruchi,Mumbai,Mahabaleshwar
+39,National Travels (Abd),A/C Sleeper (2+1),06:30,13:15,06h 45m,2800.0,3000.0,Borivali East,WAI PHATA,Mumbai,Mahabaleshwar
+40,Neeta tours and travels,Bharat Benz A/C Seater (2+2),06:30,14:45,08h 15m,600.0,850.0,Borivali West,"The Byke Shanti Villa Resort,Main Gate,Mahabaleshwar",Mumbai,Mahabaleshwar
+41,KRSNA Travels,Mercedes Benz A/C Sleeper (2+1),22:31,07:15,08h 44m,900.0,1000.0,Borivali West,"Mahabaleshwar- Krushna Tours And Travels, below second gate Dreamland Hotel",Mumbai,Mahabaleshwar
+42,Krushna Tour's & Travels,A/C Sleeper (2+1),23:20,06:50,07h 30m,2500.0,2500.0,Thane West,"Mahabaleshwar- Krushna Tours And Travels, below second gate Dreamland Hotel",Mumbai,Mahabaleshwar
+43,Krushna Tour's & Travels,AC Seater (2+2),05:55,14:40,08h 45m,1500.0,1500.0,Borivali West,"Mahabaleshwar- Krushna Tours And Travels, below second gate Dreamland Hotel",Mumbai,Mahabaleshwar
+44,JORAWAT TRAVELS,A/C Sleeper (2+1),10:30,19:00,08h 30m,2399.0,2399.0,Manor,Wai fata Kolapur Mum Highway hotel Abhiruchi Pure Veg surur,Mumbai,Mahabaleshwar
