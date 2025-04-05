@@ -1991,3 +1991,7 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 1995,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),14:50,21:00,06h 10m,1890.0,1890.0,Kukatpally,Old RTC Bus Stand,Hyderabad,Vijayawada
 1998,Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:10,04:30,06h 20m,1280.0,1280.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
 1999,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:25,04:30,06h 05m,990.0,990.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
+2002,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),15:20,01:00,09h 40m,1428.0,1428.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+2003,IntrCity SmartBus,AC Sleeper (2+1),20:10,03:00,06h 50m,1419.0,1419.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+2006,Vikram Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:10,01:35,06h 25m,1549.0,1549.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+2007,Vikram Travels,A/C Sleeper (2+1),20:25,02:45,06h 20m,1159.0,1159.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
