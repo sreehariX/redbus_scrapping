@@ -281,3 +281,7 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 280,RP Tours and Travels,A/C Sleeper (2+1),19:30,03:25,07h 55m,1090.0,1090.0,Koyambedu,Mattuthavani,Chennai,Madurai
 281,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:10,05:20,08h 10m,789.0,789.0,Koyambedu,Mattuthavani,Chennai,Madurai
 282,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),A/C Sleeper (2+1),06:50,15:25,08h 35m,1071.0,1071.0,Koyambedu,Mattuthavani,Chennai,Madurai
+283,PAT BUS,NON A/C Sleeper (2+1),19:40,04:50,09h 10m,1799.0,1799.0,Koyambedu,Mattuthavani,Chennai,Madurai
+284,Vignesh TAT,A/C Sleeper (2+1),19:35,04:15,08h 40m,1290.0,1290.0,Koyambedu,Madurai Bypass,Chennai,Madurai
+285,AVK Travels,Non A/C Seater / Sleeper (2+1),18:00,02:30,08h 30m,1200.0,1200.0,Koyambedu,Mattuthavani,Chennai,Madurai
+286,AVK Travels,Non A/C Seater / Sleeper (2+1),20:45,05:55,09h 10m,1200.0,1200.0,Koyambedu,Madurai Bypass,Chennai,Madurai
