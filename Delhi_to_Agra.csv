@@ -1,0 +1,39 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,UPSRTC - WAH0279,Ordinary Non AC Seater 2+3,02:32,08:00,05h 28m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+2,UPSRTC - WAH0236,Ordinary Non AC Seater 2+3,04:17,20:49,16h 32m,386.0,386.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+3,UPSRTC - GNA0136,Ordinary Non AC Seater 2+3,05:15,09:15,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+4,UPSRTC - WAH0269,Ordinary Non AC Seater 2+3,05:46,10:15,04h 29m,308.0,308.0,ISBT Kashmiri Gate,BIJLIGHAR,Delhi,Agra
+5,UPSRTC - WAH0274,Ordinary Non AC Seater 2+3,06:16,12:00,05h 44m,308.0,308.0,ISBT Kashmiri Gate,BIJLIGHAR,Delhi,Agra
+6,UPSRTC - WAH0271,Ordinary Non AC Seater 2+3,06:30,10:45,04h 15m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+7,UPSRTC - WAH0277,Ordinary Non AC Seater 2+3,06:31,12:15,05h 44m,308.0,308.0,ISBT Kashmiri Gate,BIJLIGHAR,Delhi,Agra
+8,UPSRTC - ETD0018,Ordinary Non AC Seater 2+3,07:00,12:00,05h 00m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+9,UPSRTC - GNA0128,Ordinary Non AC Seater 2+3,07:00,11:00,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+10,UPSRTC - GNA0132,Ordinary Non AC Seater 2+3,07:02,11:03,04h 01m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+11,UPSRTC - GNA0005,Ordinary Non AC Seater 2+3,08:00,12:00,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+12,UPSRTC - KSB0426,Shatabdi AC Seater 2+2,08:30,12:31,04h 01m,428.0,428.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+13,UPSRTC - NDD0010,Ordinary Non AC Seater 2+3,09:00,13:00,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+14,UPSRTC - GNA0069,Ordinary Non AC Seater 2+3,10:32,14:32,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+15,UPSRTC - KSB0015,Janrath AC Seater 2+2,11:00,15:00,04h 00m,428.0,428.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+16,UPSRTC - RAT0036,Ordinary Non AC Seater 2+3,11:00,16:07,05h 07m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+17,UPSRTC - MHB0262,Ordinary Non AC Seater 2+3,12:26,17:54,05h 28m,283.0,283.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+18,UPSRTC - BRT0001,Ordinary Non AC Seater 2+3,13:30,18:30,05h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+19,UPSRTC - FNG0554,Ordinary Non AC Seater 2+3,13:50,18:12,04h 22m,348.0,348.0,MAHAMAYA FLYOVER,Agra ISBT,Delhi,Agra
+20,UPSRTC - WAH0226,Ordinary Non AC Seater 2+3,14:14,20:49,06h 35m,386.0,386.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+21,UPSRTC - MHB0312,Ordinary Non AC Seater 2+3,14:31,19:51,05h 20m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+22,UPSRTC - FNG0556,Ordinary Non AC Seater 2+3,14:33,19:08,04h 35m,397.0,397.0,Anand Vihar,Agra ISBT,Delhi,Agra
+23,UPSRTC - TAJ0054,Pink Express AC Seater 2+2,15:02,18:10,03h 08m,428.0,428.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+24,UPSRTC - WAH0224,Ordinary Non AC Seater 2+3,15:10,21:25,06h 15m,308.0,308.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+25,UPSRTC - WAH0234,Ordinary Non AC Seater 2+3,15:37,20:05,04h 28m,386.0,386.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+26,UPSRTC - GNA0112,Ordinary Non AC Seater 2+3,15:45,19:45,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+27,UPSRTC - MHB0314,Ordinary Non AC Seater 2+3,16:01,21:21,05h 20m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+28,UPSRTC - WAH0228,Ordinary Non AC Seater 2+3,16:03,21:50,05h 47m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+29,UPSRTC - WAH0232,Ordinary Non AC Seater 2+3,16:06,20:25,04h 19m,386.0,386.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+30,UPSRTC - WAH0248,Ordinary Non AC Seater 2+3,16:07,20:45,04h 38m,386.0,386.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+31,UPSRTC - WAH0255,Ordinary Non AC Seater 2+3,16:35,21:00,04h 25m,386.0,386.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+32,UPSRTC - WAH0238,Ordinary Non AC Seater 2+3,16:36,21:16,04h 40m,386.0,386.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+33,UPSRTC - MHB0316,Ordinary Non AC Seater 2+3,17:01,22:21,05h 20m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+34,UPSRTC - TAJ0058,Pink Express AC Seater 2+2,17:30,21:05,03h 35m,428.0,428.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+35,UPSRTC - WAH0246,Ordinary Non AC Seater 2+3,17:31,22:15,04h 44m,308.0,308.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+36,UPSRTC - SKB0018,Ordinary Non AC Seater 2+3,18:00,23:20,05h 20m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+37,UPSRTC - TAJ0014,Janrath AC Seater 2+2,18:01,22:15,04h 14m,457.0,457.0,Kaushambi Bus Stand(Delhi),Agra ISBT,Delhi,Agra
+38,UPSRTC - NDD0012,Ordinary Non AC Seater 2+3,20:00,23:58,03h 58m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
