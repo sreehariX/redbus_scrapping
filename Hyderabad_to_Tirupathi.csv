@@ -62,3 +62,34 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 61,Srivastav Travels,Bharat Benz A/C Sleeper (2+1),20:00,07:00,11h 00m,1399.0,1899.0,Nizampet,Tirupati,Hyderabad,Tirupathi
 62,Orange Tours and Travels,NON A/C Seater/ Sleeper (2+1),20:15,06:30,10h 15m,1050.0,1430.0,Aramghar,RTC Bus Stand,Hyderabad,Tirupathi
 63,KKaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),18:40,07:00,12h 20m,1300.0,1500.0,Kukatpally,RTC bus stop,Hyderabad,Tirupathi
+64,KKaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),17:30,02:30,09h 00m,2378.0,2378.0,LB Nagar,RTC Bus Stand,Hyderabad,Tirupathi
+65,KKaveri Travels,A/C Sleeper (2+1),22:00,09:00,11h 00m,1500.0,1600.0,Madhapur,RTC Bus Stand,Hyderabad,Tirupathi
+66,KKaveri Travels,Non A/C Seater / Sleeper (2+1),22:00,10:00,12h 00m,880.0,1220.0,Kukatpally,RTC Bus Stand,Hyderabad,Tirupathi
+67,Ramana Tours And Travels,A/C Sleeper (2+1),19:45,06:00,10h 15m,1258.0,1858.0,Gachibowli,RTC Bus Stand,Hyderabad,Tirupathi
+68,SAT (Sri Anjaneya Travels),A/C Seater / Sleeper (2+1),22:00,09:00,11h 00m,1500.0,1700.0,Lakdikapul,RTC Bus Stand,Hyderabad,Tirupathi
+69,Morning Star Travels,A/C Sleeper (2+1),18:45,05:30,10h 45m,1090.0,1290.0,Hydernagar,Lakshmi Puram Circle,Hyderabad,Tirupathi
+70,Morning Star Travels,A/C Sleeper (2+1),22:00,08:15,10h 15m,1090.0,1290.0,Ameerpet,Lakshmi Puram Circle,Hyderabad,Tirupathi
+71,K.L.A Travels,NON AC Seater / Sleeper 2+1,22:30,09:15,10h 45m,854.05,1140.0,Nizampet,Tirupathi,Hyderabad,Tirupathi
+72,Anmol Tours & Travels,Bharat Benz A/C Sleeper (2+1),21:05,09:00,11h 55m,2625.0,2625.0,Beeramguda,RTC Bus Stand,Hyderabad,Tirupathi
+73,Morning Star Travels,A/C Sleeper (2+1),20:00,07:00,11h 00m,1090.0,1290.0,LB Nagar,Lakshmi Puram Circle,Hyderabad,Tirupathi
+74,Harikrishna Travels,Non A/C Seater / Sleeper (2+1),23:00,10:00,11h 00m,1045.0,1425.0,Medchal,RTC Bus Stand,Hyderabad,Tirupathi
+75,Sri Sahasra Tours and Travels,A/C Seater / Sleeper (2+1),21:00,02:00,05h 00m,1550.0,2666.0,Lingampalli (Pickup Van/Bus),Tipparthi,Hyderabad,Tirupathi
+76,Reddy Travels,A/C Sleeper (2+1),21:15,09:15,12h 00m,4000.0,4000.0,LB Nagar,RTC Bus Stand,Hyderabad,Tirupathi
+77,SVR Tours and Travels,A/C Sleeper (2+1),17:30,05:00,11h 30m,1590.0,1890.0,Miyapur,Srinivasam,Hyderabad,Tirupathi
+78,True Bus,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:30,09:00,10h 30m,4499.0,4799.0,Miyapur,RTC Bus Stand,Hyderabad,Tirupathi
+79,KKaveri Travels,Non A/C Seater / Sleeper (2+1),19:05,07:00,11h 55m,1990.0,2690.0,Kukatpally,RTC Bus Stand,Hyderabad,Tirupathi
+80,KKaveri Travels,Non A/C Seater / Sleeper (2+1),19:00,07:30,12h 30m,3000.0,3000.0,Moosapet,RTC Bus Stand,Hyderabad,Tirupathi
+81,Tranzindia Travels,VE A/C Sleeper (2+1),21:45,09:00,11h 15m,2150.0,2250.0,Moosapet,Srinivasam,Hyderabad,Tirupathi
+82,SRI RATAN TATA EXPRESS,A/C Sleeper (2+1),22:15,09:15,11h 00m,4949.0,4949.0,Miyapur,RTC Bus Stand,Hyderabad,Tirupathi
+83,KPM BUS,A/C Sleeper (2+1),20:50,08:30,11h 40m,2999.0,3899.0,Chanda Nagar,RTC Bus Stand,Hyderabad,Tirupathi
+84,Hriday Tours & Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:00,09:30,11h 30m,2400.0,2600.0,Miyapur,RTC Bus Stand,Hyderabad,Tirupathi
+85,Tranzindia Travels,VE A/C Sleeper (2+1),22:50,09:00,10h 10m,2150.0,2250.0,Shivarampalli,Srinivasam,Hyderabad,Tirupathi
+86,Sri Keerthana Sai Travels,Non A/C Seater / Sleeper (2+1),17:00,05:00,12h 00m,2000.0,5500.0,Bharat Nagar,RTC Bus Stand,Hyderabad,Tirupathi
+87,Sri Krishna Travels,A/C Seater / Sleeper (2+1),17:45,08:30,14h 45m,1000.0,1600.0,Gandi Maisamma,RTC Bus Stand,Hyderabad,Tirupathi
+88,Sri Tulasi Tours and Travels,A/C Seater / Sleeper (2+1),19:30,05:30,10h 00m,1049.0,1699.0,LB Nagar,RTC Bus Stand,Hyderabad,Tirupathi
+89,IVR Tours and Travels,Non A/C Seater / Sleeper (2+1),22:15,08:30,10h 15m,5000.0,5000.0,Beeramguda,RTC Bus Stand,Hyderabad,Tirupathi
+90,GTT Travels,Volvo A/C Sleeper (2+1),21:00,08:00,11h 00m,2999.0,2999.0,Beeramguda,Bus Stand,Hyderabad,Tirupathi
+91,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),16:00,03:00,11h 00m,3000.0,3000.0,Kukatpally,RTC Bus Stand,Hyderabad,Tirupathi
+92,KPM BUS,A/C Sleeper (2+1),20:50,09:15,12h 25m,2999.0,3899.0,Bhel,RTC Bus Stand,Hyderabad,Tirupathi
+93,Vasireddy Travels,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),23:40,11:00,11h 20m,3000.0,3000.0,Panjagutta,RTC Bus Stand,Hyderabad,Tirupathi
+94,K.L.A Travels,A/C Sleeper (2+1),22:00,09:30,11h 30m,3800.0,3800.0,Gachibowli,Tirupathi,Hyderabad,Tirupathi

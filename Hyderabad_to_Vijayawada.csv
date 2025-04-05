@@ -9,3 +9,680 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 8,APSRTC - 3558,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),04:20,09:45,05h 25m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
 9,APSRTC - 4726,INDRA(A.C. Seater),04:30,10:15,05h 45m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
 10,APSRTC - 3540,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,12:05,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+11,APSRTC - 35136,INDRA(A.C. Seater),04:45,11:00,06h 15m,498.0,498.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+12,APSRTC - 3586,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),05:10,11:00,05h 50m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+13,APSRTC - 35196,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:50,12:50,07h 00m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+14,APSRTC - 35062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:55,13:10,07h 15m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+15,APSRTC - 35274,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),06:10,12:30,06h 20m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+16,APSRTC - 23701,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:15,12:30,06h 15m,436.0,436.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+17,APSRTC - 3592,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,14:20,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+18,APSRTC - 3572,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),07:05,13:30,06h 25m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+19,APSRTC - 3822,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:50,15:00,07h 10m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+20,APSRTC - 9401,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:00,15:50,07h 50m,412.0,412.0,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+21,APSRTC - 35267,INDRA(A.C. Seater),08:15,14:30,06h 15m,498.0,498.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+22,APSRTC - 3749,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:50,16:15,07h 25m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+23,APSRTC - 3574,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),09:15,16:00,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+24,APSRTC - 9357,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:15,16:50,07h 35m,444.0,444.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+25,APSRTC - 40569,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:40,17:30,07h 50m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+26,APSRTC - 3634,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),10:10,16:30,06h 20m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+27,APSRTC - 23508,INDRA(A.C. Seater),10:30,15:45,05h 15m,528.0,528.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+28,APSRTC - 3598,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:35,18:00,07h 25m,444.0,444.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+29,APSRTC - 35086,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),11:15,17:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+30,APSRTC - 3580,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),12:15,18:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+31,APSRTC - 24256,INDRA(A.C. Seater),12:30,17:35,05h 05m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+32,APSRTC - 3576,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),13:15,19:50,06h 35m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+33,APSRTC - 35154,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:40,21:00,07h 20m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+34,APSRTC - 9363,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:00,20:00,06h 00m,412.0,412.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+35,APSRTC - 3578,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),14:15,20:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+36,APSRTC - 94285,INDRA(A.C. Seater),14:25,19:00,04h 35m,528.0,528.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+37,APSRTC - 3722,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:30,20:30,06h 00m,412.0,412.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+38,APSRTC - 3859,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),15:15,21:50,06h 35m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+39,APSRTC - 3356,NIGHT RIDER (SEATER CUM SLEEPER),15:45,22:45,07h 00m,595.0,595.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+40,APSRTC - 4045,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,22:00,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+41,APSRTC - 3546,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),16:15,23:00,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+42,APSRTC - 3500,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:20,00:45,08h 25m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+43,APSRTC - 3376,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,23:15,06h 30m,436.0,436.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+44,APSRTC - 2561,INDRA(A.C. Seater),17:15,22:30,05h 15m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+45,APSRTC - 3570,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),17:15,23:55,06h 40m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+46,APSRTC - 3366,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:55,01:45,07h 50m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+47,APSRTC - 3360,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),18:25,01:30,07h 05m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+48,APSRTC - 2575,NIGHT RIDER (SEATER CUM SLEEPER),18:55,01:15,06h 20m,506.0,506.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+49,APSRTC - 3358,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,01:10,06h 10m,436.0,436.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+50,APSRTC - 2674,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,03:05,07h 50m,436.0,436.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+51,APSRTC - 4916,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:25,02:15,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+52,APSRTC - 2898,STAR LINER(NON-AC SLEEPER 2+1),19:25,02:05,06h 40m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+53,APSRTC - 2563,INDRA(A.C. Seater),19:30,01:05,05h 35m,449.0,449.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+54,APSRTC - 24262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,02:00,06h 30m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+55,APSRTC - 2680,VENNELA (A.C. SLEEPER),19:45,02:15,06h 30m,781.0,781.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+56,APSRTC - 2798,INDRA(A.C. Seater),19:55,02:30,06h 35m,567.0,567.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+57,APSRTC - 2688,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:00,06h 00m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+58,APSRTC - 3658,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:00,02:45,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+59,APSRTC - 23534,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,03:45,07h 45m,436.0,436.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+60,APSRTC - 4972,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:10,03:20,07h 10m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+61,APSRTC - 2549,NIGHT RIDER (SEATER CUM SLEEPER),20:15,02:25,06h 10m,506.0,506.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+62,APSRTC - 2573,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:25,03:00,06h 35m,570.0,570.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+63,APSRTC - 3971,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,03:15,06h 45m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+64,APSRTC - 4898,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:05,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+65,APSRTC - 2678,NIGHT RIDER (SEATER CUM SLEEPER),20:40,03:00,06h 20m,595.0,595.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+66,APSRTC - 2786,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:40,03:45,07h 05m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+67,APSRTC - 3697,STAR LINER(NON-AC SLEEPER 2+1),20:45,03:45,07h 00m,607.0,607.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+68,APSRTC - 2876,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,03:30,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+69,APSRTC - 3544,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:15,07h 15m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+70,APSRTC - 38202,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:45,07h 45m,444.0,444.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+71,APSRTC - 4351,STAR LINER(NON-AC SLEEPER 2+1),21:00,04:30,07h 30m,607.0,607.0,A S Rao Nagar,Rtc bus stand,Hyderabad,Vijayawada
+72,APSRTC - 37801,INDRA(A.C. Seater),21:00,03:45,06h 45m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+73,APSRTC - 3977,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:15,07h 15m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+74,APSRTC - 4896,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:05,03:30,06h 25m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+75,APSRTC - 3969,INDRA(A.C. Seater),21:05,03:20,06h 15m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+76,APSRTC - 4179,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),21:05,04:00,06h 55m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+77,APSRTC - 4900,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,04:05,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+78,APSRTC - 3612,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:50,07h 30m,446.0,446.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+79,APSRTC - 3962,INDRA(A.C. Seater),21:25,04:15,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+80,APSRTC - 95703,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:25,03:30,06h 05m,420.0,420.0,Kukatpally,IBRAHIMPATNAM-VJA,Hyderabad,Vijayawada
+81,APSRTC - 4043,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,04:25,06h 55m,444.0,444.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+82,APSRTC - 4795,INDRA(A.C. Seater),21:30,04:10,06h 40m,581.0,581.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+83,APSRTC - 4823,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:00,06h 25m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+84,APSRTC - 3883,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:30,06h 55m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+85,APSRTC - 4353,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:15,06h 40m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+86,APSRTC - 35212,STAR LINER(NON-AC SLEEPER 2+1),21:35,03:45,06h 10m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+87,APSRTC - 35064,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:38,04:30,06h 52m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+88,APSRTC - 3622,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:40,04:45,07h 05m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+89,APSRTC - 4920,INDRA(A.C. Seater),21:40,04:30,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+90,APSRTC - 35172,STAR LINER(NON-AC SLEEPER 2+1),21:40,05:10,07h 30m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+91,APSRTC - 9652,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:50,07h 05m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+92,APSRTC - 2676,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),21:45,04:00,06h 15m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+93,APSRTC - 4936,STAR LINER(NON-AC SLEEPER 2+1),21:45,04:00,06h 15m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+94,APSRTC - 4815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:20,06h 35m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+95,APSRTC - 4813,INDRA(A.C. Seater),21:50,04:50,07h 00m,567.0,567.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+96,APSRTC - 4996,INDRA(A.C. Seater),21:55,03:50,05h 55m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+97,APSRTC - 9655,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:55,05:05,07h 10m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+98,APSRTC - 3917,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:10,07h 10m,412.0,412.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+99,APSRTC - 3618,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:30,07h 30m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+100,APSRTC - 4789,STAR LINER(NON-AC SLEEPER 2+1),22:05,04:30,06h 25m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+101,APSRTC - 4355,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,05:15,07h 05m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+102,APSRTC - 4821,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,04:30,06h 20m,517.0,517.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+103,APSRTC - 3691,INDRA(A.C. Seater),22:10,04:30,06h 20m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+104,APSRTC - 4340,INDRA(A.C. Seater),22:10,05:00,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+105,APSRTC - 3568,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),22:15,04:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+106,APSRTC - 4049,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,05:35,07h 20m,412.0,412.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+107,APSRTC - 3944,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:20,04:45,06h 25m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+108,APSRTC - 3693,NIGHT RIDER (SEATER CUM SLEEPER),22:25,05:00,06h 35m,639.0,639.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+109,APSRTC - 3582,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:25,05:00,06h 35m,635.0,635.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+110,APSRTC - 3560,INDRA(A.C. Seater),22:30,04:15,05h 45m,567.0,567.0,A S Rao Nagar,Rtc bus stand,Hyderabad,Vijayawada
+111,APSRTC - 9365,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:30,07h 00m,446.0,446.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+112,APSRTC - 3909,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:35,07h 05m,412.0,412.0,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+113,APSRTC - 3695,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:20,06h 50m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+114,APSRTC - 1445,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:30,07h 00m,414.0,414.0,Mehdipatnam,Benz Circle,Hyderabad,Vijayawada
+115,APSRTC - 3824,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:10,06h 40m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+116,APSRTC - 4791,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:40,05:00,06h 20m,720.0,720.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+117,APSRTC - 3839,VENNELA (A.C. SLEEPER),22:45,04:55,06h 10m,737.0,737.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+118,APSRTC - 3952,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,05:15,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+119,APSRTC - 35106,VENNELA (A.C. SLEEPER),22:50,04:30,05h 40m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+120,APSRTC - 3542,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:50,05:50,07h 00m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+121,APSRTC - 3508,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,05:15,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+122,APSRTC - 3516,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:10,06:05,06h 55m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+123,APSRTC - 3826,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:10,06:00,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+124,APSRTC - 9935,STAR LINER(NON-AC SLEEPER 2+1),23:10,05:25,06h 15m,607.0,607.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+125,APSRTC - 35270,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),23:15,05:30,06h 15m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+126,APSRTC - 3514,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,06:20,06h 50m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+127,APSRTC - 4037,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:35,06:10,06h 35m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+128,APSRTC - 3887,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),23:55,06:00,06h 05m,633.0,633.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+129,TGSRTC - 4771,Rajdhani (AC Semi Sleeper 2+2),02:35,09:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+130,TGSRTC - 40010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,09:55,06h 55m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+131,TGSRTC - 1463,Rajdhani (AC Semi Sleeper 2+2),03:00,08:30,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+132,TGSRTC - 40277,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:05,09:35,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+133,TGSRTC - 30062,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),03:20,10:05,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+134,TGSRTC - 1421,Rajdhani (AC Semi Sleeper 2+2),03:30,09:00,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+135,TGSRTC - 1500,Rajdhani (AC Semi Sleeper 2+2),03:35,10:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+136,TGSRTC - 12862,eGARUDA,03:55,10:45,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+137,TGSRTC - 9933,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:05,10:55,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+138,TGSRTC - 1467,Rajdhani (AC Semi Sleeper 2+2),04:15,09:45,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+139,TGSRTC - 2980,Rajdhani (AC Semi Sleeper 2+2),04:35,11:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+140,TGSRTC - 40231,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,10:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+141,TGSRTC - 1353,Rajdhani (AC Semi Sleeper 2+2),04:55,11:45,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+142,TGSRTC - 40431,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:05,10:35,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+143,TGSRTC - 2961,Rajdhani (AC Semi Sleeper 2+2),05:15,12:05,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+144,TGSRTC - 40462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:25,12:15,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+145,TGSRTC - 1524,Rajdhani (AC Semi Sleeper 2+2),05:35,11:05,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+146,TGSRTC - 40610,Rajdhani (AC Semi Sleeper 2+2),05:35,12:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+147,TGSRTC - 40631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,11:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+148,TGSRTC - 40062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,12:35,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+149,TGSRTC - 40030,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:05,11:35,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+150,TGSRTC - 30262,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),06:15,13:05,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+151,TGSRTC - 40831,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:25,11:55,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+152,TGSRTC - 1343,Rajdhani (AC Semi Sleeper 2+2),06:40,13:30,30h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+153,TGSRTC - 40477,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:50,13:20,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+154,TGSRTC - 40262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:10,13:20,06h 10m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+155,TGSRTC - 1739,Rajdhani (AC Semi Sleeper 2+2),07:15,12:45,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+156,TGSRTC - 1425,Rajdhani (AC Semi Sleeper 2+2),07:20,14:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+157,TGSRTC - 1649,Rajdhani (AC Semi Sleeper 2+2),07:45,13:15,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+158,TGSRTC - 30610,Rajdhani (AC Semi Sleeper 2+2),07:45,14:30,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+159,TGSRTC - 41262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,14:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+160,TGSRTC - 41062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,14:15,06h 20m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+161,TGSRTC - 41010,Rajdhani (AC Semi Sleeper 2+2),08:20,15:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+162,TGSRTC - 14462,eGARUDA,08:45,15:30,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+163,TGSRTC - 41662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:55,15:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+164,TGSRTC - 1504,Rajdhani (AC Semi Sleeper 2+2),09:15,16:00,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+165,TGSRTC - 42462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:25,16:15,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+166,TGSRTC - 41231,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:45,15:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+167,TGSRTC - 14662,eGARUDA,09:50,16:30,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+168,TGSRTC - 010101,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:00,18:30,08h 30m,660.0,660.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+169,TGSRTC - 41610,Rajdhani (AC Semi Sleeper 2+2),10:10,17:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+170,TGSRTC - 42662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,16:45,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+171,TGSRTC - 7662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,16:50,06h 40m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+172,TGSRTC - 16262,eGARUDA,10:50,17:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+173,TGSRTC - 41462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:20,18:00,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+174,TGSRTC - 1916,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:30,19:00,07h 30m,440.0,440.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+175,TGSRTC - 12062,eGARUDA,11:35,18:20,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+176,TGSRTC - 30810,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),11:50,18:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+177,TGSRTC - 1615,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:00,19:30,07h 30m,440.0,440.0,Medchal,Rtc bus stand,Hyderabad,Vijayawada
+178,TGSRTC - 13662,eGARUDA,12:20,19:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+179,TGSRTC - 1627,Rajdhani (AC Semi Sleeper 2+2),13:20,20:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+180,TGSRTC - 1593,Rajdhani (AC Semi Sleeper 2+2),13:20,19:20,06h 00m,533.0,533.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+181,TGSRTC - 42862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:30,20:20,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+182,TGSRTC - 7741,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:05,21:10,07h 05m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+183,TGSRTC - 41631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:10,19:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+184,TGSRTC - 43262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:10,21:00,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+185,TGSRTC - 41810,Rajdhani (AC Semi Sleeper 2+2),14:35,21:20,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+186,TGSRTC - 7761,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:50,22:10,07h 20m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+187,TGSRTC - 1449,Rajdhani (AC Semi Sleeper 2+2),15:10,20:40,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+188,TGSRTC - 1502,Rajdhani (AC Semi Sleeper 2+2),15:15,22:00,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+189,TGSRTC - 2042,LAHARI A/C SLEEPER CUM SEATER,15:45,22:10,06h 25m,536.0,536.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+190,TGSRTC - 42031,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,21:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+191,TGSRTC - 40862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,23:00,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+192,TGSRTC - 1423,Rajdhani (AC Semi Sleeper 2+2),16:30,23:10,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+193,TGSRTC - 40662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:40,23:20,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+194,TGSRTC - 41831,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,22:10,05h 20m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+195,TGSRTC - 1585,Rajdhani (AC Semi Sleeper 2+2),17:00,22:30,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+196,TGSRTC - 8002,Lahari Non A/C Sleeper Cum Seater,17:00,01:00,08h 00m,442.0,442.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+197,TGSRTC - 43062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:25,00:01,06h 36m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+198,TGSRTC - 1631,Rajdhani (AC Semi Sleeper 2+2),17:40,00:10,06h 30m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+199,TGSRTC - 42062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:40,00:30,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+200,TGSRTC - 9698,Lahari A/C sleeper,17:45,00:40,06h 55m,729.0,729.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+201,TGSRTC - 42262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,00:50,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+202,TGSRTC - 41431,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:10,23:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+203,TGSRTC - 31062,Rajdhani (AC Semi Sleeper 2+2),18:15,01:00,06h 45m,573.0,573.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+204,TGSRTC - 1417,Rajdhani (AC Semi Sleeper 2+2),18:20,23:49,05h 29m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+205,TGSRTC - 40410,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,01:10,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+206,TGSRTC - 41862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:40,01:25,06h 45m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+207,TGSRTC - 1757,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:45,02:05,07h 20m,440.0,440.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+208,TGSRTC - 7620,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:50,01:10,06h 20m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+209,TGSRTC - 9929,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:05,01:35,06h 30m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+210,TGSRTC - 1548,Rajdhani (AC Semi Sleeper 2+2),19:20,02:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+211,TGSRTC - 1469,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,02:30,07h 00m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+212,TGSRTC - 1401,Rajdhani (AC Semi Sleeper 2+2),19:30,02:20,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+213,TGSRTC - 41210,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:35,02:10,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+214,TGSRTC - 9886,Rajdhani (AC Semi Sleeper 2+2),19:47,02:40,06h 53m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+215,TGSRTC - 9884,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:35,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+216,TGSRTC - 7692,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:05,02:50,06h 45m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+217,TGSRTC - 1625,Rajdhani (AC Semi Sleeper 2+2),20:10,02:35,06h 25m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+218,TGSRTC - 1373,Rajdhani (AC Semi Sleeper 2+2),20:25,03:10,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+219,TGSRTC - 9943,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,03:00,06h 30m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+220,TGSRTC - 7771,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:40,07h 05m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+221,TGSRTC - 1579,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,03:45,07h 00m,440.0,440.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+222,TGSRTC - 4077,Rajdhani (AC Semi Sleeper 2+2),20:50,03:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+223,TGSRTC - 14670,Rajdhani (AC Semi Sleeper 2+2),21:00,06:00,09h 00m,801.0,801.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+224,TGSRTC - 9922,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,03:50,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+225,TGSRTC - 1589,Rajdhani (AC Semi Sleeper 2+2),21:30,04:20,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+226,TGSRTC - 9880,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,03:40,06h 05m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+227,TGSRTC - 7769,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:50,04:30,06h 40m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+228,TGSRTC - 41410,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:55,04:30,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+229,TGSRTC - 30862,Rajdhani (AC Semi Sleeper 2+2),21:55,04:40,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+230,TGSRTC - 17862,eGARUDA,22:10,05:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+231,TGSRTC - 40077,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:40,05:10,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+232,TGSRTC - 9882,Lahari Non A/C Sleeper Cum Seater,22:50,05:40,06h 50m,442.0,442.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+233,TGSRTC - 17062,eGARUDA,22:55,05:00,06h 05m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+234,TGSRTC - 42010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:55,05:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+235,TGSRTC - 18662,eGARUDA,23:10,06:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+236,TGSRTC - 7773,Lahari Non A/C Sleeper Cum Seater,23:10,05:30,06h 20m,442.0,442.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+237,TGSRTC - 40031,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:20,04:50,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+238,TGSRTC - 6552,Rajdhani (AC Semi Sleeper 2+2),10:45,17:20,06h 35m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+239,FRESHBUS,Electric A/C Seater (2+2),12:50,19:40,06h 50m,449.0,610.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+240,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06:00,06h 55m,699.0,1579.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+241,FRESHBUS,Electric A/C Seater (2+2),10:25,17:25,07h 00m,449.0,449.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1,APSRTC - 3563,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:00,07:15,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+2,APSRTC - 35266,VENNELA (A.C. SLEEPER),01:25,07:30,06h 05m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+3,APSRTC - 3590,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:45,08:00,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+4,APSRTC - 3058,VENNELA (A.C. SLEEPER),02:10,08:15,06h 05m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+5,APSRTC - 3548,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,09:20,06h 20m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+6,APSRTC - 35197,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),03:10,09:00,05h 50m,633.0,633.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+7,APSRTC - 35190,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),04:10,10:05,05h 55m,670.0,670.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+8,APSRTC - 3558,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),04:20,09:45,05h 25m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+9,APSRTC - 4726,INDRA(A.C. Seater),04:30,10:15,05h 45m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+10,APSRTC - 3540,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,12:05,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+11,APSRTC - 35136,INDRA(A.C. Seater),04:45,11:00,06h 15m,498.0,498.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+12,APSRTC - 3586,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),05:10,11:00,05h 50m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+13,APSRTC - 35196,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:50,12:50,07h 00m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+14,APSRTC - 35062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:55,13:10,07h 15m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+15,APSRTC - 35274,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),06:10,12:30,06h 20m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+16,APSRTC - 23701,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:15,12:30,06h 15m,436.0,436.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+17,APSRTC - 3592,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,14:20,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+18,APSRTC - 3572,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),07:05,13:30,06h 25m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+19,APSRTC - 3822,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:50,15:00,07h 10m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+20,APSRTC - 9401,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:00,15:50,07h 50m,412.0,412.0,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+21,APSRTC - 35267,INDRA(A.C. Seater),08:15,14:30,06h 15m,498.0,498.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+22,APSRTC - 3749,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:50,16:15,07h 25m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+23,APSRTC - 3574,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),09:15,16:00,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+24,APSRTC - 9357,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:15,16:50,07h 35m,444.0,444.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+25,APSRTC - 40569,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:40,17:30,07h 50m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+26,APSRTC - 3634,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),10:10,16:30,06h 20m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+27,APSRTC - 23508,INDRA(A.C. Seater),10:30,15:45,05h 15m,528.0,528.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+28,APSRTC - 3598,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:35,18:00,07h 25m,444.0,444.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+29,APSRTC - 35086,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),11:15,17:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+30,APSRTC - 3580,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),12:15,18:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+31,APSRTC - 24256,INDRA(A.C. Seater),12:30,17:35,05h 05m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+32,APSRTC - 3576,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),13:15,19:50,06h 35m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+33,APSRTC - 35154,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:40,21:00,07h 20m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+34,APSRTC - 9363,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:00,20:00,06h 00m,412.0,412.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+35,APSRTC - 3578,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),14:15,20:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+36,APSRTC - 94285,INDRA(A.C. Seater),14:25,19:00,04h 35m,528.0,528.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+37,APSRTC - 3722,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:30,20:30,06h 00m,412.0,412.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+38,APSRTC - 3859,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),15:15,21:50,06h 35m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+39,APSRTC - 3356,NIGHT RIDER (SEATER CUM SLEEPER),15:45,22:45,07h 00m,595.0,595.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+40,APSRTC - 4045,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,22:00,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+41,APSRTC - 3546,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),16:15,23:00,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+42,APSRTC - 3500,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:20,00:45,08h 25m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+43,APSRTC - 3376,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,23:15,06h 30m,436.0,436.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+44,APSRTC - 2561,INDRA(A.C. Seater),17:15,22:30,05h 15m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+45,APSRTC - 3570,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),17:15,23:55,06h 40m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+46,APSRTC - 3366,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:55,01:45,07h 50m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+47,APSRTC - 3360,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),18:25,01:30,07h 05m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+48,APSRTC - 2575,NIGHT RIDER (SEATER CUM SLEEPER),18:55,01:15,06h 20m,506.0,506.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+49,APSRTC - 3358,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,01:10,06h 10m,436.0,436.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+50,APSRTC - 2674,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,03:05,07h 50m,436.0,436.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+51,APSRTC - 2898,STAR LINER(NON-AC SLEEPER 2+1),19:25,02:05,06h 40m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+52,APSRTC - 4916,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:25,02:15,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+53,APSRTC - 24262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,02:00,06h 30m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+54,APSRTC - 2563,INDRA(A.C. Seater),19:30,01:05,05h 35m,449.0,449.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+55,APSRTC - 2680,VENNELA (A.C. SLEEPER),19:45,02:15,06h 30m,781.0,781.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+56,APSRTC - 2798,INDRA(A.C. Seater),19:55,02:30,06h 35m,567.0,567.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+57,APSRTC - 2688,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:00,06h 00m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+58,APSRTC - 23534,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,03:45,07h 45m,436.0,436.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+59,APSRTC - 3658,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:00,02:45,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+60,APSRTC - 4972,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:10,03:20,07h 10m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+61,APSRTC - 2549,NIGHT RIDER (SEATER CUM SLEEPER),20:15,02:25,06h 10m,506.0,506.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+62,APSRTC - 2573,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:25,03:00,06h 35m,570.0,570.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+63,APSRTC - 3971,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,03:15,06h 45m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+64,APSRTC - 4898,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:05,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+65,APSRTC - 2678,NIGHT RIDER (SEATER CUM SLEEPER),20:40,03:00,06h 20m,595.0,595.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+66,APSRTC - 2786,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:40,03:45,07h 05m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+67,APSRTC - 3697,STAR LINER(NON-AC SLEEPER 2+1),20:45,03:45,07h 00m,607.0,607.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+68,APSRTC - 3544,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:15,07h 15m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+69,APSRTC - 4351,STAR LINER(NON-AC SLEEPER 2+1),21:00,04:30,07h 30m,607.0,607.0,A S Rao Nagar,Rtc bus stand,Hyderabad,Vijayawada
+70,APSRTC - 2876,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,03:30,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+71,APSRTC - 38202,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:45,07h 45m,444.0,444.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+72,APSRTC - 37801,INDRA(A.C. Seater),21:00,03:45,06h 45m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+73,APSRTC - 3977,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:15,07h 15m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+74,APSRTC - 3969,INDRA(A.C. Seater),21:05,03:20,06h 15m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+75,APSRTC - 4896,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:05,03:30,06h 25m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+76,APSRTC - 4179,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),21:05,04:00,06h 55m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+77,APSRTC - 4900,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,04:05,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+78,APSRTC - 3612,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:50,07h 30m,446.0,446.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+79,APSRTC - 95703,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:25,03:30,06h 05m,420.0,420.0,Kukatpally,IBRAHIMPATNAM-VJA,Hyderabad,Vijayawada
+80,APSRTC - 3962,INDRA(A.C. Seater),21:25,04:15,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+81,APSRTC - 4043,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,04:25,06h 55m,444.0,444.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+82,APSRTC - 4795,INDRA(A.C. Seater),21:30,04:10,06h 40m,581.0,581.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+83,APSRTC - 4823,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:00,06h 25m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+84,APSRTC - 3883,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:30,06h 55m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+85,APSRTC - 4353,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:15,06h 40m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+86,APSRTC - 35212,STAR LINER(NON-AC SLEEPER 2+1),21:35,03:45,06h 10m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+87,APSRTC - 35064,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:38,04:30,06h 52m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+88,APSRTC - 35172,STAR LINER(NON-AC SLEEPER 2+1),21:40,05:10,07h 30m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+89,APSRTC - 4920,INDRA(A.C. Seater),21:40,04:30,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+90,APSRTC - 3622,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:40,04:45,07h 05m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+91,APSRTC - 4815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:20,06h 35m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+92,APSRTC - 9652,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:50,07h 05m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+93,APSRTC - 4936,STAR LINER(NON-AC SLEEPER 2+1),21:45,04:00,06h 15m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+94,APSRTC - 2676,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),21:45,04:00,06h 15m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+95,APSRTC - 4813,INDRA(A.C. Seater),21:50,04:50,07h 00m,567.0,567.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+96,APSRTC - 4996,INDRA(A.C. Seater),21:55,03:50,05h 55m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+97,APSRTC - 9655,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:55,05:05,07h 10m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+98,APSRTC - 3618,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:30,07h 30m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+99,APSRTC - 3917,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:10,07h 10m,412.0,412.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+100,APSRTC - 4789,STAR LINER(NON-AC SLEEPER 2+1),22:05,04:30,06h 25m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+101,APSRTC - 4821,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,04:30,06h 20m,517.0,517.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+102,APSRTC - 3691,INDRA(A.C. Seater),22:10,04:30,06h 20m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+103,APSRTC - 4355,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,05:15,07h 05m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+104,APSRTC - 4340,INDRA(A.C. Seater),22:10,05:00,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+105,APSRTC - 4049,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,05:35,07h 20m,412.0,412.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+106,APSRTC - 3568,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),22:15,04:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+107,APSRTC - 3944,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:20,04:45,06h 25m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+108,APSRTC - 3582,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:25,05:00,06h 35m,635.0,635.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+109,APSRTC - 3693,NIGHT RIDER (SEATER CUM SLEEPER),22:25,05:00,06h 35m,639.0,639.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+110,APSRTC - 3695,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:20,06h 50m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+111,APSRTC - 9365,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:30,07h 00m,446.0,446.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+112,APSRTC - 3560,INDRA(A.C. Seater),22:30,04:15,05h 45m,567.0,567.0,A S Rao Nagar,Rtc bus stand,Hyderabad,Vijayawada
+113,APSRTC - 1445,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:30,07h 00m,414.0,414.0,Mehdipatnam,Benz Circle,Hyderabad,Vijayawada
+114,APSRTC - 3909,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:35,07h 05m,412.0,412.0,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+115,APSRTC - 3824,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:10,06h 40m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+116,APSRTC - 4791,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:40,05:00,06h 20m,720.0,720.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+117,APSRTC - 3839,VENNELA (A.C. SLEEPER),22:45,04:55,06h 10m,737.0,737.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+118,APSRTC - 3952,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,05:15,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+119,APSRTC - 3542,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:50,05:50,07h 00m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+120,APSRTC - 35106,VENNELA (A.C. SLEEPER),22:50,04:30,05h 40m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+121,APSRTC - 3508,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,05:15,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+122,APSRTC - 9935,STAR LINER(NON-AC SLEEPER 2+1),23:10,05:25,06h 15m,607.0,607.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+123,APSRTC - 3826,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:10,06:00,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+124,APSRTC - 3516,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:10,06:05,06h 55m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+125,APSRTC - 35270,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),23:15,05:30,06h 15m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+126,APSRTC - 3514,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,06:20,06h 50m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+127,APSRTC - 4037,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:35,06:10,06h 35m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+128,APSRTC - 3887,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),23:55,06:00,06h 05m,633.0,633.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+129,TGSRTC - 4771,Rajdhani (AC Semi Sleeper 2+2),02:35,09:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+130,TGSRTC - 1463,Rajdhani (AC Semi Sleeper 2+2),03:00,08:30,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+131,TGSRTC - 40010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,09:55,06h 55m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+132,TGSRTC - 40277,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:05,09:35,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+133,TGSRTC - 30062,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),03:20,10:05,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+134,TGSRTC - 1421,Rajdhani (AC Semi Sleeper 2+2),03:30,09:00,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+135,TGSRTC - 1500,Rajdhani (AC Semi Sleeper 2+2),03:35,10:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+136,TGSRTC - 12862,eGARUDA,03:55,10:45,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+137,TGSRTC - 9933,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:05,10:55,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+138,TGSRTC - 1467,Rajdhani (AC Semi Sleeper 2+2),04:15,09:45,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+139,TGSRTC - 2980,Rajdhani (AC Semi Sleeper 2+2),04:35,11:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+140,TGSRTC - 40231,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,10:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+141,TGSRTC - 1353,Rajdhani (AC Semi Sleeper 2+2),04:55,11:45,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+142,TGSRTC - 40431,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:05,10:35,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+143,TGSRTC - 2961,Rajdhani (AC Semi Sleeper 2+2),05:15,12:05,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+144,TGSRTC - 40462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:25,12:15,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+145,TGSRTC - 40610,Rajdhani (AC Semi Sleeper 2+2),05:35,12:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+146,TGSRTC - 1524,Rajdhani (AC Semi Sleeper 2+2),05:35,11:05,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+147,TGSRTC - 40631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,11:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+148,TGSRTC - 40062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,12:35,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+149,TGSRTC - 40030,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:05,11:35,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+150,TGSRTC - 30262,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),06:15,13:05,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+151,TGSRTC - 40831,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:25,11:55,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+152,TGSRTC - 1343,Rajdhani (AC Semi Sleeper 2+2),06:40,13:30,30h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+153,TGSRTC - 40477,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:50,13:20,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+154,TGSRTC - 40262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:10,13:20,06h 10m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+155,TGSRTC - 1739,Rajdhani (AC Semi Sleeper 2+2),07:15,12:45,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+156,TGSRTC - 1425,Rajdhani (AC Semi Sleeper 2+2),07:20,14:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+157,TGSRTC - 1649,Rajdhani (AC Semi Sleeper 2+2),07:45,13:15,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+158,TGSRTC - 30610,Rajdhani (AC Semi Sleeper 2+2),07:45,14:30,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+159,TGSRTC - 41062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,14:15,06h 20m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+160,TGSRTC - 41262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,14:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+161,TGSRTC - 41010,Rajdhani (AC Semi Sleeper 2+2),08:20,15:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+162,TGSRTC - 14462,eGARUDA,08:45,15:30,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+163,TGSRTC - 41662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:55,15:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+164,TGSRTC - 1504,Rajdhani (AC Semi Sleeper 2+2),09:15,16:00,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+165,TGSRTC - 42462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:25,16:15,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+166,TGSRTC - 41231,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:45,15:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+167,TGSRTC - 14662,eGARUDA,09:50,16:30,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+168,TGSRTC - 010101,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:00,18:30,08h 30m,660.0,660.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+169,TGSRTC - 7662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,16:50,06h 40m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+170,TGSRTC - 42662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,16:45,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+171,TGSRTC - 41610,Rajdhani (AC Semi Sleeper 2+2),10:10,17:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+172,TGSRTC - 16262,eGARUDA,10:50,17:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+173,TGSRTC - 41462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:20,18:00,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+174,TGSRTC - 1916,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:30,19:00,07h 30m,440.0,440.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+175,TGSRTC - 12062,eGARUDA,11:35,18:20,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+176,TGSRTC - 30810,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),11:50,18:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+177,TGSRTC - 1615,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:00,19:30,07h 30m,440.0,440.0,Medchal,Rtc bus stand,Hyderabad,Vijayawada
+178,TGSRTC - 13662,eGARUDA,12:20,19:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+179,TGSRTC - 1593,Rajdhani (AC Semi Sleeper 2+2),13:20,19:20,06h 00m,533.0,533.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+180,TGSRTC - 1627,Rajdhani (AC Semi Sleeper 2+2),13:20,20:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+181,TGSRTC - 42862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:30,20:20,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+182,TGSRTC - 7741,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:05,21:10,07h 05m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+183,TGSRTC - 43262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:10,21:00,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+184,TGSRTC - 41631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:10,19:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+185,TGSRTC - 41810,Rajdhani (AC Semi Sleeper 2+2),14:35,21:20,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+186,TGSRTC - 7761,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:50,22:10,07h 20m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+187,TGSRTC - 1449,Rajdhani (AC Semi Sleeper 2+2),15:10,20:40,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+188,TGSRTC - 1502,Rajdhani (AC Semi Sleeper 2+2),15:15,22:00,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+189,TGSRTC - 2042,LAHARI A/C SLEEPER CUM SEATER,15:45,22:10,06h 25m,536.0,536.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+190,TGSRTC - 40862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,23:00,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+191,TGSRTC - 42031,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,21:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+192,TGSRTC - 1423,Rajdhani (AC Semi Sleeper 2+2),16:30,23:10,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+193,TGSRTC - 40662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:40,23:20,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1,APSRTC - 3563,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:00,07:15,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+2,APSRTC - 35266,VENNELA (A.C. SLEEPER),01:25,07:30,06h 05m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+3,APSRTC - 3590,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:45,08:00,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+4,APSRTC - 3058,VENNELA (A.C. SLEEPER),02:10,08:15,06h 05m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+5,APSRTC - 3548,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,09:20,06h 20m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+6,APSRTC - 35197,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),03:10,09:00,05h 50m,633.0,633.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+7,APSRTC - 35190,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),04:10,10:05,05h 55m,670.0,670.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+8,APSRTC - 3558,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),04:20,09:45,05h 25m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+9,APSRTC - 4726,INDRA(A.C. Seater),04:30,10:15,05h 45m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+10,APSRTC - 3540,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,12:05,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+11,APSRTC - 35136,INDRA(A.C. Seater),04:45,11:00,06h 15m,498.0,498.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+12,APSRTC - 3586,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),05:10,11:00,05h 50m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+13,APSRTC - 35196,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:50,12:50,07h 00m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+14,APSRTC - 35062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:55,13:10,07h 15m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+15,APSRTC - 35274,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),06:10,12:30,06h 20m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+16,APSRTC - 23701,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:15,12:30,06h 15m,436.0,436.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+17,APSRTC - 3592,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,14:20,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+18,APSRTC - 3572,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),07:05,13:30,06h 25m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+19,APSRTC - 3822,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:50,15:00,07h 10m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+20,APSRTC - 9401,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:00,15:50,07h 50m,412.0,412.0,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+21,APSRTC - 35267,INDRA(A.C. Seater),08:15,14:30,06h 15m,498.0,498.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+22,APSRTC - 3749,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:50,16:15,07h 25m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+23,APSRTC - 9357,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:15,16:50,07h 35m,444.0,444.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+24,APSRTC - 3574,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),09:15,16:00,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+25,APSRTC - 40569,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:40,17:30,07h 50m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+26,APSRTC - 3634,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),10:10,16:30,06h 20m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+27,APSRTC - 23508,INDRA(A.C. Seater),10:30,15:45,05h 15m,528.0,528.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+28,APSRTC - 3598,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:35,18:00,07h 25m,444.0,444.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+29,APSRTC - 35086,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),11:15,17:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+30,APSRTC - 3580,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),12:15,18:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+31,APSRTC - 24256,INDRA(A.C. Seater),12:30,17:35,05h 05m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+32,APSRTC - 3576,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),13:15,19:50,06h 35m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+33,APSRTC - 35154,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:40,21:00,07h 20m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+34,APSRTC - 9363,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:00,20:00,06h 00m,412.0,412.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+35,APSRTC - 3578,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),14:15,20:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+36,APSRTC - 94285,INDRA(A.C. Seater),14:25,19:00,04h 35m,528.0,528.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+37,APSRTC - 3722,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:30,20:30,06h 00m,412.0,412.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+38,APSRTC - 3859,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),15:15,21:50,06h 35m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+39,APSRTC - 3356,NIGHT RIDER (SEATER CUM SLEEPER),15:45,22:45,07h 00m,595.0,595.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+40,APSRTC - 4045,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,22:00,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+41,APSRTC - 3546,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),16:15,23:00,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+42,APSRTC - 3500,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:20,00:45,08h 25m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+43,APSRTC - 3376,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,23:15,06h 30m,436.0,436.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+44,APSRTC - 3570,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),17:15,23:55,06h 40m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+45,APSRTC - 2561,INDRA(A.C. Seater),17:15,22:30,05h 15m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+46,APSRTC - 3366,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:55,01:45,07h 50m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+47,APSRTC - 3360,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),18:25,01:30,07h 05m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+48,APSRTC - 2575,NIGHT RIDER (SEATER CUM SLEEPER),18:55,01:15,06h 20m,506.0,506.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+49,APSRTC - 3358,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,01:10,06h 10m,436.0,436.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+50,APSRTC - 2674,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,03:05,07h 50m,436.0,436.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+51,APSRTC - 2898,STAR LINER(NON-AC SLEEPER 2+1),19:25,02:05,06h 40m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+52,APSRTC - 4916,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:25,02:15,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+53,APSRTC - 2563,INDRA(A.C. Seater),19:30,01:05,05h 35m,449.0,449.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+54,APSRTC - 24262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,02:00,06h 30m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+55,APSRTC - 2680,VENNELA (A.C. SLEEPER),19:45,02:15,06h 30m,781.0,781.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+56,APSRTC - 2798,INDRA(A.C. Seater),19:55,02:30,06h 35m,567.0,567.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+57,APSRTC - 2688,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:00,06h 00m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+58,APSRTC - 3658,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:00,02:45,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+59,APSRTC - 23534,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,03:45,07h 45m,436.0,436.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+60,APSRTC - 4972,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:10,03:20,07h 10m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+61,APSRTC - 2549,NIGHT RIDER (SEATER CUM SLEEPER),20:15,02:25,06h 10m,506.0,506.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+62,APSRTC - 2573,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:25,03:00,06h 35m,570.0,570.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+63,APSRTC - 3971,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,03:15,06h 45m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+64,APSRTC - 4898,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:05,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+65,APSRTC - 2786,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:40,03:45,07h 05m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+66,APSRTC - 2678,NIGHT RIDER (SEATER CUM SLEEPER),20:40,03:00,06h 20m,595.0,595.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+67,APSRTC - 3697,STAR LINER(NON-AC SLEEPER 2+1),20:45,03:45,07h 00m,607.0,607.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+68,APSRTC - 3544,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:15,07h 15m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+69,APSRTC - 38202,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:45,07h 45m,444.0,444.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+70,APSRTC - 37801,INDRA(A.C. Seater),21:00,03:45,06h 45m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+71,APSRTC - 2876,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,03:30,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+72,APSRTC - 4351,STAR LINER(NON-AC SLEEPER 2+1),21:00,04:30,07h 30m,607.0,607.0,A S Rao Nagar,Rtc bus stand,Hyderabad,Vijayawada
+73,APSRTC - 3977,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:15,07h 15m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+74,APSRTC - 4179,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),21:05,04:00,06h 55m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+75,APSRTC - 4896,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:05,03:30,06h 25m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+76,APSRTC - 3969,INDRA(A.C. Seater),21:05,03:20,06h 15m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+77,APSRTC - 4900,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,04:05,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+78,APSRTC - 3612,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:50,07h 30m,446.0,446.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+79,APSRTC - 95703,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:25,03:30,06h 05m,420.0,420.0,Kukatpally,IBRAHIMPATNAM-VJA,Hyderabad,Vijayawada
+80,APSRTC - 3962,INDRA(A.C. Seater),21:25,04:15,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+81,APSRTC - 4795,INDRA(A.C. Seater),21:30,04:10,06h 40m,581.0,581.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+82,APSRTC - 4043,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,04:25,06h 55m,444.0,444.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+83,APSRTC - 35212,STAR LINER(NON-AC SLEEPER 2+1),21:35,03:45,06h 10m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+84,APSRTC - 4353,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:15,06h 40m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+85,APSRTC - 3883,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:30,06h 55m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+86,APSRTC - 4823,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:00,06h 25m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+87,APSRTC - 35064,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:38,04:30,06h 52m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+88,APSRTC - 35172,STAR LINER(NON-AC SLEEPER 2+1),21:40,05:10,07h 30m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+89,APSRTC - 4920,INDRA(A.C. Seater),21:40,04:30,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+90,APSRTC - 3622,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:40,04:45,07h 05m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+91,APSRTC - 4815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:20,06h 35m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+92,APSRTC - 2676,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),21:45,04:00,06h 15m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+93,APSRTC - 9652,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:50,07h 05m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+94,APSRTC - 4936,STAR LINER(NON-AC SLEEPER 2+1),21:45,04:00,06h 15m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+95,APSRTC - 4813,INDRA(A.C. Seater),21:50,04:50,07h 00m,567.0,567.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+96,APSRTC - 4996,INDRA(A.C. Seater),21:55,03:50,05h 55m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+97,APSRTC - 9655,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:55,05:05,07h 10m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+98,APSRTC - 3917,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:10,07h 10m,412.0,412.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+99,APSRTC - 3618,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:30,07h 30m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+100,APSRTC - 4789,STAR LINER(NON-AC SLEEPER 2+1),22:05,04:30,06h 25m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+101,APSRTC - 4340,INDRA(A.C. Seater),22:10,05:00,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+102,APSRTC - 3691,INDRA(A.C. Seater),22:10,04:30,06h 20m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+103,APSRTC - 4355,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,05:15,07h 05m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+104,APSRTC - 4821,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,04:30,06h 20m,517.0,517.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+105,APSRTC - 3568,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),22:15,04:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+106,APSRTC - 4049,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,05:35,07h 20m,412.0,412.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+107,APSRTC - 3944,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:20,04:45,06h 25m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+108,APSRTC - 3693,NIGHT RIDER (SEATER CUM SLEEPER),22:25,05:00,06h 35m,639.0,639.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+109,APSRTC - 3582,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:25,05:00,06h 35m,635.0,635.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+110,APSRTC - 3909,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:35,07h 05m,412.0,412.0,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+111,APSRTC - 9365,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:30,07h 00m,446.0,446.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+112,APSRTC - 3695,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:20,06h 50m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+113,APSRTC - 1445,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:30,07h 00m,414.0,414.0,Mehdipatnam,Benz Circle,Hyderabad,Vijayawada
+114,APSRTC - 3824,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:10,06h 40m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+115,APSRTC - 3560,INDRA(A.C. Seater),22:30,04:15,05h 45m,567.0,567.0,A S Rao Nagar,Rtc bus stand,Hyderabad,Vijayawada
+116,APSRTC - 4791,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:40,05:00,06h 20m,720.0,720.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+117,APSRTC - 3952,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,05:15,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+118,APSRTC - 3839,VENNELA (A.C. SLEEPER),22:45,04:55,06h 10m,737.0,737.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+119,APSRTC - 35106,VENNELA (A.C. SLEEPER),22:50,04:30,05h 40m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+120,APSRTC - 3542,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:50,05:50,07h 00m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+121,APSRTC - 3508,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,05:15,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+122,APSRTC - 9935,STAR LINER(NON-AC SLEEPER 2+1),23:10,05:25,06h 15m,607.0,607.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+123,APSRTC - 3516,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:10,06:05,06h 55m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+124,APSRTC - 3826,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:10,06:00,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+125,APSRTC - 35270,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),23:15,05:30,06h 15m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+126,APSRTC - 3514,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,06:20,06h 50m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+127,APSRTC - 4037,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:35,06:10,06h 35m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+128,APSRTC - 3887,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),23:55,06:00,06h 05m,633.0,633.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+129,TGSRTC - 4771,Rajdhani (AC Semi Sleeper 2+2),02:35,09:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+130,TGSRTC - 1463,Rajdhani (AC Semi Sleeper 2+2),03:00,08:30,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+131,TGSRTC - 40010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,09:55,06h 55m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+132,TGSRTC - 40277,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:05,09:35,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+133,TGSRTC - 30062,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),03:20,10:05,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+134,TGSRTC - 1421,Rajdhani (AC Semi Sleeper 2+2),03:30,09:00,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+135,TGSRTC - 1500,Rajdhani (AC Semi Sleeper 2+2),03:35,10:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+136,TGSRTC - 12862,eGARUDA,03:55,10:45,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+137,TGSRTC - 9933,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:05,10:55,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+138,TGSRTC - 1467,Rajdhani (AC Semi Sleeper 2+2),04:15,09:45,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+139,TGSRTC - 2980,Rajdhani (AC Semi Sleeper 2+2),04:35,11:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+140,TGSRTC - 40231,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,10:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+141,TGSRTC - 1353,Rajdhani (AC Semi Sleeper 2+2),04:55,11:45,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+142,TGSRTC - 40431,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:05,10:35,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+143,TGSRTC - 2961,Rajdhani (AC Semi Sleeper 2+2),05:15,12:05,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+144,TGSRTC - 40462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:25,12:15,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+145,TGSRTC - 1524,Rajdhani (AC Semi Sleeper 2+2),05:35,11:05,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+146,TGSRTC - 40610,Rajdhani (AC Semi Sleeper 2+2),05:35,12:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+147,TGSRTC - 40631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,11:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+148,TGSRTC - 40062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,12:35,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+149,TGSRTC - 40030,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:05,11:35,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+150,TGSRTC - 30262,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),06:15,13:05,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+151,TGSRTC - 40831,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:25,11:55,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+152,TGSRTC - 1343,Rajdhani (AC Semi Sleeper 2+2),06:40,13:30,30h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+153,TGSRTC - 40477,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:50,13:20,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+154,TGSRTC - 40262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:10,13:20,06h 10m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+155,TGSRTC - 1739,Rajdhani (AC Semi Sleeper 2+2),07:15,12:45,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+156,TGSRTC - 1425,Rajdhani (AC Semi Sleeper 2+2),07:20,14:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+157,TGSRTC - 30610,Rajdhani (AC Semi Sleeper 2+2),07:45,14:30,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+158,TGSRTC - 1649,Rajdhani (AC Semi Sleeper 2+2),07:45,13:15,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+159,TGSRTC - 41262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,14:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+160,TGSRTC - 41062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,14:15,06h 20m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+161,TGSRTC - 41010,Rajdhani (AC Semi Sleeper 2+2),08:20,15:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+162,TGSRTC - 14462,eGARUDA,08:45,15:30,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+163,TGSRTC - 41662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:55,15:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+164,TGSRTC - 1504,Rajdhani (AC Semi Sleeper 2+2),09:15,16:00,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+165,TGSRTC - 42462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:25,16:15,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+166,TGSRTC - 41231,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:45,15:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+167,TGSRTC - 14662,eGARUDA,09:50,16:30,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+168,TGSRTC - 010101,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:00,18:30,08h 30m,660.0,660.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+169,TGSRTC - 41610,Rajdhani (AC Semi Sleeper 2+2),10:10,17:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+170,TGSRTC - 7662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,16:50,06h 40m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+171,TGSRTC - 42662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,16:45,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+172,TGSRTC - 16262,eGARUDA,10:50,17:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+173,TGSRTC - 41462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:20,18:00,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+174,TGSRTC - 1916,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:30,19:00,07h 30m,440.0,440.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+175,TGSRTC - 12062,eGARUDA,11:35,18:20,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+176,TGSRTC - 30810,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),11:50,18:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+177,TGSRTC - 1615,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:00,19:30,07h 30m,440.0,440.0,Medchal,Rtc bus stand,Hyderabad,Vijayawada
+178,TGSRTC - 13662,eGARUDA,12:20,19:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+179,TGSRTC - 1593,Rajdhani (AC Semi Sleeper 2+2),13:20,19:20,06h 00m,533.0,533.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+180,TGSRTC - 1627,Rajdhani (AC Semi Sleeper 2+2),13:20,20:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+181,TGSRTC - 42862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:30,20:20,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+182,TGSRTC - 7741,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:05,21:10,07h 05m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+183,TGSRTC - 43262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:10,21:00,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+184,TGSRTC - 41631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:10,19:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+185,TGSRTC - 41810,Rajdhani (AC Semi Sleeper 2+2),14:35,21:20,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+186,TGSRTC - 7761,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:50,22:10,07h 20m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+187,TGSRTC - 1449,Rajdhani (AC Semi Sleeper 2+2),15:10,20:40,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+188,TGSRTC - 1502,Rajdhani (AC Semi Sleeper 2+2),15:15,22:00,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+189,TGSRTC - 2042,LAHARI A/C SLEEPER CUM SEATER,15:45,22:10,06h 25m,536.0,536.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+190,TGSRTC - 42031,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,21:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+191,TGSRTC - 40862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,23:00,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+192,TGSRTC - 1423,Rajdhani (AC Semi Sleeper 2+2),16:30,23:10,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+193,TGSRTC - 40662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:40,23:20,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+194,TGSRTC - 41831,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,22:10,05h 20m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+195,TGSRTC - 8002,Lahari Non A/C Sleeper Cum Seater,17:00,01:00,08h 00m,442.0,442.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+196,TGSRTC - 1585,Rajdhani (AC Semi Sleeper 2+2),17:00,22:30,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+197,TGSRTC - 43062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:25,00:01,06h 36m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+198,TGSRTC - 1631,Rajdhani (AC Semi Sleeper 2+2),17:40,00:10,06h 30m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+199,TGSRTC - 42062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:40,00:30,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+200,TGSRTC - 9698,Lahari A/C sleeper,17:45,00:40,06h 55m,729.0,729.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+201,TGSRTC - 42262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,00:50,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+202,TGSRTC - 41431,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:10,23:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+203,TGSRTC - 31062,Rajdhani (AC Semi Sleeper 2+2),18:15,01:00,06h 45m,573.0,573.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+204,TGSRTC - 1417,Rajdhani (AC Semi Sleeper 2+2),18:20,23:49,05h 29m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+205,TGSRTC - 40410,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,01:10,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+206,TGSRTC - 41862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:40,01:25,06h 45m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+207,TGSRTC - 1757,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:45,02:05,07h 20m,440.0,440.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+208,TGSRTC - 7620,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:50,01:10,06h 20m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+209,TGSRTC - 9929,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:05,01:35,06h 30m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+210,TGSRTC - 1548,Rajdhani (AC Semi Sleeper 2+2),19:20,02:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+211,TGSRTC - 1469,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,02:30,07h 00m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+212,TGSRTC - 1401,Rajdhani (AC Semi Sleeper 2+2),19:30,02:20,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+213,TGSRTC - 41210,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:35,02:10,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+214,TGSRTC - 9886,Rajdhani (AC Semi Sleeper 2+2),19:47,02:40,06h 53m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+215,TGSRTC - 9884,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:35,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+216,TGSRTC - 7692,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:05,02:50,06h 45m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+217,TGSRTC - 1625,Rajdhani (AC Semi Sleeper 2+2),20:10,02:35,06h 25m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+218,TGSRTC - 1373,Rajdhani (AC Semi Sleeper 2+2),20:25,03:10,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+219,TGSRTC - 9943,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,03:00,06h 30m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+220,TGSRTC - 7771,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:40,07h 05m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+221,TGSRTC - 1579,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,03:45,07h 00m,440.0,440.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+222,TGSRTC - 4077,Rajdhani (AC Semi Sleeper 2+2),20:50,03:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+223,TGSRTC - 14670,Rajdhani (AC Semi Sleeper 2+2),21:00,06:00,09h 00m,801.0,801.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+224,TGSRTC - 9922,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,03:50,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+225,TGSRTC - 1589,Rajdhani (AC Semi Sleeper 2+2),21:30,04:20,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+226,TGSRTC - 9880,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,03:40,06h 05m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+227,TGSRTC - 7769,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:50,04:30,06h 40m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+228,TGSRTC - 30862,Rajdhani (AC Semi Sleeper 2+2),21:55,04:40,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+229,TGSRTC - 41410,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:55,04:30,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+230,TGSRTC - 17862,eGARUDA,22:10,05:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+231,TGSRTC - 40077,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:40,05:10,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+232,TGSRTC - 9882,Lahari Non A/C Sleeper Cum Seater,22:50,05:40,06h 50m,442.0,442.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+233,TGSRTC - 17062,eGARUDA,22:55,05:00,06h 05m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+234,TGSRTC - 42010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:55,05:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+235,TGSRTC - 7773,Lahari Non A/C Sleeper Cum Seater,23:10,05:30,06h 20m,442.0,442.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+236,TGSRTC - 18662,eGARUDA,23:10,06:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+237,TGSRTC - 40031,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:20,04:50,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+238,TGSRTC - 6552,Rajdhani (AC Semi Sleeper 2+2),10:45,17:20,06h 35m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+239,FRESHBUS,Electric A/C Seater (2+2),12:50,19:40,06h 50m,449.0,610.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+240,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06:00,06h 55m,699.0,1579.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+241,FRESHBUS,Electric A/C Seater (2+2),10:25,17:25,07h 00m,449.0,610.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+242,AdOrange Tours and Travels,NON A/C Seater/ Sleeper (2+1),19:40,03:55,08h 15m,510.0,710.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+243,FRESHBUS,Electric A/C Seater (2+2),16:35,23:55,07h 20m,849.0,1209.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+244,FRESHBUS,Electric A/C Seater (2+2),12:10,19:10,07h 00m,449.0,610.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+245,FRESHBUS,Electric A/C Seater (2+2),23:20,05:45,06h 25m,969.0,1279.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+246,AdSai RK Travels,Non A/C Seater / Sleeper (2+1),22:50,04:10,05h 20m,2000.0,2400.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+247,FRESHBUS,Electric A/C Seater (2+2),04:35,10:45,06h 10m,499.0,629.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+248,FRESHBUS,Electric A/C Seater (2+2),05:50,12:00,06h 10m,499.0,629.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+249,FRESHBUS,Electric A/C Seater (2+2),11:20,18:15,06h 55m,449.0,610.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+250,Sri Durga Malleswari Travels,A/C Sleeper (2+1),23:10,05:25,06h 15m,675.0,783.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+251,Sri Durga Malleswari Travels,A/C Seater / Sleeper (2+1),21:00,04:40,07h 40m,522.0,783.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+252,FRESHBUS,Electric A/C Seater (2+2),22:35,05:25,06h 50m,969.0,1279.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+253,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06:00,06h 55m,699.0,699.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada

@@ -1,0 +1,281 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),07:00,12:40,05h 40m,857.0,857.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+2,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),14:30,19:57,05h 27m,952.0,952.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+3,Nakoda Travels,Volvo A/C (2+2),07:00,12:00,05h 00m,571.0,571.0,Swargate,Kawala Naka,Pune,Kolhapur
+4,AdShreyash Travels,A/C Sleeper (2+1),21:45,04:00,06h 15m,1212.0,1313.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+5,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),16:00,21:49,05h 49m,952.0,952.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+6,Shreyash Travels,A/C Sleeper (2+1),23:30,05:15,05h 45m,808.0,858.5,Padmavati Parking,Opp Bus Stand,Pune,Kolhapur
+7,Ashoka Travels,A/C Sleeper (2+1),23:50,05:25,05h 35m,1500.0,1500.0,Swargate,Shiroli Phata,Pune,Kolhapur
+8,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),12:15,17:49,05h 34m,852.0,852.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+9,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),23:35,04:20,04h 45m,476.0,476.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+10,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),07:30,13:30,06h 00m,857.0,857.0,Kothrud,Shiroli Phata,Pune,Kolhapur
+11,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,02:25,05h 25m,1200.0,1980.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+12,Radhanagari Travels,A/C Seater / Sleeper (2+1),21:00,04:30,07h 30m,999.0,1300.0,SANE CHOWK NEAR RAINBOW HOSPITAL,Shiroli Phata,Pune,Kolhapur
+13,Indumati Travels,A/C Sleeper (2+1),22:40,04:05,05h 25m,997.5,1187.5,Swargate,Bus Stand,Pune,Kolhapur
+14,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:25,02:45,05h 20m,1076.0,1938.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+15,Ashoka Travels,A/C Sleeper (2+1),01:30,06:27,04h 57m,1100.0,1200.0,Shivaji Nagar,Dabholkar Corner,Pune,Kolhapur
+16,Indumati Travels,NON A/C Seater Push Back (2+2),23:25,05:30,06h 05m,450.0,450.0,Padmavati Parking,Bus Stand,Pune,Kolhapur
+17,Ajara Travels (Swami),A/C Seater / Sleeper (2+1),23:20,04:40,05h 20m,1110.0,1805.0,Tale Gaon,Bus Stand,Pune,Kolhapur
+18,Mahalaxmi Travels Pareek,AC Sleeper (2+1),01:55,06:29,04h 34m,1000.0,1000.0,Kharadi,Bus Stand,Pune,Kolhapur
+19,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),17:30,23:00,05h 30m,857.0,857.0,Dandekar Pool,Opp. Panchshil Hotel,Pune,Kolhapur
+20,Ajara Travels (Swami),Non AC Seater (2+2),23:50,04:00,04h 10m,1140.0,1140.0,Wakad,Bus Stand,Pune,Kolhapur
+21,Ashray Travels,A/C Sleeper (2+1),20:30,03:18,06h 48m,760.0,1100.0,Nigdi,"Tavde Hotel,Kolhapur",Pune,Kolhapur
+22,Hare Krishna Travels Vaibhav,A/C Sleeper (2+1),05:10,10:35,05h 25m,1000.0,1000.0,Swargate,Bus Stand,Pune,Kolhapur
+23,Konduskar Travels Pvt. Ltd,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),02:31,08:50,06h 19m,1150.0,1450.0,Hinje Wadi,Opp Bus Stand,Pune,Kolhapur
+24,Rajendra Travels Mahalaxmi,NON A/C Sleeper (2+1),23:30,03:30,04h 00m,900.0,1100.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+25,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),22:15,04:30,06h 15m,1190.0,2950.0,Shivaji Nagar,Bus Stand,Pune,Kolhapur
+26,Nakoda Travels,A/C Sleeper (2+1),21:45,05:00,07h 15m,952.0,952.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+27,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:15,03:30,05h 15m,1081.0,2181.0,Wakad,Kawala Naka,Pune,Kolhapur
+28,Indumati Travels,NON A/C Seater Push Back (2+2),23:15,04:45,05h 30m,450.0,450.0,Padmavati Parking,Bus Stand,Pune,Kolhapur
+29,Indumati Travels,A/C Sleeper (2+1),23:45,04:00,04h 15m,800.0,850.0,Khed Shivapur,Dabholkar Corner,Pune,Kolhapur
+30,Indumati Travels,A/C Sleeper (2+1),23:00,04:30,05h 30m,1007.0,1197.0,Swargate,Bus Stand,Pune,Kolhapur
+31,Pawan Travels Mumbai,NON A/C Seater/ Sleeper (2+1),23:55,05:00,05h 05m,1312.5,2000.0,Wakad,Dabholkar Corner,Pune,Kolhapur
+32,Shree Ravalnath Travels(Gurav Bandhu),NON A/C Seater (2+2),23:00,04:30,05h 30m,950.0,950.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+33,Indani Travels,A/C Sleeper (2+1),23:59,06:30,06h 31m,1010.0,1010.0,Chakan,Vathar - shubham travels,Pune,Kolhapur
+34,Mahalaxmi Bus (Lokre Bandhu),NON A/C Seater Push Back (2+2),23:55,04:55,05h 00m,800.0,800.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+35,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),18:30,01:15,06h 45m,799.0,1099.0,Nigdi,Bus Stand,Pune,Kolhapur
+36,Dolphin Travel House (13),A/C Sleeper (2+1),01:30,06:00,04h 30m,1310.0,1610.0,Wakad,Kolhapur CBS,Pune,Kolhapur
+37,Indumati Travels,Non A/C Seater / Sleeper (2+1),23:30,04:00,04h 30m,427.5,2042.5,Padmavati Parking,Dabholkar Corner,Pune,Kolhapur
+38,VKV Travels,A/C Sleeper (2+1),10:15,14:55,04h 40m,1290.0,2190.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+39,Labbaik Tours And Travels,A/C Sleeper (2+1),00:50,05:50,05h 00m,1000.0,1000.0,Bhosari,Kolhapura Bypass,Pune,Kolhapur
+40,Rajendra Tours And Travels,Non AC Seater (2+2),23:30,05:00,05h 30m,400.0,400.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+41,Konduskar Travels Pvt. Ltd,Volvo Multi-Axle A/C Sleeper (2+1),02:45,08:45,06h 00m,1050.0,1530.0,Hinje Wadi,Opp Bus Stand,Pune,Kolhapur
+42,Shree Swami Samarth Travels,Non A/C Seater / Sleeper (2+1),23:00,04:50,05h 50m,999.0,1200.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+43,VRL Travels,NON A/C Sleeper (2+1),22:00,02:00,04h 00m,1200.0,1500.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+44,N.T M.B LINK,Non AC Seater (2+2),03:05,08:20,05h 15m,1212.0,1212.0,Wakad,Bus Stand,Pune,Kolhapur
+45,Mahalaxmi Bus (Lokre Bandhu),NON A/C Seater Push Back (2+2),23:00,04:00,05h 00m,800.0,800.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+46,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),23:45,04:30,04h 45m,800.0,1000.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+47,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),21:00,05:00,08h 00m,800.0,1000.0,Bhosari,Kawala Naka,Pune,Kolhapur
+48,Mahalaxmi Bus (Lokre Bandhu),NON A/C Seater Push Back (2+2),23:30,05:15,05h 45m,800.0,800.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+49,Pawan Tours and Travels,A/C Sleeper (2+1),23:30,05:00,05h 30m,1999.0,1999.0,Laxminarayan Theater,Bus Stand,Pune,Kolhapur
+50,Laxmi Queen Asta,A/C Sleeper (2+1),21:30,01:45,04h 15m,1139.0,1139.0,Swargate,Bus Stand,Pune,Kolhapur
+51,Ajara Travels (Swami),A/C Seater / Sleeper (2+1),23:45,05:00,05h 15m,950.0,1330.0,Tale Gaon,Kolhapur,Pune,Kolhapur
+52,Laxmi Empress Stellar,NON A/C Sleeper (2+1),21:00,01:45,04h 45m,1044.0,1044.0,Swargate,Bus Stand,Pune,Kolhapur
+53,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),23:50,05:15,05h 25m,800.0,1000.0,Wakad,Dabholkar Corner,Pune,Kolhapur
+54,Dolphin travel house,Mercedes Benz A/C Sleeper (2+1),01:40,07:40,06h 00m,1080.0,1558.0,Warje,Kolhapura Bypass,Pune,Kolhapur
+55,Dolphin Travel House (40),Bharat Benz A/C Sleeper (2+1),01:30,06:15,04h 45m,1171.0,1830.0,Wakad,Bus Stand,Pune,Kolhapur
+56,Dolphin Travel House (34),A/C Sleeper (2+1),02:15,07:30,05h 15m,1310.0,1610.0,Wakad,Kolhapur CBS,Pune,Kolhapur
+57,Dolphin Travel House (21),A/C Sleeper (2+1),02:15,07:15,05h 00m,1310.0,1610.0,Wakad,Kolhapur CBS,Pune,Kolhapur
+58,Dolphin travel house,A/C Sleeper (2+1),23:29,04:45,05h 16m,1105.0,2065.0,Bavdhan,Kolhapura Bypass,Pune,Kolhapur
+59,Dolphin Travel House (43),A/C Sleeper (2+1),02:30,07:30,05h 00m,1206.0,1746.0,Wakad,Dabholkar Corner,Pune,Kolhapur
+60,Dhanashree Tours & Travels,A/C Seater / Sleeper (2+1),23:45,04:45,05h 00m,1200.0,1500.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+61,Konduskar Travels Pvt. Ltd,Bharat Benz A/C Sleeper (2+1),02:20,09:00,06h 40m,1120.0,1420.0,Hinje Wadi,Opp Bus Stand,Pune,Kolhapur
+62,GR Travels (RJ),A/C Sleeper (2+1),17:00,22:30,05h 30m,900.0,999.0,Tale Gaon,Kolhapura Bypass,Pune,Kolhapur
+63,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),23:05,05:05,06h 00m,800.0,1000.0,Tale Gaon,Kolhapura Bypass,Pune,Kolhapur
+64,Laxmi Queen Prime,A/C Sleeper (2+1),20:30,01:45,05h 15m,1139.0,1139.0,Swargate,Bus Stand,Pune,Kolhapur
+65,Dhanashree Tours & Travels,Non A/C Seater / Sleeper (2+1),23:45,04:30,04h 45m,1200.0,1700.0,Wakad,Bus Stand,Pune,Kolhapur
+66,Rajendra Tours And Travels,Non A/C Seater / Sleeper (2+1),22:00,02:00,04h 00m,4000.0,4000.0,Dange Chowk,Dabholkar Corner,Pune,Kolhapur
+67,Sanjay Travels,Bharat Benz A/C Sleeper (2+1),04:35,11:35,07h 00m,350.0,350.0,Alephata,Vathar - shubham travels,Pune,Kolhapur
+68,Kesarkar Travels,Bharat Benz A/C Sleeper (2+1),23:30,04:30,05h 00m,810.0,810.0,Swargate,Bus Stand,Pune,Kolhapur
+69,shefali sks travels,NON A/C Seater (2+2),23:50,05:00,05h 10m,799.0,799.0,Swargate,Bus Stand,Pune,Kolhapur
+70,Sana Travels,AC Sleeper (2+1),23:45,05:30,05h 45m,850.0,850.0,Swargate,Kawala Naka,Pune,Kolhapur
+71,Sana Travels,AC Sleeper (2+1),23:40,05:25,05h 45m,850.0,850.0,Swargate,Kawala Naka,Pune,Kolhapur
+72,Sanadi Tourism,A/C Sleeper (2+1),23:15,04:45,05h 30m,1197.0,1387.0,Swargate,Bus Stand,Pune,Kolhapur
+73,Vaibhav Travels,A/C Sleeper (2+1),23:59,07:00,07h 01m,999.0,999.0,Bhosari,Kawala Naka,Pune,Kolhapur
+74,Indumati Travels,NON A/C Sleeper (2+1),23:30,05:05,05h 35m,950.0,950.0,Swargate,Bus Stand,Pune,Kolhapur
+75,Sana Travels,AC Sleeper (2+1),23:46,06:56,07h 10m,700.0,700.0,Swargate,Bus Stand,Pune,Kolhapur
+76,Hans Travels (I) Private Limited,A/C Sleeper (2+1),05:40,10:30,04h 50m,800.0,800.0,Nashik Phata,Vathar - shubham travels,Pune,Kolhapur
+77,Rajendra Tours And Travels,NON A/C Seater (2+2),23:30,03:30,04h 00m,400.0,400.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+78,Vaibhav Tours and Travels,Non A/C Seater / Sleeper (2+1),23:55,05:30,05h 35m,1200.0,1400.0,Wakad,Kalmba Jail,Pune,Kolhapur
+79,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),23:00,05:45,06h 45m,800.0,1000.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+80,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),22:35,04:45,06h 10m,800.0,1000.0,Express Toll Naka,Dabholkar Corner,Pune,Kolhapur
+81,VRL Travels,NON A/C Sleeper (2+1),23:00,03:00,04h 00m,850.0,1050.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+82,Hans Travels (I) Private Limited,A/C Sleeper (2+1),23:44,04:39,04h 55m,1200.0,1200.0,Railway Station,Bus Stand,Pune,Kolhapur
+83,Kesarkar Travels,A/C Seater (2+2),23:30,04:30,05h 00m,1260.0,1350.0,Swargate,Bus Stand,Pune,Kolhapur
+84,Vaibhav Travels,A/C Sleeper (2+1),23:59,06:00,06h 01m,800.0,800.0,Yerwada,Shiroli Phata,Pune,Kolhapur
+85,Sanadi Tourism,Non AC Seater (2+2),23:15,04:45,05h 30m,855.0,1054.5,Swargate,Bus Stand,Pune,Kolhapur
+86,Sana Travels Indumati,Non AC Seater (2+2),23:15,04:30,05h 15m,700.0,700.0,Padmavati Parking,Bus Stand,Pune,Kolhapur
+87,Vaishnavi Tours And Travels,Non AC Seater (2+2),22:45,05:55,07h 10m,600.0,600.0,Nigdi,Bus Stand,Pune,Kolhapur
+88,Shri Ganesh Tours and Travels Ram,AC Sleeper (2+1),03:10,08:55,05h 45m,1500.0,1600.0,Tale Gaon,Bus Stand,Pune,Kolhapur
+89,Pareek Travels,VE A/C Sleeper (2+1),01:25,06:30,05h 05m,1000.0,1000.0,Nashik Phata,Bus Stand,Pune,Kolhapur
+90,Indumati Travels,A/C Sleeper (2+1),22:30,04:00,05h 30m,959.5,1149.5,Swargate,Bus Stand,Pune,Kolhapur
+91,Vaibhav Tours and Travels,Non A/C Seater / Sleeper (2+1),22:45,03:50,05h 05m,799.0,1099.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+92,Sanadi Tourism,Non AC Seater (2+2),23:30,05:00,05h 30m,810.0,855.0,Swargate,Bus Stand,Pune,Kolhapur
+93,Pareek Travels,A/C Sleeper (2+1),01:55,08:00,06h 05m,1000.0,1000.0,Nashik Phata,Bus Stand,Pune,Kolhapur
+94,Dolphin Travel House (39),A/C Sleeper (2+1),21:45,03:15,05h 30m,1173.0,1832.0,Wakad,Bus Stand,Pune,Kolhapur
+95,Gogte Travels,NON A/C Sleeper (2+1),19:30,23:59,04h 29m,999.0,999.0,Swargate,,Pune,Kolhapur
+96,Ajara Travels (Swami),Non AC Seater (2+2),23:50,04:30,04h 40m,1235.0,1235.0,Tale Gaon,Bus Stand,Pune,Kolhapur
+97,Morya travels,Non A/C Seater / Sleeper (2+1),23:59,03:30,03h 31m,1000.0,1500.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+98,Shree Balaji Travels,NON A/C Sleeper (2+1),04:45,09:30,04h 45m,1100.0,1100.0,Tale Gaon,Kawala Naka,Pune,Kolhapur
+99,East West Travels,NON A/C Sleeper (2+1),19:00,00:30,05h 30m,1200.0,1500.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+100,Gogte Travels,NON A/C Sleeper (2+1),21:30,01:59,04h 29m,1200.0,1200.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+101,Gogte Travels,A/C Sleeper (2+1),20:15,23:14,02h 59m,1200.0,1200.0,Swargate,,Pune,Kolhapur
+102,Vaibhav Tours and Travels,A/C Seater / Sleeper (2+1),23:50,03:45,03h 55m,1200.0,1600.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+103,East West Travels,NON A/C Sleeper (2+1),19:00,23:15,04h 15m,1100.0,1300.0,Bavdhan,Kolhapura Bypass,Pune,Kolhapur
+104,Vaibhav Tours and Travels,Non A/C Seater / Sleeper (2+1),22:45,04:00,05h 15m,1200.0,1400.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+105,Gogte Travels (Manish),Non AC Seater (2+2),18:50,01:00,06h 10m,1200.0,1200.0,Padmavati Parking,Dabholkar Corner,Pune,Kolhapur
+106,PRAWAS TOURS & TRAVELS,AC Seater (2+2),02:55,10:55,08h 00m,4990.0,4990.0,Bhosari,Bus Stand,Pune,Kolhapur
+107,AAINATH TRAVELS,A/C Sleeper (2+1),19:00,02:30,07h 30m,950.0,999.0,Wakad,Bus Stand,Pune,Kolhapur
+108,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:30,21:00,04h 30m,3500.0,4000.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+109,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),02:15,07:00,04h 45m,2050.0,2050.0,Wagholi,Kawala Naka,Pune,Kolhapur
+110,MB Link Travels,A/C Sleeper (2+1),00:45,07:00,06h 15m,1500.0,1500.0,Kharadi,KOLHAPUR BUS STAND LAST STOP,Pune,Kolhapur
+111,N.T Ashoka,AC Sleeper (2+1),02:30,07:00,04h 30m,1616.0,1818.0,Wakad,Panchshil hotel,Pune,Kolhapur
+112,MB Link Travels,VE A/C Sleeper (2+1),23:59,07:15,07h 16m,2000.0,2000.0,Supa,KOLHAPUR BUS STAND LAST STOP,Pune,Kolhapur
+113,IntrCity SmartBus,AC Sleeper (2+1),20:30,02:00,05h 30m,1710.0,1881.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+114,KVT Narmada Benz,Bharat Benz A/C Sleeper (2+1),19:30,03:00,07h 30m,1800.0,1800.0,Bhosari,Kolhapur (bypass),Pune,Kolhapur
+115,VRL Travels,A/C Sleeper (2+1),17:00,22:00,05h 00m,3000.0,3200.0,Wadgaon Bridge,Kawala Naka,Pune,Kolhapur
+116,IntrCity SmartBus,Volvo Multi Axle Sleeper B11R (2+1),18:30,23:55,05h 25m,2099.0,3419.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+117,Manish Travels Private Limited,VE A/C Sleeper (2+1),08:00,14:00,06h 00m,1400.0,1400.0,Wakad,Vathar - shubham travels,Pune,Kolhapur
+118,IntrCity SmartBus,AC Sleeper (2+1),21:55,03:25,05h 30m,2000.0,2000.0,Hinje Wadi,Dabholkar Corner,Pune,Kolhapur
+119,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:00,21:45,04h 45m,3500.0,4000.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+120,Maharaja Travels,VE A/C Sleeper (2+1),02:15,07:25,05h 10m,1713.0,1713.0,Ravet Mumbai Pune Expressway End,Opposite CBS Stand,Pune,Kolhapur
+121,MB Link Travels,A/C Sleeper (2+1),23:39,05:10,05h 31m,1500.0,1600.0,Koregaon Park,Kolhapura Bypass,Pune,Kolhapur
+122,N.T M.B LINK,VE A/C Sleeper (2+1),03:30,09:00,05h 30m,1616.0,1818.0,Wakad,Bus Stand,Pune,Kolhapur
+123,IntrCity SmartBus,AC Sleeper (2+1),23:45,05:15,05h 30m,2000.0,2200.0,Bavdhan,Dabholkar Corner,Pune,Kolhapur
+124,Nakoda Travels Rahi,A/C Sleeper (2+1),02:00,07:05,05h 05m,1500.0,1500.0,Swargate,Kolhapur Bus Stand,Pune,Kolhapur
+125,IntrCity SmartBus,Volvo Multi Axle Sleeper B11R (2+1),19:40,01:00,05h 20m,2159.0,3419.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+126,MB Link Travels,A/C Sleeper (2+1),04:00,08:30,04h 30m,2010.48,2110.48,Swargate,Sahara travels mahalaxmi chambers s t bus stand,Pune,Kolhapur
+127,Konduskar Travels Pvt. Ltd,Volvo Multi-Axle A/C Sleeper (2+1),02:05,06:50,04h 45m,1450.0,1800.0,Dandekar Pool,Opp Bus Stand,Pune,Kolhapur
+128,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:00,03:10,05h 10m,1710.0,2053.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+129,Dolphin Travel House (37),Bharat Benz A/C Sleeper (2+1),19:45,00:45,05h 00m,1756.0,2196.0,Swargate,Kawala Naka,Pune,Kolhapur
+130,VRL Travels,A/C Sleeper (2+1),23:55,04:00,04h 05m,1700.0,2100.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+131,N.T Ashoka,AC Sleeper (2+1),01:30,06:50,05h 20m,1616.0,1818.0,Wakad,Bus Stand,Pune,Kolhapur
+132,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),21:30,03:00,05h 30m,1800.0,2260.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+133,IntrCity SmartBus,VE A/C Sleeper (2+1),00:50,05:40,04h 50m,1800.0,1800.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+134,FlixBus,Bharat Benz A/C Sleeper (2+1),17:15,22:55,05h 40m,1677.68,1757.14,Wakad,Kolhapur Bypass (N),Pune,Kolhapur
+135,IntrCity SmartBus,AC Sleeper (2+1),22:40,04:10,05h 30m,1900.0,2185.0,Hinje Wadi,Dabholkar Corner,Pune,Kolhapur
+136,Jakhar Travels,VE A/C Sleeper (2+1),06:45,12:00,05h 15m,4000.0,4000.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+137,Jakhar Travels,Volvo Multi Axle Sleeper B11R (2+1),19:40,01:00,05h 20m,4000.0,4000.0,Tale Gaon,Kolhapura Bypass,Pune,Kolhapur
+138,Atmaram Gobus,NON A/C Sleeper (2+1),20:30,01:15,04h 45m,2000.0,2000.0,Swargate,Bus Stand,Pune,Kolhapur
+139,Kedarnath Travels,A/C Sleeper (2+1),20:45,04:15,07h 30m,1500.0,1500.0,Nigdi,Kolhapur By Pass,Pune,Kolhapur
+140,VRL Travels,A/C Sleeper (2+1),23:30,03:30,04h 00m,1760.0,1870.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+141,VRL Travels,A/C Sleeper (2+1),22:30,01:30,03h 00m,3200.0,3400.0,Wadgaon Bridge,Gandi Nagar Cross,Pune,Kolhapur
+142,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:00,00:30,03h 30m,3500.0,3700.0,Wadgaon Bridge,Gandi Nagar Cross,Pune,Kolhapur
+143,VRL Travels,A/C Sleeper (2+1),23:55,03:30,03h 35m,1800.0,2000.0,Wadgaon Bridge,Gandi Nagar Cross,Pune,Kolhapur
+144,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:30,03:00,03h 30m,3500.0,4000.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+145,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:30,00:40,04h 10m,3500.0,4000.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+146,VRL Travels,NON A/C Sleeper (2+1),23:30,03:30,04h 00m,1400.0,1600.0,Wadgaon Bridge,Gandi Nagar Cross,Pune,Kolhapur
+147,VRL Travels,A/C Seater / Sleeper (2+1),22:30,03:00,04h 30m,1400.0,2000.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+148,VRL Travels,NON A/C Sleeper (2+1),22:30,02:30,04h 00m,1900.0,2100.0,Wadgaon Bridge,Gandi Nagar Cross,Pune,Kolhapur
+149,M R Travels,A/C Sleeper (2+1),15:00,21:00,06h 00m,2754.0,2754.0,Wakad,M R Travels pune banglore highway anup bus parking gandhinagar ccircle tavde hotel kolhapur,Pune,Kolhapur
+150,M R Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:30,02:25,06h 55m,2856.0,2856.0,Wakad,M R Travels pune banglore highway anup bus parking gandhinagar ccircle tavde hotel kolhapur,Pune,Kolhapur
+151,National Tourist,A/C Sleeper (2+1),02:40,07:50,05h 10m,1818.0,2020.0,Wakad,Bus Stand,Pune,Kolhapur
+152,N.T Kartik,AC Sleeper (2+1),03:26,08:01,04h 35m,1515.0,1818.0,Wakad,Bus Stand,Pune,Kolhapur
+153,N.T Kartik,A/C Sleeper (2+1),02:20,08:25,06h 05m,1515.0,1818.0,Wakad,Bus Stand,Pune,Kolhapur
+154,N.T M.B LINK,AC Sleeper (2+1),03:30,09:50,06h 20m,1616.0,1818.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+155,N.T Ashoka,AC Sleeper (2+1),01:40,06:00,04h 20m,1515.0,1818.0,Wakad,Bus Stand,Pune,Kolhapur
+156,N.T M.B LINK,AC Sleeper (2+1),03:00,07:45,04h 45m,1825.0,2025.0,Bavdhan,Bus Stand,Pune,Kolhapur
+157,N.T M.B LINK,VE A/C Sleeper (2+1),03:45,08:15,04h 30m,1616.0,1818.0,Wakad,Kawala Naka,Pune,Kolhapur
+158,Nakoda Travels,A/C Sleeper (2+1),00:15,05:30,05h 15m,1500.0,1500.0,Wagholi,Bus Stand,Pune,Kolhapur
+159,Jain travels regd,AC Sleeper (2+1),12:48,17:18,04h 30m,3500.0,3500.0,"Jain travels, manak moti complex, near icici bank, katrej",Dabholkar Corner,Pune,Kolhapur
+160,Ashray Amrutyog,A/C Sleeper (2+1),22:00,23:59,01h 59m,1188.0,1910.0,Swargate,,Pune,Kolhapur
+161,Traveltime Travels (St.Christopher),NON A/C Seater (2+2),20:00,01:25,05h 25m,1400.0,1400.0,Swargate,Kolhapur,Pune,Kolhapur
+162,CITIZEN TRAVELS,Bharat Benz A/C Sleeper (2+1),03:02,11:15,08h 13m,2000.0,2000.0,Alephata,Kawala Naka,Pune,Kolhapur
+163,PSR Travels Goa (Parrikar),VE A/C Sleeper (2+1),23:00,04:00,05h 00m,1799.0,1899.0,Kharadi,Dabholkar Corner,Pune,Kolhapur
+164,IntrCity SmartBus,Volvo Multi-Axle Sleeper A/C (2+1),17:00,22:10,05h 10m,2159.0,3419.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+165,Dhanlaxmi Patil Travels,Non A/C Seater / Sleeper (2+1),23:30,04:50,05h 20m,2700.0,2850.0,Swargate,Kalamba,Pune,Kolhapur
+166,Shree balaji tour and travels,A/C Seater/Sleeper (2+1),18:30,23:30,05h 00m,1999.0,2999.0,Wakad,Kagal Bridge,Pune,Kolhapur
+167,New Shree Patel Travels,A/C Sleeper (2+1),06:00,12:00,06h 00m,2000.0,2000.0,Tale Gaon,Kolhapura Bypass,Pune,Kolhapur
+168,Sundesha Travels,A/C Sleeper (2+1),20:00,23:55,03h 55m,3500.0,3500.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+169,New Shree Patel Travels,NON A/C Sleeper (2+1),07:35,13:15,05h 40m,1800.0,2000.0,Tale Gaon,Kolhapura Bypass,Pune,Kolhapur
+170,IntrCity SmartBus,A/C Sleeper (2+1),22:30,03:35,05h 05m,1800.0,2260.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+171,Kaveri Travels and Tourist,Bharat Benz A/C Sleeper (2+1),17:40,22:10,04h 30m,2000.0,2200.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+172,Canara Pinto,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),20:00,00:30,04h 30m,3505.0,3800.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+173,Canara Pinto,NON A/C Sleeper (2+1),15:15,21:29,06h 14m,2700.0,3000.0,Railway Station,Kolhapura Bypass,Pune,Kolhapur
+174,PVS Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,02:45,05h 15m,5500.0,5500.0,Tale Gaon,Kolhapura Bypass,Pune,Kolhapur
+175,Kaveri Travels and Tourist,NON A/C Sleeper (2+1),15:45,21:00,05h 15m,1799.0,1799.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+176,Manish Travels Private Limited,VE A/C Sleeper (2+1),12:00,17:30,05h 30m,2600.0,2600.0,Wakad,Vathar - shubham travels,Pune,Kolhapur
+177,Sea Bird Tourist,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),00:30,04:55,04h 25m,2700.0,3200.0,Tale Gaon,Kawala Naka,Pune,Kolhapur
+178,Sea Bird Tourist,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:00,00:55,04h 55m,2800.0,3300.0,Katraj,Kolhapura Bypass,Pune,Kolhapur
+179,Sea Bird Tourist,A/C Sleeper (2+1),22:00,02:00,04h 00m,1700.0,2000.0,Katraj,Kolhapura Bypass,Pune,Kolhapur
+180,Sea Bird Tourist,A/C Sleeper (2+1),22:00,02:00,04h 00m,2500.0,3000.0,Katraj,Kolhapura Bypass,Pune,Kolhapur
+181,Prasanna - Purple Bus,VE A/C Sleeper (2+1),22:15,03:30,05h 15m,2500.0,2600.0,Swargate,Kolhapur Near Bus Stand,Pune,Kolhapur
+1,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),07:00,12:40,05h 40m,857.0,857.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+2,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),14:30,19:57,05h 27m,952.0,952.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+3,Nakoda Travels,Volvo A/C (2+2),07:00,12:00,05h 00m,571.0,571.0,Swargate,Kawala Naka,Pune,Kolhapur
+4,AdShreyash Travels,A/C Sleeper (2+1),21:45,04:00,06h 15m,1212.0,1313.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+5,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),16:00,21:49,05h 49m,952.0,952.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+6,Shreyash Travels,A/C Sleeper (2+1),23:30,05:15,05h 45m,808.0,858.5,Padmavati Parking,Opp Bus Stand,Pune,Kolhapur
+7,Ashoka Travels,A/C Sleeper (2+1),23:50,05:25,05h 35m,1500.0,1500.0,Swargate,Shiroli Phata,Pune,Kolhapur
+8,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),12:15,17:49,05h 34m,852.0,852.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+9,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),23:35,04:20,04h 45m,476.0,476.0,Dandekar Pool,Kawala Naka,Pune,Kolhapur
+10,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),07:30,13:30,06h 00m,857.0,857.0,Kothrud,Shiroli Phata,Pune,Kolhapur
+11,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,02:25,05h 25m,1200.0,1980.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+12,Radhanagari Travels,A/C Seater / Sleeper (2+1),21:00,04:30,07h 30m,999.0,1300.0,SANE CHOWK NEAR RAINBOW HOSPITAL,Shiroli Phata,Pune,Kolhapur
+13,Indumati Travels,A/C Sleeper (2+1),22:40,04:05,05h 25m,997.5,1187.5,Swargate,Bus Stand,Pune,Kolhapur
+14,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:25,02:45,05h 20m,1076.0,1938.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+15,Ashoka Travels,A/C Sleeper (2+1),01:30,06:27,04h 57m,1100.0,1200.0,Shivaji Nagar,Dabholkar Corner,Pune,Kolhapur
+16,Indumati Travels,NON A/C Seater Push Back (2+2),23:25,05:30,06h 05m,450.0,450.0,Padmavati Parking,Bus Stand,Pune,Kolhapur
+17,Ajara Travels (Swami),A/C Seater / Sleeper (2+1),23:20,04:40,05h 20m,1110.0,1110.0,Tale Gaon,Bus Stand,Pune,Kolhapur
+18,Mahalaxmi Travels Pareek,AC Sleeper (2+1),01:55,06:29,04h 34m,1000.0,1000.0,Kharadi,Bus Stand,Pune,Kolhapur
+19,Konduskar Travels Pvt. Ltd,Volvo A/C Seater (2+2),17:30,23:00,05h 30m,857.0,857.0,Dandekar Pool,Opp. Panchshil Hotel,Pune,Kolhapur
+20,Ashray Travels,A/C Sleeper (2+1),20:30,03:18,06h 48m,760.0,1100.0,Nigdi,"Tavde Hotel,Kolhapur",Pune,Kolhapur
+21,Ajara Travels (Swami),Non AC Seater (2+2),23:50,04:00,04h 10m,950.0,950.0,Wakad,Bus Stand,Pune,Kolhapur
+22,Konduskar Travels Pvt. Ltd,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),02:31,08:50,06h 19m,1150.0,1450.0,Hinje Wadi,Opp Bus Stand,Pune,Kolhapur
+23,Hare Krishna Travels Vaibhav,A/C Sleeper (2+1),05:10,10:35,05h 25m,1000.0,1000.0,Swargate,Bus Stand,Pune,Kolhapur
+24,Rajendra Travels Mahalaxmi,NON A/C Sleeper (2+1),23:30,03:30,04h 00m,900.0,1100.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+25,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),22:15,04:30,06h 15m,1190.0,2950.0,Shivaji Nagar,Bus Stand,Pune,Kolhapur
+26,Nakoda Travels,A/C Sleeper (2+1),21:45,05:00,07h 15m,952.0,952.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+27,Indumati Travels,A/C Sleeper (2+1),23:45,04:00,04h 15m,800.0,850.0,Khed Shivapur,Dabholkar Corner,Pune,Kolhapur
+28,Indumati Travels,NON A/C Seater Push Back (2+2),23:15,04:45,05h 30m,450.0,450.0,Padmavati Parking,Bus Stand,Pune,Kolhapur
+29,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:15,03:30,05h 15m,1081.0,2181.0,Wakad,Kawala Naka,Pune,Kolhapur
+30,Indumati Travels,A/C Sleeper (2+1),23:00,04:30,05h 30m,1007.0,1197.0,Swargate,Bus Stand,Pune,Kolhapur
+31,Pawan Travels Mumbai,NON A/C Seater/ Sleeper (2+1),23:55,05:00,05h 05m,1312.5,2000.0,Wakad,Dabholkar Corner,Pune,Kolhapur
+32,Shree Ravalnath Travels(Gurav Bandhu),NON A/C Seater (2+2),23:00,04:30,05h 30m,950.0,950.0,Swargate,Kolhapura Bypass,Pune,Kolhapur
+33,Mahalaxmi Bus (Lokre Bandhu),NON A/C Seater Push Back (2+2),23:55,04:55,05h 00m,800.0,800.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+34,Indani Travels,A/C Sleeper (2+1),23:59,06:30,06h 31m,1010.0,1010.0,Chakan,Vathar - shubham travels,Pune,Kolhapur
+35,Dolphin Travel House (13),A/C Sleeper (2+1),01:30,06:00,04h 30m,1310.0,1610.0,Wakad,Kolhapur CBS,Pune,Kolhapur
+36,Indumati Travels,Non A/C Seater / Sleeper (2+1),23:30,04:00,04h 30m,427.5,2042.5,Padmavati Parking,Dabholkar Corner,Pune,Kolhapur
+37,VKV Travels,A/C Sleeper (2+1),10:15,14:55,04h 40m,1290.0,2190.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+38,Labbaik Tours And Travels,A/C Sleeper (2+1),00:50,05:50,05h 00m,1000.0,1000.0,Bhosari,Kolhapura Bypass,Pune,Kolhapur
+39,Rajendra Tours And Travels,Non AC Seater (2+2),23:30,05:00,05h 30m,400.0,400.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+40,Konduskar Travels Pvt. Ltd,Volvo Multi-Axle A/C Sleeper (2+1),02:45,08:45,06h 00m,1050.0,1530.0,Hinje Wadi,Opp Bus Stand,Pune,Kolhapur
+41,Shree Swami Samarth Travels,Non A/C Seater / Sleeper (2+1),23:00,04:50,05h 50m,999.0,1200.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+42,VRL Travels,NON A/C Sleeper (2+1),22:00,02:00,04h 00m,1200.0,1500.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+43,N.T M.B LINK,Non AC Seater (2+2),03:05,08:20,05h 15m,1212.0,1212.0,Wakad,Bus Stand,Pune,Kolhapur
+44,Ashray Amrutyog,A/C Sleeper (2+1),22:00,23:59,01h 59m,1188.0,1910.0,Swargate,,Pune,Kolhapur
+45,Mahalaxmi Bus (Lokre Bandhu),NON A/C Seater Push Back (2+2),23:00,04:00,05h 00m,800.0,800.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+46,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),23:45,04:30,04h 45m,800.0,1000.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+47,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),21:00,05:00,08h 00m,800.0,1000.0,Bhosari,Kawala Naka,Pune,Kolhapur
+48,Mahalaxmi Bus (Lokre Bandhu),NON A/C Seater Push Back (2+2),23:30,05:15,05h 45m,800.0,800.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+49,Ajara Travels (Swami),A/C Seater / Sleeper (2+1),23:45,05:00,05h 15m,950.0,1330.0,Tale Gaon,Kolhapur,Pune,Kolhapur
+50,Pawan Tours and Travels,A/C Sleeper (2+1),23:30,05:00,05h 30m,1999.0,1999.0,Laxminarayan Theater,Bus Stand,Pune,Kolhapur
+51,Laxmi Empress Stellar,NON A/C Sleeper (2+1),21:00,01:45,04h 45m,1044.0,1044.0,Swargate,Bus Stand,Pune,Kolhapur
+52,Laxmi Queen Asta,A/C Sleeper (2+1),21:30,01:45,04h 15m,1139.0,1139.0,Swargate,Bus Stand,Pune,Kolhapur
+53,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),23:50,05:15,05h 25m,800.0,1000.0,Wakad,Dabholkar Corner,Pune,Kolhapur
+54,Dolphin Travel House (21),A/C Sleeper (2+1),02:15,07:15,05h 00m,1310.0,1610.0,Wakad,Kolhapur CBS,Pune,Kolhapur
+55,Dolphin Travel House (43),A/C Sleeper (2+1),02:30,07:30,05h 00m,1206.0,1746.0,Wakad,Dabholkar Corner,Pune,Kolhapur
+56,Dolphin travel house,A/C Sleeper (2+1),23:29,04:45,05h 16m,1105.0,2065.0,Bavdhan,Kolhapura Bypass,Pune,Kolhapur
+57,Dolphin Travel House (34),A/C Sleeper (2+1),02:15,07:30,05h 15m,1310.0,1610.0,Wakad,Kolhapur CBS,Pune,Kolhapur
+58,Dolphin Travel House (40),Bharat Benz A/C Sleeper (2+1),01:30,06:15,04h 45m,1171.0,1830.0,Wakad,Bus Stand,Pune,Kolhapur
+59,Dolphin travel house,Mercedes Benz A/C Sleeper (2+1),01:40,07:40,06h 00m,1080.0,1558.0,Warje,Kolhapura Bypass,Pune,Kolhapur
+60,Sana Travels Indumati,Non AC Seater (2+2),23:15,04:30,05h 15m,700.0,700.0,Padmavati Parking,Bus Stand,Pune,Kolhapur
+61,Dhanashree Tours & Travels,A/C Seater / Sleeper (2+1),23:45,04:45,05h 00m,1200.0,1500.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+62,Konduskar Travels Pvt. Ltd,Bharat Benz A/C Sleeper (2+1),02:20,09:00,06h 40m,1120.0,1420.0,Hinje Wadi,Opp Bus Stand,Pune,Kolhapur
+63,GR Travels (RJ),A/C Sleeper (2+1),17:00,22:30,05h 30m,900.0,999.0,Tale Gaon,Kolhapura Bypass,Pune,Kolhapur
+64,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),23:05,05:05,06h 00m,800.0,1000.0,Tale Gaon,Kolhapura Bypass,Pune,Kolhapur
+65,Dhanashree Tours & Travels,Non A/C Seater / Sleeper (2+1),23:45,04:30,04h 45m,1200.0,1700.0,Wakad,Bus Stand,Pune,Kolhapur
+66,Laxmi Queen Prime,A/C Sleeper (2+1),20:30,01:45,05h 15m,1139.0,1139.0,Swargate,Bus Stand,Pune,Kolhapur
+67,Rajendra Tours And Travels,Non A/C Seater / Sleeper (2+1),22:00,02:00,04h 00m,4000.0,4000.0,Dange Chowk,Dabholkar Corner,Pune,Kolhapur
+68,Sanjay Travels,Bharat Benz A/C Sleeper (2+1),04:35,11:35,07h 00m,350.0,350.0,Alephata,Vathar - shubham travels,Pune,Kolhapur
+69,Kesarkar Travels,Bharat Benz A/C Sleeper (2+1),23:30,04:30,05h 00m,810.0,810.0,Swargate,Bus Stand,Pune,Kolhapur
+70,shefali sks travels,NON A/C Seater (2+2),23:50,05:00,05h 10m,799.0,799.0,Swargate,Bus Stand,Pune,Kolhapur
+71,Sana Travels,AC Sleeper (2+1),23:45,05:30,05h 45m,850.0,850.0,Swargate,Kawala Naka,Pune,Kolhapur
+72,Sana Travels,AC Sleeper (2+1),23:40,05:25,05h 45m,850.0,850.0,Swargate,Kawala Naka,Pune,Kolhapur
+73,Sanadi Tourism,A/C Sleeper (2+1),23:15,04:45,05h 30m,1197.0,1387.0,Swargate,Bus Stand,Pune,Kolhapur
+74,Vaibhav Travels,A/C Sleeper (2+1),23:59,07:00,07h 01m,999.0,999.0,Bhosari,Kawala Naka,Pune,Kolhapur
+75,Indumati Travels,NON A/C Sleeper (2+1),23:30,05:05,05h 35m,950.0,950.0,Swargate,Bus Stand,Pune,Kolhapur
+76,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),18:30,01:15,06h 45m,799.0,1099.0,Nigdi,Bus Stand,Pune,Kolhapur
+77,Sana Travels,AC Sleeper (2+1),23:46,06:56,07h 10m,700.0,700.0,Swargate,Bus Stand,Pune,Kolhapur
+78,Rajendra Tours And Travels,NON A/C Seater (2+2),23:30,03:30,04h 00m,400.0,400.0,Swargate,Dabholkar Corner,Pune,Kolhapur
+79,Vaibhav Tours and Travels,Non A/C Seater / Sleeper (2+1),23:55,05:30,05h 35m,1200.0,1400.0,Wakad,Kalmba Jail,Pune,Kolhapur
+80,Hans Travels (I) Private Limited,A/C Sleeper (2+1),05:40,10:30,04h 50m,800.0,800.0,Nashik Phata,Vathar - shubham travels,Pune,Kolhapur
+81,VRL Travels,NON A/C Sleeper (2+1),23:00,03:00,04h 00m,850.0,1050.0,Wadgaon Bridge,Kolhapura Bypass,Pune,Kolhapur
+82,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),23:00,05:45,06h 45m,800.0,1000.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+83,Mahalaxmi Bus (Lokre Bandhu),Non A/C Seater / Sleeper (2+1),22:35,04:45,06h 10m,800.0,1000.0,Express Toll Naka,Dabholkar Corner,Pune,Kolhapur
+84,Hans Travels (I) Private Limited,A/C Sleeper (2+1),23:44,04:39,04h 55m,1200.0,1200.0,Railway Station,Bus Stand,Pune,Kolhapur
+85,Kesarkar Travels,A/C Seater (2+2),23:30,04:30,05h 00m,1260.0,1350.0,Swargate,Bus Stand,Pune,Kolhapur
+86,Sanadi Tourism,Non AC Seater (2+2),23:15,04:45,05h 30m,855.0,1054.5,Swargate,Bus Stand,Pune,Kolhapur
+87,Vaibhav Travels,A/C Sleeper (2+1),23:59,06:00,06h 01m,800.0,800.0,Yerwada,Shiroli Phata,Pune,Kolhapur
+88,Shri Ganesh Tours and Travels Ram,AC Sleeper (2+1),03:10,08:55,05h 45m,1500.0,1600.0,Tale Gaon,Bus Stand,Pune,Kolhapur
+89,Vaishnavi Tours And Travels,Non AC Seater (2+2),22:45,05:55,07h 10m,600.0,600.0,Nigdi,Bus Stand,Pune,Kolhapur
+90,Pareek Travels,VE A/C Sleeper (2+1),01:25,06:30,05h 05m,1000.0,1000.0,Nashik Phata,Bus Stand,Pune,Kolhapur
+91,Indumati Travels,A/C Sleeper (2+1),22:30,04:00,05h 30m,959.5,1149.5,Swargate,Bus Stand,Pune,Kolhapur
+92,Vaibhav Tours and Travels,Non A/C Seater / Sleeper (2+1),22:45,03:50,05h 05m,799.0,1099.0,Tale Gaon,Dabholkar Corner,Pune,Kolhapur
+93,Gogte Travels,NON A/C Sleeper (2+1),19:30,23:59,04h 29m,999.0,999.0,Swargate,Kolhapur - Opp Royal Plaza (Arrival Timing 1:15 AM),Pune,Kolhapur
+94,Dolphin Travel House (39),A/C Sleeper (2+1),21:45,03:15,05h 30m,1173.0,1832.0,Wakad,Bus Stand,Pune,Kolhapur
+95,Ajara Travels (Swami),Non AC Seater (2+2),23:50,04:30,04h 40m,950.0,950.0,Tale Gaon,Bus Stand,Pune,Kolhapur
+96,Morya travels,Non A/C Seater / Sleeper (2+1),23:59,03:30,03h 31m,1000.0,1500.0,Wakad,Kolhapura Bypass,Pune,Kolhapur
+97,Sanadi Tourism,Non AC Seater (2+2),23:30,05:00,05h 30m,810.0,855.0,Swargate,Bus Stand,Pune,Kolhapur
+98,Pareek Travels,A/C Sleeper (2+1),01:55,08:00,06h 05m,1000.0,1000.0,Nashik Phata,Bus Stand,Pune,Kolhapur
+99,Shree Balaji Travels,NON A/C Sleeper (2+1),04:45,09:30,04h 45m,1100.0,1100.0,Tale Gaon,Kawala Naka,Pune,Kolhapur

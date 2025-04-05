@@ -1,0 +1,67 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Kadamba Transport Corporation Limited (KTCL) - 97386,Volvo AC Seater Pushback 2+2,17:05,06:00,12h 55m,1200.0,1200.0,Borivali West,Mapusa,Mumbai,Goa
+2,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:40,09:00,14h 20m,1271.0,2181.0,Sion,Mapusa,Mumbai,Goa
+3,Zingbus Plus,VE A/C Sleeper (2+1),20:00,11:55,15h 55m,1614.0,2887.0,Borivali West,Mapusa,Mumbai,Goa
+4,AdAtmaram Travels,NON A/C Sleeper (2+1),18:00,10:15,16h 15m,1500.0,1600.0,Borivali West,Mapusa,Mumbai,Goa
+5,IntrCity SmartBus,AC Sleeper (2+1),18:15,10:20,16h 05m,2000.0,2200.0,Borivali West,Mapusa,Mumbai,Goa
+6,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),17:00,08:55,15h 55m,1367.0,1367.0,Borivali West,Mapusa,Mumbai,Goa
+7,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),18:00,09:55,15h 55m,1389.5,2485.88,Borivali West,Mapusa,Mumbai,Goa
+8,AdKonkan Travels National,A/C Sleeper (2+1),18:00,10:55,16h 55m,1399.0,1599.0,Borivali West,Panjim,Mumbai,Goa
+9,IntrCity SmartBus,AC Sleeper (2+1),18:45,10:30,15h 45m,2000.0,2200.0,Borivali West,Mapusa,Mumbai,Goa
+10,IntrCity SmartBus,AC Sleeper (2+1),17:00,08:35,15h 35m,2000.0,2000.0,Borivali West,Mapusa,Mumbai,Goa
+11,IntrCity SmartBus,AC Sleeper (2+1),17:45,09:20,15h 35m,2000.0,2300.0,Borivali West,Mapusa,Mumbai,Goa
+12,Dolphin Travel House (37),Bharat Benz A/C Sleeper (2+1),13:00,06:00,17h 00m,1756.0,2196.0,Borivali West,Mapusa,Mumbai,Goa
+13,IntrCity SmartBus,VE A/C Sleeper (2+1),19:30,11:45,16h 15m,2000.0,2200.0,Borivali West,Mapusa,Mumbai,Goa
+14,Rajdhani Travels Corporation,A/C Sleeper (2+1),20:50,10:05,13h 15m,1500.0,1500.0,Sion,Mapusa,Mumbai,Goa
+15,Dolphin Travel House (38),A/C Sleeper (2+1),14:30,07:45,17h 15m,1756.0,2196.0,Borivali West,Mapusa,Mumbai,Goa
+16,Shubham Vailankanni Travels,VE A/C Sleeper (2+1),17:30,10:15,16h 45m,1600.0,1700.0,Borivali West,Mapusa,Mumbai,Goa
+17,Global Travel Agency (GTA),A/C Sleeper (2+1),17:50,10:50,17h 00m,2500.0,2500.0,Borivali West,Mapusa,Mumbai,Goa
+18,Dolphin travel house,A/C Sleeper (2+1),21:30,13:30,16h 00m,1500.0,1958.0,Borivali West,Mapusa,Mumbai,Goa
+19,Abhishek Vishal Travels,A/C Sleeper (2+1),19:30,10:00,14h 30m,1400.0,1500.0,Sion,Mapusa,Mumbai,Goa
+20,Jolly Tours and Travels,NON A/C Sleeper (2+1),19:05,07:05,12h 00m,3000.0,3000.0,Vashi,Mapusa,Mumbai,Goa
+21,Jolly Tours and Travels,Volvo A/C Seater / Sleeper (2+1),19:25,07:05,11h 40m,1200.0,1200.0,Vashi,Mapusa,Mumbai,Goa
+22,JOLLY BUS SERVICES,VE A/C Sleeper (2+1),18:00,07:05,13h 05m,2199.0,2399.0,Wadibander Kalyan ST Behind Siddhi VInayak Hotel,Mapusa,Mumbai,Goa
+23,JOLLY BUS SERVICES,A/C Sleeper (2+1),18:00,07:05,13h 05m,1799.0,1799.0,Wadibander Kalyan ST Behind Siddhi VInayak Hotel,Mapusa,Mumbai,Goa
+24,Jolly Tours and Travels,A/C Sleeper (2+1),19:25,07:05,11h 40m,1200.0,1200.0,Vashi,Mapusa,Mumbai,Goa
+25,Mascot Travels(M.Dev),A/C Sleeper (2+1),19:00,11:00,16h 00m,1400.0,1500.0,Borivali West,Mapusa,Mumbai,Goa
+26,Rajdhani Travels Corporation,VE A/C Sleeper (2+1),19:55,09:35,13h 40m,1500.0,1500.0,Sion,Mapusa,Mumbai,Goa
+27,Konkan Travels National,NON A/C Sleeper (2+1),19:25,09:45,14h 20m,1299.0,1449.0,Sion,Panjim,Mumbai,Goa
+28,Naik Tours And Travels,NON A/C Sleeper (2+1),14:25,06:45,16h 20m,1100.0,1100.0,Borivali West,Mapusa,Mumbai,Goa
+29,Dolphin Travel House (40),Bharat Benz A/C Sleeper (2+1),20:00,13:15,17h 15m,1500.0,1880.0,Borivali West,Mapusa,Mumbai,Goa
+30,Shubham Vailankanni Travels,VE A/C Sleeper (2+1),21:00,12:35,15h 35m,1700.0,1800.0,Borivali West,Mapusa,Mumbai,Goa
+31,Dolphin travel house,Bharat Benz A/C Sleeper (2+1),20:18,11:30,15h 12m,1500.0,1958.0,Sion,Mapusa,Mumbai,Goa
+32,VRL Travels,A/C Sleeper (2+1),19:00,09:30,14h 30m,1700.0,2100.0,Sion,Mapusa,Mumbai,Goa
+33,Konkan Travels Mujawar,NON A/C Sleeper (2+1),18:50,11:45,16h 55m,1299.0,1499.0,Borivali West,Panjim,Mumbai,Goa
+34,Abhishek Vishal Travels,A/C Sleeper (2+1),16:00,08:40,16h 40m,1400.0,1500.0,Borivali West,Mapusa,Mumbai,Goa
+35,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:40,09:00,14h 20m,8000.0,8000.0,Sion,Mapusa,Mumbai,Goa
+36,Shubhra Sharma Tourist Services,A/C Sleeper (2+1),16:46,10:15,17h 29m,1500.0,1700.0,Borivali West,Mapusa,Mumbai,Goa
+37,Vaibhav travels,A/C Sleeper (2+1),18:00,12:00,18h 00m,3000.0,3000.0,Borivali West,Mapusa,Mumbai,Goa
+38,Mascot Travels(M.Dev),A/C Sleeper (2+1),18:00,11:15,17h 15m,3000.0,3000.0,Borivali West,Mapusa,Mumbai,Goa
+39,Naik Travels (Syndicate),NON A/C Sleeper (2+1),18:25,07:35,13h 10m,1100.0,1100.0,Sion,Mapusa,Mumbai,Goa
+40,Atmaram Manish Travels,NON A/C Seater (2+2),15:00,07:15,16h 15m,900.0,1000.0,Borivali West,Mapusa,Mumbai,Goa
+41,NAIK TRAVELS (HIMANI),NON A/C Sleeper (2+1),15:55,07:30,15h 35m,1100.0,1100.0,Borivali West,Mapusa,Mumbai,Goa
+42,Dolphin Travel House (39),A/C Sleeper (2+1),15:45,09:00,17h 15m,1467.0,1833.0,Borivali West,Mapusa,Mumbai,Goa
+43,Naik Tours And Travels,VE A/C Sleeper (2+1),18:50,07:00,12h 10m,1300.0,1300.0,Sion,Mapusa,Mumbai,Goa
+44,Abhishek Vishal Travels,NON A/C Push Back (2+2),14:50,07:10,16h 20m,1000.0,1000.0,Borivali West,Mapusa,Mumbai,Goa
+45,NAIK TRAVELS (HIMANI),A/C Sleeper (2+1),18:55,10:00,15h 05m,1300.0,1300.0,Borivali West,Mapusa,Mumbai,Goa
+46,Shivrameshwar Bane Tours & Travels,A/C Sleeper (2+1),15:30,08:30,17h 00m,2400.0,2400.0,Borivali West,Mapusa,Mumbai,Goa
+47,Atmaram Manish Travels,A/C Sleeper (2+1),17:00,09:15,16h 15m,1500.0,1600.0,Borivali West,Mapusa,Mumbai,Goa
+48,Sanvi Travels - Shree,A/C Sleeper (2+1),16:40,09:10,16h 30m,1600.0,1700.0,Borivali West,Mapusa,Mumbai,Goa
+49,Shubham Vailankanni Travels,VE A/C Sleeper (2+1),20:15,11:30,15h 15m,1600.0,1700.0,Borivali West,Mapusa,Mumbai,Goa
+50,Atmaram Manish Travels,A/C Sleeper (2+1),16:50,09:15,16h 25m,1500.0,1600.0,Borivali West,Mapusa,Mumbai,Goa
+51,Roshan Travels,A/C Sleeper (2+1),16:45,09:30,16h 45m,1999.0,1999.0,Borivali West,Mapusa,Mumbai,Goa
+52,Shubhra Sharma Tourist Service,A/C Sleeper (2+1),16:50,10:20,17h 30m,5000.0,5000.0,Borivali West,Mapusa,Mumbai,Goa
+53,Maa tours & Travels,A/C Seater (2+2),17:20,10:00,16h 40m,1800.0,1800.0,Borivali West,Mapusa,Mumbai,Goa
+54,Gujarat Travels,VE A/C Sleeper (2+1),20:30,10:40,14h 10m,2000.0,2000.0,Sion,Mapusa,Mumbai,Goa
+55,NAIK TRAVELS (HIMANI),A/C Sleeper (2+1),16:55,08:00,15h 05m,1300.0,1300.0,Borivali West,Mapusa,Mumbai,Goa
+56,Shiv Rameshwar Bane (Sai Bhakti),A/C Sleeper (2+1),18:00,10:30,16h 30m,2400.0,2400.0,Borivali West,Mapusa,Mumbai,Goa
+57,AAINATH TRAVELS,A/C Sleeper (2+1),15:10,07:00,15h 50m,1199.0,1250.0,Sion,Mapusa,Mumbai,Goa
+58,Shivrameshwar Bane Tours & Travels,A/C Sleeper (2+1),15:30,08:50,17h 20m,2500.0,2500.0,Borivali West,Mapusa,Mumbai,Goa
+59,Sai Pooja Travels (Mumbai),VE A/C Seater / Sleeper (2+1),19:30,09:00,13h 30m,1099.0,1500.0,Sion,Mapusa,Mumbai,Goa
+60,N.T Roshan,A/C Sleeper (2+1),17:00,09:30,16h 30m,3500.0,3500.0,Borivali West,Mapusa,Mumbai,Goa
+61,Shree Chamunda Travels Agency,NON A/C Sleeper (2+1),04:00,14:20,10h 20m,2800.0,2800.0,Vasai Phata,Panjim,Mumbai,Goa
+62,Konkan Tours & Travels,NON A/C Seater (2+2),18:30,11:30,17h 00m,2500.0,2500.0,Borivali West,Panjim,Mumbai,Goa
+63,Giroba Travels (Shree),Non A/C Seater / Sleeper (2+1),16:30,08:30,16h 00m,1200.0,1700.0,Borivali West,Mapusa,Mumbai,Goa
+64,PVS Tours and Travels,A/C Sleeper (2+1),18:35,08:45,14h 10m,2000.0,3500.0,Sion,Mapusa,Mumbai,Goa
+65,GANESH PRASAD TRAVELS,NON A/C Seater (2+2),20:00,09:55,13h 55m,2500.0,2500.0,Sion,Mapusa,Mumbai,Goa
+66,GANESH PRASAD TRAVELS,A/C Seater (2+2),21:00,10:55,13h 55m,2500.0,2500.0,Sion,Mapusa,Mumbai,Goa

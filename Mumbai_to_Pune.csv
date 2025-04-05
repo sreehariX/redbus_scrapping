@@ -1,0 +1,152 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Purple Bus - Metrolink,Volvo A/C Seater (2+2),05:45,10:30,04h 45m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+2,Neeta tours and travels,Bharat Benz A/C Seater (2+2),04:30,09:15,04h 45m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+3,Neeta tours and travels,Bharat Benz A/C Seater (2+1),16:00,21:10,05h 10m,349.0,570.0,Thane,Hinje Wadi,Mumbai,Pune
+4,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:15,10:45,04h 30m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+5,Neeta tours and travels,Bharat Benz A/C Seater (2+1),04:45,09:30,04h 45m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+6,Neeta tours and travels,Bharat Benz A/C Seater (2+1),07:00,11:30,04h 30m,349.0,575.0,Borivali West,Balewadi,Mumbai,Pune
+7,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:00,10:30,04h 30m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+8,Neeta tours and travels,Bharat Benz A/C Seater (2+1),14:00,20:10,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+9,Purple Bus - Metrolink,Volvo A/C Seater (2+2),06:45,11:50,05h 05m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+10,Neeta tours and travels,Bharat Benz A/C Seater (2+2),07:30,13:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+11,Neeta tours and travels,Bharat Benz A/C Seater (2+2),09:30,15:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+12,Neeta tours and travels,Bharat Benz A/C Seater (2+1),15:00,20:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+13,Neeta tours and travels,Bharat Benz A/C Seater (2+2),06:30,11:15,04h 45m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+14,Neeta tours and travels,Bharat Benz A/C Seater (2+1),13:00,18:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+15,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:00,10:30,04h 30m,349.0,570.0,Thane,Hinje Wadi,Mumbai,Pune
+16,Purple Bus - Metrolink,Volvo A/C Seater (2+2),13:45,19:30,05h 45m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+17,Neeta tours and travels,Bharat Benz A/C Seater (2+2),05:25,09:25,04h 00m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+18,Neeta tours and travels,Bharat Benz A/C Seater (2+1),16:40,22:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+19,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),19:35,00:10,04h 35m,781.0,781.0,Sion,Swargate,Mumbai,Pune
+20,Neeta tours and travels,Bharat Benz A/C Seater (2+1),05:00,09:45,04h 45m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+21,Neeta tours and travels,Bharat Benz A/C Seater (2+1),11:00,16:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+22,Neeta tours and travels,Bharat Benz A/C Seater (2+2),20:00,02:10,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+23,Purple Bus - Metrolink,Volvo A/C Seater (2+2),08:00,13:15,05h 15m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+24,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),04:35,09:30,04h 55m,350.0,350.0,Borivali,Swargate,Mumbai,Pune
+25,Neeta tours and travels,Bharat Benz A/C Seater (2+2),11:40,17:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+26,Neeta tours and travels,Bharat Benz A/C Seater (2+1),13:30,19:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+27,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),15:00,20:15,05h 15m,500.0,3700.0,Borivali East,Hinje Wadi,Mumbai,Pune
+28,Neeta tours and travels,Bharat Benz A/C Seater (2+2),14:40,20:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+29,Pinkbus,Bharat Benz A/C Seater (2+1),07:00,10:30,03h 30m,476.0,524.0,"Opp. Kasturi Plaza Building, Shoe World Shop",Bavdhan,Mumbai,Pune
+30,Purple Bus - Metrolink,A/C Seater (2+2),10:45,16:15,05h 30m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+31,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),10:15,15:05,04h 50m,329.0,409.0,Borivali East,Hinje Wadi,Mumbai,Pune
+32,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),06:50,11:40,04h 50m,350.0,350.0,Borivali,Swargate,Mumbai,Pune
+33,Neeta tours and travels,Bharat Benz A/C Seater (2+2),08:30,14:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+34,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),07:00,11:00,04h 00m,476.0,476.0,"Dombivali -Sarvesh Hall ,Opp.SUNNY Restaurant",Dandekar Pool,Mumbai,Pune
+35,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),14:15,19:30,05h 15m,349.0,575.0,Borivali West,Baner,Mumbai,Pune
+36,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),11:15,15:50,04h 35m,369.0,409.0,Borivali East,Hinje Wadi,Mumbai,Pune
+37,Pinkbus,Bharat Benz A/C Seater (2+2),07:30,11:00,03h 30m,524.0,524.0,Panvel,"Opp. Hotel Durga, Ideal colony, Paud Rd, Kothrud",Mumbai,Pune
+38,Neeta tours and travels,Bharat Benz A/C Seater (2+2),18:30,23:55,29h 25m,349.0,575.0,Borivali West,Baner,Mumbai,Pune
+39,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),06:30,11:20,04h 50m,369.0,409.0,Borivali West,Hinje Wadi,Mumbai,Pune
+40,VRL Travels,A/C Seater / Sleeper (2+1),11:15,16:15,05h 00m,500.0,2530.0,Borivali East,Hinje Wadi,Mumbai,Pune
+41,Pinkbus,Bharat Benz A/C Seater (2+2),10:50,15:00,04h 10m,524.0,524.0,"Dombivali (E)- Neeta Travels, Nr.Brahman Sabha Hall, Opp Kelkar Sports","Opp. Hotel Durga, Ideal colony, Paud Rd, Kothrud",Mumbai,Pune
+42,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),16:40,20:40,04h 00m,476.0,548.0,"Dombivali -Tilak Chowk,Nr. KDMT Bus Stop,J.K.Tools shop",Wakad,Mumbai,Pune
+43,VRL Travels,NON A/C Sleeper (2+1),13:00,17:45,04h 45m,500.0,3370.0,CST Station,Hinje Wadi,Mumbai,Pune
+44,VRL Travels,A/C Seater / Sleeper (2+1),16:00,21:45,05h 45m,500.0,2000.0,Borivali East,Hinje Wadi,Mumbai,Pune
+45,Purple Bus - Metrolink,A/C Seater (2+2),05:15,09:45,04h 30m,470.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+46,IntrCity SmartBus,AC Seater (2+2),08:00,12:35,04h 35m,329.0,409.0,Borivali East,Hinje Wadi,Mumbai,Pune
+47,Neeta tours and travels,Bharat Benz A/C Seater (2+2),12:25,18:25,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+48,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),13:15,18:30,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+49,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),16:30,21:50,05h 20m,350.0,350.0,Borivali West,Wakad,Mumbai,Pune
+50,Neeta tours and travels,Bharat Benz A/C Seater (2+1),18:00,00:10,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+51,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),09:30,13:30,04h 00m,476.0,476.0,"Dombivali, Mumbai",Swargate,Mumbai,Pune
+52,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),07:05,11:05,04h 00m,476.0,476.0,"Dombivli - Shree Maharaja Travels,Nr.Kasturi Plaza Bldg Main Gate",Dandekar Pool,Mumbai,Pune
+53,Purple Metrolink,Bharat Benz A/C Seater (2+2),06:30,12:15,05h 45m,500.0,500.0,Borivali West,Railway Station,Mumbai,Pune
+54,VRL Travels,A/C Sleeper (2+1),18:00,23:00,05h 00m,500.0,1870.0,Ulhasnagar,Hinje Wadi,Mumbai,Pune
+55,VRL Travels,NON A/C Sleeper (2+1),16:00,21:45,05h 45m,500.0,2100.0,Borivali East,Hinje Wadi,Mumbai,Pune
+56,Neeta tours and travels,Bharat Benz A/C Seater (2+2),17:40,23:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+57,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),13:45,19:00,05h 15m,349.0,349.0,Borivali West,Wakad,Mumbai,Pune
+1,Purple Bus - Metrolink,Volvo A/C Seater (2+2),05:45,10:30,04h 45m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+2,Neeta tours and travels,Bharat Benz A/C Seater (2+2),04:30,09:15,04h 45m,349.0,349.0,Borivali West,Railway Station,Mumbai,Pune
+3,Neeta tours and travels,Bharat Benz A/C Seater (2+1),16:00,21:10,05h 10m,349.0,570.0,Thane,Hinje Wadi,Mumbai,Pune
+4,AdNeeta tours and travels,Bharat Benz A/C Seater (2+2),05:25,09:25,04h 00m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+5,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:15,10:45,04h 30m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+6,Neeta tours and travels,Bharat Benz A/C Seater (2+1),04:45,09:30,04h 45m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+7,Neeta tours and travels,Bharat Benz A/C Seater (2+1),07:00,11:30,04h 30m,349.0,575.0,Borivali West,Balewadi,Mumbai,Pune
+8,AdNeeta tours and travels,Bharat Benz A/C Seater (2+2),06:30,11:10,04h 40m,600.0,850.0,Borivali West,Wadgaon Bridge,Mumbai,Pune
+9,Neeta tours and travels,Bharat Benz A/C Seater (2+1),14:00,20:10,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+10,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:00,10:30,04h 30m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+11,Purple Bus - Metrolink,Volvo A/C Seater (2+2),06:45,11:50,05h 05m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+12,Neeta tours and travels,Bharat Benz A/C Seater (2+2),07:30,13:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+13,Neeta tours and travels,Bharat Benz A/C Seater (2+2),09:30,15:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+14,Neeta tours and travels,Bharat Benz A/C Seater (2+1),15:00,20:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+15,Neeta tours and travels,Bharat Benz A/C Seater (2+2),06:30,11:15,04h 45m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+16,Neeta tours and travels,Bharat Benz A/C Seater (2+1),13:00,18:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+17,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:00,10:30,04h 30m,349.0,570.0,Thane,Hinje Wadi,Mumbai,Pune
+18,Purple Bus - Metrolink,Volvo A/C Seater (2+2),13:45,19:30,05h 45m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+19,Neeta tours and travels,Bharat Benz A/C Seater (2+1),16:40,22:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+20,Neeta tours and travels,Bharat Benz A/C Seater (2+1),05:00,09:45,04h 45m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+21,Neeta tours and travels,Bharat Benz A/C Seater (2+1),11:00,16:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+22,Neeta tours and travels,Bharat Benz A/C Seater (2+2),20:00,02:10,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+23,Purple Bus - Metrolink,Volvo A/C Seater (2+2),08:00,13:15,05h 15m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+24,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),04:35,09:30,04h 55m,350.0,350.0,Borivali,Swargate,Mumbai,Pune
+25,Neeta tours and travels,Bharat Benz A/C Seater (2+2),11:40,17:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+26,Neeta tours and travels,Bharat Benz A/C Seater (2+1),13:30,19:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+27,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),15:00,20:15,05h 15m,500.0,3700.0,Borivali East,Hinje Wadi,Mumbai,Pune
+28,Neeta tours and travels,Bharat Benz A/C Seater (2+2),14:40,20:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+29,Pinkbus,Bharat Benz A/C Seater (2+1),07:00,10:30,03h 30m,476.0,524.0,"Opp. Kasturi Plaza Building, Shoe World Shop",Bavdhan,Mumbai,Pune
+30,Purple Bus - Metrolink,A/C Seater (2+2),10:45,16:15,05h 30m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+31,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),10:15,15:05,04h 50m,329.0,409.0,Borivali East,Hinje Wadi,Mumbai,Pune
+32,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),06:50,11:40,04h 50m,350.0,350.0,Borivali,Swargate,Mumbai,Pune
+33,Neeta tours and travels,Bharat Benz A/C Seater (2+2),08:30,14:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+34,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),14:15,19:30,05h 15m,349.0,349.0,Borivali West,Baner,Mumbai,Pune
+35,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),07:00,11:00,04h 00m,476.0,476.0,"Dombivali -Sarvesh Hall ,Opp.SUNNY Restaurant",Dandekar Pool,Mumbai,Pune
+36,Pinkbus,Bharat Benz A/C Seater (2+2),07:30,11:00,03h 30m,524.0,524.0,Panvel,"Opp. Hotel Durga, Ideal colony, Paud Rd, Kothrud",Mumbai,Pune
+37,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),11:15,15:50,04h 35m,369.0,409.0,Borivali East,Hinje Wadi,Mumbai,Pune
+38,Neeta tours and travels,Bharat Benz A/C Seater (2+2),18:30,23:55,29h 25m,349.0,575.0,Borivali West,Baner,Mumbai,Pune
+39,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),06:30,11:20,04h 50m,369.0,409.0,Borivali West,Hinje Wadi,Mumbai,Pune
+40,VRL Travels,A/C Seater / Sleeper (2+1),11:15,16:15,05h 00m,500.0,2530.0,Borivali East,Hinje Wadi,Mumbai,Pune
+41,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),16:40,20:40,04h 00m,476.0,548.0,"Dombivali -Tilak Chowk,Nr. KDMT Bus Stop,J.K.Tools shop",Wakad,Mumbai,Pune
+42,Pinkbus,Bharat Benz A/C Seater (2+2),10:50,15:00,04h 10m,524.0,524.0,"Dombivali (E)- Neeta Travels, Nr.Brahman Sabha Hall, Opp Kelkar Sports","Opp. Hotel Durga, Ideal colony, Paud Rd, Kothrud",Mumbai,Pune
+43,VRL Travels,NON A/C Sleeper (2+1),13:00,17:45,04h 45m,500.0,3370.0,CST Station,Hinje Wadi,Mumbai,Pune
+44,VRL Travels,A/C Seater / Sleeper (2+1),16:00,21:45,05h 45m,500.0,2000.0,Borivali East,Hinje Wadi,Mumbai,Pune
+45,Purple Bus - Metrolink,A/C Seater (2+2),05:15,09:45,04h 30m,470.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+46,Neeta tours and travels,Bharat Benz A/C Seater (2+2),12:25,18:25,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+47,IntrCity SmartBus,AC Seater (2+2),08:00,12:35,04h 35m,329.0,409.0,Borivali East,Hinje Wadi,Mumbai,Pune
+48,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),13:15,18:30,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+49,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),16:30,21:50,05h 20m,350.0,350.0,Borivali West,Wakad,Mumbai,Pune
+50,Neeta tours and travels,Bharat Benz A/C Seater (2+1),18:00,00:10,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+51,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),09:30,13:30,04h 00m,476.0,476.0,"Dombivali, Mumbai",Swargate,Mumbai,Pune
+52,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),07:05,11:05,04h 00m,476.0,476.0,"Dombivli - Shree Maharaja Travels,Nr.Kasturi Plaza Bldg Main Gate",Dandekar Pool,Mumbai,Pune
+53,Purple Metrolink,Bharat Benz A/C Seater (2+2),06:30,12:15,05h 45m,500.0,500.0,Borivali West,Railway Station,Mumbai,Pune
+54,VRL Travels,A/C Sleeper (2+1),18:00,23:00,05h 00m,500.0,1870.0,Ulhasnagar,Hinje Wadi,Mumbai,Pune
+55,VRL Travels,NON A/C Sleeper (2+1),16:00,21:45,05h 45m,500.0,2100.0,Borivali East,Hinje Wadi,Mumbai,Pune
+56,Neeta tours and travels,Bharat Benz A/C Seater (2+2),17:40,23:40,06h 00m,349.0,349.0,Borivali East,Railway Station,Mumbai,Pune
+1,Purple Bus - Metrolink,Volvo A/C Seater (2+2),05:45,10:30,04h 45m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+2,Neeta tours and travels,Bharat Benz A/C Seater (2+2),04:30,09:15,04h 45m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+3,Neeta tours and travels,Bharat Benz A/C Seater (2+1),16:00,21:10,05h 10m,349.0,570.0,Thane,Hinje Wadi,Mumbai,Pune
+4,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:15,10:45,04h 30m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+5,Neeta tours and travels,Bharat Benz A/C Seater (2+1),04:45,09:30,04h 45m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+6,Neeta tours and travels,Bharat Benz A/C Seater (2+1),07:00,11:30,04h 30m,349.0,575.0,Borivali West,Balewadi,Mumbai,Pune
+7,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:00,10:30,04h 30m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+8,Neeta tours and travels,Bharat Benz A/C Seater (2+1),14:00,20:10,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+9,Purple Bus - Metrolink,Volvo A/C Seater (2+2),06:45,11:50,05h 05m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+10,Neeta tours and travels,Bharat Benz A/C Seater (2+2),07:30,13:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+11,Neeta tours and travels,Bharat Benz A/C Seater (2+2),09:30,15:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+12,Neeta tours and travels,Bharat Benz A/C Seater (2+1),15:00,20:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+13,Neeta tours and travels,Bharat Benz A/C Seater (2+2),06:30,11:15,04h 45m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+14,Neeta tours and travels,Bharat Benz A/C Seater (2+1),13:00,18:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+15,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:00,10:30,04h 30m,349.0,570.0,Thane,Hinje Wadi,Mumbai,Pune
+16,Purple Bus - Metrolink,Volvo A/C Seater (2+2),13:45,19:30,05h 45m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+17,Neeta tours and travels,Bharat Benz A/C Seater (2+2),05:25,09:25,04h 00m,349.0,575.0,Borivali West,Hinje Wadi,Mumbai,Pune
+18,Neeta tours and travels,Bharat Benz A/C Seater (2+1),16:40,22:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+19,Neeta tours and travels,Bharat Benz A/C Seater (2+1),05:00,09:45,04h 45m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+20,Neeta tours and travels,Bharat Benz A/C Seater (2+1),11:00,16:15,05h 15m,349.0,575.0,Borivali West,Wakad,Mumbai,Pune
+21,Neeta tours and travels,Bharat Benz A/C Seater (2+2),20:00,02:10,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+22,Purple Bus - Metrolink,Volvo A/C Seater (2+2),08:00,13:15,05h 15m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+23,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),04:35,09:30,04h 55m,350.0,350.0,Borivali,Swargate,Mumbai,Pune
+24,Neeta tours and travels,Bharat Benz A/C Seater (2+2),11:40,17:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+25,Neeta tours and travels,Bharat Benz A/C Seater (2+1),13:30,19:40,06h 10m,349.0,349.0,Borivali West,Railway Station,Mumbai,Pune
+26,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),15:00,20:15,05h 15m,500.0,3700.0,Borivali East,Hinje Wadi,Mumbai,Pune
+27,Pinkbus,Bharat Benz A/C Seater (2+1),07:00,10:30,03h 30m,476.0,524.0,"Opp. Kasturi Plaza Building, Shoe World Shop",Bavdhan,Mumbai,Pune
+28,Neeta tours and travels,Bharat Benz A/C Seater (2+2),14:40,20:40,06h 00m,349.0,575.0,Borivali East,Railway Station,Mumbai,Pune
+29,Purple Bus - Metrolink,A/C Seater (2+2),10:45,16:15,05h 30m,570.0,570.0,Borivali West,Kothrud,Mumbai,Pune
+30,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),10:15,15:05,04h 50m,329.0,409.0,Borivali East,Hinje Wadi,Mumbai,Pune
+31,SHREE GANESH TOURS AND TRAVELS,A/C Seater (2+2),06:50,11:40,04h 50m,350.0,350.0,Borivali,Swargate,Mumbai,Pune
+32,Neeta tours and travels,Bharat Benz A/C Seater (2+2),08:30,14:40,06h 10m,349.0,575.0,Borivali West,Railway Station,Mumbai,Pune
+33,Shree Maharaja Tours and Travels,Bharat Benz A/C Seater (2+1),07:00,11:00,04h 00m,476.0,476.0,"Dombivali -Sarvesh Hall ,Opp.SUNNY Restaurant",Dandekar Pool,Mumbai,Pune
+34,Neeta Tours And Travels (Cityflo),Bharat Benz A/C Seater (2+2),14:15,19:30,05h 15m,349.0,575.0,Borivali West,Baner,Mumbai,Pune
+35,Pinkbus,Bharat Benz A/C Seater (2+2),07:30,11:00,03h 30m,524.0,524.0,Panvel,"Opp. Hotel Durga, Ideal colony, Paud Rd, Kothrud",Mumbai,Pune
+36,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),11:15,15:50,04h 35m,369.0,409.0,Borivali East,Hinje Wadi,Mumbai,Pune
+37,Neeta tours and travels,Bharat Benz A/C Seater (2+2),18:30,23:55,29h 25m,349.0,575.0,Borivali West,Baner,Mumbai,Pune
+38,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),06:30,11:20,04h 50m,369.0,409.0,Borivali West,Hinje Wadi,Mumbai,Pune

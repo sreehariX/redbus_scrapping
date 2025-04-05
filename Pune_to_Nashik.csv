@@ -1,0 +1,67 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,EZBUS (Ashok Travels Ujjain),A/C Sleeper (2+1),18:35,23:45,05h 10m,550.0,2110.0,Wakad,Dwarka Circle,Pune,Nashik
+2,Mahakali Travels,A/C Sleeper (2+1),23:50,05:30,05h 40m,700.0,700.0,Shivaji Nagar,Thakkar Bazaar,Pune,Nashik
+3,Swamini Tours And Travels,A/C Sleeper (2+1),23:50,05:00,05h 10m,800.0,900.0,Shivaji Nagar,Pimpalwadi Road,Pune,Nashik
+4,AdShivalay Travels,AC Sleeper (2+1),23:40,05:30,05h 50m,899.0,899.0,Nashik Phata,Thakkar Bazaar,Pune,Nashik
+5,Online go,AC Sleeper (2+1),23:15,05:44,06h 29m,800.0,900.0,Centurion Hotel (redbus Lounge),Samta Nagar,Pune,Nashik
+6,Shatabdi Travels,A/C Sleeper (2+1),23:30,05:00,05h 30m,639.0,810.0,Shivaji Nagar,Bytco Point,Pune,Nashik
+7,Samrat Travels (Pune) Pareek,A/C Sleeper (2+1),23:45,05:23,05h 38m,810.0,910.0,Shivaji Nagar,Upanagar,Pune,Nashik
+8,Mahakali Travels,NON A/C Seater Push Back (2+2),23:50,05:00,05h 10m,500.0,500.0,Shivaji Nagar,Bytco Point,Pune,Nashik
+9,Mahakali Travels,A/C Sleeper (2+1),07:00,12:30,05h 30m,450.0,450.0,Shivaji Nagar,Thakkar Bazaar,Pune,Nashik
+10,India Travels Mahakali,Non AC Seater (2+2),23:55,05:32,05h 37m,647.5,700.0,Shivaji Nagar,Bus stand,Pune,Nashik
+11,Raj Ratan Tours And Travels,Bharat Benz A/C Sleeper (2+1),17:15,23:00,05h 45m,899.0,999.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+12,Hans Travels (I) Private Limited,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,23:55,05h 25m,900.0,900.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+13,Samrat Travels (Pune) Pareek,A/C Sleeper (2+1),23:50,05:23,05h 33m,810.0,910.0,Shivaji Nagar,Upanagar,Pune,Nashik
+14,Hans Travels (I) Private Limited,A/C Sleeper (2+1),22:10,02:10,04h 00m,800.0,800.0,Shankar Sheth Road,Bypass (nashik),Pune,Nashik
+15,Safar Travels (Pune),NON A/C Sleeper (2+1),23:35,06:05,06h 30m,930.0,1030.0,Shivaji Nagar,Thakkar Bazaar,Pune,Nashik
+16,Prasanna - Purple Bus,VE A/C Sleeper (2+1),07:15,12:30,05h 15m,1020.0,1120.0,Swargate,SINNAR - Near Sinner Bus Stand,Pune,Nashik
+17,Avadhoot Travels,NON A/C Sleeper (2+1),19:45,03:00,07h 15m,650.0,650.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+18,Mahalaxmi Travels Pareek,AC Sleeper (2+1),01:30,07:00,05h 30m,999.0,999.0,Laxminarayan Theater,Dwarka Circle,Pune,Nashik
+19,Priya Travels,NON A/C Sleeper (2+1),06:00,10:30,04h 30m,740.0,1000.0,danga chowk,Dwarka Circle,Pune,Nashik
+20,Eeshan Logistic Pareek Pareek-Eshan,AC Sleeper (2+1),01:35,06:50,05h 15m,1000.0,1000.0,Bharati Vidyapeeth,Bytco Point,Pune,Nashik
+21,AHER TOURS AND TRAVELS,AC Sleeper (2+1),19:10,01:29,06h 19m,899.0,949.0,Wakdewadi,Dwarka Circle,Pune,Nashik
+22,AHER TOURS AND TRAVELS,NON A/C Sleeper (2+1),19:30,01:29,05h 59m,800.0,800.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+23,Vaibhav Travels,A/C Sleeper (2+1),01:40,06:50,05h 10m,800.0,800.0,Swargate,Thakkar Bazaar,Pune,Nashik
+24,Shree Arjuna Travels Vinod,A/C Sleeper (2+1),22:00,05:45,07h 45m,1045.25,1230.0,Padmavati Parking,"Dwaraka circle, nashik",Pune,Nashik
+25,Sandeep Travels,A/C Sleeper (2+1),23:00,07:30,08h 30m,900.0,900.0,Wakad,Thakkar Bazaar,Pune,Nashik
+26,Jogeshwari Enterprises,Bharat Benz A/C Sleeper (2+1),20:00,23:56,03h 56m,1500.0,2500.0,Moshi Toll Naka,Dwarka Circle,Pune,Nashik
+27,Raj Ratan Tours And Travels,Bharat Benz A/C Sleeper (2+1),18:15,23:40,05h 25m,1620.0,1910.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+28,Jogeshwari Enterprises,Bharat Benz A/C Sleeper (2+1),19:15,23:15,04h 00m,1550.0,2586.0,Moshi Toll Naka,Dwarka Circle,Pune,Nashik
+29,Verma Travels.,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:20,23:30,06h 10m,1599.0,1799.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+30,Mahalaxmi Travels Pareek,AC Sleeper (2+1),01:10,06:29,05h 19m,1300.0,1300.0,Laxminarayan Theater,Dwarka Circle,Pune,Nashik
+31,G Hyundai Travels,A/C Seater / Sleeper (2+1),13:30,18:45,05h 15m,2000.0,3000.0,Nashik Phata,Dwarka Circle,Pune,Nashik
+32,Prasanna - Purple Bus,VE A/C Sleeper (2+1),05:15,10:15,05h 00m,1520.0,1720.0,Swargate,SINNAR - Near Sinner Bus Stand,Pune,Nashik
+33,Raj Ratan Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:45,23:15,05h 30m,1863.0,3106.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+34,Raj Ratan Tours And Travels,Volvo Multi-Axle Sleeper A/C (2+1),20:15,00:54,04h 39m,1199.0,1399.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+35,Labbaik Tours And Travels,A/C Sleeper (2+1),23:59,05:45,05h 46m,1999.0,1999.0,Khed Shivapur,Thakkar Bazaar,Pune,Nashik
+36,Jogeshwari Enterprises,Bharat Benz A/C Sleeper (2+1),17:30,22:15,04h 45m,2070.0,2460.0,Nashik Phata,Dwarka Circle,Pune,Nashik
+37,Raj Ratan Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,23:55,04h 40m,2409.0,3012.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+38,Ashoka Travels,A/C Sleeper (2+1),01:20,05:30,04h 10m,2010.0,2110.0,Swargate,Bytco Point,Pune,Nashik
+39,Raj Ratan Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:45,01:24,04h 39m,2040.0,3005.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+40,Verma Travels.,Bharat Benz A/C Sleeper (2+1),14:30,20:45,06h 15m,1199.0,1699.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+41,Ashoka Travels,A/C Sleeper (2+1),02:30,05:50,03h 20m,1600.0,1600.0,Katraj,Bus stand,Pune,Nashik
+42,Jogeshwari Enterprises,Bharat Benz A/C Sleeper (2+1),18:30,01:00,06h 30m,3600.0,4000.0,Nashik Phata,Chalisgaon Fata (Malegaon),Pune,Nashik
+43,IntrCity SmartBus,A/C Sleeper (2+1),19:30,00:50,05h 20m,1950.0,2145.0,Wakad,Dwarka Circle,Pune,Nashik
+44,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),18:30,00:20,05h 50m,1950.0,2242.0,Hinje Wadi,Dwarka Circle,Pune,Nashik
+45,Ratna Prabha Travels,A/C Sleeper (2+1),19:30,23:55,04h 25m,1460.0,1770.0,Jagtap Dairy Chowk,Dwarka Circle,Pune,Nashik
+46,VKV Travels,A/C Sleeper (2+1),13:45,21:10,07h 25m,4290.0,4990.0,Wadgaon Bridge,Dwarka Circle,Pune,Nashik
+47,Jogeshwari Enterprises,A/C Sleeper (1+1),15:15,19:10,03h 55m,5000.0,5000.0,Sangamwadi,Mumbai Naka,Pune,Nashik
+48,Jogeshwari Enterprises,Bharat Benz A/C Sleeper (2+1),15:00,18:55,03h 55m,10000.0,10000.0,Sangamwadi,Mumbai Naka,Pune,Nashik
+49,Fastlane Travels,A/C Sleeper (2+1),18:15,23:55,05h 40m,1760.0,2260.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+50,Aradhana Travels (Amar Jyoti),A/C Sleeper (2+1),19:15,02:00,06h 45m,1800.0,1900.0,Wagheshwar Parking,Dwarka Circle,Pune,Nashik
+51,Sanjay Travels,Bharat Benz A/C Sleeper (2+1),22:05,03:40,05h 35m,1300.0,1300.0,Padmavati Parking,Dwarka Circle,Pune,Nashik
+52,Jain Travels (SRT),NON AC Seater / Sleeper 2+1,06:31,12:11,05h 40m,2000.0,3000.0,Hadapsar,Dwarka Circle,Pune,Nashik
+53,Shri Balaji Vaibhav,A/C Sleeper (2+1),02:00,06:02,04h 02m,1500.0,1500.0,Katraj,Thakkar Bazaar,Pune,Nashik
+54,Prasanna - Purple Bus,VE A/C Sleeper (2+1),19:45,01:15,05h 30m,1330.0,1640.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+55,Annapurna Travels,A/C Sleeper (2+1),17:30,00:15,06h 45m,1760.0,2360.0,Wagheshwar Parking,Nashik,Pune,Nashik
+56,Konduskar Travels Pvt. Ltd,Volvo A/C Sleeper (2+1),02:35,07:10,04h 35m,1800.0,1800.0,Dandekar Pool,Mumbai Naka,Pune,Nashik
+57,Raj Ratan Tours And Travels,Volvo Multi-Axle Sleeper A/C (2+1),20:15,00:54,04h 39m,1199.0,1399.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+58,Raaj Rath Travels Co.,A/C Seater / Sleeper (2+1),17:15,23:55,06h 40m,5000.0,5000.0,Wagheswar Parking,Nashik,Pune,Nashik
+59,Verma Travels.,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,00:55,06h 10m,1799.0,1999.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+60,Bharuka Travels,Bharat Benz A/C Sleeper (2+1),16:30,22:00,05h 30m,1500.0,1600.0,Sangamwadi,Dwarka Circle,Pune,Nashik
+61,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),05:30,11:15,05h 45m,900.0,3800.0,Wagheshwar Parking,Bytco Point,Pune,Nashik
+62,M R Travels,NON AC Seater / Sleeper 2+1,06:00,12:20,06h 20m,408.0,612.0,Padmavati Parking,Dwarka Circle,Pune,Nashik
+63,S N Travels,VE A/C Sleeper (2+1),21:00,03:30,06h 30m,1700.0,1700.0,Khed Shivapur,Nashik Rajyog Travels  (Pickup Van/Bus),Pune,Nashik
+64,PSR Travels Goa (Parrikar),VE A/C Sleeper (2+1),05:15,11:30,06h 15m,1799.0,1899.0,Kharadi,Bytco Point,Pune,Nashik
+65,Annapurna Travels,A/C Seater (2+2),07:30,13:15,05h 45m,4000.0,4000.0,Swargate,Thakkar Bazaar,Pune,Nashik
+66,Dev Darbar Travel Agency,NON A/C Sleeper (2+1),11:30,17:00,05h 30m,1800.0,1800.0,Parthma Arecd Katraj,Dwarka Circle,Pune,Nashik
