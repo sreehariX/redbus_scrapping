@@ -285,3 +285,39 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 284,Vignesh TAT,A/C Sleeper (2+1),19:35,04:15,08h 40m,1290.0,1290.0,Koyambedu,Madurai Bypass,Chennai,Madurai
 285,AVK Travels,Non A/C Seater / Sleeper (2+1),18:00,02:30,08h 30m,1200.0,1200.0,Koyambedu,Mattuthavani,Chennai,Madurai
 286,AVK Travels,Non A/C Seater / Sleeper (2+1),20:45,05:55,09h 10m,1200.0,1200.0,Koyambedu,Madurai Bypass,Chennai,Madurai
+287,LION Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:40,01:20,07h 40m,1300.0,1300.0,Koyambedu,Madurai Byepass,Chennai,Madurai
+288,LION Travels,A/C Seater / Sleeper (2+1),19:20,03:00,07h 40m,2400.0,2400.0,Koyambedu,Madurai Byepass,Chennai,Madurai
+289,LION Travels,Non A/C Seater / Sleeper (2+1),21:40,05:00,07h 20m,900.0,900.0,Koyambedu,Madurai Byepass,Chennai,Madurai
+290,Octobus Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),21:42,07:00,09h 18m,3999.0,3999.0,Koyambedu,Mattuthavani,Chennai,Madurai
+291,Octobus Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),20:45,05:45,09h 00m,3999.0,3999.0,Koyambedu,Mattuthavani,Chennai,Madurai
+292,Krish Travels,A/C Seater / Sleeper (2+1),11:15,19:20,08h 05m,450.0,450.0,Koyambedu,Mattuthavani,Chennai,Madurai
+293,SMG TRAVELS,A/C Sleeper (2+1),20:35,04:00,07h 25m,2999.0,2999.0,Koyambedu,Mattuthavani,Chennai,Madurai
+294,AKS Travels,A/C Sleeper (2+1),21:50,05:40,07h 50m,2499.0,2499.0,Perungalathur,Mattuthavani,Chennai,Madurai
+295,SRI SHRAVAN TRAVELS,Non A/C Seater / Sleeper (2+1),19:40,04:40,09h 00m,1149.0,1149.0,Koyambedu,Mattuthavani,Chennai,Madurai
+296,Sri Selvam Travels (PSP),Non A/C Seater / Sleeper (2+1),18:05,02:10,08h 05m,900.0,900.0,Koyambedu,Pandi Kovil Ring Road,Chennai,Madurai
+297,Sree Jothi Travels (SJT),NON AC Seater / Sleeper 2+1,19:15,03:00,07h 45m,870.0,870.0,Koyambedu,Pandi Kovil Bypass,Chennai,Madurai
+298,STAR TRAVELS,A/C Sleeper (2+1),21:25,08:00,10h 35m,2500.0,2500.0,Koyambedu,Mattuthavani,Chennai,Madurai
+299,AATHIYAPPANTRAVELS,A/C Seater / Sleeper (2+1),18:20,01:55,07h 35m,1249.0,1249.0,Koyambedu,Madurai Bypass,Chennai,Madurai
+300,VEE VEE BUS,A/C Seater / Sleeper (2+1),17:00,01:45,08h 45m,1349.0,1349.0,Koyambedu,Sivagangai Junction,Chennai,Madurai
+301,Apple Bus,Non A/C Seater / Sleeper (2+1),21:30,05:35,08h 05m,2999.0,2999.0,Koyambedu,Mattuthavani,Chennai,Madurai
+302,Apple Bus,Non A/C Seater / Sleeper (2+1),21:40,05:00,07h 20m,3000.0,3000.0,Koyambedu,Mattuthavani,Chennai,Madurai
+303,RKT Tours and Travels,A/C Sleeper (2+1),23:55,07:45,07h 50m,3999.0,3999.0,Koyambedu,Mattuthavani,Chennai,Madurai
+304,Vetri Travels,A/C Sleeper (2+1),20:35,04:00,07h 25m,1099.0,1099.0,Koyambedu,Main Ring Road,Chennai,Madurai
+305,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),Non A/C Seater / Sleeper (2+1),19:10,03:30,08h 20m,1791.0,1791.0,Koyambedu,Mattuthavani,Chennai,Madurai
+306,SUBHETHRA TRAVELS,NON AC Seater / Sleeper 2+1,20:05,03:30,07h 25m,900.0,900.0,Koyambedu,Fathima College,Chennai,Madurai
+307,MRM Travels,A/C Seater / Sleeper (2+1),19:30,03:55,08h 25m,950.0,950.0,Koyambedu,Mattuthavani,Chennai,Madurai
+308,MRM Travels,A/C Seater / Sleeper (2+1),18:35,03:00,08h 25m,1758.0,1758.0,Koyambedu,Mattuthavani,Chennai,Madurai
+309,MRM Travels,A/C Seater / Sleeper (2+1),21:30,05:55,08h 25m,950.0,950.0,Koyambedu,Mattuthavani,Chennai,Madurai
+310,MRM Travels,A/C Seater / Sleeper (2+1),20:35,05:00,08h 25m,903.0,903.0,Koyambedu,Mattuthavani,Chennai,Madurai
+311,MRM Travels,A/C Seater / Sleeper (2+1),11:05,20:25,09h 20m,1000.0,1000.0,Koyambedu,Mattuthavani,Chennai,Madurai
+312,Sri SMS Travels,A/C Sleeper (2+1),21:55,05:45,07h 50m,999.0,999.0,Koyambedu,Bye Pass,Chennai,Madurai
+313,Sri SMS Travels,NON A/C Seater/ Sleeper (2+1),21:25,06:45,09h 20m,749.0,749.0,Koyambedu,Bye Pass,Chennai,Madurai
+314,National Travels Madurai,A/C Sleeper (2+1),22:50,07:15,08h 25m,1999.0,1999.0,Koyambedu,Mattuthavani,Chennai,Madurai
+315,Sree Jothi Travels (SJT),NON AC Seater / Sleeper 2+1,20:25,04:40,08h 15m,870.0,870.0,Koyambedu,PANDI KOVIL,Chennai,Madurai
+316,Nataraja Travels,A/C Sleeper (2+1),10:05,18:00,07h 55m,1099.0,1099.0,Perungalathur,Mattuthavani,Chennai,Madurai
+317,Nataraja Travels,A/C Seater / Sleeper (2+1),20:10,04:39,08h 29m,1499.0,1499.0,Koyambedu,Madurai,Chennai,Madurai
+318,Nataraja Travels,NON A/C Sleeper (2+1),19:55,03:40,07h 45m,1199.0,1199.0,Koyambedu,Mattuthavani,Chennai,Madurai
+319,PALSLNT TRAVELS,NON AC Seater / Sleeper 2+1,19:25,02:35,07h 10m,1500.0,1500.0,Perungalathur,Mattuthavani,Chennai,Madurai
+320,Nataraja Travels,A/C Seater / Sleeper (2+1),19:11,04:00,08h 49m,1200.0,1200.0,Koyambedu,Madurai Bye Pass,Chennai,Madurai
+321,MARINA TRAVELS,A/C Sleeper (2+1),23:30,07:05,07h 35m,2000.0,2000.0,Koyambedu,Mattuthavani,Chennai,Madurai
+322,Naina Tranz,A/C Sleeper (2+1),20:25,04:15,07h 50m,2499.0,2499.0,Koyambedu,Madurai Bypass,Chennai,Madurai
