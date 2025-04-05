@@ -38,3 +38,11 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 37,UPSRTC - TAJ0014,Janrath AC Seater 2+2,18:01,22:15,04h 14m,457.0,457.0,Kaushambi Bus Stand(Delhi),Agra ISBT,Delhi,Agra
 38,UPSRTC - NDD0012,Ordinary Non AC Seater 2+3,20:00,23:58,03h 58m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
 50,RSRTC - 159508,Express Non AC Seater 2+3,14:00,17:50,03h 50m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
+51,RSRTC - 170941,Express Non AC Seater 2+3,15:00,19:40,04h 40m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
+52,RSRTC - 159504,Express Non AC Seater 2+3,18:30,00:20,05h 50m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
+53,RSRTC - 160836,Express Non AC Seater 2+3,19:30,05:00,09h 30m,286.0,286.0,DELHI,AGRA BUS STAND,Delhi,Agra
+54,RSRTC - 194602,Express Non AC Seater 2+3,21:00,02:00,05h 00m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
+55,NueGo,Electric A/C Seater (2+2),09:30,14:50,05h 20m,379.05,454.1,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+56,NueGo,Electric A/C Seater (2+2),06:40,11:30,04h 50m,379.05,454.1,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+57,NueGo,Electric A/C Seater (2+2),15:00,19:30,04h 30m,379.05,454.1,Sarai Kale Khan,Agra Fort,Delhi,Agra
+58,AdRaj Kalpana Travels Pvt.ltd,VE A/C Seater (2+2),13:30,17:00,03h 30m,1399.0,1499.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
