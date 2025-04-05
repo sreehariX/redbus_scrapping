@@ -105,3 +105,15 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 104,National Travels CHN,NON A/C Sleeper (2+1),20:05,04:35,08h 30m,1399.0,1599.0,Koyambedu,Mattuthavani,Chennai,Madurai
 105,FlixBus,A/C Sleeper (2+1),23:00,07:10,08h 10m,570.54,570.54,Koyambedu,Mattuthavani,Chennai,Madurai
 106,BLUE BIRDS TRAVELS,A/C Sleeper (2+1),11:10,18:30,07h 20m,1219.0,2019.0,Perungalathur,Mattuthavani,Chennai,Madurai
+107,Hari Balaji Transport,Non A/C Seater / Sleeper (2+1),20:35,05:15,08h 40m,800.0,1000.0,Koyambedu,Mattuthavani,Chennai,Madurai
+108,SBM TRAANSPORT,A/C Sleeper (2+1),18:00,02:00,08h 00m,2699.0,2899.0,Koyambedu,Mattuthavani,Chennai,Madurai
+109,National Travels CHN,Bharat Benz A/C Seater /Sleeper (2+1),20:05,04:10,08h 05m,950.0,1600.0,Koyambedu,Simakkal,Chennai,Madurai
+110,Amarnath travels,NON A/C Sleeper (2+1),18:50,04:50,10h 00m,899.0,999.0,Koyambedu,Mattuthavani,Chennai,Madurai
+111,FlixBus,A/C Sleeper (2+1),20:45,04:50,08h 05m,775.89,775.89,Koyambedu,Mattuthavani,Chennai,Madurai
+112,Zingbus Plus,A/C Sleeper (2+1),18:35,02:50,08h 15m,883.75,1915.38,Koyambedu,Madurai Bypass,Chennai,Madurai
+113,FlixBus,A/C Sleeper (2+1),11:00,19:25,08h 25m,543.75,543.75,Koyambedu,Mattuthavani,Chennai,Madurai
+114,Amarnath travels,NON A/C Sleeper (2+1),19:25,03:05,07h 40m,899.0,999.0,Perungalathur,Mattuthavani,Chennai,Madurai
+115,SBM TRAANSPORT,A/C Sleeper (2+1),21:30,05:15,07h 45m,2699.0,2899.0,Koyambedu,Mattuthavani,Chennai,Madurai
+116,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:25,04:45,09h 20m,1129.0,2659.0,Koyambedu,Mattuthavani,Chennai,Madurai
+117,RP Tours and Travels,A/C Sleeper (2+1),01:20,09:00,07h 40m,990.0,1290.0,Koyambedu,Mattuthavani,Chennai,Madurai
+118,SRI MEENAKSHI TRAVELS,A/C Seater / Sleeper (2+1),15:15,23:45,08h 30m,999.0,1299.0,Koyambedu,Mattuthavani,Chennai,Madurai

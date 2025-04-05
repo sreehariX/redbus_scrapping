@@ -66,3 +66,30 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 65,YBM Travels(BLM),A/C Sleeper (2+1),22:30,07:15,08h 45m,2340.0,2340.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
 66,FlixBus,A/C Sleeper (2+1),21:00,07:00,10h 00m,1606.25,1606.25,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
 67,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),Non A/C Seater / Sleeper (2+1),20:20,05:30,09h 10m,1560.0,2060.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
+68,JB Connect,Bharat Benz A/C Sleeper (2+1),20:30,06:35,10h 05m,1920.0,2280.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+69,No 1 Air Travels,Bharat Benz A/C Sleeper (2+1),13:45,23:00,09h 15m,1900.0,2100.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
+70,National Travels CHN,Non A/C Seater / Sleeper (2+1),20:40,06:30,09h 50m,1199.0,1599.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+71,Hindusthan Travels,A/C Sleeper (2+1),22:00,07:40,09h 40m,2400.0,2500.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+72,Krish Travels,A/C Seater / Sleeper (2+1),23:15,08:00,08h 45m,1800.0,2999.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+73,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),Non A/C Seater / Sleeper (2+1),20:50,07:10,10h 20m,1590.0,2150.0,Saravanampatti,Koyambedu,Coimbatore,Chennai
+74,SRL Bus,Bharat Benz A/C Seater /Sleeper (2+1),08:30,17:35,09h 05m,1099.0,1599.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+75,Swamy Ayyappa Travels,A/C Sleeper (2+1),20:55,06:35,09h 40m,2400.0,2500.0,Omni Bus Stand,Thuraipakkam,Coimbatore,Chennai
+76,Krish Travels,A/C Seater / Sleeper (2+1),13:00,22:00,09h 00m,1600.0,2300.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+77,SPS Luxury Travels,Bharat Benz A/C Sleeper (2+1),21:10,06:45,09h 35m,3000.0,3000.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+78,LION Travels,A/C Seater / Sleeper (2+1),20:40,06:25,09h 45m,2000.0,2500.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+79,Essaar,A/C Sleeper (2+1),22:30,07:45,09h 15m,2350.0,2500.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
+80,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,08:15,10h 15m,959.0,2319.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
+81,KRSVP TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),10:00,19:45,09h 45m,1450.0,2100.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+82,SK Balu Bus,VE A/C Sleeper (2+1),13:00,22:30,09h 30m,1100.0,1200.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
+83,SRL Travels,Bharat Benz A/C Sleeper (2+1),12:45,21:30,08h 45m,2000.0,2450.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+84,National Travels CHN,Bharat Benz A/C Sleeper (2+1),19:40,06:00,10h 20m,1600.0,1980.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+85,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),09:00,19:00,10h 00m,1950.0,2200.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
+86,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),Non A/C Seater / Sleeper (2+1),19:45,05:15,09h 30m,1500.0,2250.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
+87,SRL Travels,Bharat Benz A/C Sleeper (2+1),22:15,06:45,08h 30m,1870.0,2570.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+88,Vijay Travels,VE A/C Seater / Sleeper (2+1),18:45,04:53,10h 08m,2699.0,2699.0,Gandhipuram,Koyambedu,Coimbatore,Chennai
+89,PSS Transport,A/C Sleeper (2+1),21:30,06:50,09h 20m,2390.0,2690.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+90,ACLS Navigator,Bharat Benz A/C Sleeper (2+1),23:00,07:45,08h 45m,3150.0,3650.0,Walaiyar,Koyambedu,Coimbatore,Chennai
+91,THAMARAI BUS TRANSPORTS,Bharat Benz A/C Sleeper (2+1),21:00,06:30,09h 30m,2899.0,2899.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+92,Krish Travels,NON A/C Seater/ Sleeper (2+1),21:00,06:30,09h 30m,1600.0,2200.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+93,Krish Travels,NON AC Seater / Sleeper 2+1,23:00,08:15,09h 15m,1600.0,2200.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+94,Krish Travels,Non A/C Seater / Sleeper (2+1),22:30,07:45,09h 15m,1600.0,2200.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai

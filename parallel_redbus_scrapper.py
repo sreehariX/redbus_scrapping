@@ -441,6 +441,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                 max_consecutive_no_change = 6  # Increased from 3 to 6
                 total_scrolls = 0
                 max_scrolls = 30  # Safety limit on total scrolls
+                buses_match_target = False
 
                 # Do a complete scroll to load all buses
                 while total_scrolls < max_scrolls:
@@ -449,12 +450,16 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                     current_bus_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                     
                     # Check if we've reached the expected count from the header
-                    if total_buses_expected > 0 and current_bus_count >= total_buses_expected:
-                        print(f"[{from_city} to {to_city}] SUCCESS: All {current_bus_count}/{total_buses_expected} expected buses loaded!")
-                        # Do one final scroll to ensure everything is completely loaded
-                        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                        time.sleep(2)
-                        break
+                    if total_buses_expected > 0:
+                        if current_bus_count == total_buses_expected:
+                            buses_match_target = True
+                            print(f"[{from_city} to {to_city}] SUCCESS: Found exact match! {current_bus_count}/{total_buses_expected} buses")
+                            # Do one final scroll to ensure everything is completely loaded
+                            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                            time.sleep(2)
+                            break
+                        elif current_bus_count > total_buses_expected:
+                            print(f"[{from_city} to {to_city}] WARNING: Found more buses ({current_bus_count}) than expected ({total_buses_expected})")
 
                     # Scroll down significantly
                     driver.execute_script("window.scrollBy(0, 1500);")
@@ -471,26 +476,52 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                         consecutive_no_change += 1
                         print(f"[{from_city} to {to_city}] No changes detected ({consecutive_no_change}/{max_consecutive_no_change})")
 
-                        if consecutive_no_change >= max_consecutive_no_change:
-                            # Final full scroll to bottom to ensure everything is loaded
-                            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                            time.sleep(2)  # Increased wait time after final scroll
+                        # If we have the expected count and no changes, we can stop
+                        if total_buses_expected > 0 and new_bus_count == total_buses_expected:
+                            buses_match_target = True
+                            print(f"[{from_city} to {to_city}] SUCCESS: Found exact match! {new_bus_count}/{total_buses_expected} buses")
+                            break
                             
-                            # Force one more complete scroll to ensure everything is loaded
-                            driver.execute_script("window.scrollTo(0, 0);")  # Back to top
-                            time.sleep(1)
-                            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # To bottom again
-                            time.sleep(2)
+                        if consecutive_no_change >= max_consecutive_no_change:
+                            # Final series of scrolls to ensure everything is loaded
+                            print(f"[{from_city} to {to_city}] Max consecutive no-change reached. Performing final scroll sequence...")
+                            
+                            # Try additional scrolling techniques to load remaining buses
+                            for scroll_technique in range(3):
+                                # Full scroll to bottom
+                                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                                time.sleep(2)
+                                
+                                # Back to top and then to bottom again
+                                driver.execute_script("window.scrollTo(0, 0);")
+                                time.sleep(1)
+                                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                                time.sleep(2)
+                                
+                                # Check if more buses loaded
+                                final_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
+                                if final_count > new_bus_count:
+                                    print(f"[{from_city} to {to_city}] Final scroll technique #{scroll_technique+1} loaded more buses: {new_bus_count} -> {final_count}")
+                                    new_bus_count = final_count
+                                    
+                                    # If we've reached target, we can stop
+                                    if total_buses_expected > 0 and final_count == total_buses_expected:
+                                        buses_match_target = True
+                                        print(f"[{from_city} to {to_city}] SUCCESS: Found exact match after final scrolling! {final_count}/{total_buses_expected} buses")
+                                        break
                             
                             # One final check of actual bus count
                             final_bus_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                             if total_buses_expected > 0:
-                                if final_bus_count >= total_buses_expected:
-                                    print(f"[{from_city} to {to_city}] SUCCESS: All expected buses loaded! ({final_bus_count}/{total_buses_expected})")
+                                if final_bus_count == total_buses_expected:
+                                    buses_match_target = True
+                                    print(f"[{from_city} to {to_city}] SUCCESS: All expected buses loaded exactly! ({final_bus_count}/{total_buses_expected})")
+                                elif final_bus_count > total_buses_expected:
+                                    print(f"[{from_city} to {to_city}] WARNING: Loaded more buses ({final_bus_count}) than expected ({total_buses_expected})")
                                 else:
-                                    print(f"[{from_city} to {to_city}] WARNING: Only loaded {final_bus_count}/{total_buses_expected} buses.")
+                                    print(f"[{from_city} to {to_city}] WARNING: Only loaded {final_bus_count}/{total_buses_expected} buses after all scrolling attempts.")
                             
-                            print(f"[{from_city} to {to_city}] Confirmed: All buses loaded after extended scrolling. Ending scroll.")
+                            print(f"[{from_city} to {to_city}] Scroll process complete - loaded {final_bus_count} buses total.")
                             break
                     else:
                         # Reset counter if either height or bus count changed
@@ -505,9 +536,21 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                     print(f"[{from_city} to {to_city}] WARNING: Reached maximum scroll limit ({max_scrolls})")
                     final_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                     if total_buses_expected > 0:
-                        print(f"[{from_city} to {to_city}] Loaded {final_count}/{total_buses_expected} buses.")
+                        if final_count == total_buses_expected:
+                            buses_match_target = True
+                            print(f"[{from_city} to {to_city}] SUCCESS: Found exact match at scroll limit! {final_count}/{total_buses_expected} buses")
+                        else:
+                            print(f"[{from_city} to {to_city}] Did not reach target bus count. Loaded {final_count}/{total_buses_expected} buses.")
                     else:
                         print(f"[{from_city} to {to_city}] Loaded {final_count} buses (unknown total).")
+                
+                # Report final success/failure status
+                if total_buses_expected > 0:
+                    final_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
+                    if buses_match_target:
+                        print(f"[{from_city} to {to_city}] ✓ FINAL RESULT: Successfully found exact match of {final_count}/{total_buses_expected} buses!")
+                    else:
+                        print(f"[{from_city} to {to_city}] ✗ FINAL RESULT: Could not find exact match. Found {final_count}/{total_buses_expected} buses.")
 
                 print(f"\n[{from_city} to {to_city}] --- Processing Bus Details ---")
                 bus_elements = driver.find_elements(By.CSS_SELECTOR, bus_elements_selector)
