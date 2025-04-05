@@ -868,3 +868,1071 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 867,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),09:00,15:23,06h 23m,680.0,1000.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
 868,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),07:00,13:23,06h 23m,449.0,739.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
 869,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,04:33,05h 48m,350.0,740.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+870,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),06:00,12:23,06h 23m,450.0,750.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+871,RK Travels,Non A/C Seater / Sleeper (2+1),20:20,03:20,07h 00m,699.0,1299.0,Chandapura,Lakshmi Puram Circle,Bangalore,Tirupathi
+872,RK Travels,A/C Seater / Sleeper (2+1),21:00,03:50,06h 50m,599.0,899.0,Chandapura,KARKAMPADU,Bangalore,Tirupathi
+873,NueGo,Electric A/C Seater (2+2),18:00,00:55,06h 55m,569.05,739.1,Majestic,Korramenugunta,Bangalore,Tirupathi
+874,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),21:45,03:33,05h 48m,680.0,830.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+875,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),11:55,18:18,06h 23m,720.0,1780.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+876,CHOPPA TRAVELS,Non A/C Seater / Sleeper (2+1),20:50,03:55,07h 05m,499.0,799.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+877,NueGo,Electric A/C Seater (2+2),23:50,05:20,05h 30m,569.05,739.1,Majestic,Korramenugunta,Bangalore,Tirupathi
+878,Sri Vinayaka Travels,A/C Seater / Sleeper (2+1),23:00,03:30,04h 30m,750.0,1000.0,KOLAR,RTC Bus Stand,Bangalore,Tirupathi
+879,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),04:55,11:18,06h 23m,550.0,1190.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+880,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),12:25,18:48,06h 23m,1100.0,1575.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+881,Navayuga Travels,A/C Sleeper (2+1),16:20,21:15,04h 55m,828.0,2395.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+882,Jabbar Travels,Bharat Benz A/C Sleeper (2+1),22:45,03:30,04h 45m,895.0,1343.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+883,Sai Sindhu Travels,NON A/C Sleeper (2+1),23:15,04:30,05h 15m,890.0,1090.0,Mahadevapura,RTC Bus Stand,Bangalore,Tirupathi
+884,FlixBus,VE A/C Sleeper (2+1),22:20,05:00,06h 40m,909.82,989.29,Kengeri,RTC Bus Stand,Bangalore,Tirupathi
+885,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),19:50,02:13,06h 23m,620.0,1190.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+886,Intercity travels,A/C Sleeper (2+1),22:30,03:30,05h 00m,999.0,1299.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+887,FlixBus,VE A/C Sleeper (2+1),20:30,02:45,06h 15m,811.61,811.61,Electronic City,RTC Bus Stand,Bangalore,Tirupathi
+888,FlixBus,A/C Sleeper (2+1),19:00,02:40,07h 40m,811.61,891.07,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+889,LUCKY TRAVELS,A/C Sleeper (2+1),22:45,04:00,05h 15m,649.0,849.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+890,Kaveri Travels,A/C Seater / Sleeper (2+1),19:00,23:30,04h 30m,899.0,1959.0,Silk Board,RTC Bus Stand,Bangalore,Tirupathi
+891,LUCKY TRAVELS,NON A/C Sleeper (2+1),22:50,04:20,05h 30m,599.0,799.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+892,FlixBus,A/C Sleeper (2+1),18:30,01:20,06h 50m,811.61,811.61,Electronic City,RTC Bus Stand,Bangalore,Tirupathi
+893,Jabbar Travels,NON A/C Sleeper (2+1),22:45,04:00,05h 15m,652.0,1243.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+894,GKT TRAVELS,A/C Seater/Sleeper (2+1),21:00,04:30,07h 30m,569.05,854.05,Majestic,Srinivasam,Bangalore,Tirupathi
+895,FlixBus,A/C Sleeper (2+1),15:30,21:40,06h 10m,811.61,811.61,Electronic City,RTC Bus Stand,Bangalore,Tirupathi
+896,Sri Vengamamba Bus Transport (SVBT),A/C Seater/Sleeper (2+1),21:40,03:00,05h 20m,785.0,1300.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+897,AKHILA TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:40,03:01,04h 21m,549.0,899.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+898,Sri Vengamamba Bus Transport (SVBT),Non A/C Seater / Sleeper (2+1),22:15,03:15,05h 00m,984.0,1791.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+899,Aditya Logistics,A/C Sleeper (2+1),23:50,04:30,04h 40m,899.0,1199.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+900,SRKT Travels,A/C Seater / Sleeper (2+1),20:00,00:40,04h 40m,1000.0,1600.0,Marathahalli,Srinivasam,Bangalore,Tirupathi
+901,CHOPPA TRAVELS,NON A/C Sleeper (2+1),21:00,03:30,06h 30m,499.0,599.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+902,CHOPPA TRAVELS,A/C Sleeper (2+1),21:00,03:45,06h 45m,799.0,899.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+903,RK Travels,Non A/C Seater / Sleeper (2+1),20:30,03:30,07h 00m,499.0,599.0,Kalasipalyam,Lakshmi Puram Circle,Bangalore,Tirupathi
+904,Sea Bird Tourist,A/C Sleeper (2+1),20:30,03:15,06h 45m,1551.0,1551.0,Gandhinagar,Tirupathi Drop,Bangalore,Tirupathi
+905,Sea Bird Tourist,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:30,03:15,06h 45m,1000.0,1000.0,Gandhinagar,Tirupathi Drop,Bangalore,Tirupathi
+906,LUCKY TRAVELS,A/C Sleeper (2+1),21:55,04:00,06h 05m,799.0,1199.0,Marathahalli,Tiruchanur,Bangalore,Tirupathi
+907,Sri Vengamamba Bus Transport (SVBT),Non A/C Seater / Sleeper (2+1),21:00,02:00,05h 00m,981.0,1846.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+908,Varsha Travels,A/C Sleeper (2+1),22:30,04:15,05h 45m,1999.0,1999.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+909,GKT TRAVELS,A/C Sleeper (2+1),22:30,04:30,06h 00m,854.05,1044.05,BTM Layout,Srinivasam,Bangalore,Tirupathi
+910,AKHILA TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:30,03:00,04h 30m,499.0,849.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+911,AKHILA TRAVELS,A/C Sleeper (2+1),22:25,02:45,04h 20m,949.0,1099.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+912,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),19:00,03:00,08h 00m,1500.0,1500.0,Anand Rao Circle,RTC Bus Stand,Bangalore,Tirupathi
+913,Bharathi Travels,Non A/C Seater / Sleeper (2+1),22:00,02:30,04h 30m,790.0,1200.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+914,Dream Line Travels Pvt Ltd,A/C Sleeper (2+1),22:30,02:30,04h 00m,976.0,1576.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+915,SRKT Travels,A/C Seater / Sleeper (2+1),19:15,23:55,04h 40m,1000.0,1600.0,Marathahalli,Srinivasam,Bangalore,Tirupathi
+916,Harikrishna Travels,Non A/C Seater / Sleeper (2+1),21:00,02:15,05h 15m,617.5,950.0,Electronic City,RTC Bus Stand,Bangalore,Tirupathi
+917,Sri Venkataramana Travels,Non A/C Seater / Sleeper (2+1),20:00,02:30,06h 30m,450.0,597.6,Electronic City,Tirupati R T C Bustand,Bangalore,Tirupathi
+918,VV Vinayak Travels,Non A/C Seater / Sleeper (2+1),19:10,01:30,06h 20m,999.0,1490.0,Attibele,RTC Bus Stand,Bangalore,Tirupathi
+919,RK Travels,NON A/C Seater (2+2),21:10,03:50,06h 40m,699.0,699.0,Chandapura,Lakshmi Puram Circle,Bangalore,Tirupathi
+920,Sri Keerthana Sai Travels,A/C Seater / Sleeper (2+1),17:30,23:16,05h 46m,899.0,1599.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+921,RDS Travels,NON A/C Sleeper (2+1),22:30,04:15,05h 45m,3599.0,3599.0,Anand Rao Circle,Srinivasam,Bangalore,Tirupathi
+922,Varsha Travels,A/C Sleeper (2+1),20:00,04:00,08h 00m,1299.0,1299.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+923,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,04:40,06h 40m,1009.0,2319.0,Majestic,Leela Mahal Circle,Bangalore,Tirupathi
+924,AGR Travels,A/C Sleeper (2+1),22:00,03:30,05h 30m,2000.0,2000.0,Silk Board,Srinivasam,Bangalore,Tirupathi
+925,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),23:20,03:30,04h 10m,1102.0,1545.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+926,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:15,21:15,05h 00m,1971.0,3113.0,Marathahalli,Tiruchanur,Bangalore,Tirupathi
+927,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:30,02:50,04h 20m,1519.0,3539.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+928,Metro Lines Travels,NON A/C Seater/ Sleeper (2+1),21:00,03:00,06h 00m,2500.0,3000.0,Silk Board,Srinivasam,Bangalore,Tirupathi
+929,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:30,02:00,03h 30m,2361.0,2438.0,KR Puram,Korramenugunta,Bangalore,Tirupathi
+930,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:00,22:00,05h 00m,1899.0,3171.0,Marathahalli,Tiruchanur,Bangalore,Tirupathi
+931,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:25,00:40,04h 15m,1519.0,3539.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+932,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:55,02:05,04h 10m,1519.0,3539.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+933,ASHITHA TRAVELS,A/C Sleeper (2+1),21:40,03:45,06h 05m,2850.0,2850.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+934,Navayuga Travels,A/C Sleeper (2+1),18:10,22:40,04h 30m,1364.0,2121.0,T C Palya,RTC Bus Stand,Bangalore,Tirupathi
+935,Shree Manikanta Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:30,21:20,04h 50m,1971.0,2758.0,Tin Factory,OPP APSRTC OUT GATE,Bangalore,Tirupathi
+936,Rajeswari Travels,A/C Seater / Sleeper (2+1),21:00,04:00,07h 00m,1449.0,1749.0,Upparpet,Srinivasam,Bangalore,Tirupathi
+937,Shree Manikanta Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),15:30,20:20,04h 50m,2020.0,2828.0,Tin Factory,OPP APSRTC OUT GATE,Bangalore,Tirupathi
+938,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:25,00:40,04h 15m,5000.0,5000.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+939,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,23:25,04h 25m,1699.0,2038.0,KR Puram,Lakshmi Puram Circle,Bangalore,Tirupathi
+940,Rajesh Transports,A/C Sleeper (2+1),23:20,03:25,04h 05m,1950.0,1950.0,Hoskote,Lakshmi Puram Circle,Bangalore,Tirupathi
+941,Sohan Tours & Travels,Bharat Benz A/C Sleeper (2+1),21:30,03:20,05h 50m,1840.0,2040.0,Majestic,RTC Bus Stand,Bangalore,Tirupathi
+942,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:55,00:30,04h 35m,1519.0,3539.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+943,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:10,01:35,04h 25m,1519.0,3539.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+944,Sai Balaji Travels,A/C Seater / Sleeper (2+1),18:50,23:59,05h 09m,1899.0,3999.0,Tin Factory,Tiruchanur,Bangalore,Tirupathi
+945,Intercity travels,Bharat Benz A/C Sleeper (2+1),19:35,23:59,04h 24m,1411.0,2099.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+946,Simhapuri Travels,NON A/C Sleeper (2+1),23:00,03:00,04h 00m,3000.0,3000.0,Hoskote,RTC Bus Stand,Bangalore,Tirupathi
+947,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:00,21:40,04h 40m,1903.0,2570.0,KR Puram,Leela Mahal Circle,Bangalore,Tirupathi
+948,IRA Transports,Bharat Benz A/C Sleeper (2+1),22:30,03:00,04h 30m,1706.0,2463.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+949,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),19:00,23:30,04h 30m,1101.0,2147.0,KR Puram,Tiruchanur,Bangalore,Tirupathi
+950,Svkdt travels,A/C Sleeper (2+1),17:00,22:30,05h 30m,1480.0,1780.0,Marathahalli,Tirupati,Bangalore,Tirupathi
+951,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,04:20,05h 20m,1519.0,3539.0,HSR Layout,RTC Bus Stand,Bangalore,Tirupathi
+952,Sri Durga Malleswari Travels,A/C Sleeper (2+1),18:00,23:55,05h 55m,4050.0,4050.0,HSR Layout,Tirupati,Bangalore,Tirupathi
+953,Shyamoli Paribahan Pvt Ltd,A/C Sleeper (2+1),17:10,22:20,05h 10m,1681.0,2521.0,Marathahalli,Tiruchanur,Bangalore,Tirupathi
+954,Sri Vengamamba Bus Transport (SVBT),A/C Sleeper (2+1),20:30,01:30,05h 00m,1549.0,2090.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+955,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,23:30,04h 30m,1899.0,2469.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+956,Shyamoli Paribahan Pvt Ltd,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:30,01:45,03h 15m,2750.0,3350.0,T C Palya,Tiruchanur,Bangalore,Tirupathi
+957,Sri Krishna Travels,A/C Sleeper (2+1),19:00,23:30,04h 30m,2599.0,2999.0,Hoskote,RTC Bus Stand,Bangalore,Tirupathi
+958,GRV Yatrikha LLP,Scania AC Multi Axle Sleeper (2+1),22:30,03:00,04h 30m,1049.0,1149.0,HSR Layout,tirupathi  taj hotel,Bangalore,Tirupathi
+959,IRA Transports,A/C Sleeper (2+1),19:45,23:59,04h 14m,1345.0,1943.0,ITO Gate Duravani Nagar,RTC Bus Stand,Bangalore,Tirupathi
+960,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:45,23:59,04h 14m,1699.0,2465.0,KR Puram,Tiruchanur,Bangalore,Tirupathi
+961,Siri SmartBus,VE A/C Sleeper (2+1),22:00,04:00,06h 00m,1900.0,1900.0,Silk Board,RTC Bus Stand,Bangalore,Tirupathi
+962,Svkdt travels,Scania AC Multi Axle Sleeper (2+1),18:30,23:40,05h 10m,1590.0,1890.0,Marathahalli,Srinivasam,Bangalore,Tirupathi
+963,GreenLine Travels And Holidays,A/C Sleeper (2+1),20:00,02:30,06h 30m,1999.0,1999.0,Anand Rao Circle,Srinivasam,Bangalore,Tirupathi
+964,Kaveri Travels,VE A/C Sleeper (2+1),21:30,02:00,04h 30m,1337.0,2279.0,Silk Board,RTC Bus Stand,Bangalore,Tirupathi
+965,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),15:00,20:30,05h 30m,3299.0,3899.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+966,VKV Travels,A/C Sleeper (2+1),16:00,20:30,04h 30m,1776.5,2128.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+967,IntrCity SmartBus,A/C Sleeper (2+1),19:20,23:45,04h 25m,2259.0,3659.0,KR Puram,Leela Mahal Circle,Bangalore,Tirupathi
+968,IntrCity SmartBus,AC Sleeper (2+1),23:25,03:35,04h 10m,2139.0,3539.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+969,Shyamoli Paribahan Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),14:10,18:30,04h 20m,1603.0,3031.0,KR Puram,Tiruchanur,Bangalore,Tirupathi
+970,BSR Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:00,03:00,04h 00m,1818.0,2726.0,Hoskote,Srinivasam,Bangalore,Tirupathi
+971,Cherry Collars,Bharat Benz A/C Sleeper (2+1),17:00,22:20,05h 20m,3590.0,3890.0,Mahadevapura,RTC Bus Stand,Bangalore,Tirupathi
+972,Kamakshi Tours And Travels,A/C Sleeper (2+1),20:30,02:00,05h 30m,2250.0,3040.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+973,Rajesh Transports,A/C Sleeper (2+1),16:30,21:00,04h 30m,2875.0,3475.0,KR Puram,Korramenugunta,Bangalore,Tirupathi
+974,Jabbar Travels,VE A/C Sleeper (2+1),19:00,00:30,05h 30m,1291.0,2046.0,Silk Board,RTC Bus Stand,Bangalore,Tirupathi
+975,Kaveri Travels,A/C Sleeper (2+1),19:00,23:30,04h 30m,1590.0,2239.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+976,Siri SmartBus,VE A/C Sleeper (2+1),21:50,03:50,06h 00m,1900.0,1900.0,Silk Board,RTC Bus Stand,Bangalore,Tirupathi
+977,KMBT Travels,A/C Seater / Sleeper (2+1),21:30,03:00,05h 30m,4750.0,4750.0,HSR Layout,RTC Bus Stand,Bangalore,Tirupathi
+978,Sri Sai Anjana Tours and Travels,A/C Sleeper (2+1),19:30,01:45,06h 15m,5999.0,5999.0,Kengeri,RTC Bus Stand,Bangalore,Tirupathi
+979,Bharathi Travels,A/C Sleeper (2+1),23:55,05:00,05h 05m,1800.0,2000.0,Kengeri,RTC Bus Stand,Bangalore,Tirupathi
+980,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:00,21:00,04h 00m,2500.0,2700.0,KR Puram,Tiruchanur,Bangalore,Tirupathi
+981,CCC Bus,A/C Sleeper (2+1),19:45,23:54,04h 09m,1899.05,2110.9,T C Palya,RTC Bus Stand,Bangalore,Tirupathi
+982,VRL Travels,A/C Sleeper (2+1),21:30,01:00,03h 30m,1300.0,1500.0,KR Puram,Tirupati By Pass -Near Tabun Hotel,Bangalore,Tirupathi
+983,Sri Vengamamba Bus Transport (SVBT),A/C Sleeper (2+1),18:00,23:15,05h 15m,1495.0,2014.0,Marathahalli,Tirupati RTC Bus Stop,Bangalore,Tirupathi
+984,Sri Vengamamba Bus Transport (SVBT),A/C Sleeper (2+1),20:00,01:15,05h 15m,1879.0,2536.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+985,Sai RK Travels,A/C Sleeper (2+1),18:30,23:00,04h 30m,1099.0,1399.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+986,GreenLine Travels And Holidays,A/C Sleeper (2+1),20:30,03:00,06h 30m,4999.0,4999.0,Anand Rao Circle,Srinivasam,Bangalore,Tirupathi
+987,GreenLine Travels And Holidays,A/C Sleeper (2+1),20:45,03:00,06h 15m,4999.0,4999.0,Anand Rao Circle,Srinivasam,Bangalore,Tirupathi
+988,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:30,02:30,04h 00m,3175.0,3675.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+989,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:45,21:30,04h 45m,3175.0,3575.0,KR Puram,Korramenugunta,Bangalore,Tirupathi
+990,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),20:30,00:27,03h 57m,2075.0,2275.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+991,Rajeswari Travels,NON A/C Sleeper (2+1),21:10,04:00,06h 50m,1449.0,1849.0,Kalasipalyam,Srinivasam,Bangalore,Tirupathi
+992,Jagan Travels,A/C Sleeper (2+1),16:45,21:30,04h 45m,2229.0,3232.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+993,Sri Keerthana Sai Travels,A/C Sleeper (2+1),16:30,20:45,04h 15m,5999.0,5999.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+994,Sri Vengamamba Bus Transport (SVBT),A/C Seater/Sleeper (2+1),20:45,01:00,04h 15m,1431.0,2448.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+995,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:45,23:59,04h 14m,2085.0,2438.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+996,Jagan Travels,A/C Sleeper (2+1),19:00,23:45,04h 45m,2216.0,3101.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+997,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:40,02:50,04h 10m,1519.0,3539.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+998,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),20:30,00:29,03h 59m,3175.0,3575.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+999,Butterfly Holidays,VE A/C Sleeper (2+1),20:30,04:00,07h 30m,6999.0,6999.0,Majestic,Tirupati Package,Bangalore,Tirupathi
+1000,Sri Krishna Tour and Travels,A/C Sleeper (2+1),21:30,04:15,06h 45m,1990.0,1990.0,ITO Gate Duravani Nagar,Srinivasam,Bangalore,Tirupathi
+1001,Mayura Bus,A/C Sleeper (2+1),20:00,23:00,27h 00m,1999.0,1999.0,Anand Rao Circle,Anand Rao Circle,Bangalore,Tirupathi
+1002,Shree Manikanta Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:40,23:20,04h 40m,1275.0,2249.0,KR Puram,OPP APSRTC OUT GATE,Bangalore,Tirupathi
+1003,Metro Lines Travels,A/C Seater / Sleeper (2+1),21:10,03:10,06h 00m,1999.0,1999.0,Silk Board,Srinivasam,Bangalore,Tirupathi
+1004,Dhriti Travels,VE A/C Sleeper (2+1),22:45,08:30,57h 45m,5500.0,5500.0,Nelamangala,Kundapur,Bangalore,Tirupathi
+1005,Rajeswari Travels,A/C Sleeper (2+1),22:00,04:05,06h 05m,1049.0,1299.0,Silk Board,Srinivasam,Bangalore,Tirupathi
+1006,Rajeswari Travels,Non A/C Seater / Sleeper (2+1),22:15,03:45,05h 30m,1449.0,1749.0,Marathahalli,Srinivasam,Bangalore,Tirupathi
+1007,Yaswanth Travels,A/C Sleeper (2+1),18:00,23:30,05h 30m,2850.0,2850.0,Marathahalli,Tirupathi Bus Stand,Bangalore,Tirupathi
+1008,Rajeswari Travels,A/C Sleeper (2+1),21:15,04:05,06h 50m,1648.0,1899.0,Kalasipalyam,Srinivasam,Bangalore,Tirupathi
+1009,KMBT Travels,NON A/C Sleeper (2+1),21:00,03:00,06h 00m,1900.0,1900.0,Silk Board,RTC Bus Stand,Bangalore,Tirupathi
+1010,VRL Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),18:15,22:15,04h 00m,2300.0,2400.0,KR Puram,Tiruchanur,Bangalore,Tirupathi
+1011,Sai Sindhu Travels,A/C Seater / Sleeper (2+1),20:30,03:30,07h 00m,1990.0,2390.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+1012,GreenLine Travels And Holidays,A/C Sleeper (2+1),20:15,02:15,06h 00m,4999.0,4999.0,Anand Rao Circle,Srinivasam,Bangalore,Tirupathi
+1013,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),21:00,03:00,06h 00m,2000.0,2000.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+1014,Zingbus Plus,VE A/C Sleeper (2+1),21:40,02:30,04h 50m,2364.0,2364.0,KR Puram,Tiruchanur,Bangalore,Tirupathi
+1015,Svkdt travels,A/C Sleeper (2+1),17:30,22:31,05h 01m,1990.0,2290.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+1016,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),20:00,23:59,03h 59m,1090.0,1590.0,Marathahalli,Srinivasam,Bangalore,Tirupathi
+1017,Komitla Trans lines.,A/C Sleeper (2+1),21:00,03:00,06h 00m,1499.0,1499.0,Kalasipalyam,RTC Bus Stand,Bangalore,Tirupathi
+1018,Vibhav Holidays,A/C Sleeper (2+1),20:00,23:00,27h 00m,1904.0,1904.0,Anand Rao Circle,Race Course Road Hotel Maurya,Bangalore,Tirupathi
+1019,Chalasani Travels (Kaleswari),A/C Sleeper (2+1),19:30,00:03,04h 33m,1500.0,1800.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+1020,GMC Travels,A/C Seater / Sleeper (2+1),17:00,21:20,04h 20m,1990.0,3990.0,KR Puram,Korramenugunta,Bangalore,Tirupathi
+1021,Sai Sri Balaji Travels,Bharat Benz NON A/C sleeper (2+1),20:45,09:45,37h 00m,5100.0,5100.0,Nelamangala,Udupi,Bangalore,Tirupathi
+1022,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),17:30,22:30,05h 00m,1590.0,1890.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+1023,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:30,01:30,06h 00m,1999.0,2499.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+1024,Svkdt travels,A/C Sleeper (2+1),19:30,00:40,05h 10m,1790.0,2090.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+1025,Svkdt travels,A/C Sleeper (2+1),22:00,02:00,04h 00m,1500.0,1800.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+1026,Orange Tours and Travels,A/C Sleeper (2+1),17:30,23:15,05h 45m,1100.0,1100.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+1027,SVD Vedansh Travels,A/C Sleeper (2+1),14:30,21:00,06h 30m,1989.0,2639.0,Chandapura,Korramenugunta,Bangalore,Tirupathi
+1028,Chaitra Sri Travels,Non A/C Seater / Sleeper (2+1),18:30,00:50,06h 20m,3999.0,3999.0,Attibele,RTC Bus Stand,Bangalore,Tirupathi
+1029,Komitla Trans lines.,NON A/C Sleeper (2+1),15:30,20:30,05h 00m,5000.0,5000.0,Bellandur,Tirupathi Bye Pass,Bangalore,Tirupathi
+1030,Sri Krishna Travels,A/C Seater / Sleeper (2+1),22:30,03:00,04h 30m,2000.0,2000.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+1031,Sri Krishna Travels,A/C Sleeper (2+1),17:30,22:45,05h 15m,3000.0,3000.0,T C Palya,RTC Bus Stand,Bangalore,Tirupathi
+1032,Sri Krishna Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:30,23:45,04h 15m,2510.0,3320.0,Hoskote,RTC Bus Stand,Bangalore,Tirupathi
+1033,Sri Krishna Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),21:30,02:00,04h 30m,2799.0,3099.0,Marathahalli,RTC Bus Stand,Bangalore,Tirupathi
+1034,Chalasani Travels (Kaleswari),A/C Sleeper (2+1),23:20,03:20,04h 00m,2500.0,3000.0,Hoskote,RTC Bus Stand,Bangalore,Tirupathi
+1035,Chalasani Travels (Kaleswari),A/C Sleeper (2+1),21:00,01:10,04h 10m,2000.0,2500.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+1036,Sri Keerthana Sai Travels,A/C Sleeper (2+1),15:30,21:15,05h 45m,1399.0,1699.0,KR Puram,RTC Bus Stand,Bangalore,Tirupathi
+1037,Morning Star Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),19:15,23:55,04h 40m,1290.0,1490.0,Marathahalli,Lakshmi Puram Circle,Bangalore,Tirupathi
+1038,Chaitra Sri Travels,NON A/C Sleeper (2+1),19:15,01:45,06h 30m,3999.0,3999.0,Madiwala,RTC Bus Stand,Bangalore,Tirupathi
+1039,National travels,VE A/C Sleeper (2+1),20:00,03:00,07h 00m,1380.0,1950.0,Kalasipalyam,RTC Bus Stand,Bangalore,Tirupathi
+1040,Morning Star Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:25,02:25,04h 00m,1290.0,1490.0,Marathahalli,Lakshmi Puram Circle,Bangalore,Tirupathi
+1041,Vibhav Holidays,A/C Sleeper (2+1),20:00,23:00,27h 00m,1904.0,1904.0,Anand Rao Circle,Race Course Road Hotel Maurya,Bangalore,Tirupathi
+1042,Vibhav Holidays,A/C Sleeper (2+1),20:00,22:30,26h 30m,2095.0,2095.0,Navrang Circle,Maruthi Mandir vijayanagar,Bangalore,Tirupathi
+1043,Morning Star Travels,A/C Sleeper (2+1),18:30,23:50,05h 20m,1090.0,1290.0,Marathahalli,Lakshmi Puram Circle,Bangalore,Tirupathi
+1044,Vibhav Holidays,A/C Sleeper (2+1),20:00,21:00,25h 00m,1904.0,1904.0,Anand Rao Circle,Race Course Road Hotel Maurya,Bangalore,Tirupathi
+1045,Vibhav Holidays,A/C Sleeper (2+1),20:00,21:00,25h 00m,1904.0,1904.0,Anand Rao Circle,Race Course Road Hotel Maurya,Bangalore,Tirupathi
+1046,Komitla Trans lines.,NON A/C Sleeper (2+1),22:00,01:55,03h 55m,2500.0,2500.0,ITO Gate Duravani Nagar,Tirupathi Bye Pass,Bangalore,Tirupathi
+1047,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),17:00,22:00,05h 00m,1300.0,1800.0,Tin Factory,RTC Bus Stand,Bangalore,Tirupathi
+1048,SVD Vedansh Travels,A/C Sleeper (2+1),16:00,22:15,06h 15m,2219.0,3109.0,Chandapura,Korramenugunta,Bangalore,Tirupathi
+1049,V Kaveri Travels,VE A/C Sleeper (2+1),22:00,03:15,05h 15m,1486.0,2124.0,Marathahalli,Srinivasam,Bangalore,Tirupathi
+1050,Durga Shree Travels,A/C Sleeper (2+1),21:05,21:35,24h 30m,2399.0,2399.0,Anand Rao Circle,Anand Rao Circle,Bangalore,Tirupathi
+1051,Vibhav Holidays,A/C Sleeper (2+1),19:00,22:00,27h 00m,1904.0,1904.0,Jaya Nagar,Race Course Road Hotel Maurya,Bangalore,Tirupathi
+1052,Vibhav Holidays,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),20:00,22:00,26h 00m,1809.0,1809.0,Anand Rao Circle,Race Course Road Hotel Maurya,Bangalore,Tirupathi
+1053,SRI SAI MURALI KRISHNA TRAVELS,NON A/C Sleeper (2+1),17:30,22:00,04h 30m,4000.0,4000.0,Sarjapur,RTC Bus Stand,Bangalore,Tirupathi
+1054,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),19:30,23:55,04h 25m,2109.0,2399.0,Hoskote,RTC Bus Stand,Bangalore,Tirupathi
+1055,Sri Shanmukh Travels,A/C Sleeper (2+1),20:40,03:00,06h 20m,5000.0,5000.0,Chandapura,RTC Bus Stand,Bangalore,Tirupathi
+1056,VV Vinayak Travels,Non A/C Seater / Sleeper (2+1),19:20,00:35,05h 15m,1890.0,2899.0,Attibele,RTC Bus Stand,Bangalore,Tirupathi
+1057,Varsha Travels,A/C Sleeper (2+1),19:30,23:10,27h 40m,1899.0,1899.0,Anand Rao Circle,Majestic,Bangalore,Tirupathi
+1058,Varsha Travels,A/C Sleeper (2+1),20:30,22:00,25h 30m,1899.0,1899.0,Anand Rao Circle,Anadarao circle,Bangalore,Tirupathi
+1059,Varsha Travels,A/C Sleeper (2+1),21:30,20:30,23h 00m,1899.0,1899.0,Anand Rao Circle,KR Puram,Bangalore,Tirupathi
+1060,GTT Travels,Volvo A/C Sleeper (2+1),21:05,02:30,05h 25m,2500.0,2500.0,Marathahalli,Bus Stand,Bangalore,Tirupathi
+1061,KMRL Kalaimakal(sk),A/C Seater / Sleeper (2+1),22:00,04:55,06h 55m,1390.0,1940.0,Madiwala,Koyambedu,Bangalore,Chennai
+1062,ADITHIYA AIRBUS,A/C Sleeper (2+1),21:30,04:20,06h 50m,1940.0,2600.0,Madiwala,Koyambedu,Bangalore,Chennai
+1063,SST Limoliner,Bharat Benz A/C Sleeper (2+1),23:00,05:45,06h 45m,3283.0,3283.0,Madiwala,Koyambedu,Bangalore,Chennai
+1064,KBS Luxury Bus,A/C Sleeper (2+1),20:30,03:40,07h 10m,1668.0,2452.0,Madiwala,Koyambedu,Bangalore,Chennai
+1065,KBS Luxury Bus,A/C Seater / Sleeper (2+1),00:30,06:15,05h 45m,1075.0,2027.0,Madiwala,Koyambedu,Bangalore,Chennai
+1066,Jai Sai Baba Travels,A/C Sleeper (2+1),23:30,06:20,06h 50m,1299.0,1299.0,Madiwala,Koyambedu,Bangalore,Chennai
+1067,PADMAVATHI TRAVELS,A/C Seater / Sleeper (2+1),08:00,15:45,07h 45m,950.0,1760.0,Madiwala,Koyambedu,Bangalore,Chennai
+1068,Mettur Super Services(mss),A/C Seater / Sleeper (2+1),23:00,05:30,06h 30m,699.0,1099.0,Madiwala,Koyambedu,Bangalore,Chennai
+1069,KBS Luxury Bus,A/C Sleeper (2+1),23:00,05:00,06h 00m,1688.0,2483.0,Madiwala,Koyambedu,Bangalore,Chennai
+1070,KBS Luxury Bus,A/C Sleeper (2+1),07:30,15:10,07h 40m,1235.0,1802.0,Madiwala,Koyambedu,Bangalore,Chennai
+1071,PADMAVATHI TRAVELS,A/C Seater / Sleeper (2+1),23:20,06:25,07h 05m,1368.0,2510.0,Madiwala,Koyambedu,Bangalore,Chennai
+1072,Jabbar Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),23:15,05:45,06h 30m,1149.0,1533.0,Madiwala,Koyambedu,Bangalore,Chennai
+1073,V2K Travels,A/C Sleeper (2+1),21:50,04:50,07h 00m,1400.0,1500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1074,KBS Luxury Bus,A/C Sleeper (2+1),03:25,10:05,06h 40m,987.0,1430.0,Madiwala,Koyambedu,Bangalore,Chennai
+1075,KMRL Kalaimakal,A/C Seater / Sleeper (2+1),22:30,05:15,06h 45m,1390.0,1940.0,Madiwala,Koyambedu,Bangalore,Chennai
+1076,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,06:10,07h 25m,1139.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1077,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:15,06:20,07h 05m,1139.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1078,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:25,06:05,06h 40m,1149.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1079,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:10,06:35,07h 25m,1139.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1080,KBS Luxury Bus,A/C Sleeper (2+1),10:40,18:00,07h 20m,1333.0,1950.0,Madiwala,Koyambedu,Bangalore,Chennai
+1081,KMRL Kalaimakal,A/C Sleeper (2+1),22:45,05:45,07h 00m,1740.0,1940.0,Madiwala,Koyambedu,Bangalore,Chennai
+1082,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:45,05:00,07h 15m,1149.0,3079.0,Madiwala,Medavakkam,Bangalore,Chennai
+1083,KBS Luxury Bus,A/C Sleeper (2+1),17:00,00:30,07h 30m,1522.0,2283.0,Madiwala,Koyambedu,Bangalore,Chennai
+1084,KMRL Kalaimakal,A/C Sleeper (2+1),22:15,05:05,06h 50m,1740.0,1940.0,Madiwala,Koyambedu,Bangalore,Chennai
+1085,YBM Travels(BLM),A/C Sleeper (2+1),22:30,04:35,06h 05m,2090.0,2090.0,Madiwala,Koyambedu,Bangalore,Chennai
+1086,KBS Luxury Bus,A/C Seater / Sleeper (2+1),14:10,21:30,07h 20m,1156.0,2093.0,Madiwala,Koyambedu,Bangalore,Chennai
+1087,Highline Transports,VE A/C Sleeper (2+1),21:50,04:40,06h 50m,1550.0,2120.0,Madiwala,Koyambedu,Bangalore,Chennai
+1088,Krish Travels,A/C Seater / Sleeper (2+1),23:15,05:30,06h 15m,1600.0,2200.0,Madiwala,Koyambedu,Bangalore,Chennai
+1089,RKK Travels,A/C Sleeper (2+1),23:30,06:00,06h 30m,1445.0,1595.0,Madiwala,Koyambedu,Bangalore,Chennai
+1090,Jabbar Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),12:30,20:00,07h 30m,825.0,1376.0,Madiwala,Koyambedu,Bangalore,Chennai
+1091,IntrCity SmartBus,AC Sleeper (2+1),23:45,07:05,07h 20m,1679.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1092,PADMAVATHI TRAVELS,A/C Sleeper (2+1),23:35,06:30,06h 55m,1680.0,2050.0,Madiwala,Koyambedu,Bangalore,Chennai
+1093,RKK Travels,A/C Sleeper (2+1),14:00,20:45,06h 45m,845.0,945.0,Madiwala,Koyambedu,Bangalore,Chennai
+1094,Streamline tours and travels,Bharat Benz A/C Sleeper (2+1),23:45,06:15,06h 30m,1899.0,2499.0,Madiwala,Koyambedu,Bangalore,Chennai
+1095,IntrCity SmartBus,A/C Seater / Sleeper (2+1),10:20,18:30,08h 10m,669.0,1559.0,Madiwala,Koyambedu,Bangalore,Chennai
+1096,FlixBus,A/C Sleeper (2+1),22:00,06:40,08h 40m,758.04,758.04,Majestic,Koyambedu,Bangalore,Chennai
+1097,RKK Travels,Volvo Multi-Axle A/C Sleeper (2+1),05:00,11:00,06h 00m,895.0,995.0,Madiwala,Koyambedu,Bangalore,Chennai
+1098,Jabbar Travels,VE A/C Sleeper (2+1),22:10,04:30,06h 20m,1550.0,2657.0,Madiwala,Koyambedu,Bangalore,Chennai
+1099,KMRL Kalaimakal(sk),A/C Seater / Sleeper (2+1),08:00,15:15,07h 15m,940.0,1200.0,Madiwala,Koyambedu,Bangalore,Chennai
+1100,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),04:00,09:30,05h 30m,595.0,645.0,Madiwala,Koyambedu,Bangalore,Chennai
+1101,KMRL Kalaimakal,A/C Sleeper (2+1),13:30,20:45,07h 15m,1100.0,1200.0,Madiwala,Koyambedu,Bangalore,Chennai
+1102,SPT Tours and Travels,A/C Sleeper (2+1),10:00,17:40,07h 40m,730.0,850.0,Madiwala,Koyambedu,Bangalore,Chennai
+1103,Jabbar Travels,VE A/C Sleeper (2+1),11:30,18:45,07h 15m,1048.0,1467.0,Madiwala,Koyambedu,Bangalore,Chennai
+1104,IntrCity SmartBus,AC Sleeper (2+1),21:25,04:35,07h 10m,1679.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1105,Zingbus Plus,A/C Sleeper (2+1),22:25,05:20,06h 55m,1530.38,2104.38,Madiwala,Koyambedu,Bangalore,Chennai
+1106,CIT TRAVELS,Scania Multi-Axle AC Semi Sleeper (2+2),22:00,03:55,05h 55m,1500.0,1500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1107,Yolo Bus,A/C Sleeper (2+1),23:40,06:09,06h 29m,2090.0,2910.0,Madiwala,Koyambedu,Bangalore,Chennai
+1108,YBM Travels(BLM),A/C Sleeper (2+1),07:00,13:50,06h 50m,1320.0,1630.0,Madiwala,Koyambedu,Bangalore,Chennai
+1109,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:10,05:30,07h 20m,1219.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1110,Dream Line Travels Pvt Ltd,VE A/C Sleeper (2+1),23:00,06:00,07h 00m,1660.0,2290.0,Madiwala,Koyambedu,Bangalore,Chennai
+1111,Shri Abinesh Roadways,Bharat Benz A/C Sleeper (2+1),23:59,06:30,06h 31m,3160.0,3160.0,Madiwala,Koyambedu,Bangalore,Chennai
+1112,KMRL Kalaimakal,A/C Seater / Sleeper (2+1),10:45,18:00,07h 15m,990.0,1200.0,Madiwala,Koyambedu,Bangalore,Chennai
+1113,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),06:15,12:15,06h 00m,595.0,645.0,Madiwala,Koyambedu,Bangalore,Chennai
+1114,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,06:00,07h 05m,1139.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1115,NueGo,Electric A/C Semi Sleeper (2+2),20:30,03:40,07h 10m,769.5,1035.5,Madiwala,Koyambedu,Bangalore,Chennai
+1116,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:00,04:55,05h 55m,895.0,945.0,Madiwala,Koyambedu,Bangalore,Chennai
+1117,VKV Travels,A/C Sleeper (2+1),02:00,07:30,05h 30m,2460.5,2745.5,Madiwala,Koyambedu,Bangalore,Chennai
+1118,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),16:00,22:45,06h 45m,795.0,895.0,Madiwala,Koyambedu,Bangalore,Chennai
+1119,Sri Sugam Bus Tours and Travels,Scania A/C Semi Sleeper (2+2),17:20,23:30,06h 10m,930.05,1215.05,Madiwala,Koyambedu,Bangalore,Chennai
+1120,NueGo,Electric A/C Seater/Sleeper (2+1),23:00,05:55,06h 55m,1064.0,1852.5,Madiwala,Koyambedu,Bangalore,Chennai
+1121,IntrCity SmartBus,AC Sleeper (2+1),22:00,05:25,07h 25m,1679.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1122,Jayavin Travels,A/C Seater / Sleeper (2+1),23:15,05:40,06h 25m,1950.0,3500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1123,GEE PEE TRAVELS,VE A/C Sleeper (2+1),23:35,06:15,06h 40m,1330.0,1790.0,Madiwala,Koyambedu,Bangalore,Chennai
+1124,FlixBus,A/C Sleeper (2+1),21:00,06:05,09h 05m,1624.11,1624.11,Majestic,SIPCOT Siruseri,Bangalore,Chennai
+1125,NueGo,Electric A/C Seater/Sleeper (2+1),07:00,14:15,07h 15m,551.0,1178.0,Madiwala,Koyambedu,Bangalore,Chennai
+1126,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),15:00,21:15,06h 15m,895.0,945.0,Madiwala,Koyambedu,Bangalore,Chennai
+1127,NueGo,Electric A/C Seater/Sleeper (2+1),23:30,06:30,07h 00m,1187.5,3087.5,Madiwala,Koyambedu,Bangalore,Chennai
+1128,RKK Travels,Volvo Multi-Axle A/C Sleeper (2+1),20:15,02:30,06h 15m,1245.0,1395.0,Madiwala,Koyambedu,Bangalore,Chennai
+1129,SPS Luxury Travels,A/C Sleeper (2+1),21:15,04:15,07h 00m,3000.0,3000.0,Madiwala,Poonamallee,Bangalore,Chennai
+1130,FlixBus,A/C Sleeper (2+1),15:30,00:55,09h 25m,883.04,883.04,Majestic,Velachery,Bangalore,Chennai
+1131,SPS Luxury Travels,A/C Sleeper (2+1),22:05,05:00,06h 55m,2500.0,2500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1132,SPT Tours and Travels,A/C Sleeper (2+1),21:45,04:45,07h 00m,1600.0,2400.0,Madiwala,Koyambedu,Bangalore,Chennai
+1133,SHARMA TRANSPORTS,NON A/C Sleeper (2+1),22:35,05:45,07h 10m,1300.0,1400.0,Madiwala,Poonamallee,Bangalore,Chennai
+1134,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),16:30,23:15,06h 45m,845.0,895.0,Madiwala,Koyambedu,Bangalore,Chennai
+1135,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:40,06:35,07h 55m,1139.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1136,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,05:55,07h 40m,1279.0,2799.0,Madiwala,Tambaram,Bangalore,Chennai
+1137,Sri Sugam Bus Tours and Travels,A/C Sleeper (2+1),21:30,03:55,06h 25m,1443.05,2013.05,Madiwala,Koyambedu,Bangalore,Chennai
+1138,IntrCity SmartBus,AC Sleeper (2+1),21:20,05:00,07h 40m,1679.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1139,NueGo,Electric A/C Seater/Sleeper (2+1),13:00,20:45,07h 45m,950.0,1444.0,Madiwala,Koyambedu,Bangalore,Chennai
+1140,Sri Sugam Bus Tours and Travels,A/C Sleeper (2+1),19:10,01:30,06h 20m,1749.0,2799.0,Madiwala,Koyambedu,Bangalore,Chennai
+1141,NueGo,Electric A/C Seater/Sleeper (2+1),21:15,04:25,07h 10m,1425.0,2071.0,Madiwala,Koyambedu,Bangalore,Chennai
+1142,KGN INDIA,NON A/C Sleeper (2+1),22:20,05:50,07h 30m,810.0,855.0,Madiwala,Koyambedu,Bangalore,Chennai
+1143,Sri Sugam Bus Tours and Travels,A/C Sleeper (2+1),04:00,10:15,06h 15m,882.55,1196.05,Madiwala,Koyambedu,Bangalore,Chennai
+1144,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),00:24,07:26,07h 02m,1420.0,3500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1145,Sri Sugam Bus Tours and Travels,A/C Sleeper (2+1),23:45,07:00,07h 15m,1639.0,2699.0,Madiwala,Koyambedu,Bangalore,Chennai
+1146,NueGo,Electric A/C Seater/Sleeper (2+1),17:30,00:55,07h 25m,788.5,1301.5,Madiwala,Koyambedu,Bangalore,Chennai
+1147,FlixBus,A/C Sleeper (2+1),21:30,07:00,09h 30m,829.46,829.46,Majestic,SIPCOT Siruseri,Bangalore,Chennai
+1148,IntrCity SmartBus,A/C Seater / Sleeper (2+1),11:20,19:30,08h 10m,669.0,1559.0,Madiwala,Koyambedu,Bangalore,Chennai
+1149,Go Link,A/C Sleeper (2+1),21:40,04:45,07h 05m,1553.0,2251.0,Madiwala,Koyambedu,Bangalore,Chennai
+1150,NueGo,Electric A/C Seater/Sleeper (2+1),05:00,11:55,06h 55m,522.5,902.5,Madiwala,Koyambedu,Bangalore,Chennai
+1151,Go Link,A/C Sleeper (2+1),23:15,06:32,07h 17m,1550.0,2189.0,Madiwala,Koyambedu,Bangalore,Chennai
+1152,Jabbar Travels,NON AC Seater / Sleeper 2+1,23:40,06:00,06h 20m,1355.0,2450.0,Madiwala,Koyambedu,Bangalore,Chennai
+1153,Sri Sugam Bus Tours and Travels,A/C Sleeper (2+1),23:55,06:20,06h 25m,2649.0,3529.0,Madiwala,Koyambedu,Bangalore,Chennai
+1154,IntrCity SmartBus,AC Sleeper (2+1),22:30,05:55,07h 25m,1679.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1155,FlixBus,A/C Sleeper (2+1),04:30,14:00,09h 30m,597.32,597.32,Majestic,Velachery,Bangalore,Chennai
+1156,Sri Sugam Bus Tours and Travels,A/C Sleeper (2+1),23:15,05:45,06h 30m,2529.0,3039.0,Madiwala,Koyambedu,Bangalore,Chennai
+1157,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:15,04:20,06h 05m,895.0,945.0,Madiwala,Koyambedu,Bangalore,Chennai
+1158,FlixBus,A/C Sleeper (2+1),20:00,07:05,11h 05m,802.68,802.68,Hebbal,SIPCOT Siruseri,Bangalore,Chennai
+1159,SPS Luxury Travels,A/C Sleeper (2+1),21:25,04:20,06h 55m,3000.0,3000.0,Madiwala,Koyambedu,Bangalore,Chennai
+1160,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:45,06:15,06h 30m,895.0,945.0,Madiwala,Koyambedu,Bangalore,Chennai
+1161,Parveen Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),05:25,10:55,05h 30m,795.0,795.0,Madiwala,Koyambedu,Bangalore,Chennai
+1162,RKK Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),09:00,15:30,06h 30m,595.0,695.0,Madiwala,Koyambedu,Bangalore,Chennai
+1163,IntrCity SmartBus,AC Sleeper (2+1),22:25,05:40,07h 15m,1679.0,3079.0,Madiwala,Koyambedu,Bangalore,Chennai
+1164,NueGo,Electric A/C Seater/Sleeper (2+1),21:40,05:40,08h 00m,807.5,2185.0,Silk Board,Koyambedu,Bangalore,Chennai
+1165,Vetri Travels,A/C Sleeper (2+1),23:15,06:45,07h 30m,1399.0,1399.0,Madiwala,Koyambedu,Bangalore,Chennai
+1166,Royal Travels,A/C Sleeper (2+1),23:00,05:30,06h 30m,2000.0,2100.0,Madiwala,Koyambedu,Bangalore,Chennai
+1167,SHARMA TRANSPORTS,A/C Sleeper (2+1),23:00,06:10,07h 10m,1400.0,1500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1168,DLT BUS,A/C Sleeper (2+1),23:45,06:15,06h 30m,1520.0,2480.0,Madiwala,Koyambedu,Bangalore,Chennai
+1169,Go Link,A/C Sleeper (2+1),10:30,17:15,06h 45m,1100.0,1400.0,Madiwala,Koyambedu,Bangalore,Chennai
+1170,Swamy Ayyappa Travels,A/C Sleeper (2+1),23:30,05:00,05h 30m,1300.0,1400.0,Madiwala,Koyambedu,Bangalore,Chennai
+1171,NueGo,Electric A/C Seater/Sleeper (2+1),09:00,16:25,07h 25m,750.5,1159.0,Madiwala,Koyambedu,Bangalore,Chennai
+1172,FlixBus,A/C Sleeper (2+1),08:00,16:50,08h 50m,543.75,543.75,Majestic,Koyambedu,Bangalore,Chennai
+1173,FlixBus,A/C Sleeper (2+1),11:00,21:00,10h 00m,597.32,703.57,Majestic,Velachery,Bangalore,Chennai
+1174,JTS Tours and Travels,NON A/C Sleeper (2+1),23:40,06:30,06h 50m,1041.25,1415.5,Madiwala,Koyambedu,Bangalore,Chennai
+1175,Jai Sai Baba Travels,A/C Sleeper (2+1),14:30,21:45,07h 15m,999.0,1299.0,Madiwala,Koyambedu,Bangalore,Chennai
+1176,Sri Sugam Bus Tours and Travels,A/C Sleeper (2+1),14:50,22:35,07h 45m,2500.0,2500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1177,National Travels NTA,A/C Sleeper (2+1),10:15,17:30,07h 15m,750.0,900.0,Madiwala,Koyambedu,Bangalore,Chennai
+1178,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),13:29,20:49,07h 20m,1040.0,1470.0,Madiwala,Koyambedu,Bangalore,Chennai
+1179,ADITHIYA AIRBUS,A/C Sleeper (2+1),10:20,17:50,07h 30m,1100.0,1380.0,Madiwala,Koyambedu,Bangalore,Chennai
+1180,NueGo,Electric A/C Sleeper (2+1),22:00,05:10,07h 10m,1624.5,1871.5,Madiwala,Koyambedu,Bangalore,Chennai
+1181,FlixBus,A/C Sleeper (2+1),23:00,07:55,08h 55m,802.68,802.68,Majestic,Velachery,Bangalore,Chennai
+1182,RKK Travels,Volvo Multi-Axle A/C Sleeper (2+1),12:15,18:15,06h 00m,795.0,895.0,Madiwala,Koyambedu,Bangalore,Chennai
+1183,Bharathi Travels,A/C Sleeper (2+1),01:15,07:30,06h 15m,1350.0,1500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1184,NueGo,Electric A/C Sleeper (2+1),23:45,06:55,07h 10m,788.5,1178.0,Madiwala,Koyambedu,Bangalore,Chennai
+1185,Bharathi Travels,Scania AC Multi Axle Sleeper (2+1),00:15,06:30,06h 15m,1080.0,1300.0,Madiwala,Koyambedu,Bangalore,Chennai
+1186,Nway Holidays,A/C Sleeper (2+1),10:55,20:05,09h 10m,999.0,1499.0,Madiwala,Koyambedu,Bangalore,Chennai
+1187,Swamy Ayyappa Travels,Volvo Multi-Axle I-Shift A/C Sleeper (2+1),23:00,04:30,05h 30m,1300.0,1400.0,Madiwala,Koyambedu,Bangalore,Chennai
+1188,VKV Travels,A/C Sleeper (2+1),03:05,09:30,06h 25m,893.0,1225.5,Madiwala,Koyambedu,Bangalore,Chennai
+1189,Sri Krishna Travels,Bharat Benz A/C Seater /Sleeper (2+1),00:10,06:15,06h 05m,3999.0,3999.0,Madiwala,Koyambedu,Bangalore,Chennai
+1190,RKK Travels,Volvo Multi-Axle A/C Sleeper (2+1),10:00,16:15,06h 15m,795.0,895.0,Madiwala,Koyambedu,Bangalore,Chennai
+1191,Spectra Connect,Volvo Multi Axle B9R A/C Sleeper (2+1),23:35,04:40,05h 05m,2090.0,2490.0,Madiwala,Koyambedu,Bangalore,Chennai
+1192,Krish Travels,A/C Seater / Sleeper (2+1),11:50,18:20,06h 30m,950.0,1500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1193,Sri Sugam Bus Tours and Travels,Scania A/C Semi Sleeper (2+2),22:10,04:00,05h 50m,1189.0,1539.0,Madiwala,Koyambedu,Bangalore,Chennai
+1194,GREENLINE TRAVELS,A/C Sleeper (2+1),21:40,04:30,06h 50m,1649.0,1799.0,Madiwala,Koyambedu,Bangalore,Chennai
+1195,FlixBus,A/C Sleeper (2+1),09:30,20:10,10h 40m,561.61,561.61,Majestic,SIPCOT Siruseri,Bangalore,Chennai
+1196,Olive Travels Lines,A/C Sleeper (2+1),00:35,06:25,05h 50m,1199.0,1499.0,Madiwala,Koyambedu,Bangalore,Chennai
+1197,Sri Krishna Travels,A/C Seater / Sleeper (2+1),23:10,05:15,06h 05m,949.0,1349.0,Madiwala,Koyambedu,Bangalore,Chennai
+1198,Parveen Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),16:45,22:50,06h 05m,950.0,950.0,Madiwala,Koyambedu,Bangalore,Chennai
+1199,NueGo,Electric A/C Sleeper (2+1),22:30,05:40,07h 10m,1444.0,2061.5,Madiwala,Koyambedu,Bangalore,Chennai
+1200,VJS Travels,Bharat Benz A/C Sleeper (2+1),20:45,03:30,06h 45m,3299.0,3299.0,Madiwala,Koyambedu,Bangalore,Chennai
+1201,VKV Travels,A/C Sleeper (2+1),07:25,14:30,07h 05m,1463.0,1748.0,Madiwala,Koyambedu,Bangalore,Chennai
+1202,FlixBus,A/C Sleeper (2+1),09:00,19:15,10h 15m,579.46,579.46,Majestic,SIPCOT Siruseri,Bangalore,Chennai
+1203,Universal Bus( UTS),A/C Sleeper (2+1),23:25,05:25,06h 00m,2500.0,2500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1204,ADITHIYA AIRBUS,A/C Sleeper (2+1),05:10,13:00,07h 50m,2500.0,2500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1205,ADITHIYA AIRBUS,A/C Sleeper (2+1),19:30,02:50,07h 20m,2500.0,2500.0,Madiwala,Koyambedu,Bangalore,Chennai
+1206,SRBT Travels,A/C Sleeper (2+1),22:40,05:30,06h 50m,3900.0,3900.0,Madiwala,Koyambedu,Bangalore,Chennai
+1207,SBM TRAANSPORT,Bharat Benz A/C Sleeper (2+1),10:30,17:30,07h 00m,799.0,899.0,Madiwala,Koyambedu,Bangalore,Chennai
+1208,SPS Luxury Travels,A/C Seater / Sleeper (2+1),22:00,05:00,07h 00m,3000.0,3000.0,Madiwala,Koyambedu,Bangalore,Chennai
+1209,SL Travels,A/C Sleeper (2+1),23:05,05:30,06h 25m,4000.0,4000.0,Madiwala,Koyambedu,Bangalore,Chennai
+1210,JaiSai Roadlinks (JSR),Scania Multi-Axle AC Semi Sleeper (2+2),16:45,22:45,06h 00m,899.0,899.0,Madiwala,Koyambedu,Bangalore,Chennai
+1211,National Travels NTA,NON A/C Sleeper (2+1),23:59,06:35,06h 36m,940.0,1100.0,Madiwala,Koyambedu,Bangalore,Chennai
+1212,JTS Tours and Travels,Non A/C Seater / Sleeper (2+1),23:40,06:30,06h 50m,1424.05,1899.05,Madiwala,Koyambedu,Bangalore,Chennai
+1213,PADIKKAL TRAVELS PRIVATE LIMITED,Volvo Multi-Axle A/C Semi Sleeper (2+2),16:30,23:10,06h 40m,450.0,450.0,Madiwala,Koyambedu,Bangalore,Chennai
+1214,Bharathi Travels,A/C Sleeper (2+1),00:45,07:00,06h 15m,2499.0,2999.0,Madiwala,Koyambedu,Bangalore,Chennai
+1215,AVLT TRANS,Bharat Benz A/C Sleeper (2+1),23:00,05:15,06h 15m,899.0,899.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1216,Jabbar Travels,A/C Sleeper (2+1),22:45,06:00,07h 15m,700.0,1152.0,HSR Layout,New Bus Stand,Bangalore,Pondicherry
+1217,NueGo,Electric A/C Semi Sleeper (2+2),22:00,05:00,07h 00m,475.0,589.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1218,Dream Line Travels Pvt Ltd,A/C Sleeper (2+1),23:45,06:00,06h 15m,800.0,1070.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1219,Vaigai TRAVELS,A/C Sleeper (2+1),22:00,06:15,08h 15m,999.0,999.0,Kalasipalyam,New Bus Stand,Bangalore,Pondicherry
+1220,NueGo,Electric A/C Semi Sleeper (2+2),11:00,18:00,07h 00m,674.5,978.5,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1221,Sri Vaari Travels,A/C Sleeper (2+1),05:30,12:30,07h 00m,800.0,800.0,Majestic,New Bus Stand,Bangalore,Pondicherry
+1222,GreenLine Travels And Holidays,A/C Sleeper (2+1),23:30,06:00,06h 30m,1499.0,1499.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1223,NueGo,Electric A/C Semi Sleeper (2+2),06:00,12:50,06h 50m,646.0,921.5,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1224,NueGo,Electric A/C Semi Sleeper (2+2),23:50,07:20,07h 30m,456.0,617.5,Majestic,New Bus Stand,Bangalore,Pondicherry
+1225,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:00,05:45,06h 45m,647.5,832.5,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1226,Kalaimakal Travelss,A/C Sleeper (2+1),23:10,05:35,06h 25m,900.0,900.0,Madiwala,Mahatma Gandhi Medical College (Pondicherry),Bangalore,Pondicherry
+1227,Sri Vaari Travels,A/C Sleeper (2+1),23:15,06:00,06h 45m,874.0,874.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1228,KBS Sree Garuda,A/C Sleeper (2+1),23:15,06:00,06h 45m,1039.0,1289.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1229,KBS Sree Garuda,A/C Sleeper (2+1),22:00,06:00,08h 00m,749.0,899.0,Ramamurthy Nagar,New Bus Stand,Bangalore,Pondicherry
+1230,KBS Sree Garuda,A/C Sleeper (2+1),09:30,16:30,07h 00m,749.0,799.0,Madiwala,Moratandi Toll,Bangalore,Pondicherry
+1231,KBS Sree Garuda,A/C Sleeper (2+1),06:00,13:10,07h 10m,749.0,799.0,Kalasipalyam,Madagadipet,Bangalore,Pondicherry
+1232,KBS Sree Garuda,A/C Sleeper (2+1),17:30,23:45,06h 15m,700.0,1000.0,Electronic City,New Bus Stand,Bangalore,Pondicherry
+1233,Sri Vaari Travels,A/C Sleeper (2+1),23:30,06:00,06h 30m,799.0,799.0,Majestic,New Bus Stand,Bangalore,Pondicherry
+1234,Balaji Cabs,Volvo A/C Multi-Axle Semi Sleeper (2+2),08:00,15:00,07h 00m,1400.0,1700.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1235,KBS Sree Garuda,A/C Sleeper (2+1),23:45,05:45,06h 00m,770.0,1000.0,Bommanahalli,Jipmer,Bangalore,Pondicherry
+1236,KBS Sree Garuda,A/C Sleeper (2+1),23:00,06:40,07h 40m,999.0,1169.0,Madiwala,Moratandi Toll,Bangalore,Pondicherry
+1237,Indira Travels,NON A/C Sleeper (2+1),22:30,05:50,07h 20m,699.0,699.0,Majestic,New Bus Stand,Bangalore,Pondicherry
+1238,SHARMA TRANSPORTS,NON A/C Sleeper (2+1),22:00,06:30,08h 30m,590.0,690.0,Kalasipalyam,Rajiv Gandhi Statue,Bangalore,Pondicherry
+1239,A1 Travels,A/C Sleeper (2+1),22:00,06:30,08h 30m,647.5,799.0,Silk Board,New Bus Stand,Bangalore,Pondicherry
+1240,Royal Travels,A/C Sleeper (2+1),20:30,04:00,07h 30m,1000.0,1100.0,Bellandur,New Bus Stand,Bangalore,Pondicherry
+1241,A1 Travels,A/C Seater / Sleeper (2+1),23:30,06:00,06h 30m,786.25,971.25,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1242,Kutti Travels,NON AC Seater / Sleeper 2+1,23:00,06:00,07h 00m,1000.0,1500.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1243,Rathimeena Travels,A/C Sleeper (2+1),20:30,03:00,06h 30m,886.0,886.0,Kalasipalyam,Pondicherry,Bangalore,Pondicherry
+1244,KBS Sree Garuda,A/C Sleeper (2+1),23:45,06:15,06h 30m,950.0,1250.0,Shanthinagar,Jipmer,Bangalore,Pondicherry
+1245,KBS Sree Garuda,A/C Sleeper (2+1),12:30,18:50,06h 20m,800.0,1200.0,Madiwala,Madagadipet,Bangalore,Pondicherry
+1246,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),11:00,18:00,07h 00m,960.0,1310.0,KR Puram,New Bus Stand,Bangalore,Pondicherry
+1247,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),12:50,20:00,07h 10m,960.0,1310.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1248,KBS Sree Garuda,A/C Sleeper (2+1),23:00,06:00,07h 00m,940.0,1350.0,Shanthinagar,New Bus Stand,Bangalore,Pondicherry
+1249,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),23:55,06:30,06h 35m,999.0,1249.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1250,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),23:55,06:55,07h 00m,1150.0,1400.0,Horamavu,New Bus Stand,Bangalore,Pondicherry
+1251,Kalaimakal Travelss,A/C Sleeper (2+1),12:15,20:00,07h 45m,900.0,900.0,Anand Rao Circle,New Bus Stand,Bangalore,Pondicherry
+1252,Kutti Travels,NON AC Seater / Sleeper 2+1,12:15,19:30,07h 15m,3000.0,3000.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1253,KBS Sree Garuda,A/C Sleeper (2+1),23:40,06:00,06h 20m,1120.0,1410.0,HSR Layout,Madagadipet,Bangalore,Pondicherry
+1254,Deccan Connect,NON AC Seater / Sleeper 2+1,21:30,05:30,08h 00m,899.0,1199.0,Kalasipalyam,New Bus Stand,Bangalore,Pondicherry
+1255,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),23:10,06:30,07h 20m,1080.0,1250.0,Madiwala,New Bus Stand,Bangalore,Pondicherry
+1256,KBS Sree Garuda,A/C Sleeper (2+1),16:30,23:58,07h 28m,3500.0,3500.0,Madiwala,Jipmer,Bangalore,Pondicherry
+1257,Deccan Connect,Non A/C Seater / Sleeper (2+1),23:00,06:00,07h 00m,999.0,1199.0,Kalasipalyam,New Bus Stand,Bangalore,Pondicherry
+1258,Deccan Connect,Non A/C Seater / Sleeper (2+1),22:00,06:00,08h 00m,999.0,1199.0,Kalasipalyam,New Bus Stand,Bangalore,Pondicherry
+1259,Kingfisher Connect,Non A/C Seater / Sleeper (2+1),22:00,06:00,08h 00m,1000.0,1200.0,Kalasipalyam,New Bus Stand,Bangalore,Pondicherry
+1260,Deccan Connect,NON AC Seater / Sleeper 2+1,21:45,05:45,08h 00m,899.0,1199.0,Kalasipalyam,New Bus Stand,Bangalore,Pondicherry
+1261,Deccan Connect,NON AC Seater / Sleeper 2+1,06:00,13:00,07h 00m,1799.0,1999.0,Kalasipalyam,New Bus Stand,Bangalore,Pondicherry
+1262,TGSRTC - 1009,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:00,16:20,12h 20m,946.0,946.0,Jubilee Bus Station JBS,Hebbal,Hyderabad,Bangalore
+1263,TGSRTC - 1297,LAHARI A/C SLEEPER CUM SEATER,05:30,16:35,11h 05m,1203.0,1203.0,Central Bus Station (CBS),KEMPEGOWDA BUS STATION,Hyderabad,Bangalore
+1264,TGSRTC - 1029,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,18:05,12h 20m,947.0,947.0,Jubilee Bus Station JBS,Hebbal,Hyderabad,Bangalore
+1265,TGSRTC - 4493,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,19:40,12h 40m,936.0,936.0,Dilsukhnagar,Hebbal,Hyderabad,Bangalore
+1266,TGSRTC - 88588,Lahari Non A/C Sleeper Cum Seater,07:45,20:05,12h 20m,918.0,918.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1267,TGSRTC - 7143,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:45,20:55,12h 10m,946.0,946.0,Jubilee Bus Station JBS,Hebbal,Hyderabad,Bangalore
+1268,TGSRTC - 1920,Lahari Non A/C Sleeper Cum Seater,09:15,20:40,11h 25m,951.0,951.0,Central Bus Station (CBS),KEMPEGOWDA BUS STATION,Hyderabad,Bangalore
+1269,TGSRTC - 1003,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:00,22:00,12h 00m,946.0,946.0,Jubilee Bus Station JBS,Hebbal,Hyderabad,Bangalore
+1270,TGSRTC - 2994,LAHARI A/C SLEEPER CUM SEATER,11:40,22:55,11h 15m,1163.0,1163.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1271,TGSRTC - 1001,LAHARI A/C SLEEPER CUM SEATER,16:00,03:55,11h 55m,1163.0,1163.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1272,TGSRTC - 6817,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:00,06:00,13h 00m,936.0,936.0,Dilsukhnagar,Hebbal,Hyderabad,Bangalore
+1273,TGSRTC - 8207,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,04:10,10h 40m,946.0,946.0,Central Bus Station (CBS),Hebbal,Hyderabad,Bangalore
+1274,TGSRTC - 1013,LAHARI A/C SLEEPER CUM SEATER,18:00,07:30,13h 30m,1203.0,1203.0,Jubilee Bus Station JBS,Hebbal,Hyderabad,Bangalore
+1275,TGSRTC - 1294,Lahari A/C sleeper,18:10,05:20,11h 10m,1514.0,1514.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1276,TGSRTC - 1956,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:10,06:15,12h 05m,946.0,946.0,Lakdikapul,KEMPEGOWDA BUS STATION,Hyderabad,Bangalore
+1277,TGSRTC - 8665,LAHARI A/C SLEEPER CUM SEATER,18:50,06:00,11h 10m,1203.0,1203.0,LB Nagar,Hebbal,Hyderabad,Bangalore
+1278,TGSRTC - 8209,LAHARI A/C SLEEPER CUM SEATER,19:00,07:20,12h 20m,1203.0,1203.0,Uppal,Chandapura,Hyderabad,Bangalore
+1279,TGSRTC - 7660,LAHARI A/C SLEEPER CUM SEATER,19:35,06:45,11h 10m,1203.0,1203.0,Jubilee Bus Station JBS,KEMPEGOWDA BUS STATION,Hyderabad,Bangalore
+1280,TGSRTC - 1082,LAHARI A/C SLEEPER CUM SEATER,19:40,06:35,10h 55m,1203.0,1203.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1281,TGSRTC - 7808,LAHARI A/C SLEEPER CUM SEATER,20:25,07:00,10h 35m,1186.0,1186.0,Jubilee Bus Station JBS,KEMPEGOWDA KSRTC BUS STATION,Hyderabad,Bangalore
+1282,TGSRTC - 8211,LAHARI A/C SLEEPER CUM SEATER,20:30,07:10,10h 40m,1203.0,1203.0,Uppal,Hebbal,Hyderabad,Bangalore
+1283,TGSRTC - 9571,Lahari A/C sleeper,20:50,08:00,11h 10m,1569.0,1569.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1284,TGSRTC - 30001,LAHARI A/C SLEEPER CUM SEATER,21:15,06:00,08h 45m,1203.0,1203.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1285,TGSRTC - 7290,LAHARI A/C SLEEPER CUM SEATER,21:40,08:55,11h 15m,1203.0,1203.0,Jubilee Bus Station JBS,KEMPEGOWDA BUS STATION,Hyderabad,Bangalore
+1286,KSM Roadways,Bharat Benz A/C Sleeper (2+1),23:00,08:15,09h 15m,3339.0,4549.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1287,KSM Roadways,Bharat Benz A/C Sleeper (2+1),20:45,06:25,09h 40m,3339.0,4549.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1288,Pramukh Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:30,07:40,09h 10m,2799.0,2999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1289,AdStreamline tours and travels,Bharat Benz A/C Sleeper (2+1),23:15,09:10,09h 55m,2099.0,3259.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1290,Vikram Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:00,07:25,10h 25m,2559.0,4089.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1291,TVK TRAVELS,Bharat Benz A/C Sleeper (2+1),22:20,08:05,09h 45m,2799.0,2999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1292,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),19:45,08:25,12h 40m,2139.0,3539.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1293,AdShyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,06:50,09h 20m,2380.0,3880.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1294,November Travels,Bharat Benz A/C Sleeper (2+1),22:20,09:15,10h 55m,2000.0,2630.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1295,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),23:00,07:46,08h 46m,3799.0,4699.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1296,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:30,07:40,09h 10m,3799.0,4699.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1297,BSR Tours And Travels,A/C Sleeper (2+1),20:40,07:10,10h 30m,2099.0,3209.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1298,KSM Roadways,Bharat Benz A/C Sleeper (1+1),21:00,06:05,09h 05m,3199.0,3299.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1299,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),23:45,08:46,09h 01m,4709.0,5709.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1300,November Travels,A/C Seater / Sleeper (2+1),22:20,09:15,10h 55m,1790.0,2370.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1301,BSR Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:40,07:10,10h 30m,3210.0,4510.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1302,Mythri Tours And Travels,A/C Sleeper (2+1),20:45,07:15,10h 30m,2289.0,3729.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1303,VSR Tours and Travels,A/C Sleeper (2+1),20:40,07:10,10h 30m,2078.1,3569.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1304,KGN INDIA,NON A/C Sleeper (2+1),19:45,07:10,11h 25m,1500.0,1600.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1305,Intercity travels,Bharat Benz A/C Sleeper (2+1),23:30,09:20,09h 50m,1999.0,3099.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1306,Jabbar Travels,Scania AC Multi Axle Sleeper (2+1),22:30,08:10,09h 40m,2131.0,3410.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1307,November Travels,Bharat Benz A/C Sleeper (2+1),20:30,07:15,10h 45m,2000.0,2630.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1308,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:10,09:25,12h 15m,1519.0,3539.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1309,BSR Tours And Travels,Scania AC Multi Axle Sleeper (2+1),22:30,08:47,10h 17m,2480.0,2980.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1310,FlixBus,VE A/C Sleeper (2+1),22:15,11:10,12h 55m,1302.68,1302.68,Kukatpally,Electronic City,Hyderabad,Bangalore
+1311,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:00,08:05,09h 05m,3209.0,5279.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1312,Go Tour Travels and Holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,04:15,09h 15m,2376.0,4090.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1313,Raj’s Travels and Transports,Benz A/C Sleeper (2+1),23:00,08:10,09h 10m,1899.0,2499.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1314,Ramana Tours And Travels,A/C Sleeper (2+1),21:00,07:50,10h 50m,1558.0,2158.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1315,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:05,07:45,09h 40m,3109.0,5119.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1316,Zingbus Plus,A/C Sleeper (2+1),20:05,07:35,11h 30m,2093.0,2093.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1317,BSR Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,04:40,10h 10m,1919.0,2889.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1318,Vikram Travels,A/C Sleeper (2+1),22:20,08:25,10h 05m,2039.0,3059.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1319,Intercity travels,Bharat Benz A/C Sleeper (2+1),20:30,06:40,10h 10m,2199.0,3499.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1320,IntrCity SmartBus,AC Sleeper (2+1),19:45,08:05,12h 20m,2139.0,3539.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1321,LVP Travels,A/C Sleeper (2+1),22:30,08:50,10h 20m,3499.0,3999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1322,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,07:00,09h 30m,2409.0,3599.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1323,Jabbar Travels,NON AC Seater / Sleeper 2+1,19:20,05:50,10h 30m,1669.0,3116.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1324,Zingbus Plus,Scania AC Multi Axle Sleeper (2+1),23:00,10:35,11h 35m,1844.0,1844.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1325,Dream Line Travels Pvt Ltd,VE A/C Sleeper (2+1),23:50,09:50,10h 00m,2415.0,3864.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1326,Go Tour Travels and Holidays,Scania AC Multi Axle Sleeper (2+1),22:00,07:35,09h 35m,2649.0,4090.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1327,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:30,08:40,12h 10m,1519.0,3539.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1328,Ramana Tours And Travels,A/C Sleeper (2+1),21:02,07:50,10h 48m,1758.0,2608.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1329,Sri Durgamba Travels - R No H,A/C Sleeper (2+1),23:30,10:05,10h 35m,2120.0,2500.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1330,Sugama Tourist,A/C Sleeper (2+1),22:15,08:26,10h 11m,2200.0,2700.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1331,Intercity travels,Bharat Benz A/C Sleeper (2+1),23:45,09:45,10h 00m,1899.0,2899.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1332,TVK TRAVELS,A/C Sleeper (2+1),23:20,09:00,09h 40m,2799.0,2999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1333,Jabbar Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:10,08:20,09h 10m,2070.0,3565.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1334,Sri Krishna Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:40,07:20,11h 40m,2409.0,3659.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1335,V Kaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),19:30,06:10,10h 40m,1999.0,3280.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1336,Intercity travels,Bharat Benz A/C Sleeper (2+1),23:45,09:45,10h 00m,1999.0,3099.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1337,Go Tour Travels and Holidays,Scania AC Multi Axle Sleeper (2+1),23:00,08:05,09h 05m,2384.1,3918.6,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1338,Jabbar Travels,Scania Multi-Axle AC Semi Sleeper (2+2),19:20,04:45,09h 25m,1599.0,2669.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1339,IntrCity SmartBus,AC Sleeper (2+1),18:20,06:45,12h 25m,2139.0,3539.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1340,Jabbar Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:30,07:45,09h 15m,1519.0,2367.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1341,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:00,07:35,12h 35m,1519.0,3539.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1342,IntrCity SmartBus,AC Sleeper (2+1),17:59,06:45,12h 46m,2139.0,3539.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1343,IntrCity SmartBus,AC Sleeper (2+1),21:50,08:30,10h 40m,2139.0,3539.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1344,Zingbus Plus,A/C Sleeper (2+1),22:25,09:35,11h 10m,2096.0,2096.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1345,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:00,02:35,09h 35m,2100.0,3000.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1346,SL Travels,A/C Sleeper (2+1),20:10,07:10,11h 00m,2409.0,3959.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1347,CMR Express,A/C Sleeper (2+1),23:05,08:56,09h 51m,1800.0,2650.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1348,FlixBus,A/C Sleeper (2+1),22:00,11:30,13h 30m,1115.18,1115.18,Kukatpally,Electronic City,Hyderabad,Bangalore
+1349,Yolo Bus,Bharat Benz A/C Sleeper (2+1),19:00,06:57,11h 57m,2340.0,3540.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1350,Royal Rich India,Bharat Benz A/C Sleeper (2+1),11:50,22:00,10h 10m,1800.0,1850.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1351,Highline Transports,VE A/C Sleeper (2+1),21:35,08:15,10h 40m,2070.0,3681.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1352,Jabbar Travels,VE Non A/C Sleeper (2+1),21:40,09:10,11h 30m,1500.0,2524.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1353,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:00,07:35,09h 35m,3109.0,4649.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1354,Delta Transports Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:20,03:10,08h 50m,2000.0,2300.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1355,Jabbar Travels,Scania AC Multi Axle Sleeper (2+1),21:40,07:40,10h 00m,1999.0,3105.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1356,Royal Rich India - R No 208,Bharat Benz A/C Sleeper (2+1),13:10,23:15,10h 05m,3320.0,3720.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1357,Kaveri Travels,A/C Sleeper (2+1),21:00,07:50,10h 50m,2160.0,3719.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1358,Go Tour Travels and Holidays,A/C Sleeper (2+1),20:45,07:05,10h 20m,2285.1,3532.5,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1359,Go Tour Travels and Holidays,A/C Sleeper (2+1),23:00,09:00,10h 00m,2285.1,3641.4,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1360,Aditya Logistics,A/C Sleeper (2+1),21:30,08:30,11h 00m,1749.0,2000.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1361,Sree Rama Tours & Travels,A/C Sleeper (2+1),21:30,07:15,09h 45m,1997.5,2635.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1362,FlixBus,A/C Sleeper (2+1),18:15,08:45,14h 30m,1891.96,1891.96,Lakdikapul,Bommasandra,Hyderabad,Bangalore
+1363,SL Travels,NON A/C Sleeper (2+1),20:10,06:45,10h 35m,1889.0,2249.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1364,FlixBus,A/C Sleeper (2+1),20:00,08:55,12h 55m,1704.46,1704.46,Kukatpally,Majestic,Hyderabad,Bangalore
+1365,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:45,07:45,12h 00m,1599.0,4759.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1366,NS Holidays,NON A/C Sleeper (2+1),21:20,08:35,11h 15m,1800.0,2300.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1367,GEE PEE TRAVELS,VE A/C Sleeper (2+1),22:35,08:20,09h 45m,2100.0,3120.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1368,Intercity travels,Bharat Benz A/C Sleeper (2+1),19:15,05:12,09h 57m,2099.0,3299.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1369,National travels,VE A/C Sleeper (2+1),23:45,09:25,09h 40m,1799.0,1999.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1370,SRI MARUTHI TRAVELS,A/C Sleeper (2+1),22:00,07:35,09h 35m,2899.0,2999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1371,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),17:30,03:25,09h 55m,1600.0,1800.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1372,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),23:10,08:52,09h 42m,2390.0,2690.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1373,GEE PEE TRAVELS,VE Non A/C Sleeper (2+1),22:50,09:00,10h 10m,1900.0,2300.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1374,Northern Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:50,09:30,10h 40m,2099.0,3999.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1375,Swamy Ayyappa Travels,Volvo Multi-Axle I-Shift A/C Sleeper (2+1),18:45,04:25,09h 40m,2300.0,2400.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1376,Reshma Tourists,Bharat Benz A/C Sleeper (2+1),22:55,08:05,09h 10m,2500.0,2500.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1377,Sri Vinayaka Travels,NON A/C Seater/ Sleeper (2+1),21:10,07:55,10h 45m,1200.0,1600.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1378,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),13:30,23:30,10h 00m,1500.0,1700.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1379,V Kaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:00,08:15,10h 15m,1999.0,2968.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1380,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:10,09:25,12h 15m,1519.0,3539.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1381,Swamy Ayyappa Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),15:45,02:15,10h 30m,2000.0,2100.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1382,IRA Transports,A/C Sleeper (2+1),21:45,06:50,09h 05m,2709.0,4049.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1383,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),13:10,23:15,10h 05m,2000.0,2100.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1384,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),17:20,04:15,10h 55m,2000.0,2000.0,Gachibowli,Anand Rao Circle,Hyderabad,Bangalore
+1385,AVM Tours And Travels,Non A/C Seater / Sleeper (2+1),21:35,09:11,11h 36m,1670.0,2370.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1386,National travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),20:50,07:34,10h 44m,1999.0,2199.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1387,SVR Tours and Travels,A/C Sleeper (2+1),21:00,07:15,10h 15m,1990.0,2290.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1388,Orange Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,05:15,10h 00m,1700.0,1900.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1389,National travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:40,06:05,10h 25m,2500.0,2500.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1390,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),16:15,01:55,09h 40m,2000.0,2100.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1391,Northern Travels,Bharat Benz A/C Seater /Sleeper (2+1),11:30,22:20,10h 50m,1549.0,3109.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1392,Orange Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:20,09:15,09h 55m,1700.0,1900.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1393,Saleem Travels,NON A/C Sleeper (2+1),21:45,08:15,10h 30m,1799.0,1950.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1394,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),14:46,01:10,10h 24m,1500.0,1700.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1395,Intercity travels,Bharat Benz A/C Sleeper (2+1),23:00,08:10,09h 10m,1899.0,2799.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1396,Pooja Travels (Nagpur),Mercedes Benz A/C Sleeper (2+1),23:40,08:30,08h 50m,3480.0,4480.0,Lakdikapul,Bangalore Airport,Hyderabad,Bangalore
+1397,Kallada Travels (Suresh Kallada),Volvo Multi-Axle I-Shift A/C Semi Sleeper (2+2),14:05,23:20,09h 15m,1800.0,2000.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1398,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:40,07:05,11h 25m,1690.0,2090.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1399,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:20,07:15,07h 55m,2500.0,2700.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1400,VRL Travels,A/C Sleeper (2+1),19:10,04:30,09h 20m,2200.0,2400.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1401,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),16:05,01:50,09h 45m,2000.0,2100.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1402,YAS Tours and Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),14:46,01:10,10h 24m,950.0,950.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1403,JAI MARUTHI TRAVELS,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),23:30,07:20,07h 50m,2600.0,2700.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1404,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),17:10,02:40,09h 30m,2000.0,2200.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1405,Orange Tours and Travels,A/C Sleeper (2+1),19:15,04:45,09h 30m,1600.0,1800.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1406,Orange Tours and Travels,Volvo Multi-Axle Sleeper A/C (2+1),15:50,02:15,10h 25m,1600.0,1800.0,Lakdikapul,Anand Rao Circle,Hyderabad,Bangalore
+1407,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:55,07:30,09h 35m,2775.0,3275.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1408,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),17:10,03:00,09h 50m,2000.0,2100.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1409,Swamy Ayyappa Travels,A/C Sleeper (2+1),14:45,01:05,10h 20m,2000.0,2100.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1410,Bmcc Travels,A/C Sleeper (2+1),19:40,06:35,10h 55m,1799.1,2199.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1411,National travels,Scania AC Multi Axle Sleeper (2+1),22:25,08:55,10h 30m,1799.0,1999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1412,VRL Travels,NON A/C Sleeper (2+1),22:00,06:30,08h 30m,1800.0,2100.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1413,BigBus,Volvo 9600 Multi-Axle A/C Sleeper (2+1),14:25,00:30,10h 05m,4099.0,4899.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1414,Bmcc Travels,Non A/C Seater / Sleeper (2+1),22:25,08:05,09h 40m,999.0,1499.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1415,Orange Tours and Travels,Volvo Multi-Axle Sleeper A/C (2+1),14:55,00:30,09h 35m,1600.0,1800.0,Lakdikapul,Anand Rao Circle,Hyderabad,Bangalore
+1416,Orange Tours and Travels,Scania AC Multi Axle Sleeper (2+1),22:20,07:50,09h 30m,1600.0,1800.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1417,Orange Tours and Travels,Scania AC Multi Axle Sleeper (2+1),20:40,06:45,10h 05m,1800.0,2000.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1418,Orange Tours and Travels,Scania AC Multi Axle Sleeper (2+1),23:20,09:00,09h 40m,2000.0,2200.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1419,Sri Tulasi Tours and Travels,A/C Seater / Sleeper (2+1),23:15,08:20,09h 05m,2499.0,2499.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1420,Morning Star Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),22:30,08:25,09h 55m,2190.0,2390.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1421,Orange Tours and Travels,NON A/C Seater/ Sleeper (2+1),20:50,08:00,11h 10m,1000.0,1300.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1422,VRL Travels,NON A/C Sleeper (2+1),23:30,07:30,08h 00m,1800.0,2000.0,Mehdipatnam,Hebbal,Hyderabad,Bangalore
+1423,Bmcc Travels,NON AC Seater / Sleeper 2+1,20:50,07:45,10h 55m,1149.0,1699.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1424,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),10:25,19:26,09h 01m,1999.0,2399.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1425,PSK Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),14:05,00:25,10h 20m,1590.0,1790.0,Lakdikapul,Anand Rao Circle,Hyderabad,Bangalore
+1426,Orange Tours and Travels,A/C Seater / Sleeper (2+1),22:15,09:30,11h 15m,1300.0,1700.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1427,Orange Tours and Travels,Scania AC Multi Axle Sleeper (2+1),14:55,00:55,10h 00m,1700.0,1800.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1428,Dhanunjaya Travels,A/C Semi Sleeper / Sleeper (2+1),20:45,07:45,11h 00m,1500.0,2500.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1429,Orange Tours and Travels,A/C Sleeper (2+1),22:20,08:20,10h 00m,1500.0,1700.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1430,Kaleswari Travels,Non A/C Seater / Sleeper (2+1),21:30,09:05,11h 35m,1890.5,1899.05,Gachibowli,Hebbal,Hyderabad,Bangalore
+1431,Shyamoli Paribahan Pvt Ltd,A/C Sleeper (2+1),22:40,08:30,09h 50m,2276.1,3072.6,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1432,Morning Star Travels,A/C Sleeper (2+1),23:15,07:55,08h 40m,1790.0,1990.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1433,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),19:00,04:10,09h 10m,2000.0,2200.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1434,Dhanunjaya Travels,A/C Seater / Sleeper (2+1),22:00,08:30,10h 30m,1500.0,2000.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1435,Kallada Travels (Suresh Kallada),Scania AC Multi Axle Sleeper (2+1),15:05,00:50,09h 45m,2100.0,2300.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1436,Morning Star Travels,A/C Sleeper (2+1),22:10,07:50,09h 40m,2190.0,2390.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1437,Orange Tours and Travels,A/C Sleeper (2+1),22:20,08:30,10h 10m,1500.0,1700.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1438,Tranzindia Travels,Non A/C Seater / Sleeper (2+1),19:15,07:30,12h 15m,1550.0,1950.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1439,Tranzindia Travels,VE A/C Sleeper (2+1),23:30,08:00,08h 30m,2450.0,2750.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1440,S.L Travels,NON A/C Sleeper (2+1),21:25,07:45,10h 20m,3000.0,3000.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1441,Kallada Travels (Suresh Kallada),Scania Multi-Axle AC Semi Sleeper (2+2),17:10,02:30,09h 20m,1800.0,1800.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1442,IRA Transports,VE A/C Sleeper (2+1),22:45,08:20,09h 35m,2699.0,3299.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1443,Northern Travels,Bharat Benz A/C Sleeper (2+1),23:45,10:30,10h 45m,1049.0,1499.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1444,Shree Savariya Travels & Transport,A/C Sleeper (2+1),02:30,12:05,09h 35m,5699.0,5999.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1445,DNR Express,Bharat Benz A/C Sleeper (2+1),23:00,07:30,08h 30m,2199.0,2499.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1446,Orange Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:55,03:00,10h 05m,1600.0,1800.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1447,TVK TRAVELS,Bharat Benz A/C Sleeper (2+1),22:35,08:05,09h 30m,2999.0,2999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1448,Bharathi Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:00,07:00,10h 00m,1700.0,1999.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1449,Jabbar Travels,VE A/C Sleeper (2+1),19:20,06:30,11h 10m,2590.0,2890.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1450,IRA Transports,A/C Sleeper (2+1),23:15,08:30,09h 15m,4199.0,4199.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1451,National travels,Bharat Benz A/C Sleeper (2+1),23:40,08:45,09h 05m,1799.0,1799.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1452,Bmcc Travels,A/C Sleeper (2+1),23:45,09:00,09h 15m,1395.0,1650.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1453,Kaleswari Travels,Non A/C Seater / Sleeper (2+1),20:00,08:00,12h 00m,1890.5,1899.05,Gachibowli,Hebbal,Hyderabad,Bangalore
+1454,Sri Krishna Travels,A/C Sleeper (2+1),21:30,08:25,10h 55m,2290.0,2390.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1455,Saleem Travels,NON A/C Seater Push Back (2+2),19:05,06:01,10h 56m,1199.0,1199.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1456,Tranzindia Travels,VE A/C Sleeper (2+1),22:30,07:20,08h 50m,3050.0,3350.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1457,PSK Travels,Bharat Benz A/C Sleeper (2+1),16:55,03:25,10h 30m,1490.0,1690.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1458,Kaleswari Travels,Non A/C Seater / Sleeper (2+1),19:45,07:45,12h 00m,1999.0,1999.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1459,Naveen Travels (Durg),Bharat Benz A/C Sleeper (2+1),22:45,09:25,10h 40m,2500.0,3300.0,Kompally,Anand Rao Circle,Hyderabad,Bangalore
+1460,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,08:30,11h 00m,2290.0,2390.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1461,Dream Line Travels Pvt Ltd,VE A/C Sleeper (2+1),23:50,09:20,09h 30m,2200.0,2450.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1462,Renuka Bus Service,A/C Seater / Sleeper (2+1),19:50,08:35,12h 45m,3500.0,4000.0,Patancheru,Bangalore,Hyderabad,Bangalore
+1463,Raja Express,VE A/C Sleeper (2+1),22:30,07:50,09h 20m,1390.0,1590.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1464,Orange Tours and Travels,Bharat Benz A/C Sleeper (2+1),15:50,02:30,10h 40m,1400.0,1400.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1465,Shree Savariya Travels & Transport,A/C Seater / Sleeper (2+1),23:30,09:25,09h 55m,5799.0,5999.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1466,Skyline Transport,Non A/C Seater / Sleeper (2+1),23:10,05:35,06h 25m,3999.0,3999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1467,Intercity travels,Bharat Benz A/C Sleeper (2+1),22:00,07:55,09h 55m,1999.0,2999.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1468,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),19:00,05:12,10h 12m,2300.0,2300.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1469,Meghana Travels,A/C Seater / Sleeper (2+1),22:55,08:35,09h 40m,3000.0,3000.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1470,Travel Point World LLP,AC Sleeper (2+1),22:32,07:50,09h 18m,4500.0,4500.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1471,Travel Point World LLP,A/C Seater / Sleeper (2+2),23:15,08:45,09h 30m,2285.71,3808.57,Afzalgunj,Anand Rao Circle,Hyderabad,Bangalore
+1472,K.L.A Travels,A/C Seater / Sleeper (2+1),23:25,08:30,09h 05m,2199.0,2590.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1473,K.L.A Travels,A/C Sleeper (2+1),21:45,09:05,11h 20m,1709.05,2184.05,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1474,VKV Travels,A/C Sleeper (2+1),23:05,10:10,11h 05m,2490.0,2790.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1475,Northern Travels,Bharat Benz A/C Sleeper (2+1),21:50,08:30,10h 40m,2599.0,3299.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1476,Meghana Travels,A/C Sleeper (2+1),22:55,08:35,09h 40m,3000.0,3000.0,Lakdikapul,Marathahalli,Hyderabad,Bangalore
+1477,Ashoka Travels,Scania Multi-Axle AC Semi Sleeper (2+2),20:25,05:20,08h 55m,1500.0,1500.0,Lakdikapul,Hebbal,Hyderabad,Bangalore
+1478,Tranzindia Travels,VE A/C Sleeper (2+1),22:40,09:10,10h 30m,2450.0,2750.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1479,Dhanunjaya Travels,A/C Sleeper (2+1),23:15,07:45,08h 30m,2000.0,2200.0,Gachibowli,Hebbal,Hyderabad,Bangalore
+1480,Dhanunjaya Travels,A/C Seater / Sleeper (2+1),23:00,10:05,11h 05m,1500.0,2000.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1481,SL Travels,A/C Sleeper (2+1),23:10,08:00,08h 50m,3000.0,3000.0,Gachibowli,Marathahalli,Hyderabad,Bangalore
+1482,IntrCity SmartBus,AC Sleeper (2+1),19:05,12:00,16h 55m,1540.0,2438.0,Miyapur,Mapusa,Hyderabad,Goa
+1483,Atmaram Gobus,Bharat Benz A/C Sleeper (2+1),18:00,11:25,17h 25m,1850.0,2591.0,Afzalgunj,Madgaon,Hyderabad,Goa
+1484,IntrCity SmartBus,AC Sleeper (2+1),17:50,10:40,16h 50m,1540.0,2438.0,Miyapur,Mapusa,Hyderabad,Goa
+1485,VRL Travels,A/C Sleeper (2+1),21:15,13:15,16h 00m,1700.0,1900.0,Lakdikapul,Madgaon,Hyderabad,Goa
+1486,Zingbus Plus,AC Sleeper (2+1),17:35,10:50,17h 15m,2596.0,2596.0,Hydernagar,Mapusa,Hyderabad,Goa
+1487,VRL Travels,A/C Sleeper (2+1),18:15,10:15,16h 00m,2000.0,2200.0,Mehdipatnam,Madgaon,Hyderabad,Goa
+1488,PSR Travels Goa (SOARES),A/C Sleeper (2+1),18:30,10:45,16h 15m,1400.0,1700.0,Miyapur,Madgaon,Hyderabad,Goa
+1489,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:15,10:00,16h 45m,2600.0,2800.0,Patancheru,Canacona,Hyderabad,Goa
+1490,VRL Travels,A/C Sleeper (2+1),17:00,09:30,16h 30m,1800.0,2100.0,Lakdikapul,Old-Goa(By-Pass),Hyderabad,Goa
+1491,Orange Tours and Travels,A/C Sleeper (2+1),18:15,09:00,14h 45m,1200.0,1300.0,Bhel,Panjim,Hyderabad,Goa
+1492,Orange Tours and Travels,A/C Sleeper (2+1),20:00,10:30,14h 30m,1320.0,1430.0,CHANDANAGAR,Panjim,Hyderabad,Goa
+1493,PSR Travels Goa (Parrikar),VE A/C Sleeper (2+1),20:25,11:25,15h 00m,1300.0,1600.0,Gachibowli,Mapusa,Hyderabad,Goa
+1494,FlixBus,VE A/C Sleeper (2+1),18:00,12:05,18h 05m,2141.96,2266.07,Kukatpally,Madgaon,Hyderabad,Goa
+1495,PVS Tours and Travels,A/C Sleeper (2+1),19:00,11:00,16h 00m,3200.0,3200.0,Erragadda,Panjim,Hyderabad,Goa
+1496,Hans Travels (I) Private Limited,Volvo 9600 Multi-Axle A/C Sleeper (2+1),15:30,11:11,43h 41m,4300.0,4300.0,Afzalgunj,Kankavli,Hyderabad,Goa
+1497,PVS Tours and Travels,A/C Sleeper (2+1),22:30,13:30,15h 00m,3500.0,3500.0,Paradise,Cortalim,Hyderabad,Goa
+1498,NEW DHEERAJ TOURS AND TRAVELS,A/C Sleeper (2+1),19:30,11:00,15h 30m,2000.0,2000.0,LB Nagar,Mapusa,Hyderabad,Goa
+1499,Taruni Trans & Logistics,A/C Sleeper (2+1),20:30,12:30,16h 00m,5000.0,5000.0,LB Nagar (Pickup Van/Bus),Goa,Hyderabad,Goa
+1500,Lotus Travels,A/C Sleeper (2+1),21:00,12:50,15h 50m,1990.0,1990.0,LB Nagar,Panjim,Hyderabad,Goa
+1501,ISRTC BUS,A/C Sleeper (2+1),21:00,12:30,15h 30m,3500.0,3500.0,Lakdikapul,Mapusa,Hyderabad,Goa
+1502,Lakshmi Travels,Non A/C Seater / Sleeper (2+1),15:00,10:00,19h 00m,4625.0,4625.0,Vanasthalipuram,Mapusa,Hyderabad,Goa
+1503,Hriday Tours & Travels,A/C Sleeper (2+1),21:30,12:20,14h 50m,7000.0,7000.0,Nizampet,Panjim,Hyderabad,Goa
+1504,NEW DHEERAJ TOURS AND TRAVELS,A/C Sleeper (2+1),21:00,12:00,15h 00m,2000.0,2000.0,LB Nagar,Panjim,Hyderabad,Goa
+1505,GTT Travels,A/C Sleeper (2+1),22:45,14:00,15h 15m,2999.0,2999.0,Gachibowli,Panjim,Hyderabad,Goa
+1506,TGSRTC - 1393,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",02:30,09:30,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1507,TGSRTC - 9641,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",02:40,10:40,08h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1508,TGSRTC - 1268,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,10:00,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1509,TGSRTC - 1290,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:20,10:20,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1510,TGSRTC - 1200,Rajdhani (AC Semi Sleeper 2+2),03:30,09:30,06h 00m,425.0,425.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1511,TGSRTC - 1225,Rajdhani (AC Semi Sleeper 2+2),04:00,10:00,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1512,TGSRTC - 1270,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:40,11:40,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1513,TGSRTC - 1214,Rajdhani (AC Semi Sleeper 2+2),05:00,11:00,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1514,TGSRTC - 1238,Rajdhani (AC Semi Sleeper 2+2),05:00,12:00,07h 00m,523.0,523.0,Ramachandra Puram,SRISAILAM BS,Hyderabad,Srisailam
+1515,TGSRTC - 1242,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:20,13:50,08h 30m,431.0,431.0,Ramachandra Puram,SRISAILAM BS,Hyderabad,Srisailam
+1516,TGSRTC - 8600,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:20,10:50,05h 30m,350.0,350.0,Central Bus Station (CBS),SRISAILAM BUS STATION,Hyderabad,Srisailam
+1517,TGSRTC - 1309,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:20,12:20,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1518,TGSRTC - 1284,Rajdhani (AC Semi Sleeper 2+2),05:30,11:30,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1519,TGSRTC - 9633,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:20,13:20,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1520,TGSRTC - 9607,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:20,14:25,08h 05m,431.0,431.0,Patancheru,SRISAILAM TOLL,Hyderabad,Srisailam
+1521,TGSRTC - 1216,Rajdhani (AC Semi Sleeper 2+2),06:30,12:30,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1522,TGSRTC - 1248,Rajdhani (AC Semi Sleeper 2+2),07:00,14:00,07h 00m,523.0,523.0,Ramachandra Puram,SRISAILAM BS,Hyderabad,Srisailam
+1523,TGSRTC - 1240,Rajdhani (AC Semi Sleeper 2+2),07:00,13:00,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1524,TGSRTC - 1944,Deluxe (Non AC Seater 2+2),07:10,15:35,08h 25m,389.0,389.0,GUMMADIDALA,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1525,TGSRTC - 1292,Rajdhani (AC Semi Sleeper 2+2),08:30,14:30,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BS,Hyderabad,Srisailam
+1526,TGSRTC - 1364,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:40,15:40,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1527,TGSRTC - 1258,Rajdhani (AC Semi Sleeper 2+2),09:00,15:00,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1528,TGSRTC - 1351,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:20,16:20,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1529,TGSRTC - 9496,Deluxe (Non AC Seater 2+2),09:30,17:20,07h 50m,389.0,389.0,Patancheru,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1530,TGSRTC - 9639,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:40,16:40,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1531,TGSRTC - 1272,Rajdhani (AC Semi Sleeper 2+2),10:00,16:00,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1532,TGSRTC - 1245,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:00,18:00,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1533,TGSRTC - 8273,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:10,16:50,05h 40m,431.0,431.0,Central Bus Station (CBS),SRISAILAM BUS STATION,Hyderabad,Srisailam
+1534,TGSRTC - 1236,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:20,18:20,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1535,TGSRTC - 9637,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:40,18:40,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1536,TGSRTC - 1274,Rajdhani (AC Semi Sleeper 2+2),12:00,18:00,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1537,TGSRTC - 1288,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:20,19:20,07h 00m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1538,TGSRTC - 1276,Rajdhani (AC Semi Sleeper 2+2),13:00,19:00,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1539,TGSRTC - 1964,Deluxe (Non AC Seater 2+2),13:20,22:15,08h 55m,389.0,389.0,GUMMADIDALA,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1540,TGSRTC - 9616,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:25,21:20,07h 55m,431.0,431.0,Isnapur,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1541,TGSRTC - 1278,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:30,20:40,07h 10m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1542,TGSRTC - 1282,Rajdhani (AC Semi Sleeper 2+2),14:00,20:00,06h 00m,523.0,523.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1543,TGSRTC - 9618,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:20,22:20,08h 00m,431.0,431.0,Patancheru,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1544,TGSRTC - 8271,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:20,20:00,05h 40m,431.0,431.0,Central Bus Station (CBS),SRISAILAM BUS STATION,Hyderabad,Srisailam
+1545,TGSRTC - 1260,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:30,21:40,07h 10m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1546,TGSRTC - 1266,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,23:00,07h 15m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1547,TGSRTC - 4322,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,08:20,12h 35m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1548,TGSRTC - 1254,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:10,08:30,12h 20m,431.0,431.0,Ramachandra Puram,SRISAILAM BS,Hyderabad,Srisailam
+1549,TGSRTC - 1252,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:15,08:20,12h 05m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1550,TGSRTC - 1280,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,08:20,11h 35m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1551,TGSRTC - 1045,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,08:30,11h 00m,431.0,431.0,Ramachandra Puram,SRISAILAM BS,Hyderabad,Srisailam
+1552,TGSRTC - 1250,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,08:20,10h 35m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1553,TGSRTC - 1256,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:55,08:35,10h 40m,431.0,431.0,Ramachandra Puram,SRISAILAM BS,Hyderabad,Srisailam
+1554,TGSRTC - 1286,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,08:20,09h 50m,431.0,431.0,Jubilee Bus Station JBS,SRISAILAM BUS STATION,Hyderabad,Srisailam
+1555,APSRTC - 3563,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:00,07:15,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+1556,APSRTC - 35266,VENNELA (A.C. SLEEPER),01:25,07:30,06h 05m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+1557,APSRTC - 3590,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:45,08:00,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+1558,APSRTC - 3058,VENNELA (A.C. SLEEPER),02:10,08:15,06h 05m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+1559,APSRTC - 3548,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,09:20,06h 20m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+1560,APSRTC - 35197,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),03:10,09:00,05h 50m,633.0,633.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+1561,APSRTC - 35190,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),04:10,10:05,05h 55m,670.0,670.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+1562,APSRTC - 3558,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),04:20,09:45,05h 25m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1563,APSRTC - 4726,INDRA(A.C. Seater),04:30,10:15,05h 45m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1564,APSRTC - 35136,INDRA(A.C. Seater),04:45,11:00,06h 15m,498.0,498.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1565,APSRTC - 3540,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,12:05,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1566,APSRTC - 3586,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),05:10,11:00,05h 50m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1567,APSRTC - 35196,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:50,12:50,07h 00m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1568,APSRTC - 35062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:55,13:10,07h 15m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1569,APSRTC - 35274,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),06:10,12:30,06h 20m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1570,APSRTC - 23701,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:15,12:30,06h 15m,436.0,436.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+1571,APSRTC - 3592,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:00,14:20,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1572,APSRTC - 3572,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),07:05,13:30,06h 25m,683.0,683.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1573,APSRTC - 3822,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:50,15:00,07h 10m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1574,APSRTC - 9401,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:00,15:50,07h 50m,412.0,412.0,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+1575,APSRTC - 35267,INDRA(A.C. Seater),08:15,14:30,06h 15m,498.0,498.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1576,APSRTC - 3749,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:50,16:15,07h 25m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1577,APSRTC - 3574,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),09:15,16:00,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1578,APSRTC - 9357,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:15,16:50,07h 35m,444.0,444.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+1579,APSRTC - 40569,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:40,17:30,07h 50m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1580,APSRTC - 3634,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),10:10,16:30,06h 20m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1581,APSRTC - 23508,INDRA(A.C. Seater),10:30,15:45,05h 15m,528.0,528.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+1582,APSRTC - 3598,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:35,18:00,07h 25m,444.0,444.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1583,APSRTC - 35086,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),11:15,17:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1584,APSRTC - 3580,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),12:15,18:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1585,APSRTC - 24256,INDRA(A.C. Seater),12:30,17:35,05h 05m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1586,APSRTC - 3576,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),13:15,19:50,06h 35m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1587,APSRTC - 35154,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:40,21:00,07h 20m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1588,APSRTC - 9363,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:00,20:00,06h 00m,412.0,412.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1589,APSRTC - 3578,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),14:15,20:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1590,APSRTC - 94285,INDRA(A.C. Seater),14:25,19:00,04h 35m,528.0,528.0,LB Nagar,Rtc bus stand,Hyderabad,Vijayawada
+1591,APSRTC - 3722,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:30,20:30,06h 00m,412.0,412.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1592,APSRTC - 3859,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),15:15,21:50,06h 35m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1593,APSRTC - 4045,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,22:00,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+1594,APSRTC - 3356,NIGHT RIDER (SEATER CUM SLEEPER),15:45,22:45,07h 00m,595.0,595.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1595,APSRTC - 3546,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),16:15,23:00,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1596,APSRTC - 3500,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:20,00:45,08h 25m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1597,APSRTC - 3376,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,23:15,06h 30m,436.0,436.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1598,APSRTC - 2561,INDRA(A.C. Seater),17:15,22:30,05h 15m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1599,APSRTC - 3570,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),17:15,23:55,06h 40m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1600,APSRTC - 3366,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:55,01:45,07h 50m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1601,APSRTC - 3360,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),18:25,01:30,07h 05m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1602,APSRTC - 2575,NIGHT RIDER (SEATER CUM SLEEPER),18:55,01:15,06h 20m,506.0,506.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1603,APSRTC - 3358,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,01:10,06h 10m,436.0,436.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1604,APSRTC - 2674,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,03:05,07h 50m,436.0,436.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+1605,APSRTC - 2898,STAR LINER(NON-AC SLEEPER 2+1),19:25,02:05,06h 40m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1606,APSRTC - 4916,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:25,02:15,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1607,APSRTC - 24262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,02:00,06h 30m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+1608,APSRTC - 2563,INDRA(A.C. Seater),19:30,01:05,05h 35m,449.0,449.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1609,APSRTC - 2680,VENNELA (A.C. SLEEPER),19:45,02:15,06h 30m,781.0,781.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1610,APSRTC - 2798,INDRA(A.C. Seater),19:55,02:30,06h 35m,567.0,567.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1611,APSRTC - 23534,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,03:45,07h 45m,436.0,436.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+1612,APSRTC - 2688,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:00,06h 00m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+1613,APSRTC - 3658,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:00,02:45,06h 45m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1614,APSRTC - 4972,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:10,03:20,07h 10m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1615,APSRTC - 2549,NIGHT RIDER (SEATER CUM SLEEPER),20:15,02:25,06h 10m,506.0,506.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+1616,APSRTC - 2573,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:25,03:00,06h 35m,570.0,570.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1617,APSRTC - 3971,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,03:15,06h 45m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+1618,APSRTC - 4898,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:05,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1619,APSRTC - 2786,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:40,03:45,07h 05m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1620,APSRTC - 2678,NIGHT RIDER (SEATER CUM SLEEPER),20:40,03:00,06h 20m,595.0,595.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1621,APSRTC - 3697,STAR LINER(NON-AC SLEEPER 2+1),20:45,03:45,07h 00m,607.0,607.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+1622,APSRTC - 3977,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:15,07h 15m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1623,APSRTC - 2876,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,03:30,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1624,APSRTC - 37801,INDRA(A.C. Seater),21:00,03:45,06h 45m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1625,APSRTC - 3544,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:15,07h 15m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1626,APSRTC - 38202,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:45,07h 45m,444.0,444.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+1627,APSRTC - 4351,STAR LINER(NON-AC SLEEPER 2+1),21:00,04:30,07h 30m,607.0,607.0,A S Rao Nagar,Rtc bus stand,Hyderabad,Vijayawada
+1628,APSRTC - 4896,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:05,03:30,06h 25m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1629,APSRTC - 4179,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),21:05,04:00,06h 55m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1630,APSRTC - 3969,INDRA(A.C. Seater),21:05,03:20,06h 15m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1631,APSRTC - 4900,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,04:05,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1632,APSRTC - 3612,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,04:50,07h 30m,446.0,446.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1633,APSRTC - 95703,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:25,03:30,06h 05m,420.0,420.0,Kukatpally,IBRAHIMPATNAM-VJA,Hyderabad,Vijayawada
+1634,APSRTC - 3962,INDRA(A.C. Seater),21:25,04:15,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1635,APSRTC - 4795,INDRA(A.C. Seater),21:30,04:10,06h 40m,581.0,581.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1636,APSRTC - 4043,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,04:25,06h 55m,444.0,444.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+1637,APSRTC - 4353,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:15,06h 40m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1638,APSRTC - 3883,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:30,06h 55m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1639,APSRTC - 4823,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,04:00,06h 25m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1640,APSRTC - 35212,STAR LINER(NON-AC SLEEPER 2+1),21:35,03:45,06h 10m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1641,APSRTC - 35064,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:38,04:30,06h 52m,412.0,412.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1642,APSRTC - 35172,STAR LINER(NON-AC SLEEPER 2+1),21:40,05:10,07h 30m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1643,APSRTC - 3622,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:40,04:45,07h 05m,414.0,414.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1644,APSRTC - 4920,INDRA(A.C. Seater),21:40,04:30,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1645,APSRTC - 4815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:20,06h 35m,436.0,436.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+1646,APSRTC - 4936,STAR LINER(NON-AC SLEEPER 2+1),21:45,04:00,06h 15m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1647,APSRTC - 9652,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,04:50,07h 05m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1648,APSRTC - 2676,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),21:45,04:00,06h 15m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1649,APSRTC - 4813,INDRA(A.C. Seater),21:50,04:50,07h 00m,567.0,567.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+1650,APSRTC - 4996,INDRA(A.C. Seater),21:55,03:50,05h 55m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1651,APSRTC - 9655,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:55,05:05,07h 10m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1652,APSRTC - 3917,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:10,07h 10m,412.0,412.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+1653,APSRTC - 3618,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,05:30,07h 30m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1654,APSRTC - 4789,STAR LINER(NON-AC SLEEPER 2+1),22:05,04:30,06h 25m,565.0,565.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1655,APSRTC - 4340,INDRA(A.C. Seater),22:10,05:00,06h 50m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1656,APSRTC - 4821,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,04:30,06h 20m,517.0,517.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1657,APSRTC - 4355,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,05:15,07h 05m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1658,APSRTC - 3691,INDRA(A.C. Seater),22:10,04:30,06h 20m,528.0,528.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1659,APSRTC - 4049,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,05:35,07h 20m,412.0,412.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+1660,APSRTC - 3568,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),22:15,04:30,06h 15m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1661,APSRTC - 3944,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:20,04:45,06h 25m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1662,APSRTC - 3693,NIGHT RIDER (SEATER CUM SLEEPER),22:25,05:00,06h 35m,639.0,639.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1663,APSRTC - 3582,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:25,05:00,06h 35m,635.0,635.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1664,APSRTC - 3695,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:20,06h 50m,469.0,469.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1665,APSRTC - 9365,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:30,07h 00m,446.0,446.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1666,APSRTC - 3560,INDRA(A.C. Seater),22:30,04:15,05h 45m,567.0,567.0,A S Rao Nagar,Rtc bus stand,Hyderabad,Vijayawada
+1667,APSRTC - 1445,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:30,07h 00m,414.0,414.0,Mehdipatnam,Benz Circle,Hyderabad,Vijayawada
+1668,APSRTC - 3909,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:35,07h 05m,412.0,412.0,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+1669,APSRTC - 3824,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,05:10,06h 40m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1670,APSRTC - 4791,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),22:40,05:00,06h 20m,720.0,720.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1671,APSRTC - 3952,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,05:15,06h 30m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1672,APSRTC - 3839,VENNELA (A.C. SLEEPER),22:45,04:55,06h 10m,737.0,737.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1673,APSRTC - 35106,VENNELA (A.C. SLEEPER),22:50,04:30,05h 40m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+1674,APSRTC - 3542,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:50,05:50,07h 00m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1675,APSRTC - 3508,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:00,05:15,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+1676,APSRTC - 3516,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:10,06:05,06h 55m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1677,APSRTC - 3826,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:10,06:00,06h 50m,436.0,436.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1678,APSRTC - 9935,STAR LINER(NON-AC SLEEPER 2+1),23:10,05:25,06h 15m,607.0,607.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1679,APSRTC - 35270,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),23:15,05:30,06h 15m,670.0,670.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1680,APSRTC - 3514,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:30,06:20,06h 50m,444.0,444.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1681,APSRTC - 4037,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:35,06:10,06h 35m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1682,APSRTC - 3887,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),23:55,06:00,06h 05m,633.0,633.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+1683,TGSRTC - 4771,Rajdhani (AC Semi Sleeper 2+2),02:35,09:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1684,TGSRTC - 40010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,09:55,06h 55m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1685,TGSRTC - 1463,Rajdhani (AC Semi Sleeper 2+2),03:00,08:30,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1686,TGSRTC - 40277,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:05,09:35,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1687,TGSRTC - 30062,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),03:20,10:05,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1688,TGSRTC - 1421,Rajdhani (AC Semi Sleeper 2+2),03:30,09:00,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1689,TGSRTC - 1500,Rajdhani (AC Semi Sleeper 2+2),03:35,10:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1690,TGSRTC - 12862,eGARUDA,03:55,10:45,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1691,TGSRTC - 9933,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:05,10:55,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1692,TGSRTC - 1467,Rajdhani (AC Semi Sleeper 2+2),04:15,09:45,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1693,TGSRTC - 2980,Rajdhani (AC Semi Sleeper 2+2),04:35,11:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1694,TGSRTC - 40231,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,10:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1695,TGSRTC - 1353,Rajdhani (AC Semi Sleeper 2+2),04:55,11:45,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1696,TGSRTC - 40431,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:05,10:35,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1697,TGSRTC - 2961,Rajdhani (AC Semi Sleeper 2+2),05:15,12:05,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1698,TGSRTC - 40462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:25,12:15,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1699,TGSRTC - 1524,Rajdhani (AC Semi Sleeper 2+2),05:35,11:05,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1700,TGSRTC - 40610,Rajdhani (AC Semi Sleeper 2+2),05:35,12:25,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1701,TGSRTC - 40062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,12:35,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1702,TGSRTC - 40631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",05:45,11:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1703,TGSRTC - 40030,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:05,11:35,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1704,TGSRTC - 30262,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),06:15,13:05,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1705,TGSRTC - 40831,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:25,11:55,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1706,TGSRTC - 1343,Rajdhani (AC Semi Sleeper 2+2),06:40,13:30,30h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1707,TGSRTC - 40477,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:50,13:20,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1708,TGSRTC - 40262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:10,13:20,06h 10m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1709,TGSRTC - 1739,Rajdhani (AC Semi Sleeper 2+2),07:15,12:45,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1710,TGSRTC - 1425,Rajdhani (AC Semi Sleeper 2+2),07:20,14:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1711,TGSRTC - 30610,Rajdhani (AC Semi Sleeper 2+2),07:45,14:30,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1712,TGSRTC - 1649,Rajdhani (AC Semi Sleeper 2+2),07:45,13:15,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1713,TGSRTC - 41262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,14:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1714,TGSRTC - 41062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:55,14:15,06h 20m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1715,TGSRTC - 41010,Rajdhani (AC Semi Sleeper 2+2),08:20,15:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1716,TGSRTC - 14462,eGARUDA,08:45,15:30,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1717,TGSRTC - 41662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:55,15:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1718,TGSRTC - 1504,Rajdhani (AC Semi Sleeper 2+2),09:15,16:00,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1719,TGSRTC - 42462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:25,16:15,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1720,TGSRTC - 41231,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:45,15:15,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1721,TGSRTC - 14662,eGARUDA,09:50,16:30,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1722,TGSRTC - 010101,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:00,18:30,08h 30m,660.0,660.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1723,TGSRTC - 7662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,16:50,06h 40m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1724,TGSRTC - 41610,Rajdhani (AC Semi Sleeper 2+2),10:10,17:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1725,TGSRTC - 42662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:10,16:45,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1726,TGSRTC - 16262,eGARUDA,10:50,17:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1727,TGSRTC - 41462,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:20,18:00,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1728,TGSRTC - 1916,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:30,19:00,07h 30m,440.0,440.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+1729,TGSRTC - 12062,eGARUDA,11:35,18:20,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1730,TGSRTC - 30810,GARUDA PLUS (VOLVO / BENZ A.C Multi Axle),11:50,18:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1731,TGSRTC - 1615,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:00,19:30,07h 30m,440.0,440.0,Medchal,Rtc bus stand,Hyderabad,Vijayawada
+1732,TGSRTC - 13662,eGARUDA,12:20,19:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1733,TGSRTC - 1627,Rajdhani (AC Semi Sleeper 2+2),13:20,20:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1734,TGSRTC - 1593,Rajdhani (AC Semi Sleeper 2+2),13:20,19:20,06h 00m,533.0,533.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1735,TGSRTC - 42862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:30,20:20,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1736,TGSRTC - 7741,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:05,21:10,07h 05m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1737,TGSRTC - 43262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:10,21:00,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1738,TGSRTC - 41631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:10,19:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1739,TGSRTC - 41810,Rajdhani (AC Semi Sleeper 2+2),14:35,21:20,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1740,TGSRTC - 7761,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",14:50,22:10,07h 20m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1741,TGSRTC - 1449,Rajdhani (AC Semi Sleeper 2+2),15:10,20:40,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1742,TGSRTC - 1502,Rajdhani (AC Semi Sleeper 2+2),15:15,22:00,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1743,TGSRTC - 2042,LAHARI A/C SLEEPER CUM SEATER,15:45,22:10,06h 25m,536.0,536.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1744,TGSRTC - 42031,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,21:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1745,TGSRTC - 40862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:10,23:00,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1746,TGSRTC - 1423,Rajdhani (AC Semi Sleeper 2+2),16:30,23:10,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1747,TGSRTC - 40662,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:40,23:20,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1748,TGSRTC - 41831,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,22:10,05h 20m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1749,TGSRTC - 1585,Rajdhani (AC Semi Sleeper 2+2),17:00,22:30,05h 30m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1750,TGSRTC - 8002,Lahari Non A/C Sleeper Cum Seater,17:00,01:00,08h 00m,442.0,442.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1751,TGSRTC - 43062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:25,00:01,06h 36m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1752,TGSRTC - 42062,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:40,00:30,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1753,TGSRTC - 1631,Rajdhani (AC Semi Sleeper 2+2),17:40,00:10,06h 30m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1754,TGSRTC - 9698,Lahari A/C sleeper,17:45,00:40,06h 55m,729.0,729.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1755,TGSRTC - 42262,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,00:50,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1756,TGSRTC - 41431,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:10,23:40,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1757,TGSRTC - 31062,Rajdhani (AC Semi Sleeper 2+2),18:15,01:00,06h 45m,573.0,573.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1758,TGSRTC - 1417,Rajdhani (AC Semi Sleeper 2+2),18:20,23:49,05h 29m,533.0,533.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1759,TGSRTC - 40410,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,01:10,06h 40m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1760,TGSRTC - 41862,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:40,01:25,06h 45m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1761,TGSRTC - 1757,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:45,02:05,07h 20m,440.0,440.0,Ecil,Rtc bus stand,Hyderabad,Vijayawada
+1762,TGSRTC - 7620,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:50,01:10,06h 20m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1763,TGSRTC - 9929,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:05,01:35,06h 30m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1764,TGSRTC - 1548,Rajdhani (AC Semi Sleeper 2+2),19:20,02:00,06h 40m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1765,TGSRTC - 1469,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,02:30,07h 00m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1766,TGSRTC - 1401,Rajdhani (AC Semi Sleeper 2+2),19:30,02:20,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1767,TGSRTC - 41210,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:35,02:10,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1768,TGSRTC - 9886,Rajdhani (AC Semi Sleeper 2+2),19:47,02:40,06h 53m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1769,TGSRTC - 9884,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,02:35,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1770,TGSRTC - 7692,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:05,02:50,06h 45m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1771,TGSRTC - 1625,Rajdhani (AC Semi Sleeper 2+2),20:10,02:35,06h 25m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1772,TGSRTC - 1373,Rajdhani (AC Semi Sleeper 2+2),20:25,03:10,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1773,TGSRTC - 9943,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,03:00,06h 30m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1774,TGSRTC - 7771,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:35,03:40,07h 05m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1775,TGSRTC - 1579,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,03:45,07h 00m,440.0,440.0,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+1776,TGSRTC - 4077,Rajdhani (AC Semi Sleeper 2+2),20:50,03:40,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1777,TGSRTC - 14670,Rajdhani (AC Semi Sleeper 2+2),21:00,06:00,09h 00m,801.0,801.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1778,TGSRTC - 9922,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,03:50,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1779,TGSRTC - 1589,Rajdhani (AC Semi Sleeper 2+2),21:30,04:20,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1780,TGSRTC - 9880,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:35,03:40,06h 05m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1781,TGSRTC - 7769,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:50,04:30,06h 40m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1782,TGSRTC - 41410,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:55,04:30,06h 35m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1783,TGSRTC - 30862,Rajdhani (AC Semi Sleeper 2+2),21:55,04:40,06h 45m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1784,TGSRTC - 17862,eGARUDA,22:10,05:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1785,TGSRTC - 40077,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:40,05:10,06h 30m,440.0,440.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1786,TGSRTC - 9882,Lahari Non A/C Sleeper Cum Seater,22:50,05:40,06h 50m,442.0,442.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1787,TGSRTC - 17062,eGARUDA,22:55,05:00,06h 05m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1788,TGSRTC - 42010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:55,05:45,06h 50m,440.0,440.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1789,TGSRTC - 18662,eGARUDA,23:10,06:00,06h 50m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1790,TGSRTC - 7773,Lahari Non A/C Sleeper Cum Seater,23:10,05:30,06h 20m,442.0,442.0,Jubilee Bus Station JBS,Rtc bus stand,Hyderabad,Vijayawada
+1791,TGSRTC - 40031,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:20,04:50,05h 30m,440.0,440.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+1792,TGSRTC - 6552,Rajdhani (AC Semi Sleeper 2+2),10:45,17:20,06h 35m,533.0,533.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1793,FRESHBUS,Electric A/C Seater (2+2),12:50,19:40,06h 50m,449.0,629.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1794,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06:00,06h 55m,699.0,1579.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1795,FRESHBUS,Electric A/C Seater (2+2),10:25,17:25,07h 00m,449.0,629.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1796,AdOrange Tours and Travels,NON A/C Seater/ Sleeper (2+1),19:40,03:55,08h 15m,510.0,710.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1797,FRESHBUS,Electric A/C Seater (2+2),16:35,23:55,07h 20m,909.0,1279.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1798,FRESHBUS,Electric A/C Seater (2+2),12:10,19:10,07h 00m,449.0,629.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1799,FRESHBUS,Electric A/C Seater (2+2),23:20,05:45,06h 25m,969.0,1279.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1800,AdSai RK Travels,Non A/C Seater / Sleeper (2+1),22:35,04:30,05h 55m,2000.0,2400.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1801,FRESHBUS,Electric A/C Seater (2+2),04:35,10:45,06h 10m,499.0,649.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1802,FRESHBUS,Electric A/C Seater (2+2),05:50,12:00,06h 10m,499.0,629.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1803,FRESHBUS,Electric A/C Seater (2+2),11:20,18:15,06h 55m,449.0,629.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1804,Sri Durga Malleswari Travels,A/C Sleeper (2+1),23:10,05:25,06h 15m,675.0,783.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1805,Sri Durga Malleswari Travels,A/C Seater / Sleeper (2+1),21:00,04:40,07h 40m,522.0,783.0,Ecil,Benz Circle,Hyderabad,Vijayawada
+1806,FRESHBUS,Electric A/C Seater (2+2),22:35,05:25,06h 50m,969.0,1279.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1807,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06:00,06h 55m,699.0,1579.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1808,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,06:05,06h 20m,799.0,1899.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1809,FRESHBUS,Electric A/C Seater (2+2),23:59,06:30,06h 31m,909.0,1279.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1810,IntrCity SmartBus,AC Sleeper (2+1),00:01,05:45,05h 44m,1089.0,1659.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1811,Sri Sanvi Tours and Travels,A/C Sleeper (2+1),23:12,04:53,05h 41m,2700.0,3000.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1812,NueGo,Electric A/C Seater (2+2),21:30,04:45,07h 15m,587.1,762.85,Jeedimetla,Rtc bus stand,Hyderabad,Vijayawada
+1813,Sri KVR Travels,A/C Sleeper (2+1),23:35,05:25,05h 50m,1099.0,1290.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1814,NueGo,Electric A/C Seater (2+2),10:00,16:50,06h 50m,426.55,553.85,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1815,IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),23:25,06:05,06h 40m,1219.0,1819.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1816,FRESHBUS,Electric A/C Seater (2+2),23:40,06:10,06h 30m,909.0,1279.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1817,NueGo,Electric A/C Seater/Sleeper (2+1),22:00,05:10,07h 10m,587.1,1073.5,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1818,Sri Durga Malleswari Travels,A/C Sleeper (2+1),23:10,04:35,05h 25m,870.0,870.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1819,NueGo,Electric A/C Seater (2+2),22:30,05:35,07h 05m,569.05,739.1,Jeedimetla,Benz Circle,Hyderabad,Vijayawada
+1820,NueGo,Electric A/C Seater (2+2),16:00,23:00,07h 00m,426.55,553.85,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1821,IntrCity SmartBus,AC Sleeper (2+1),22:45,05:50,07h 05m,1219.0,1819.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1822,NueGo,Electric A/C Seater (2+2),13:30,20:35,07h 05m,426.55,553.85,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1823,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),06:55,12:44,05h 49m,359.0,789.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1824,NueGo,Electric A/C Seater (2+2),12:00,18:50,06h 50m,426.55,553.85,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1825,IntrCity SmartBus,AC Sleeper (2+1),23:30,06:45,07h 15m,1289.0,1819.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1826,NueGo,Electric A/C Seater/Sleeper (2+1),23:00,06:00,07h 00m,554.8,1015.55,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1827,Svkdt travels,A/C Sleeper (2+1),23:35,05:50,06h 15m,1390.0,1790.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1828,IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),23:59,06:30,06h 31m,1219.0,1819.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1829,NueGo,Electric A/C Seater/Sleeper (2+1),10:30,17:30,07h 00m,426.55,779.95,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1830,NueGo,Electric A/C Semi Sleeper (2+2),22:35,05:40,07h 05m,474.05,615.6,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1831,NueGo,Electric A/C Semi Sleeper (2+2),09:30,17:10,07h 40m,498.75,646.95,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1832,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),23:13,04:20,05h 07m,1290.0,1790.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1833,Zingbus Plus,A/C Sleeper (2+1),15:55,23:45,07h 50m,1544.0,1544.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1834,NueGo,Electric A/C Seater (2+2),22:30,06:00,07h 30m,587.1,762.85,Chanda Nagar,Benz Circle,Hyderabad,Vijayawada
+1835,Sai RK Travels,Non A/C Seater / Sleeper (2+1),23:00,04:35,05h 35m,1499.0,1999.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1836,NueGo,Electric A/C Sleeper (2+1),23:30,06:40,07h 10m,664.05,862.6,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1837,IntrCity SmartBus,AC Sleeper (2+1),00:30,07:00,06h 30m,1089.0,1579.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1838,Svkdt travels,A/C Seater / Sleeper (2+1),23:35,05:30,05h 55m,1700.0,1999.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1839,NueGo,Electric A/C Seater (2+2),05:00,11:30,06h 30m,426.55,553.85,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1840,Tirumala Xpress,A/C Sleeper (2+1),23:00,05:50,06h 50m,859.5,1199.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1841,Zingbus Plus,A/C Seater / Sleeper (2+1),23:10,05:55,06h 45m,1232.0,1232.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1842,NueGo,Electric A/C Semi Sleeper (2+2),23:15,06:35,07h 20m,498.75,646.95,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1843,NueGo,Electric A/C Semi Sleeper (2+2),05:30,12:05,06h 35m,474.05,615.6,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1844,Tirumala Travels,A/C Sleeper (2+1),22:08,04:30,06h 22m,980.1,1789.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1845,V Kaveri Travels,A/C Seater / Sleeper (2+1),23:00,04:15,05h 15m,990.0,1490.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1846,Svkdt travels,A/C Sleeper (2+1),23:35,05:50,06h 15m,1890.0,1990.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1847,Go Tour Travels and Holidays,A/C Seater / Sleeper (2+1),22:48,04:15,05h 27m,873.0,1224.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1848,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,06:25,06h 40m,749.0,1819.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1849,LVR Travels,Non A/C Seater / Sleeper (2+1),23:37,05:45,06h 08m,3150.0,3500.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1850,BSR Tours And Travels,A/C Sleeper (2+1),22:00,04:10,06h 10m,1880.0,2380.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1851,LVP Travels,A/C Seater / Sleeper (2+1),22:49,04:45,05h 56m,1280.0,2580.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1852,Sri Sanvi Tours and Travels,A/C Sleeper (2+1),23:25,05:10,05h 45m,2700.0,3000.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1853,Sai RK Travels,Non A/C Seater / Sleeper (2+1),22:50,04:10,05h 20m,2000.0,2400.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1854,Kaveri Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:00,04:05,06h 05m,1459.0,2049.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1855,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),23:40,05:19,05h 39m,600.0,1110.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1856,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:05,02:50,07h 45m,1229.0,2879.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1857,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:40,04:20,07h 40m,859.0,2199.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1858,NueGo,Electric A/C Semi Sleeper (2+2),22:00,05:20,07h 20m,498.75,646.95,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1859,Orange Tours and Travels,A/C Sleeper (2+1),22:25,04:45,06h 20m,870.0,870.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1860,IntrCity SmartBus,AC Sleeper (2+1),18:35,01:50,07h 15m,1879.0,2879.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1861,IntrCity SmartBus,AC Sleeper (2+1),19:50,03:10,07h 20m,1979.0,2879.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1862,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),15:20,21:09,05h 49m,830.0,1410.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1863,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),00:10,05:00,04h 50m,940.0,2270.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1864,Orange Tours and Travels,Bharat Benz A/C Sleeper (2+1),22:55,05:45,06h 50m,870.0,870.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1865,Yolo Bus,A/C Sleeper (2+1),23:26,06:04,06h 38m,1280.0,1700.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1866,Yolo Bus,A/C Seater/Sleeper (2+1),22:46,05:24,06h 38m,800.0,800.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1867,Orange Tours and Travels,NON A/C Seater/ Sleeper (2+1),19:40,03:55,08h 15m,510.0,710.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1868,Zingbus Plus,A/C Sleeper (2+1),17:25,00:45,07h 20m,2354.0,2354.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1869,Mythri Tours And Travels,A/C Sleeper (2+1),20:38,02:28,05h 50m,1349.0,1929.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1870,Eswar Travels,A/C Seater / Sleeper (2+1),22:10,04:30,06h 20m,600.0,1100.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1871,Sri Shivanjaneya Travels,A/C Seater / Sleeper (2+1),22:57,04:30,05h 33m,999.0,1560.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1872,Orange Tours and Travels,NON A/C Seater/ Sleeper (2+1),23:00,05:30,06h 30m,510.0,710.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1873,V Kaveri Travels,A/C Seater / Sleeper (2+1),23:00,05:10,06h 10m,1090.0,1590.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1874,NueGo,Electric A/C Sleeper (2+1),21:45,04:21,06h 36m,776.15,1008.9,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1875,Nani Svkdt Travels,A/C Sleeper (2+1),23:20,04:30,05h 10m,1299.0,1299.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1876,FlixBus,VE A/C Sleeper (2+1),22:30,05:00,06h 30m,686.61,766.07,Miyapur,Benz Circle,Hyderabad,Vijayawada
+1877,BSR Tours And Travels,A/C Seater / Sleeper (2+1),19:10,02:30,07h 20m,1480.0,2280.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1878,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),17:55,01:20,07h 25m,1229.0,2879.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1879,Vikram Travels,VE A/C Sleeper (2+1),04:40,09:55,05h 15m,1699.0,2119.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1880,Orange Tours and Travels,Bharat Benz A/C Sleeper (2+1),22:55,05:45,06h 50m,870.0,995.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1881,Mayuri Travels,A/C Sleeper (2+1),21:43,03:50,06h 07m,1780.0,2100.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1882,Go Tour Travels and Holidays,A/C Sleeper (2+1),22:48,04:15,05h 27m,1251.0,1521.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1883,NueGo,Electric A/C Semi Sleeper (2+2),11:00,17:55,06h 55m,474.05,615.6,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1884,NueGo,Electric A/C Semi Sleeper (2+2),17:40,00:35,06h 55m,569.05,738.15,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1885,Mythri Tours And Travels,A/C Sleeper (2+1),21:10,03:05,05h 55m,1059.0,1459.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1886,IntrCity SmartBus,AC Sleeper (2+1),22:50,05:20,06h 30m,1339.0,2059.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1887,Kaveri Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:21,05:05,06h 44m,999.0,1539.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1888,V Kaveri Travels,A/C Sleeper (2+1),22:20,04:30,06h 10m,1590.0,1790.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1889,Nani Svkdt Travels,A/C Sleeper (2+1),23:20,04:25,05h 05m,1299.0,1299.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1890,PRK Travels,Non A/C Seater / Sleeper (2+1),22:13,05:25,07h 12m,3150.0,3500.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1891,Sri Sai Srinivasa Travels,Non A/C Seater / Sleeper (2+1),22:10,04:30,06h 20m,550.0,750.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1892,LVR Travels,Non A/C Seater / Sleeper (2+1),22:13,04:55,06h 42m,2700.0,3000.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1893,Saraswathi Travels,A/C Seater / Sleeper (2+1),14:55,23:45,08h 50m,1099.0,1650.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
+1894,ABHIRAMBUS,A/C Sleeper (2+1),22:30,04:00,05h 30m,3600.0,3600.0,Nampally,RAMAVARAPUDU RING,Hyderabad,Vijayawada
+1895,Sai Mahesh Transport & Travels,A/C Seater / Sleeper (2+1),16:45,00:00,07h 15m,2249.1,2699.1,L B NAGAR,,Hyderabad,Vijayawada
+1896,Surya Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:40,05:47,07h 07m,809.1,989.1,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1897,Sri Garuda Tours & Travels,A/C Sleeper (2+1),20:15,03:30,07h 15m,3999.0,3999.0,Beeramguda,Autonagar,Hyderabad,Vijayawada
+1898,Sri Karan Sai Tours and Travels,Non A/C Seater / Sleeper (2+1),22:15,04:20,06h 05m,780.0,999.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1899,Royal Varma Travels,A/C Sleeper (2+1),22:37,04:45,06h 08m,1080.0,1100.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1900,IntrCity SmartBus,AC Sleeper (2+1),23:50,06:15,06h 25m,1089.0,1579.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1901,LG BUS,Bharat Benz A/C Sleeper (2+1),21:15,04:05,06h 50m,4000.0,4000.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1902,Chandu Travels,A/C Seater / Sleeper (2+1),22:18,04:30,06h 12m,1225.5,1890.5,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1903,LG BUS,Bharat Benz A/C Seater /Sleeper (2+1),21:15,04:10,06h 55m,2600.0,3500.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1904,Sri Sai Anjana Tours and Travels,Non A/C Seater / Sleeper (2+1),22:20,04:25,06h 05m,1599.0,2299.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1905,BSR Tours And Travels,A/C Seater / Sleeper (2+1),20:06,01:50,05h 44m,1480.0,2380.0,Kukatpally,Ramavarapadu Ring Road,Hyderabad,Vijayawada
+1906,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:22,04:30,06h 08m,990.0,1450.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1907,Komali Travels,Non A/C Seater / Sleeper (2+1),22:25,04:30,06h 05m,899.0,1499.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1908,NueGo,Electric A/C Sleeper (2+1),22:15,04:51,06h 36m,799.9,1039.3,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1909,Sitara Travels,NON A/C Push Back (2+2),22:40,04:00,05h 20m,999.0,999.0,Kukatpally,Old RTC Bus Stand,Hyderabad,Vijayawada
+1910,Sai RK Travels,Non A/C Seater / Sleeper (2+1),22:45,04:05,05h 20m,1999.0,2599.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1911,Sri Atluri Travels,A/C Seater / Sleeper (2+1),22:15,05:07,06h 52m,888.0,1333.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1912,Kakathiya Travels,NON A/C Sleeper (2+1),22:20,04:00,05h 40m,1047.0,1428.0,Kukatpally,Hanumanpet,Hyderabad,Vijayawada
+1913,SUNRISE TOUR AND TRAVELS,Non A/C Seater / Sleeper (2+1),22:15,04:40,06h 25m,3000.0,3000.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1914,Morning Star Travels,NON A/C Sleeper (2+1),23:05,05:00,05h 55m,650.0,800.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1915,BSR Tours And Travels,VE A/C Sleeper (2+1),22:00,04:20,06h 20m,1880.0,2380.0,Kukatpally,Ramavarapadu Ring Road,Hyderabad,Vijayawada
+1916,Morning Star Travels,A/C Sleeper (2+1),23:20,05:25,06h 05m,790.0,990.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1917,Morning Star Travels,A/C Sleeper (2+1),23:05,05:20,06h 15m,790.0,990.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1918,BSR Tours And Travels,A/C Seater / Sleeper (2+1),22:00,04:10,06h 10m,1480.0,2280.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1919,Navayuga Travels,NON AC Seater / Sleeper 2+1,21:50,04:10,06h 20m,670.0,1220.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1920,KVR Tours and Travels,A/C Sleeper (2+1),20:55,02:05,05h 10m,2140.0,2660.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1921,Orange Tours and Travels,NON A/C Seater/ Sleeper (2+1),23:00,05:45,06h 45m,510.0,710.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1922,AVR Travels,A/C Seater / Sleeper (2+1),23:40,06:05,06h 25m,598.0,1098.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1923,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,04:00,06h 30m,1200.0,1400.0,Kukatpally,Old RTC Bus Stand,Hyderabad,Vijayawada
+1924,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:45,04:45,07h 00m,990.0,1490.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
+1925,Sai Dasari Travels,Non A/C Seater / Sleeper (2+1),23:05,04:27,05h 22m,750.0,990.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1926,Morning Star Travels,A/C Sleeper (2+1),06:25,12:20,05h 55m,790.0,990.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1927,Orange Tours and Travels,NON A/C Sleeper (2+1),19:25,02:00,06h 35m,710.0,710.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1928,KVR Tours and Travels,A/C Seater / Sleeper (2+1),22:15,04:15,06h 00m,3000.0,3000.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
+1929,Sri Sai Anjana Tours and Travels,Non A/C Seater / Sleeper (2+1),22:10,03:45,05h 35m,1699.0,2499.0,Kukatpally,Police Control Room,Hyderabad,Vijayawada
+1930,Sai Srinivasa Travels,Non A/C Seater / Sleeper (2+1),21:30,04:05,06h 35m,680.0,880.0,Bahadurpally,Benz Circle,Hyderabad,Vijayawada
+1931,Mayuri Travels,Non A/C Seater / Sleeper (2+1),22:10,03:50,05h 40m,1220.0,1780.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1932,Vinay's Tours and Travels,A/C Sleeper (2+1),23:45,05:30,05h 45m,855.0,1045.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1933,Go Tour Travels and Holidays,A/C Sleeper (2+1),21:25,04:05,06h 40m,1251.0,1521.0,Kukatpally,Gannavaram Airport,Hyderabad,Vijayawada
+1934,Sai Srinivasa Travels,A/C Sleeper (2+1),22:35,04:15,05h 40m,1100.0,1100.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1935,CVR Express,Non A/C Seater / Sleeper (2+1),22:20,04:20,06h 00m,2700.0,2700.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1936,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),20:22,03:25,07h 03m,2550.0,2990.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1937,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:20,05:05,06h 45m,990.0,1490.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
