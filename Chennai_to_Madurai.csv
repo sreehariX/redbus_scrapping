@@ -117,3 +117,15 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 116,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:25,04:45,09h 20m,1129.0,2659.0,Koyambedu,Mattuthavani,Chennai,Madurai
 117,RP Tours and Travels,A/C Sleeper (2+1),01:20,09:00,07h 40m,990.0,1290.0,Koyambedu,Mattuthavani,Chennai,Madurai
 118,SRI MEENAKSHI TRAVELS,A/C Seater / Sleeper (2+1),15:15,23:45,08h 30m,999.0,1299.0,Koyambedu,Mattuthavani,Chennai,Madurai
+119,RP Tours and Travels,A/C Sleeper (2+1),21:00,05:45,08h 45m,990.0,1290.0,Koyambedu,Mattuthavani,Chennai,Madurai
+120,Yolo Bus,Non A/C Seater / Sleeper (2+1),20:01,05:14,09h 13m,800.0,1200.0,Koyambedu,Mattuthavani,Chennai,Madurai
+121,Chandraprakash Bus Service,A/C Sleeper (2+1),21:00,04:45,07h 45m,999.0,999.0,Perungalathur,Mattuthavani,Chennai,Madurai
+122,National Travels CHN,Bharat Benz A/C Sleeper (2+1),21:35,05:20,07h 45m,1399.0,1599.0,Koyambedu,Mattuthavani,Chennai,Madurai
+123,AKS Travels,A/C Sleeper (2+1),21:00,04:00,07h 00m,1500.0,1500.0,Kilambakkam Bus Stand,Mattuthavani,Chennai,Madurai
+124,SBM TRAANSPORT,A/C Sleeper (2+1),16:45,00:45,08h 00m,2999.0,3299.0,Koyambedu,Simakkal,Chennai,Madurai
+125,Shri Abinesh Roadways,VE A/C Sleeper (2+1),18:45,04:15,09h 30m,1440.0,1830.0,Koyambedu,Mattuthavani Omni Bus Stand,Chennai,Madurai
+126,SBM TRAANSPORT,A/C Sleeper (2+1),19:15,03:00,07h 45m,2699.0,2899.0,Koyambedu,Mattuthavani,Chennai,Madurai
+127,IntrCity SmartBus,A/C Seater / Sleeper (2+1),18:00,02:45,08h 45m,979.0,2299.0,Koyambedu,Mattuthavani,Chennai,Madurai
+128,NT Xpress,NON A/C Sleeper (2+1),19:00,03:25,08h 25m,2199.0,2199.0,Koyambedu,Mattuthavani,Chennai,Madurai
+129,KABINI TRAVELS,Non A/C Seater / Sleeper (2+1),21:30,06:25,08h 55m,1900.0,1900.0,Koyambedu,Mattuthavani,Chennai,Madurai
+130,Tranz king travels,A/C Sleeper (2+1),21:30,05:15,07h 45m,1600.0,1700.0,Koyambedu,Mattuthavani,Chennai,Madurai

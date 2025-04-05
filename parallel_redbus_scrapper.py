@@ -405,16 +405,17 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
 
 
                 # Ensure we are at the top before Phase 2
-                print(f"[{from_city} to {to_city}] Final scroll to top before Phase 2.")
+                print(f"[{from_city} to {to_city}] Final scroll to top before combined scrolling and processing phase.")
                 driver.execute_script("window.scrollTo(0, 0);")
                 time.sleep(1)
 
                 print(f"[{from_city} to {to_city}] Completed Phase 1: Clicked {clicked_button_count} View Buses buttons total.")
-                print(f"\n[{from_city} to {to_city}] --- PHASE 2: Now scrolling to load all buses ---")
+                print(f"\n[{from_city} to {to_city}] --- Starting Combined Scrolling and Processing Phase ---")
 
                 # Set bus elements selector and scroll parameters
                 bus_elements_selector = "ul.bus-items li.row-sec"
                 scroll_pause_time = 2.0
+                processed_bus_ids = set()  # Track already processed bus IDs to avoid duplicates
 
                 # Try to find the total buses count from the header
                 total_buses_expected = 0
@@ -433,448 +434,168 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                 except Exception as e:
                     print(f"[{from_city} to {to_city}] Error getting bus count: {e}")
 
-                # Initialize tracking variables for the full scroll
+                # Initialize CSV file with header if needed
+                fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
+                             "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
+                             "Starting Point Parent", "Destination Point Parent"]
+                
+                if not os.path.exists(csv_file_path) or os.path.getsize(csv_file_path) == 0:
+                    with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+                        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                        writer.writeheader()
+                        print(f"[{from_city} to {to_city}] Created new CSV file with headers: {csv_file_path}")
+
+                # Initialize tracking variables for the combined scroll & process approach
                 last_height = driver.execute_script("return document.body.scrollHeight")
-                # Get initial bus count after button clicks and returning to top
-                last_bus_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                 consecutive_no_change = 0
-                max_consecutive_no_change = 6  # Increased from 3 to 6
+                max_consecutive_no_change = 6
                 total_scrolls = 0
                 max_scrolls = 30  # Safety limit on total scrolls
+                processed_count = 0
                 buses_match_target = False
 
-                # Do a complete scroll to load all buses
+                # Begin combined scrolling & processing loop
                 while total_scrolls < max_scrolls:
                     total_scrolls += 1
-                    # Get current count before scrolling
-                    current_bus_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                     
-                    # Check if we've reached the expected count from the header
-                    if total_buses_expected > 0:
-                        if current_bus_count == total_buses_expected:
-                            buses_match_target = True
-                            print(f"[{from_city} to {to_city}] SUCCESS: Found exact match! {current_bus_count}/{total_buses_expected} buses")
-                            # Do one final scroll to ensure everything is completely loaded
-                            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                            time.sleep(2)
-                            break
-                        elif current_bus_count > total_buses_expected:
-                            print(f"[{from_city} to {to_city}] WARNING: Found more buses ({current_bus_count}) than expected ({total_buses_expected})")
-
-                    # Scroll down significantly
+                    # Get current visible buses count
+                    current_visible_buses = driver.find_elements(By.CSS_SELECTOR, bus_elements_selector)
+                    current_visible_count = len(current_visible_buses)
+                    
+                    # Process all currently visible buses that we haven't processed yet
+                    newly_processed = 0
+                    for idx, bus in enumerate(current_visible_buses):
+                        try:
+                            # Process the bus and get both data and identifier
+                            bus_data, bus_identifier = process_bus_element(bus, processed_count + newly_processed + 1, from_city, to_city, driver)
+                            
+                            # Only save and count if we got valid data and haven't processed this bus before
+                            if bus_data and bus_identifier and bus_identifier not in processed_bus_ids:
+                                # Save to CSV
+                                with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                                    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                    writer.writerow(bus_data)
+                                
+                                newly_processed += 1
+                                processed_bus_ids.add(bus_identifier)
+                        except Exception as e:
+                            print(f"[{from_city} to {to_city}] Error processing bus during scroll #{total_scrolls}: {e}")
+                    
+                    # Update total processed count
+                    processed_count += newly_processed
+                    
+                    # Print progress
+                    print(f"[{from_city} to {to_city}] Scroll #{total_scrolls}: Processed {newly_processed} new buses. Total processed: {processed_count}/{total_buses_expected if total_buses_expected > 0 else '?'}")
+                    
+                    # Check if we've reached the expected count
+                    if total_buses_expected > 0 and processed_count == total_buses_expected:
+                        buses_match_target = True
+                        print(f"[{from_city} to {to_city}] SUCCESS: Found exact match! Processed {processed_count}/{total_buses_expected} buses.")
+                        break
+                    
+                    # Scroll down
                     driver.execute_script("window.scrollBy(0, 1500);")
                     time.sleep(scroll_pause_time)
-
-                    # Calculate new height and count
+                    
+                    # Calculate new height and bus count
                     new_height = driver.execute_script("return document.body.scrollHeight")
-                    new_bus_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
-
-                    print(f"[{from_city} to {to_city}] Scroll #{total_scrolls}: Height {last_height}->{new_height}, Buses {current_bus_count}->{new_bus_count}/{total_buses_expected if total_buses_expected>0 else '?'}")
-
-                    # Check if we've reached the end (no new height AND no new buses)
-                    if new_height == last_height and new_bus_count == current_bus_count:
+                    new_visible_buses = driver.find_elements(By.CSS_SELECTOR, bus_elements_selector)
+                    new_visible_count = len(new_visible_buses)
+                    
+                    # Check if anything changed after scrolling
+                    if new_height == last_height and new_visible_count == current_visible_count and newly_processed == 0:
                         consecutive_no_change += 1
                         print(f"[{from_city} to {to_city}] No changes detected ({consecutive_no_change}/{max_consecutive_no_change})")
-
-                        # If we have the expected count and no changes, we can stop
-                        if total_buses_expected > 0 and new_bus_count == total_buses_expected:
+                        
+                        # If we've found the target number of buses, we can stop
+                        if total_buses_expected > 0 and processed_count == total_buses_expected:
                             buses_match_target = True
-                            print(f"[{from_city} to {to_city}] SUCCESS: Found exact match! {new_bus_count}/{total_buses_expected} buses")
+                            print(f"[{from_city} to {to_city}] SUCCESS: Found exact match! Processed {processed_count}/{total_buses_expected} buses.")
                             break
-                            
+                        
+                        # Check if we should perform final scrolling
                         if consecutive_no_change >= max_consecutive_no_change:
-                            # Final series of scrolls to ensure everything is loaded
-                            print(f"[{from_city} to {to_city}] Max consecutive no-change reached. Performing final scroll sequence...")
+                            print(f"[{from_city} to {to_city}] Reached max consecutive no change. Performing final scroll sequence...")
                             
-                            # Try additional scrolling techniques to load remaining buses
-                            for scroll_technique in range(3):
-                                # Full scroll to bottom
+                            # Try different scroll techniques to ensure we've loaded all buses
+                            for i in range(3):
+                                # Scroll to bottom
                                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                                 time.sleep(2)
                                 
-                                # Back to top and then to bottom again
+                                # Process any newly visible buses
+                                final_buses = driver.find_elements(By.CSS_SELECTOR, bus_elements_selector)
+                                final_processed = 0
+                                
+                                for bus in final_buses:
+                                    try:
+                                        bus_data, bus_identifier = process_bus_element(bus, processed_count + final_processed + 1, from_city, to_city, driver)
+                                        if bus_data and bus_identifier and bus_identifier not in processed_bus_ids:
+                                            with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
+                                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                                                writer.writerow(bus_data)
+                                            final_processed += 1
+                                            processed_bus_ids.add(bus_identifier)
+                                    except Exception as e:
+                                        print(f"[{from_city} to {to_city}] Error in final scroll processing: {e}")
+                                
+                                if final_processed > 0:
+                                    processed_count += final_processed
+                                    print(f"[{from_city} to {to_city}] Final scroll technique #{i+1} found {final_processed} more buses. Total now: {processed_count}/{total_buses_expected if total_buses_expected > 0 else '?'}")
+                                
+                                # Check if we've hit the target
+                                if total_buses_expected > 0 and processed_count == total_buses_expected:
+                                    buses_match_target = True
+                                    print(f"[{from_city} to {to_city}] SUCCESS: Found exact match after final scroll! Processed {processed_count}/{total_buses_expected} buses.")
+                                    break
+                                
+                                # Scroll back to top and then bottom again
                                 driver.execute_script("window.scrollTo(0, 0);")
                                 time.sleep(1)
                                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                                 time.sleep(2)
-                                
-                                # Check if more buses loaded
-                                final_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
-                                if final_count > new_bus_count:
-                                    print(f"[{from_city} to {to_city}] Final scroll technique #{scroll_technique+1} loaded more buses: {new_bus_count} -> {final_count}")
-                                    new_bus_count = final_count
-                                    
-                                    # If we've reached target, we can stop
-                                    if total_buses_expected > 0 and final_count == total_buses_expected:
-                                        buses_match_target = True
-                                        print(f"[{from_city} to {to_city}] SUCCESS: Found exact match after final scrolling! {final_count}/{total_buses_expected} buses")
-                                        break
                             
-                            # One final check of actual bus count
-                            final_bus_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
+                            # Report final status
                             if total_buses_expected > 0:
-                                if final_bus_count == total_buses_expected:
-                                    buses_match_target = True
-                                    print(f"[{from_city} to {to_city}] SUCCESS: All expected buses loaded exactly! ({final_bus_count}/{total_buses_expected})")
-                                elif final_bus_count > total_buses_expected:
-                                    print(f"[{from_city} to {to_city}] WARNING: Loaded more buses ({final_bus_count}) than expected ({total_buses_expected})")
+                                if processed_count == total_buses_expected:
+                                    print(f"[{from_city} to {to_city}] SUCCESS: All expected buses processed exactly! ({processed_count}/{total_buses_expected})")
+                                elif processed_count > total_buses_expected:
+                                    print(f"[{from_city} to {to_city}] WARNING: Processed more buses ({processed_count}) than expected ({total_buses_expected})")
                                 else:
-                                    print(f"[{from_city} to {to_city}] WARNING: Only loaded {final_bus_count}/{total_buses_expected} buses after all scrolling attempts.")
+                                    print(f"[{from_city} to {to_city}] WARNING: Only processed {processed_count}/{total_buses_expected} buses after all attempts.")
                             
-                            print(f"[{from_city} to {to_city}] Scroll process complete - loaded {final_bus_count} buses total.")
+                            print(f"[{from_city} to {to_city}] Combined scrolling & processing complete. Total buses processed: {processed_count}")
                             break
                     else:
-                        # Reset counter if either height or bus count changed
+                        # Reset no change counter if anything changed
                         consecutive_no_change = 0
-
+                    
                     # Update reference values
                     last_height = new_height
-                    last_bus_count = new_bus_count
-                    
+                
                 # Check if we hit the max scrolls limit
                 if total_scrolls >= max_scrolls:
                     print(f"[{from_city} to {to_city}] WARNING: Reached maximum scroll limit ({max_scrolls})")
-                    final_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                     if total_buses_expected > 0:
-                        if final_count == total_buses_expected:
+                        if processed_count == total_buses_expected:
                             buses_match_target = True
-                            print(f"[{from_city} to {to_city}] SUCCESS: Found exact match at scroll limit! {final_count}/{total_buses_expected} buses")
+                            print(f"[{from_city} to {to_city}] SUCCESS: Processed exact match at scroll limit! {processed_count}/{total_buses_expected} buses")
                         else:
-                            print(f"[{from_city} to {to_city}] Did not reach target bus count. Loaded {final_count}/{total_buses_expected} buses.")
+                            print(f"[{from_city} to {to_city}] Did not reach target bus count. Processed {processed_count}/{total_buses_expected} buses.")
                     else:
-                        print(f"[{from_city} to {to_city}] Loaded {final_count} buses (unknown total).")
+                        print(f"[{from_city} to {to_city}] Processed {processed_count} buses (unknown total).")
                 
-                # Report final success/failure status
+                # Final summary
                 if total_buses_expected > 0:
-                    final_count = len(driver.find_elements(By.CSS_SELECTOR, bus_elements_selector))
                     if buses_match_target:
-                        print(f"[{from_city} to {to_city}] ✓ FINAL RESULT: Successfully found exact match of {final_count}/{total_buses_expected} buses!")
+                        print(f"[{from_city} to {to_city}] ✓ FINAL RESULT: Successfully processed exact match of {processed_count}/{total_buses_expected} buses!")
                     else:
-                        print(f"[{from_city} to {to_city}] ✗ FINAL RESULT: Could not find exact match. Found {final_count}/{total_buses_expected} buses.")
-
-                print(f"\n[{from_city} to {to_city}] --- Processing Bus Details ---")
-                bus_elements = driver.find_elements(By.CSS_SELECTOR, bus_elements_selector)
-
-                if not bus_elements:
-                    print(f"[{from_city} to {to_city}] No bus details found on the page after scrolling.")
-                    try:
-                        no_buses_xpath = "//*[contains(text(),'Oops! No buses found')] | //*[contains(text(),'No buses found')]"
-                        no_buses_element = driver.find_element(By.XPATH, no_buses_xpath)
-                        if no_buses_element.is_displayed():
-                            print(f"[{from_city} to {to_city}] Confirmed: 'No buses found' message visible on page.")
-                    except NoSuchElementException:
-                        print(f"[{from_city} to {to_city}] Could not find explicit 'No buses found' message on page.")
-
-                    # Create empty CSV file with headers only if it doesn't exist
-                    if not os.path.exists(csv_file_path):
-                        try:
-                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                                fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                            "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                            "Starting Point Parent", "Destination Point Parent"]
-                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                writer.writeheader()
-                            print(f"[{from_city} to {to_city}] Created empty CSV file with headers: {csv_file_path}")
-                        except IOError as e:
-                            print(f"[{from_city} to {to_city}] Error creating empty CSV file {csv_file_path}: {e}")
-                    else:
-                        print(f"[{from_city} to {to_city}] CSV file {csv_file_path} already exists. Will append if results are found later (but none found now).")
-
-                else:
-                    # Initialize CSV file: Check existence and write header if needed
-                    fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                  "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                  "Starting Point Parent", "Destination Point Parent"]
-                    csv_exists = os.path.exists(csv_file_path)
-                    
-                    try:
-                        # Only create/check the file once
-                        if not csv_exists or os.path.getsize(csv_file_path) == 0:
-                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                writer.writeheader()
-                                print(f"[{from_city} to {to_city}] Created new CSV file with headers: {csv_file_path}")
-                        else:
-                            print(f"[{from_city} to {to_city}] CSV file {csv_file_path} exists. Will append data.")
-                    except IOError as e:
-                        print(f"[{from_city} to {to_city}] Error preparing CSV file {csv_file_path}: {e}")
-                        raise # Re-raise the error to stop processing for this route
-
-                print(f"[{from_city} to {to_city}] Found {len(bus_elements)} bus results after scrolling. Processing and saving to {csv_file_path}...")
-                for index, bus in enumerate(bus_elements):
-                    # Initialize retry counter for this specific bus
-                    bus_retry_count = 0
-                    bus_processed = False
-                    
-                    while not bus_processed and bus_retry_count <= max_retries:
-                        try:
-                            # Assign the bus ID starting from 1 for this specific file
-                            bus_id = index + 1
-                            # print("-" * 30) # Reduce log noise
-                            # print(f"Processing Bus {index+1}/{len(bus_elements)} (Assigned ID: {bus_id})")
-
-                            bus_name = safe_find_text(bus, By.CSS_SELECTOR, ".travels", default="Not Found")
-                            bus_type = safe_find_text(bus, By.CSS_SELECTOR, ".bus-type", default="Not Found")
-                            dep_time = safe_find_text(bus, By.CSS_SELECTOR, ".dp-time", default="Not Found")
-                            dep_loc = safe_find_attribute(bus, By.CSS_SELECTOR, ".dp-loc", 'title', default="Not Found")
-                            arr_time = safe_find_text(bus, By.CSS_SELECTOR, ".bp-time", default="Not Found")
-                            arr_loc = safe_find_attribute(bus, By.CSS_SELECTOR, ".bp-loc", 'title', default="Not Found")
-                            duration = safe_find_text(bus, By.CSS_SELECTOR, ".dur", default="Not Found")
-
-                            # Get the initial fare price for fallback
-                            try:
-                                initial_fare = bus.find_element(By.CSS_SELECTOR, ".fare .f-bold").text
-                                # Convert to float for consistency, removing non-numeric characters
-                                initial_fare_clean = re.sub(r'[^\d.]', '', initial_fare)
-                                fare_price = float(initial_fare_clean) if initial_fare_clean else 0.0
-                            except (NoSuchElementException, ValueError):
-                                fare_price = 0.0
-
-                            # Initialize lowest and highest price variables with the same initial price
-                            lowest_price = fare_price
-                            highest_price = fare_price
-
-                            # Check for View Seats button to get more detailed pricing
-                            try:
-                                # Find and click View Seats button
-                                view_seats_selectors = [
-                                    ".button.view-seats",
-                                    ".view-seats",
-                                    "div.button.view-seats",
-                                    "div.view-seats",
-                                    ".button:not(.hide-seats)",
-                                    "div.button:not(.hide-seats)"
-                                ]
-
-                                view_seats_button = None
-                                for selector in view_seats_selectors:
-                                    try:
-                                        buttons = bus.find_elements(By.CSS_SELECTOR, selector)
-                                        for btn in buttons:
-                                            # Check if the button has correct text or is the right button
-                                            btn_text = btn.text.strip()
-                                            if btn.is_displayed() and ("VIEW SEATS" in btn_text.upper() or "View Seats" in btn_text):
-                                                view_seats_button = btn
-                                                break
-                                        if view_seats_button:
-                                            break
-                                    except Exception:
-                                        continue
-
-                                # If we still haven't found the button, try a more general approach
-                                if not view_seats_button:
-                                    try:
-                                        view_seats_xpath = ".//div[contains(@class, 'button') and (contains(normalize-space(),'View Seats') or contains(normalize-space(),'VIEW SEATS'))]" # Use .// to search within bus context
-                                        view_buttons = bus.find_elements(By.XPATH, view_seats_xpath)
-                                        # Find the first visible button among potential matches
-                                        for btn in view_buttons:
-                                            if btn.is_displayed():
-                                                view_seats_button = btn
-                                                break
-                                    except Exception:
-                                        pass
-
-                                if view_seats_button:
-                                    # print(f"[{from_city} to {to_city}] Found View Seats button for bus {bus_id}, clicking...") # Reduce noise
-                                    driver.execute_script("arguments[0].click();", view_seats_button)
-                                    time.sleep(1.5)  # Wait for seat details to load
-
-                                    # First, check for discount prices
-                                    try:
-                                        # Check for discounted prices
-                                        discount_price_values = safe_extract_prices(bus, ".discountPrice li.disPrice:not(.price-selected)")
-
-                                        if discount_price_values:
-                                            # print(f"Found {len(discount_price_values)} discount prices: {discount_price_values}")
-                                            lowest_price = min(discount_price_values)
-                                            highest_price = max(discount_price_values)
-                                            # print(f"Discount prices - Lowest: {lowest_price}, Highest: {highest_price}")
-                                        else:
-                                            # print("No discount prices found, checking for non-discount multi-fare prices")
-                                            # Check for non-discount prices (multiFare)
-                                            multi_fare_values = safe_extract_prices(bus, ".multiFare li.mulfare:not(.price-selected)")
-
-                                            if multi_fare_values:
-                                                # print(f"Found {len(multi_fare_values)} multi-fare prices: {multi_fare_values}")
-                                                lowest_price = min(multi_fare_values)
-                                                highest_price = max(multi_fare_values)
-                                                # print(f"Multi-fare prices - Lowest: {lowest_price}, Highest: {highest_price}")
-                                            else:
-                                                # If neither discount nor multi-fare prices were found,
-                                                # try more generic price selectors as a last resort
-                                                all_price_values = safe_extract_prices(bus, "[data-price]:not([data-price='ALL'])")
-                                                if all_price_values:
-                                                    # print(f"Found {len(all_price_values)} generic prices: {all_price_values}")
-                                                    lowest_price = min(all_price_values)
-                                                    highest_price = max(all_price_values)
-
-                                    except Exception as price_error:
-                                        print(f"[{from_city} to {to_city}] Error extracting detailed prices for bus {bus_id}: {price_error}")
-                                        # Keep the fallback price if detailed extraction failed
-
-                                    # Find and click Hide Seats button to close the expanded section
-                                    try:
-                                        hide_seats_selectors = [
-                                            ".hideSeats",
-                                            ".hide-seats",
-                                            "div.hideSeats",
-                                            "div.hide-seats",
-                                            ".button.hideSeats",
-                                            ".button.hide-seats"
-                                        ]
-
-                                        hide_button_clicked = False
-                                        for selector in hide_seats_selectors:
-                                            try:
-                                                # Search within the bus element context
-                                                hide_buttons = bus.find_elements(By.CSS_SELECTOR, selector)
-                                                for btn in hide_buttons:
-                                                    if btn.is_displayed():
-                                                        # print(f"[{from_city} to {to_city}] Clicking Hide Seats button ({selector})") # Reduce noise
-                                                        driver.execute_script("arguments[0].click();", btn)
-                                                        time.sleep(0.5)  # Short wait for UI to update
-                                                        hide_button_clicked = True
-                                                        break
-                                                if hide_button_clicked:
-                                                    break
-                                            except Exception:
-                                                continue
-
-                                        # If we couldn't find a specific hide button, try more generic approaches
-                                        if not hide_button_clicked:
-                                            # Try to find by text within bus context
-                                            hide_xpath = ".//*[contains(text(), 'HIDE SEATS') or contains(text(), 'Hide Seats')]"
-                                            hide_elements = bus.find_elements(By.XPATH, hide_xpath)
-                                            if hide_elements:
-                                                for el in hide_elements:
-                                                    if el.is_displayed():
-                                                        driver.execute_script("arguments[0].click();", el)
-                                                        # print(f"[{from_city} to {to_city}] Clicked on hide button found by text") # Reduce noise
-                                                        time.sleep(0.5)
-                                                        hide_button_clicked = True
-                                                        break
-
-                                        # Last resort - just scroll away from this bus element to force UI to collapse
-                                        if not hide_button_clicked:
-                                            # print(f"[{from_city} to {to_city}] Could not find hide button - scrolling to collapse") # Reduce noise
-                                            driver.execute_script("arguments[0].scrollIntoView(false);", bus)
-                                            time.sleep(0.5)
-
-                                    except Exception as hide_error:
-                                        print(f"[{from_city} to {to_city}] Error handling hide seats for bus {bus_id}: {hide_error}")
-                                else:
-                                    print(f"[{from_city} to {to_city}] Could not find View Seats button for bus {bus_id}")
-
-                            except Exception as seats_error:
-                                print(f"[{from_city} to {to_city}] Error in View Seats handling for bus {bus_id}: {seats_error}")
-                                # Continue with the fallback prices if detailed extraction failed
-
-                            start_point = dep_loc if dep_loc != "Not Found" else from_city
-                            end_point = arr_loc if arr_loc != "Not Found" else to_city
-
-                            bus_data = {
-                                "Bus ID": bus_id,
-                                "Bus Name": bus_name,
-                                "Bus Type": bus_type,
-                                "Departure Time": dep_time,
-                                "Arrival Time": arr_time,
-                                "Journey Duration": duration,
-                                "Lowest Price(INR)": lowest_price,
-                                "Highest Price(INR)": highest_price,
-                                "Starting Point": start_point,
-                                "Destination": end_point,
-                                "Starting Point Parent": from_city,
-                                "Destination Point Parent": to_city
-                            }
-
-                            # Write this bus data to the specific CSV file immediately after processing
-                            try:
-                                with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                                    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                    writer.writerow(bus_data)
-                                print(f"[{from_city} to {to_city}] Bus {bus_id} data saved to CSV file {csv_file_path}")
-                                # Mark this bus as successfully processed
-                                bus_processed = True
-                            except Exception as e:
-                                print(f"[{from_city} to {to_city}] Error saving bus {bus_id} to CSV file {csv_file_path}: {e}")
-                                # If there's a file writing error, retry
-                                bus_retry_count += 1
-                                if bus_retry_count <= max_retries:
-                                    print(f"[{from_city} to {to_city}] Retrying CSV write for bus {bus_id} (Attempt {bus_retry_count}/{max_retries})")
-                                    time.sleep(2)  # Short delay before retry
-                                else:
-                                    print(f"[{from_city} to {to_city}] Failed to save bus {bus_id} after {max_retries} attempts")
-                                    # Write error row to CSV file
-                                    try:
-                                        # Ensure the CSV file exists with headers
-                                        fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                                     "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                                     "Starting Point Parent", "Destination Point Parent"]
-                                        
-                                        # Create file with header if it doesn't exist
-                                        if not os.path.exists(csv_file_path):
-                                            with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                                                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                                writer.writeheader()
-                                        
-                                        # Write error row
-                                        with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                            error_row = {field: "error" for field in fieldnames}
-                                            error_row["Bus ID"] = "error"
-                                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Use e which is in scope
-                                            error_row["Starting Point Parent"] = from_city
-                                            error_row["Destination Point Parent"] = to_city
-                                            writer.writerow(error_row)
-                                        print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
-                                    except Exception as csv_error:
-                                        print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
-                                    
-                                    raise  # Re-raise the error after max retries
-                                
-                        except Exception as e:
-                            print(f"[{from_city} to {to_city}] ERROR processing bus index {index} (ID: {bus_id}): {e}")
-                            bus_retry_count += 1
-                            if bus_retry_count <= max_retries:
-                                print(f"[{from_city} to {to_city}] Retrying processing for bus {bus_id} (Attempt {bus_retry_count}/{max_retries})")
-                                time.sleep(2)  # Short delay before retry
-                            else:
-                                print(f"[{from_city} to {to_city}] Failed to process bus {bus_id} after {max_retries} attempts")
-                                # Write error row to CSV file
-                                try:
-                                    # Ensure the CSV file exists with headers
-                                    fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
-                                                 "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
-                                                 "Starting Point Parent", "Destination Point Parent"]
-                                    
-                                    # Create file with header if it doesn't exist
-                                    if not os.path.exists(csv_file_path):
-                                        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
-                                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                            writer.writeheader()
-                                    
-                                    # Write error row
-                                    with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
-                                        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                                        error_row = {field: "error" for field in fieldnames}
-                                        error_row["Bus ID"] = "error"
-                                        error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Use e which is in scope
-                                        error_row["Starting Point Parent"] = from_city
-                                        error_row["Destination Point Parent"] = to_city
-                                        writer.writerow(error_row)
-                                    print(f"[{from_city} to {to_city}] Added error row to CSV file {csv_file_path}")
-                                except Exception as csv_error:
-                                    print(f"[{from_city} to {to_city}] Error writing error row to CSV: {csv_error}")
-                                
-                                raise  # Re-raise the error after max retries
-
-                    print(f"[{from_city} to {to_city}] Completed processing bus {bus_id} ({index+1}/{len(bus_elements)})")
-
-                print("-" * 30)
-                print(f"[{from_city} to {to_city}] Finished processing {len(bus_elements)} buses. All data saved to {csv_file_path}")
+                        print(f"[{from_city} to {to_city}] ✗ FINAL RESULT: Could not process exact match. Processed {processed_count}/{total_buses_expected} buses.")
+                
+                print(f"\n[{from_city} to {to_city}] --- Finished processing {processed_count} buses. All data saved to {csv_file_path}")
                 # Successfully processed all buses, break the main retry loop
                 break
-                
+
             except (TimeoutException, ConnectionRefusedError, ConnectionError, ConnectionAbortedError, ConnectionResetError) as conn_error:
                 retry_count += 1
                 print(f"[{from_city} to {to_city}] Connection error: {conn_error}. Retry attempt {retry_count}/{max_retries}")
@@ -1007,13 +728,13 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                     fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
                                  "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
                                  "Starting Point Parent", "Destination Point Parent"]
-                    
+                        
                     # Create file with header if it doesn't exist
                     if not os.path.exists(csv_file_path):
                         with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
                             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                             writer.writeheader()
-                    
+                        
                     # Write error row
                     with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
                         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -1276,6 +997,194 @@ def start_new_route(executor, futures_to_routes, active_routes, from_city, to_ci
     )
     futures_to_routes[future] = (from_city, to_city, route_info)
     return future
+
+def process_bus_element(bus, bus_id, from_city, to_city, driver):
+    """Process a single bus element and return its data
+    
+    Args:
+        bus: The WebElement representing the bus
+        bus_id: ID to assign to this bus
+        from_city: Origin city
+        to_city: Destination city
+        driver: WebDriver instance
+        
+    Returns:
+        tuple: (bus_data_dict, bus_identifier) if successful, (None, None) if failed
+    """
+    try:
+        bus_name = safe_find_text(bus, By.CSS_SELECTOR, ".travels", default="Not Found")
+        bus_type = safe_find_text(bus, By.CSS_SELECTOR, ".bus-type", default="Not Found")
+        dep_time = safe_find_text(bus, By.CSS_SELECTOR, ".dp-time", default="Not Found")
+        dep_loc = safe_find_attribute(bus, By.CSS_SELECTOR, ".dp-loc", 'title', default="Not Found")
+        arr_time = safe_find_text(bus, By.CSS_SELECTOR, ".bp-time", default="Not Found")
+        arr_loc = safe_find_attribute(bus, By.CSS_SELECTOR, ".bp-loc", 'title', default="Not Found")
+        duration = safe_find_text(bus, By.CSS_SELECTOR, ".dur", default="Not Found")
+
+        # Get the initial fare price for fallback
+        try:
+            initial_fare = bus.find_element(By.CSS_SELECTOR, ".fare .f-bold").text
+            # Convert to float for consistency, removing non-numeric characters
+            initial_fare_clean = re.sub(r'[^\d.]', '', initial_fare)
+            fare_price = float(initial_fare_clean) if initial_fare_clean else 0.0
+        except (NoSuchElementException, ValueError):
+            fare_price = 0.0
+
+        # Initialize lowest and highest price variables with the same initial price
+        lowest_price = fare_price
+        highest_price = fare_price
+
+        # Check for View Seats button to get more detailed pricing
+        try:
+            # Find and click View Seats button
+            view_seats_selectors = [
+                ".button.view-seats",
+                ".view-seats",
+                "div.button.view-seats",
+                "div.view-seats",
+                ".button:not(.hide-seats)",
+                "div.button:not(.hide-seats)"
+            ]
+
+            view_seats_button = None
+            for selector in view_seats_selectors:
+                try:
+                    buttons = bus.find_elements(By.CSS_SELECTOR, selector)
+                    for btn in buttons:
+                        # Check if the button has correct text or is the right button
+                        btn_text = btn.text.strip()
+                        if btn.is_displayed() and ("VIEW SEATS" in btn_text.upper() or "View Seats" in btn_text):
+                            view_seats_button = btn
+                            break
+                    if view_seats_button:
+                        break
+                except Exception:
+                    continue
+
+            # If we still haven't found the button, try a more general approach
+            if not view_seats_button:
+                try:
+                    view_seats_xpath = ".//div[contains(@class, 'button') and (contains(normalize-space(),'View Seats') or contains(normalize-space(),'VIEW SEATS'))]" # Use .// to search within bus context
+                    view_buttons = bus.find_elements(By.XPATH, view_seats_xpath)
+                    # Find the first visible button among potential matches
+                    for btn in view_buttons:
+                        if btn.is_displayed():
+                            view_seats_button = btn
+                            break
+                except Exception:
+                    pass
+
+            if view_seats_button:
+                # Click the button
+                driver.execute_script("arguments[0].click();", view_seats_button)
+                time.sleep(1.5)  # Wait for seat details to load
+
+                # First, check for discount prices
+                try:
+                    # Check for discounted prices
+                    discount_price_values = safe_extract_prices(bus, ".discountPrice li.disPrice:not(.price-selected)")
+
+                    if discount_price_values:
+                        lowest_price = min(discount_price_values)
+                        highest_price = max(discount_price_values)
+                    else:
+                        # Check for non-discount prices (multiFare)
+                        multi_fare_values = safe_extract_prices(bus, ".multiFare li.mulfare:not(.price-selected)")
+
+                        if multi_fare_values:
+                            lowest_price = min(multi_fare_values)
+                            highest_price = max(multi_fare_values)
+                        else:
+                            # If neither discount nor multi-fare prices were found,
+                            # try more generic price selectors as a last resort
+                            all_price_values = safe_extract_prices(bus, "[data-price]:not([data-price='ALL'])")
+                            if all_price_values:
+                                lowest_price = min(all_price_values)
+                                highest_price = max(all_price_values)
+
+                except Exception as price_error:
+                    print(f"Error extracting detailed prices for bus {bus_id}: {price_error}")
+                    # Keep the fallback price if detailed extraction failed
+
+                # Find and click Hide Seats button to close the expanded section
+                try:
+                    hide_seats_selectors = [
+                        ".hideSeats",
+                        ".hide-seats",
+                        "div.hideSeats",
+                        "div.hide-seats",
+                        ".button.hideSeats",
+                        ".button.hide-seats"
+                    ]
+
+                    hide_button_clicked = False
+                    for selector in hide_seats_selectors:
+                        try:
+                            # Search within the bus element context
+                            hide_buttons = bus.find_elements(By.CSS_SELECTOR, selector)
+                            for btn in hide_buttons:
+                                if btn.is_displayed():
+                                    driver.execute_script("arguments[0].click();", btn)
+                                    time.sleep(0.5)  # Short wait for UI to update
+                                    hide_button_clicked = True
+                                    break
+                            if hide_button_clicked:
+                                break
+                        except Exception:
+                            continue
+
+                    # If we couldn't find a specific hide button, try more generic approaches
+                    if not hide_button_clicked:
+                        # Try to find by text within bus context
+                        hide_xpath = ".//*[contains(text(), 'HIDE SEATS') or contains(text(), 'Hide Seats')]"
+                        hide_elements = bus.find_elements(By.XPATH, hide_xpath)
+                        if hide_elements:
+                            for el in hide_elements:
+                                if el.is_displayed():
+                                    driver.execute_script("arguments[0].click();", el)
+                                    time.sleep(0.5)
+                                    hide_button_clicked = True
+                                    break
+
+                    # Last resort - just scroll away from this bus element to force UI to collapse
+                    if not hide_button_clicked:
+                        driver.execute_script("arguments[0].scrollIntoView(false);", bus)
+                        time.sleep(0.5)
+
+                except Exception as hide_error:
+                    print(f"Error handling hide seats for bus {bus_id}: {hide_error}")
+            else:
+                print(f"Could not find View Seats button for bus {bus_id}")
+
+        except Exception as seats_error:
+            print(f"Error in View Seats handling for bus {bus_id}: {seats_error}")
+            # Continue with the fallback prices if detailed extraction failed
+
+        start_point = dep_loc if dep_loc != "Not Found" else from_city
+        end_point = arr_loc if arr_loc != "Not Found" else to_city
+
+        bus_data = {
+            "Bus ID": bus_id,
+            "Bus Name": bus_name,
+            "Bus Type": bus_type,
+            "Departure Time": dep_time,
+            "Arrival Time": arr_time,
+            "Journey Duration": duration,
+            "Lowest Price(INR)": lowest_price,
+            "Highest Price(INR)": highest_price,
+            "Starting Point": start_point,
+            "Destination": end_point,
+            "Starting Point Parent": from_city,
+            "Destination Point Parent": to_city
+        }
+
+        # Create a unique identifier for this bus
+        bus_identifier = f"{bus_name}_{bus_type}_{dep_time}"
+        
+        return (bus_data, bus_identifier)
+        
+    except Exception as e:
+        print(f"ERROR processing bus ID {bus_id}: {e}")
+        return (None, None)
 
 if __name__ == "__main__":
     # Parse the route list
