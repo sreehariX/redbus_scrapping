@@ -115,3 +115,4 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 114,FlixBus,A/C Sleeper (2+1),09:45,20:20,10h 35m,668.75,668.75,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
 115,ANA TRAVELS,A/C Seater (2+2),20:45,06:45,10h 00m,1499.0,1499.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
 116,SRL Travels,A/C Sleeper (2+1),14:00,22:45,08h 45m,1699.0,1999.0,Omni Bus Stand,Koyambedu,Coimbatore,Chennai
+117,City Travels,Non A/C Seater / Sleeper (2+1),23:00,08:00,09h 00m,1199.0,1499.0,Gandhipuram,Koyambedu,Coimbatore,Chennai

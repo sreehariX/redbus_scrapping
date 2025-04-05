@@ -70,3 +70,5 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 69,No 1 Air Travels,Non A/C Seater / Sleeper (2+1),21:00,05:15,08h 15m,999.0,1400.0,Gandhipuram,Marathahalli,Coimbatore,Bangalore
 70,Sri Bala Tours and Travels,A/C Seater / Sleeper (2+1),20:45,04:45,08h 00m,649.0,1699.0,Omni Bus Stand,Majestic,Coimbatore,Bangalore
 71,Conti travels,Bharat Benz A/C Semi Sleeper (2+2),13:45,21:00,07h 15m,820.0,1020.0,Gandhipuram,Kalasipalyam,Coimbatore,Bangalore
+72,Conti travels,Bharat Benz A/C Semi Sleeper (2+2),22:00,04:30,06h 30m,780.0,990.0,Ganapathy,Kalasipalyam,Coimbatore,Bangalore
+73,No 1 Air Travels,Bharat Benz A/C Sleeper (2+1),23:30,05:30,06h 00m,1400.0,1600.0,Lakshmi Mills,Madiwala,Coimbatore,Bangalore
