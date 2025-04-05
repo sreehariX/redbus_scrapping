@@ -1,0 +1,19 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,UPSRTC - BLY0785,Ordinary Non AC Seater 2+3,04:00,09:00,05h 00m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+2,UPSRTC - BLY0786,Ordinary Non AC Seater 2+3,05:00,10:00,05h 00m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+3,UPSRTC - FNG0502,Ordinary Non AC Seater 2+3,06:13,12:12,05h 59m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+4,UPSRTC - AGF0031,Ordinary Non AC Seater 2+3,06:30,14:30,08h 00m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+5,UPSRTC - FNG0278,Ordinary Non AC Seater 2+3,06:35,12:20,05h 45m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+6,UPSRTC - FNG0276,Ordinary Non AC Seater 2+3,06:36,12:35,05h 59m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+7,UPSRTC - AGF0032,Ordinary Non AC Seater 2+3,07:03,15:00,07h 57m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+8,UPSRTC - AGF0033,Ordinary Non AC Seater 2+3,07:30,16:00,08h 30m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+9,UPSRTC - BLY0065,Ordinary Non AC Seater 2+3,12:30,17:30,05h 00m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+10,UPSRTC - RKD0055,Ordinary Non AC Seater 2+3,13:31,19:31,06h 00m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+11,UPSRTC - BLY0070,Ordinary Non AC Seater 2+3,14:00,19:00,05h 00m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+12,UPSRTC - AGF0047,Shatabdi AC Seater 2+2,14:01,20:00,05h 59m,408.0,408.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+13,UPSRTC - FNG0547,Ordinary Non AC Seater 2+3,19:02,01:10,06h 08m,323.0,323.0,Agra ISBT,BAREILLY SATELITE BUS STAND,Agra,Bareilly
+14,UPSRTC - FNG0546,Ordinary Non AC Seater 2+3,20:03,02:00,05h 57m,323.0,323.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+15,UPSRTC - BLY0823,SHATABDI (2+3),22:00,03:30,05h 30m,373.0,373.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+16,UPSRTC - BLY0134,Janrath AC Seater 2+2,23:05,05:00,05h 55m,408.0,408.0,Agra ISBT,BAREILLY OLD BUS STAND,Agra,Bareilly
+17,JAI SHREE RAM TRAVELS,A/C Semi Sleeper (2+2),17:00,22:30,05h 30m,530.0,530.0,ISBT Bus Stand Agra,Bareilly Satellite Bus Stand,Agra,Bareilly
+18,JAI SHREE RAM TRAVELS,A/C Semi Sleeper (2+2),15:00,20:30,05h 30m,530.0,530.0,ISBT Bus Stand Agra,Bareilly Satellite Bus Stand,Agra,Bareilly

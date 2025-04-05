@@ -1,0 +1,34 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,PEPSU (Punjab) - 66937,AC Seater Hvac 2+2,09:37,15:30,05h 53m,469.0,469.0,"Counter no 11,08",Bus Stand,Chandigarh,Amritsar
+2,Guardian Tour and Travels,Volvo A/C Semi Sleeper (2+2 ),14:59,19:10,04h 11m,665.0,665.0,Mohali Phase 2,Hall Gate,Chandigarh,Amritsar
+3,MAHARAJA TOUR & TRAVELS,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),05:45,09:10,03h 25m,495.0,648.0,Sec 43,Hall Gate,Chandigarh,Amritsar
+4,AdGuardian Travels,Volvo A/C Semi Sleeper (2+2),05:50,09:25,03h 35m,665.0,665.0,Sec 43,Hall Gate,Chandigarh,Amritsar
+5,MAHARAJA TOUR & TRAVELS,Volvo AC Seater Pushback 2+2,13:30,17:45,04h 15m,495.0,648.0,Aroma Sector 22,Hall Gate,Chandigarh,Amritsar
+6,NueGo,Electric A/C Seater (2+2),18:15,22:15,04h 00m,760.0,1092.5,Opp ISBT Sec-43,Railway Station,Chandigarh,Amritsar
+7,NueGo,Electric A/C Seater (2+2),10:10,14:05,03h 55m,570.0,902.5,Opp ISBT Sec-43,Railway Station,Chandigarh,Amritsar
+8,AdKhurana Bus Service,Volvo A/C (2+2),16:55,21:00,04h 05m,530.0,530.0,43 Sector Bus Stand SC,Bus Stand,Chandigarh,Amritsar
+9,Orbit Aviation Pvt. Ltd.,Bharat Benz A/C Seater (2+2),14:30,18:50,04h 20m,400.0,400.0,Sec 43,Isbt amritsar,Chandigarh,Amritsar
+10,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),05:30,08:45,03h 15m,619.0,619.0,"Counter sec-43 bus stand,chandigarh",Isbt amritsar,Chandigarh,Amritsar
+11,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),07:40,12:00,04h 20m,714.0,714.0,"Counter sec-43 bus stand,chandigarh",Isbt amritsar,Chandigarh,Amritsar
+12,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),16:25,20:50,04h 25m,714.0,714.0,"Counter sec-43 bus stand,chandigarh",Isbt amritsar,Chandigarh,Amritsar
+13,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:25,17:55,04h 30m,667.0,667.0,"Counter sec-43 bus stand,chandigarh",Isbt amritsar,Chandigarh,Amritsar
+14,Vijay Tour and Travels,Volvo 9600 A/C Sleeper (2+1),04:10,09:00,04h 50m,899.0,1099.0,Vijay gajraj travels sector,Hall Gate,Chandigarh,Amritsar
+15,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),03:30,07:20,03h 50m,599.0,599.0,Dhariwal Travels Dewas Gate Bus Stand (Connecting Bus ),Near Bus Stand,Chandigarh,Amritsar
+16,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),04:00,08:00,04h 00m,699.0,1199.0,Sec 43 H.P. Petrol Pump opposite bus stand,Hall Gate,Chandigarh,Amritsar
+17,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),04:50,09:10,04h 20m,990.0,1540.0,Tribune Chowk Sector 31B,Amritsar City Centre Near ISBT,Chandigarh,Amritsar
+18,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),01:00,05:00,04h 00m,835.0,1954.0,Tribune Chowk Sector 31B,Bus Stand,Chandigarh,Amritsar
+19,Golden Temple Volvo Bus Service,Bharat Benz A/C Semi Sleeper (2+2),04:25,07:15,02h 50m,999.0,999.0,43 SECTOR ISBT CHANDIGARH,Railway Station,Chandigarh,Amritsar
+20,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),03:20,07:30,04h 10m,692.0,1540.0,Tribune Chowk Sector 31B,Amritsar City Centre Near ISBT,Chandigarh,Amritsar
+21,Ram Dalal Holidays,A/C Seater/Sleeper (2+1),04:30,08:05,03h 35m,999.0,1599.0,Sec 43,Hall Gate,Chandigarh,Amritsar
+22,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),07:00,11:30,04h 30m,714.0,714.0,Sco 84-85 sector 54 phase 2 mohali,Isbt amritsar,Chandigarh,Amritsar
+23,Fateh Tour And Travels,A/C Seater / Sleeper (2+2),03:10,05:30,02h 20m,810.0,1035.0,Sohana Gurdwara Sahib,Golden Gate,Chandigarh,Amritsar
+24,New Khaira TPT,VE A/C Sleeper (2+1),01:45,06:30,04h 45m,760.0,950.0,Sec 43,"New Khaira Tpt, Amritsar",Chandigarh,Amritsar
+25,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),15:40,20:10,04h 30m,480.0,714.0,"Counter sec-43 bus stand,chandigarh",Isbt amritsar,Chandigarh,Amritsar
+26,Orbit Aviation Pvt. Ltd.,AC Sleeper (2+1),12:45,17:25,04h 40m,667.0,667.0,"Counter sec-43 bus stand,chandigarh",Isbt amritsar,Chandigarh,Amritsar
+27,Fateh Tour And Travels,A/C Seater / Sleeper (2+2),03:45,06:05,02h 20m,899.1,1035.0,Sohana Gurdwara Sahib,Golden Gate,Chandigarh,Amritsar
+28,Raj Transport,Non AC Seater (2+3),11:50,17:30,05h 40m,285.0,285.0,Mohali,Bus Stand,Chandigarh,Amritsar
+29,Jorawar Transport Company,Mercedes Multi-Axle Semi Sleeper (2+2),03:00,06:30,03h 30m,924.0,924.0,HP Petrol Pump Sec-43,Amritsar Railway Station,Chandigarh,Amritsar
+30,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),03:00,07:00,04h 00m,1102.5,1461.25,Chandigarh Sec-43,AMRITSAR BUS STAND,Chandigarh,Amritsar
+31,Yolo Bus,Bharat Benz A/C Sleeper (2+1),03:20,07:46,04h 26m,1150.0,1500.0,"Sector 78, near Gurudwara Sahib, Sohana",Railway Station,Chandigarh,Amritsar
+32,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+1),02:30,07:45,05h 15m,1299.0,1499.0,Sec 43 H.P. Petrol Pump opposite bus stand,Hall Gate,Chandigarh,Amritsar
+33,City Land Travels,A/C Sleeper (2+1),05:20,09:00,03h 40m,1339.2,1609.2,Sector 42 Indian Oil Petrol Pump,Railway Station,Chandigarh,Amritsar

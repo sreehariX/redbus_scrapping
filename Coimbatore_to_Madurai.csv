@@ -1,0 +1,75 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Sri Kumaran Travels,A/C Sleeper (2+1),23:25,04:25,05h 00m,900.0,900.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+2,Sri Kumaran Travels,A/C Sleeper (2+1),15:00,20:55,05h 55m,800.0,800.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+3,JET Line,A/C Seater / Sleeper (2+1),23:15,04:00,04h 45m,599.0,849.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+4,KNT Travels,Bharat Benz A/C Seater /Sleeper (2+1),05:57,11:00,05h 03m,2900.0,2900.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+5,NueGo,Electric A/C Semi Sleeper (2+2),23:15,04:40,05h 25m,712.5,950.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+6,NueGo,Electric A/C Semi Sleeper (2+2),16:15,21:40,05h 25m,712.5,950.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+7,NueGo,Electric A/C Semi Sleeper (2+2),05:45,11:10,05h 25m,570.0,807.5,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+8,JET Line,A/C Seater / Sleeper (2+1),14:00,19:30,05h 30m,599.0,749.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+9,NueGo,Electric A/C Semi Sleeper (2+2),13:45,19:10,05h 25m,712.5,950.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+10,NueGo,Electric A/C Semi Sleeper (2+2),07:45,13:10,05h 25m,570.0,807.5,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+11,Essaar,A/C Sleeper (2+1),22:50,03:50,05h 00m,649.0,746.0,Gandhipuram,Periyar Bus Stand,Coimbatore,Madurai
+12,Jai Vishnu Travels,Non A/C Seater / Sleeper (2+1),22:40,03:45,05h 05m,500.0,800.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+13,Krish Travels,A/C Sleeper (2+1),16:00,21:30,05h 30m,500.0,600.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+14,National Travels Madurai,Non A/C Seater / Sleeper (2+1),22:25,03:45,05h 20m,799.0,1000.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+15,A1 Travels,Non A/C Seater / Sleeper (2+1),22:50,04:00,05h 10m,400.0,550.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+16,Krish Travels,NON A/C Seater/ Sleeper (2+1),22:30,03:30,05h 00m,650.0,850.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+17,Krish Travels,A/C Seater/Sleeper (2+1),23:00,04:20,05h 20m,550.0,800.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+18,A1 Travels,Bharat Benz A/C Sleeper (2+1),07:00,11:30,04h 30m,600.0,700.0,Gandhipuram,Mattuthavani,Coimbatore,Madurai
+19,Essaar,A/C Sleeper (2+1),13:00,18:00,05h 00m,713.0,926.0,Gandhipuram,Mattuthavani,Coimbatore,Madurai
+20,SRI AYYANAR,A/C Sleeper (2+1),22:45,02:46,04h 01m,2999.0,2999.0,OMNI BUS STAND,KODAI ROAD TOLL,Coimbatore,Madurai
+21,Krish Travels,A/C Sleeper (2+1),23:45,05:05,05h 20m,600.0,700.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+22,A1 Travels,A/C Sleeper (2+1),21:50,03:00,05h 10m,600.0,700.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+23,Supaa Travels,NON AC Seater / Sleeper 2+1,22:30,03:30,05h 00m,450.0,500.0,Gandhipuram,Periyar Bus Stand,Coimbatore,Madurai
+24,A1 Travels,Non A/C Seater / Sleeper (2+1),21:30,03:30,06h 00m,450.0,650.0,Gandhipuram,Kalavasal,Coimbatore,Madurai
+25,Jai Vishnu Travels,A/C Sleeper (2+1),22:05,03:15,05h 10m,800.0,1000.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+26,Arthi Travels,NON A/C Semi Sleeper / Sleeper (2+1),22:15,03:35,05h 20m,500.0,600.0,Gandhipuram,Periyar Bus Stand,Coimbatore,Madurai
+27,Arthi Travels,NON A/C Semi Sleeper / Sleeper (2+1),21:55,03:00,05h 05m,500.0,600.0,Gandhipuram,Periyar Bus Stand,Coimbatore,Madurai
+28,Sri Amarnath Travels,NON A/C Sleeper (2+1),22:00,03:00,05h 00m,649.0,649.0,Omni Bus Stand,Arappalayam,Coimbatore,Madurai
+29,Muthumari Travels,NON A/C Sleeper (2+1),22:00,03:10,05h 10m,600.0,650.0,Omni Bus Stand,Kodai Road Toll Plaza,Coimbatore,Madurai
+30,IRISH TRAVELS,NON A/C Sleeper (2+1),22:00,03:25,05h 25m,500.0,600.0,Omni Bus Stand,Thirumangalam,Coimbatore,Madurai
+31,SRI SENDHUR TRAVELS,Non A/C Seater / Sleeper (2+1),22:10,03:20,05h 10m,500.0,700.0,Omni Bus Stand,Nagamalai Pudukkottai,Coimbatore,Madurai
+32,A1 Travels,Bharat Benz A/C Sleeper (2+1),21:15,02:30,05h 15m,800.0,850.0,Gandhipuram,Dindugal bye pass,Coimbatore,Madurai
+33,Kannan Bus,NON A/C Semi Sleeper / Sleeper (2+1),22:00,03:00,05h 00m,600.0,800.0,Gandhipuram,Thirumangalam,Coimbatore,Madurai
+34,Arthi Travels,Non A/C Seater / Sleeper (2+1),22:15,03:30,05h 15m,500.0,600.0,Gandhipuram,Periyar Bus Stand,Coimbatore,Madurai
+35,Sree Varun Travels (MRN),NON A/C Sleeper (2+1),22:15,04:00,05h 45m,700.0,700.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+36,City Travels,Non A/C Seater / Sleeper (2+1),21:50,02:30,04h 40m,999.0,1299.0,Gandhipuram,Kappalur Bypass,Coimbatore,Madurai
+37,Jai Vishnu Travels,A/C Sleeper (2+1),22:50,02:40,03h 50m,849.0,1049.0,Omni Bus Stand,KODAI ROAD TOLL GATE,Coimbatore,Madurai
+38,SPS Travels India,NON AC Seater / Sleeper 2+1,20:55,02:20,05h 25m,800.0,999.0,Omni Bus Stand,Kappalur Bypass,Coimbatore,Madurai
+39,Sri Selvam Travels (PSP),NON A/C Semi Sleeper / Sleeper (2+1),21:00,02:00,05h 00m,550.0,700.0,Omni Bus Stand,Nagamalai Pudukkottai,Coimbatore,Madurai
+40,SPS Travels India,Non A/C Seater / Sleeper (2+1),21:20,02:30,05h 10m,800.0,999.0,Omni Bus Stand,Kappalur Bypass,Coimbatore,Madurai
+41,Hindusthan Travels,A/C Sleeper (2+1),21:30,02:30,05h 00m,800.0,900.0,Omni Bus Stand,Thirumangalam,Coimbatore,Madurai
+42,Vivegam Travels,NON A/C Sleeper (2+1),22:20,03:45,05h 25m,660.0,770.0,Omni Bus Stand,Kappalur Bypass,Coimbatore,Madurai
+43,EAGLE TRANSPORT,A/C Sleeper (2+1),21:55,03:25,05h 30m,1499.0,1499.0,Omni Bus Stand,Thirumangalam,Coimbatore,Madurai
+44,National Travels Madurai,Non A/C Seater / Sleeper (2+1),22:25,03:25,05h 00m,799.0,999.0,Omni Bus Stand,Kappalur Bypass,Coimbatore,Madurai
+45,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),A/C Sleeper (2+1),22:30,02:30,04h 00m,1900.0,2450.0,Gandhipuram,Periyar Bus Stand,Coimbatore,Madurai
+46,Jai Vishnu Travels,A/C Sleeper (2+1),10:00,14:45,04h 45m,949.0,1249.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+47,Mitra Travels,NON A/C Sleeper (2+1),22:25,03:00,04h 35m,850.0,850.0,Gandhipuram,Kapplur Toll Gate,Coimbatore,Madurai
+48,IRISH TRAVELS,NON A/C Sleeper (2+1),22:25,03:25,05h 00m,1100.0,1200.0,Omni Bus Stand,Thirumangalam,Coimbatore,Madurai
+49,Sri Bala Tours and Travels,A/C Seater / Sleeper (2+1),22:35,03:00,04h 25m,349.0,899.0,Omni Bus Stand,Madurai Byepass,Coimbatore,Madurai
+50,Sri Karpaga vinayaga Travels,A/C Sleeper (2+1),23:45,05:05,05h 20m,899.0,1049.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+51,Puthiyavan Travals,A/C Sleeper (2+1),21:45,02:45,05h 00m,899.0,999.0,Gandhipuram,Thirumangalam,Coimbatore,Madurai
+52,Sri Karpaga vinayaga Travels,A/C Sleeper (2+1),22:45,04:10,05h 25m,699.0,849.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+53,Air Indiaa Travels,A/C Sleeper (2+1),21:45,03:15,05h 30m,800.0,850.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+54,Soumya Tours and Travels,NON AC Seater / Sleeper 2+1,22:30,01:30,03h 00m,450.0,800.0,Omni Bus Stand,Thirumangalam,Coimbatore,Madurai
+55,Air Indiaa Travels,NON A/C Seater/ Sleeper (2+1),22:30,03:15,04h 45m,590.0,750.0,Omni Bus Stand,Kappalur Bypass,Coimbatore,Madurai
+56,Air Indiaa Travels,NON A/C Semi Sleeper / Sleeper (2+1),22:00,02:30,04h 30m,600.0,750.0,Omni Bus Stand,Kappalur Bypass,Coimbatore,Madurai
+57,Jai Vishnu Travels,NON A/C Seater/ Sleeper (2+1),22:50,02:40,03h 50m,3499.0,3499.0,Omni Bus Stand,KODAI ROAD TOLL GATE,Coimbatore,Madurai
+58,City Travels,NON A/C Seater/ Sleeper (2+1),21:45,03:00,05h 15m,999.0,1399.0,Gandhipuram,Madurai Bypass,Coimbatore,Madurai
+59,City Travels,A/C Seater/Sleeper (2+1),22:05,02:20,04h 15m,999.0,1299.0,Gandhipuram,Arappalayam,Coimbatore,Madurai
+60,SMG TRAVELS,A/C Sleeper (2+1),21:00,01:20,04h 20m,2500.0,2500.0,Gandhipuram,Arappalayam,Coimbatore,Madurai
+61,Krish Travels,NON A/C Seater/ Sleeper (2+1),09:00,14:00,05h 00m,450.0,650.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+62,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),A/C Seater / Sleeper (2+1),22:45,03:50,05h 05m,2249.0,2249.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+63,Krish Travels,A/C Sleeper (2+1),13:45,19:45,06h 00m,500.0,600.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+64,A1 Travels,Non A/C Seater / Sleeper (2+1),07:00,11:30,04h 30m,400.0,550.0,Gandhipuram,Mattuthavani,Coimbatore,Madurai
+65,EAGLE TRANSPORT,NON A/C Sleeper (2+1),22:05,03:35,05h 30m,1499.0,1499.0,Omni Bus Stand,Thirumangalam,Coimbatore,Madurai
+66,Black Pearl Tranz (GKT),A/C Sleeper (2+1),11:00,16:45,05h 45m,549.0,649.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+67,Black Pearl Tranz (GKT),A/C Sleeper (2+1),18:00,23:45,05h 45m,549.0,649.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+68,PAT BUS,NON A/C Sleeper (2+1),22:15,03:40,05h 25m,3000.0,3000.0,Gandhipuram,Madurai Radha,Coimbatore,Madurai
+69,Air Indiaa Travels,Non A/C Seater / Sleeper (2+1),21:40,03:00,05h 20m,600.0,750.0,Omni Bus Stand,Kappalur Bypass,Coimbatore,Madurai
+70,SRI KPM TRAVELS,Non A/C Seater / Sleeper (2+1),22:35,03:15,04h 40m,3999.0,3999.0,Gandhipuram,Periyar Bus Stand,Coimbatore,Madurai
+71,Sri Karpaga vinayaga Travels,A/C Seater / Sleeper (2+1),07:00,12:00,05h 00m,999.0,1299.0,Omni Bus Stand,Mattuthavani,Coimbatore,Madurai
+72,Sri Karpaga vinayaga Travels,A/C Seater / Sleeper (2+1),22:45,04:10,05h 25m,999.0,1299.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+73,Krish Travels,A/C Seater/Sleeper (2+1),13:00,18:05,05h 05m,550.0,900.0,Omni Bus Stand,Periyar Bus Stand,Coimbatore,Madurai
+74,VEE VEE BUS,A/C Seater / Sleeper (2+1),21:00,02:00,05h 00m,899.1,1169.1,Gandhipuram,Periyar Bus Stand,Coimbatore,Madurai

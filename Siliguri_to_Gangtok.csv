@@ -1,0 +1,18 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Sikkim Nationalised Transport (SNT) - 174171,NON A/C Seater (2+2),06:00,11:00,05h 00m,275.0,275.0,SNT Bus Stand Siliguri,SNT bus stand,Siliguri,Gangtok
+2,Sikkim Nationalised Transport (SNT) - 174490,A/C Seater Classic (2+2),08:00,13:00,05h 00m,500.0,500.0,SNT Bus Stand Siliguri,SNT bus stand,Siliguri,Gangtok
+3,Sikkim Nationalised Transport (SNT) - 171023,NON A/C Seater (2+2),09:00,14:00,05h 00m,275.0,275.0,SNT Bus Stand Siliguri,SNT bus stand,Siliguri,Gangtok
+4,Sikkim Nationalised Transport (SNT) - 171242,A/C Seater (2+1),10:30,15:30,05h 00m,500.0,500.0,SNT Bus Stand Siliguri,SNT bus stand,Siliguri,Gangtok
+5,Sikkim Nationalised Transport (SNT) - 170868,NON A/C Seater (2+2),11:00,16:00,05h 00m,275.0,275.0,SNT Bus Stand Siliguri,SNT bus stand,Siliguri,Gangtok
+6,Sikkim Nationalised Transport (SNT) - 170869,NON A/C Seater (2+2),12:30,17:30,05h 00m,275.0,275.0,SNT bus stand,SNT bus stand,Siliguri,Gangtok
+7,Sikkim Nationalised Transport (SNT) - 171241,A/C Seater (2+1),13:30,18:30,05h 00m,500.0,500.0,SNT Bus Stand Siliguri,SNT bus stand,Siliguri,Gangtok
+8,Sikkim Nationalised Transport (SNT) - 170874,NON A/C Seater (2+2),15:00,20:00,05h 00m,275.0,275.0,SNT Bus Stand Siliguri,SNT bus stand,Siliguri,Gangtok
+9,APSARA BUS SERVICE,Non AC Seater (2+2),08:00,12:30,04h 30m,243.0,243.0,Tenzing Norgay Bus Terminus,Deorali Bus Stand,Siliguri,Gangtok
+10,APSARA BUS SERVICE,Non AC Seater (2+2),07:00,11:30,04h 30m,243.0,243.0,Tenzing Norgay Bus Terminus,Deorali Bus Stand,Siliguri,Gangtok
+11,APSARA BUS SERVICE,Non AC Seater (2+2),06:40,10:10,03h 30m,243.0,243.0,Tenzing Norgay Bus Terminus,Deorali Bus Stand,Siliguri,Gangtok
+12,APSARA BUS SERVICE,Non AC Seater (2+2),10:00,14:30,04h 30m,243.0,243.0,Tenzing Norgay Bus Terminus,Deorali Bus Stand,Siliguri,Gangtok
+13,APSARA BUS SERVICE,Non AC Seater (2+2),16:15,20:45,04h 30m,243.0,243.0,Tenzing Norgay Bus Terminus,Deorali Bus Stand,Siliguri,Gangtok
+14,APSARA BUS SERVICE,Non AC Seater (2+2),07:20,11:50,04h 30m,243.0,243.0,Tenzing Norgay Bus Terminus,Deorali Bus Stand,Siliguri,Gangtok
+15,APSARA BUS SERVICE,Non AC Seater (2+2),05:00,09:30,28h 30m,243.0,243.0,Panitanki more,Deorali Bus Stand,Siliguri,Gangtok
+16,APSARA BUS SERVICE,Non AC Seater (2+2),14:10,18:40,04h 30m,243.0,243.0,Tenzing Norgay Bus Terminus,Deorali Bus Stand,Siliguri,Gangtok
+17,APSARA BUS SERVICE,Non AC Seater (2+2),10:40,15:10,04h 30m,243.0,243.0,Tenzing Norgay Bus Terminus,Deorali Bus Stand,Siliguri,Gangtok

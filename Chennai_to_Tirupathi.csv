@@ -1,0 +1,61 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,APSRTC - 5583,SAPTAGIRI EXPRESS,00:15,03:45,03h 30m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+2,APSRTC - 5366,SAPTAGIRI EXPRESS,00:45,04:00,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+3,APSRTC - 5585,SAPTAGIRI EXPRESS,01:15,04:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+4,APSRTC - 6124,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",04:30,07:50,03h 20m,191.0,191.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+5,APSRTC - 47048,INDRA(A.C. Seater),05:00,08:00,03h 00m,253.0,253.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+6,APSRTC - 5372,SAPTAGIRI EXPRESS,05:15,08:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+7,APSRTC - 5374,SAPTAGIRI EXPRESS,05:45,09:00,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+8,APSRTC - 5441,INDRA(A.C. Seater),06:00,09:00,03h 00m,253.0,253.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+9,APSRTC - 5368,SAPTAGIRI EXPRESS,06:15,09:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+10,APSRTC - 6027,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",06:45,10:00,03h 15m,200.0,200.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+11,APSRTC - 5629,SAPTAGIRI EXPRESS,07:15,10:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+12,APSRTC - 9287,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",07:30,10:45,03h 15m,200.0,200.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+13,APSRTC - 5589,SAPTAGIRI EXPRESS,07:45,11:15,03h 30m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+14,APSRTC - 5593,SAPTAGIRI EXPRESS,08:15,11:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+15,APSRTC - 6025,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",08:30,12:00,03h 30m,200.0,200.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+16,APSRTC - 5597,SAPTAGIRI EXPRESS,08:45,12:00,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+17,APSRTC - 6253,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",09:00,12:15,03h 15m,191.0,191.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+18,APSRTC - 5541,SAPTAGIRI EXPRESS,09:45,13:00,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+19,APSRTC - 5539,SAPTAGIRI EXPRESS,10:15,13:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+20,APSRTC - 6076,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:30,14:30,04h 00m,200.0,200.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+21,APSRTC - 5599,SAPTAGIRI EXPRESS,11:15,14:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+22,APSRTC - 5549,SAPTAGIRI EXPRESS,13:45,17:00,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+23,APSRTC - 5537,SAPTAGIRI EXPRESS,14:45,18:00,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+24,APSRTC - 5567,SAPTAGIRI EXPRESS,15:15,18:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+25,APSRTC - 5555,SAPTAGIRI EXPRESS,16:15,19:30,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+26,APSRTC - 5557,SAPTAGIRI EXPRESS,16:45,20:00,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+27,APSRTC - 6299,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:40,21:30,03h 50m,209.0,209.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+28,APSRTC - 5561,SAPTAGIRI EXPRESS,17:50,21:05,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+29,APSRTC - 47482,INDRA(A.C. Seater),18:00,21:00,03h 00m,253.0,253.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+30,APSRTC - 6936,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,22:00,03h 30m,209.0,209.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+31,APSRTC - 5573,SAPTAGIRI EXPRESS,18:50,22:05,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+32,APSRTC - 6739,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,22:15,03h 15m,209.0,209.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+33,APSRTC - 47492,INDRA(A.C. Seater),19:00,22:00,03h 00m,253.0,253.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+34,APSRTC - 6297,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,23:05,03h 50m,209.0,209.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+35,APSRTC - 51039,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,23:30,03h 30m,209.0,209.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+36,APSRTC - 47088,INDRA(A.C. Seater),20:00,23:00,03h 00m,253.0,253.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+37,APSRTC - 6445,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:20,23:45,03h 25m,209.0,209.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+38,APSRTC - 6244,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",20:30,23:45,03h 15m,191.0,191.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+39,APSRTC - 6167,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,23:59,03h 14m,200.0,200.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+40,APSRTC - 6443,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,00:35,03h 35m,209.0,209.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+41,APSRTC - 9299,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:20,00:15,02h 55m,200.0,200.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+42,APSRTC - 5569,SAPTAGIRI EXPRESS,21:40,02:10,04h 30m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+43,APSRTC - 50053,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,01:00,03h 15m,200.0,200.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+44,APSRTC - 5425,INDRA(A.C. Seater),22:00,01:00,03h 00m,253.0,253.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+45,APSRTC - 5575,SAPTAGIRI EXPRESS,22:15,02:30,04h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+46,APSRTC - 6023,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:45,02:00,03h 15m,200.0,200.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+47,APSRTC - 47486,INDRA(A.C. Seater),23:00,02:00,03h 00m,253.0,253.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+48,APSRTC - 5370,SAPTAGIRI EXPRESS,23:59,03:14,03h 15m,162.0,162.0,Madhavaram,TIRUPATHI,Chennai,Tirupathi
+49,NueGo,Electric A/C Seater (2+2),23:00,03:25,04h 25m,379.05,492.1,Koyambedu,RTC Bus Stand,Chennai,Tirupathi
+50,NueGo,Electric A/C Seater (2+2),16:30,20:10,03h 40m,238.45,310.65,Koyambedu,RTC Bus Stand,Chennai,Tirupathi
+51,NueGo,Electric A/C Seater (2+2),09:30,13:05,03h 35m,239.4,310.65,Koyambedu,RTC Bus Stand,Chennai,Tirupathi
+52,NueGo,Electric A/C Seater (2+2),04:40,09:05,04h 25m,239.4,310.65,Koyambedu,RTC Bus Stand,Chennai,Tirupathi
+53,NueGo,Electric A/C Seater (2+2),18:30,22:05,03h 35m,265.05,344.85,Koyambedu,RTC Bus Stand,Chennai,Tirupathi
+54,AR & BCVR Travels,A/C Seater/Sleeper (2+1),20:50,01:00,04h 10m,650.0,800.0,Navalur,Srinivasam,Chennai,Tirupathi
+55,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),A/C Sleeper (2+1),05:00,07:30,02h 30m,1780.0,2180.0,Koyambedu,Vadamalpet,Chennai,Tirupathi
+56,PRL BUS,Non A/C Seater / Sleeper (2+1),20:10,00:50,04h 40m,600.0,1000.0,Navalur,RTC Bus Stand,Chennai,Tirupathi
+57,AR & BCVR Travels,Non A/C Seater / Sleeper (2+1),20:20,01:00,04h 40m,540.0,720.0,Navalur,Srinivasam,Chennai,Tirupathi
+58,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),A/C Seater / Sleeper (2+1),05:00,08:00,03h 00m,1799.0,1799.0,Koyambedu,Vadamalpet,Chennai,Tirupathi
+59,Maheswari Travels,Non A/C Seater / Sleeper (2+1),19:45,01:10,05h 25m,600.0,950.0,Padur,Srinivasam,Chennai,Tirupathi
+60,RKT Tours and Travels,A/C Sleeper (2+1),03:45,05:45,02h 00m,2899.0,2899.0,Koyambedu,Srinivasam,Chennai,Tirupathi

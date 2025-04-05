@@ -1,0 +1,45 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,zingbus Maxx,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:30,09:45,14h 15m,1707.0,1707.0,ISBT Kashmiri Gate,Mohan Sarai Underbridge,Delhi,Varanasi
+2,Gola Bus Service,Bharat Benz A/C Seater /Sleeper (2+1),20:00,09:20,13h 20m,1999.0,2999.0,ISBT Kashmiri Gate,JIO BP PETROL PUMP,Delhi,Varanasi
+3,Gola Bus Service,Bharat Benz A/C Sleeper (2+1),19:00,08:20,13h 20m,886.0,1569.0,ISBT Kashmiri Gate,JIO BP PETROL PUMP,Delhi,Varanasi
+4,AdRaj Kalpana Travels Pvt.Ltd,A/C Seater / Sleeper (2+1),16:15,05:15,13h 00m,2499.0,3999.0,ISBT Kashmiri Gate,Laher Tara Chauraha Fulwariya Road Pillor No 26 A,Delhi,Varanasi
+5,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),16:30,06:30,14h 00m,879.0,1536.0,ISBT Kashmiri Gate,RADHA PETROL PUMP MUDELA,Delhi,Varanasi
+6,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:00,09:00,13h 00m,886.0,1548.0,ISBT Kashmiri Gate,RADHA PETROL PUMP MUDELA,Delhi,Varanasi
+7,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:30,07:00,13h 30m,900.0,1572.0,ISBT Kashmiri Gate,RADHA PETROL PUMP MUDELA,Delhi,Varanasi
+8,AdRaj Kalpana Travels Pvt.ltd,A/C Seater/Sleeper (2+1),20:00,09:00,13h 00m,2499.0,3499.0,ISBT Kashmiri Gate,Laher Tara Chauraha Fulwariya Road Pillor No 26 A,Delhi,Varanasi
+9,Tiwari and Brothers,A/C Sleeper (2+1),21:15,11:15,14h 00m,2849.05,3324.05,ISBT Kashmiri Gate,Reliance PETROL PUMP( Bhullanpur),Delhi,Varanasi
+10,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),19:45,10:50,15h 05m,1099.0,1799.0,ISBT Kashmiri Gate,Laher tara road,Delhi,Varanasi
+11,RS YADAV SMART BUS,A/C Seater / Sleeper (2+2),17:00,09:25,16h 25m,999.0,1499.0,ISBT Kashmiri Gate,Laher tara road,Delhi,Varanasi
+12,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+2),17:00,09:25,16h 25m,1199.0,1599.0,ISBT KASHMIRI GATE INSIDE ARRIVAL PLATFORM NEAR 1 AND 2,Laher tara road,Delhi,Varanasi
+13,OurBus India Limited,Bharat Benz A/C Seater /Sleeper (2+1),18:30,10:00,15h 30m,1000.8,1942.2,ISBT Kashmiri Gate,Transport Nagar Parking Mohansarai Varanasi,Delhi,Varanasi
+14,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),19:45,10:50,15h 05m,1099.0,1599.0,ISBT KASHMIRI GATE INSIDE ARRIVAL PLATFORM NEAR 1 AND 2,Laher tara road,Delhi,Varanasi
+15,FlixBus,A/C Sleeper (2+1),19:15,10:05,14h 50m,1097.32,1221.43,ISBT Kashmiri Gate,Varanasi - Mohansarai (TP Nagar),Delhi,Varanasi
+16,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),18:30,10:00,15h 30m,1799.0,3000.0,Morigate,MOHANSARAI,Delhi,Varanasi
+17,OurBus India Limited,VE A/C Sleeper (2+1),16:30,08:15,15h 45m,1274.4,1980.9,ISBT Kashmiri Gate,Transport Nagar Parking Mohansarai Varanasi,Delhi,Varanasi
+18,Safar Express,A/C Seater / Sleeper (2+1),16:05,06:45,14h 40m,899.0,1399.0,ISBT Kashmiri Gate,Varanasi,Delhi,Varanasi
+19,New India Travels,A/C Seater / Sleeper (2+2),20:15,10:10,13h 55m,1799.0,3999.0,ISBT Kashmiri Gate,Chandpur GT Road Near HP Sardar Petrol Pump Mudhaila,Delhi,Varanasi
+20,OurBus India Limited,Bharat Benz A/C Seater /Sleeper (2+1),20:30,11:55,15h 25m,1000.8,1942.2,ISBT Kashmiri Gate,Transport Nagar Parking Mohansarai Varanasi,Delhi,Varanasi
+21,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),18:00,09:15,15h 15m,769.0,1639.0,ISBT Kashmiri Gate,Modhaila,Delhi,Varanasi
+22,Khajuraho Travels Pvt Ltd,A/C Seater / Sleeper (2+1),20:16,10:12,13h 56m,996.0,1496.0,Morigate,Lahar tara chauraha piller no 25 tulsi travels,Delhi,Varanasi
+23,Raj Kalpana Travels Pvt.ltd,A/C Seater/Sleeper (2+1),21:00,10:00,13h 00m,2499.0,2499.0,ISBT Kashmiri Gate,Laher Tara Chauraha Fulwariya Road Pillor No 26 A,Delhi,Varanasi
+24,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,10:45,13h 45m,900.0,1572.0,ISBT Kashmiri Gate,RADHA PETROL PUMP MUDELA,Delhi,Varanasi
+25,GK Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:00,10:00,15h 00m,664.05,1044.05,Morigate,Bhullanpur PAC Gate Ke Banal Me MS Parish auto fuel Jio,Delhi,Varanasi
+26,Jamna Travels (Delhi),Bharat Benz A/C Sleeper (2+1),18:00,08:15,14h 15m,1299.0,1999.0,ISBT Kashmiri Gate,Mohansarai,Delhi,Varanasi
+27,Safar Express,A/C Seater / Sleeper (2+1),20:05,09:52,13h 47m,899.0,1399.0,ISBT Kashmiri Gate,Varanasi,Delhi,Varanasi
+28,Safar Express,A/C Seater / Sleeper (2+1),21:05,10:35,13h 30m,999.0,1399.0,ISBT Kashmiri Gate,Varanasi,Delhi,Varanasi
+29,HIGHWAY STAR TRAVEL & CARGO,A/C Seater / Sleeper (2+2),22:15,12:30,14h 15m,1349.1,1979.1,Morigate,Varanasi (U.P.),Delhi,Varanasi
+30,Shree Saroj Travels,A/C Seater/Sleeper (2+1),20:00,09:15,13h 15m,1999.0,3999.0,Morigate,Radha Petrol Pump Varanasi,Delhi,Varanasi
+31,Raj Shila Travels,A/C Seater / Sleeper (2+2),22:20,12:20,14h 00m,1590.0,2990.0,Morigate,Varanasi,Delhi,Varanasi
+32,HIGHWAY STAR TRAVEL & CARGO,A/C Seater/Sleeper (2+1),21:15,10:30,13h 15m,2399.0,4499.0,Morigate,Varanasi (U.P.),Delhi,Varanasi
+33,Khajuraho Travels Pvt Ltd,AC Sleeper (2+1),22:16,11:42,13h 26m,896.0,996.0,Morigate,Lahar tara chauraha piller no 25 tulsi travels,Delhi,Varanasi
+34,Palak Travels,A/C Seater/Sleeper (2+1),21:05,11:00,13h 55m,1799.0,2799.0,Morigate,RADHA PETROL PUMP MUDELA,Delhi,Varanasi
+35,Sanskar Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:42,10:59,13h 17m,1299.0,1499.0,ISBT Kashmiri Gate,Jio bp petrol pump next to bhullanpur pac gate,Delhi,Varanasi
+36,Shree Saroj Travels,A/C Seater/Sleeper (2+1),22:00,11:30,13h 30m,2999.0,6999.0,Morigate,Sardar Petrol Pump Varanasi,Delhi,Varanasi
+37,PRATAP T&C,A/C Seater/Sleeper (2+1),21:45,12:30,14h 45m,5000.0,5000.0,ISBT Kashmiri Gate,Varanasi bhullanpur,Delhi,Varanasi
+38,Amar Jyoti Travels,A/C Seater/Sleeper (2+1),17:30,08:00,14h 30m,3199.0,3899.0,Chandni Chowk,Varanasi bypass,Delhi,Varanasi
+39,Palak Travels,A/C Seater/Sleeper (2+1),20:20,10:15,13h 55m,1799.0,2799.0,Morigate,RADHA PETROL PUMP MUDELA,Delhi,Varanasi
+40,Durga Travel Lines,A/C Seater / Sleeper (2+2),21:30,10:00,12h 30m,4000.0,4000.0,Morigate,Mohan Sarai,Delhi,Varanasi
+41,Durga Travel Lines,A/C Seater / Sleeper (2+2),22:00,10:30,12h 30m,4000.0,4000.0,Morigate,Mohan Sarai,Delhi,Varanasi
+42,Tiwari Travels,A/C Sleeper (2+1),22:00,10:00,12h 00m,1900.0,2000.0,Akshardham Metro Station,Lahartara Cahuraha,Delhi,Varanasi
+43,Crown Travels,A/C Seater / Sleeper (2+1),20:30,11:00,14h 30m,2500.0,3599.0,ISBT Kashmiri Gate,varanasi 0,Delhi,Varanasi
+44,Shree ram travels,A/C Seater/Sleeper (2+1),21:31,12:40,15h 09m,1799.0,2199.0,ISBT Kashmiri Gate,Vijaynagar Road,Delhi,Varanasi

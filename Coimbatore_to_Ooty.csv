@@ -1,0 +1,10 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,KSRTC (Kerala) - 900,Super Fast Non AC Seater (2+3),11:00,14:00,03h 00m,103.0,103.0,Gandhipuram,Ooty,Coimbatore,Ooty
+2,Alfaidha Travels,Sleeper Seater Ordinary (Non AC 2+1 Seater/Sleeper),14:00,17:30,03h 30m,900.0,900.0,Omni Bus Stand,Bus stand ooty,Coimbatore,Ooty
+3,Friends Travels,Non AC Seater (2+3),09:00,12:15,03h 15m,450.0,450.0,Gandhipuram,Ooty Bus Stand ( Van / Bus Pick up ),Coimbatore,Ooty
+4,Essaar,NON A/C Seater (2+2),06:00,09:00,03h 00m,350.0,350.0,Tatabad,Charring Cross,Coimbatore,Ooty
+5,Shafa Tours and Travels,NON A/C Seater (2+1),09:00,12:00,03h 00m,700.0,700.0,Gandhipuram,Ooty bus stand,Coimbatore,Ooty
+6,Shafa Tours and Travels,NON A/C Seater (2+1),15:00,18:00,03h 00m,700.0,700.0,Gandhipuram,Ooty bus stand,Coimbatore,Ooty
+7,PRC TRAVELS,Non AC Seater (2+1),06:30,08:30,02h 00m,450.0,450.0,Railway Station,Ooty Bus Stand ( Van/ Bus Pick Up ),Coimbatore,Ooty
+8,PRC TRAVELS,Non AC Seater (2+1),08:00,11:00,03h 00m,450.0,450.0,Railway Station,Ooty Bus Stand ( Van/ Bus Pick Up ),Coimbatore,Ooty
+9,Friends Travels,Non AC Seater (2+3),07:15,10:30,03h 15m,450.0,450.0,Gandhipuram,Ooty Bus Stand ( Van / Bus Pick up ),Coimbatore,Ooty

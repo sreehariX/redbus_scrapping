@@ -1,0 +1,28 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,UPSRTC - AYD0001,Janrath AC Seater 2+2,06:30,12:00,05h 30m,434.0,434.0,AYODHYA ROADWAYS BUS STAND,VARANASI CANT BUS STAND,Ayodhya,Varanasi
+2,UPSRTC - BLP0071,Ordinary Non AC Seater 2+3,10:45,18:00,07h 15m,344.0,344.0,AYODHYA ROADWAYS BUS STAND,VARANASI CANT BUS STAND,Ayodhya,Varanasi
+3,UPSRTC - AYD0023,Ordinary Non AC Seater 2+3,15:00,21:30,06h 30m,349.0,349.0,AYODHYA ROADWAYS BUS STAND,VARANASI CANT BUS STAND,Ayodhya,Varanasi
+4,UPSRTC - CNT0064,Janrath AC Seater 2+3,19:20,01:41,06h 21m,432.0,432.0,AYODHYA DHAM BUS STAND,VARANASI CANT BUS STAND,Ayodhya,Varanasi
+5,UPSRTC - RPD0082,Janrath AC Seater 2+2,21:20,05:30,08h 10m,469.0,469.0,AYODHYA DHAM BUS STAND,VARANASI CANT BUS STAND,Ayodhya,Varanasi
+6,UPSRTC - CNT0152,Ordinary Non AC Seater 2+3,22:00,04:00,06h 00m,351.0,351.0,AYODHYA DHAM BUS STAND,VARANASI CANT BUS STAND,Ayodhya,Varanasi
+7,UPSRTC - JNP0020,Ordinary Non AC Seater 2+3,23:00,04:00,05h 00m,351.0,351.0,AYODHYA DHAM BUS STAND,VARANASI CANT BUS STAND,Ayodhya,Varanasi
+8,Shree Savariya Travels & Transport,A/C Seater/Sleeper (2+1),16:15,21:15,05h 00m,499.0,699.0,ayodhya by pass saket pump near surya dwar,Tulsi Travels Cantt,Ayodhya,Varanasi
+9,Singh Bus Service,A/C Seater / Sleeper (2+1),11:30,16:00,04h 30m,399.0,799.0,Saket Petrol Pump K Same Dharam chowk,Lahar Tara Chauraha,Ayodhya,Varanasi
+10,Singh Bus Service,A/C Seater / Sleeper (2+2),12:30,17:30,05h 00m,399.0,749.0,Saket Petrol Pump K Same Dharam chowk,Singh Bus Office Cantt Roadways Opp Arcadia Hotel,Ayodhya,Varanasi
+11,Singh Bus Service,A/C Seater / Sleeper (2+1),21:25,02:50,05h 25m,399.0,699.0,Saket Petrol Pump K Same Dharam chowk,Singh Bus Office Cantt Roadways Opp Arcadia Hotel,Ayodhya,Varanasi
+12,Shree Savariya Travels & Transport,A/C Seater (2+2),09:00,13:45,04h 45m,399.0,399.0,Ayodha dham get near shaket petrol pump Ayodhya Bypass,Tulsi Travels Lehartara Chauraha,Ayodhya,Varanasi
+13,Vasudeo Travels,A/C Seater/Sleeper (2+1),14:00,19:05,05h 05m,400.0,500.0,Ayodhya,Varanasi,Ayodhya,Varanasi
+14,Singh Bus Service,A/C Seater / Sleeper (2+1),22:10,03:10,05h 00m,399.0,799.0,Saket Petrol Pump K Same Dharam chowk,Singh Bus Office Cantt Roadways Opp Arcadia Hotel,Ayodhya,Varanasi
+15,Singh Bus Service,A/C Seater / Sleeper (2+1),13:15,17:45,04h 30m,399.0,649.0,Saket Petrol Pump K Same Dharam chowk,Singh Bus Office Cantt Roadways Opp Arcadia Hotel,Ayodhya,Varanasi
+16,Singh Bus Service,A/C Seater / Sleeper (2+1),09:15,14:00,04h 45m,399.0,799.0,Saket Petrol Pump K Same Dharam chowk,Lahar Tara Chauraha,Ayodhya,Varanasi
+17,Singh Bus Service,A/C Seater / Sleeper (2+2),10:15,15:10,04h 55m,399.0,699.0,Saket Petrol Pump K Same Dharam chowk,Lahar Tara Chauraha,Ayodhya,Varanasi
+18,Shree Savariya Travels & Transport,A/C Seater (2+2),08:00,13:00,05h 00m,399.0,399.0,ayodhya by pass saket pump near surya dwar,Tulsi Travels Lehartara Chauraha,Ayodhya,Varanasi
+19,Singh Bus Service,A/C Seater (2+2),16:30,21:30,05h 00m,399.0,399.0,Saket Petrol Pump K Same Dharam chowk,CANTT ROADWAYS BUS STAND KE SAMNE PILLER NO 48,Ayodhya,Varanasi
+20,Shree Savariya Travels & Transport,A/C Seater (2+2),17:30,21:55,04h 25m,449.0,449.0,ayodhya by pass saket pump near surya dwar,Banaras,Ayodhya,Varanasi
+21,Shree Savariya Travels & Transport,A/C Seater (2+2),13:30,18:50,05h 20m,399.0,399.0,Ayodhya Bypass,Tulsi Travels Cantt,Ayodhya,Varanasi
+22,Singh Bus Service,A/C Seater (2+2),17:00,22:00,05h 00m,399.0,399.0,Saket Petrol Pump K Same Dharam chowk,CANTT ROADWAYS BUS STAND KE SAMNE PILLER NO 48,Ayodhya,Varanasi
+23,Singh Bus Service,A/C Seater (2+2),23:15,03:40,04h 25m,399.0,399.0,Saket Petrol Pump K Same Dharam chowk,Singh Bus Office Cantt Roadways Opp Arcadia Hotel,Ayodhya,Varanasi
+24,Singh Bus Service,A/C Seater (2+2),22:30,03:30,05h 00m,399.0,399.0,Saket Petrol Pump K Same Dharam chowk,Singh Bus Office Cantt Roadways Opp Arcadia Hotel,Ayodhya,Varanasi
+25,Shree Savariya Travels & Transport,A/C Seater (2+2),22:00,02:30,04h 30m,399.0,399.0,Ayodhya Bypass,Tulsi Travels Lehartara Chauraha,Ayodhya,Varanasi
+26,Anaya Holidays,Bharat Benz A/C Sleeper (2+1),10:15,13:15,03h 00m,1999.0,2099.0,Hotel Surya Place,H.P. Kiran petrol pump Lahartara,Ayodhya,Varanasi
+27,RHDC U/LA BSRTC,A/C Seater Push Back (2+2),22:40,03:07,04h 27m,499.0,499.0,ayodhya bus stand,Cantt Bus Stand,Ayodhya,Varanasi

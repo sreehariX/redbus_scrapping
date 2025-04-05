@@ -1,0 +1,16 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,UPSRTC - AKP0197,Ordinary Non AC Seater 2+3,08:16,20:30,12h 14m,580.0,580.0,AWADH BUS STAND,BALLIA BUS STAND,Lucknow,Ballia
+2,UPSRTC - AKP0214,Ordinary Non AC Seater 2+3,10:30,21:46,11h 16m,580.0,580.0,AWADH BUS STAND,BALLIA BUS STAND,Lucknow,Ballia
+3,UPSRTC - BUI0026,Janrath AC Seater 2+2,18:30,03:40,09h 10m,769.0,769.0,Alambagh,BALLIA BUS STAND,Lucknow,Ballia
+4,UPSRTC - CBG0158,Janrath AC Seater 2+2,19:30,04:30,09h 00m,769.0,769.0,Alambagh,BALLIA BUS STAND,Lucknow,Ballia
+5,UPSRTC - CBG0159,Janrath AC Seater 2+2,20:30,05:00,08h 30m,769.0,769.0,Alambagh,BALLIA BUS STAND,Lucknow,Ballia
+6,UPSRTC - BUI0362,Ordinary Non AC Seater 2+3,21:48,06:17,08h 29m,624.0,624.0,Alambagh,BALLIA BUS STAND,Lucknow,Ballia
+7,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),03:30,10:00,06h 30m,1199.0,1999.0,Ahmamau Chauraha,Krishna takies lucknow road ballia,Lucknow,Ballia
+8,Vinay Travels,VE A/C Seater / Sleeper (2+1),03:59,11:50,07h 51m,1090.0,1890.0,Alambagh,Chandershekhar nagar gate no.2 ballia,Lucknow,Ballia
+9,Safar Express,A/C Seater / Sleeper (2+1),04:00,10:15,06h 15m,999.0,1499.0,Alambagh,Ballia (basker taxi stand)maldepur mod,Lucknow,Ballia
+10,Maa Vaishno Travels & Parcel,A/C Sleeper (2+1),02:30,09:00,06h 30m,3500.0,3500.0,Transport Nagar,RASADA AZAAD CHOWK,Lucknow,Ballia
+11,Krishna Travels,A/C Seater / Sleeper (2+2),04:00,12:14,08h 14m,2799.0,3299.0,Ahmamau,Ballia,Lucknow,Ballia
+12,Safar Express,A/C Seater / Sleeper (2+1),01:25,11:30,10h 05m,999.0,1399.0,Alambagh,Ballia (basker taxi stand)maldepur mod,Lucknow,Ballia
+13,Krishna Travels,A/C Seater/Sleeper (2+1),05:30,11:55,06h 25m,1569.0,2269.0,Alambagh,Ballia,Lucknow,Ballia
+14,Vinay Travels,VE A/C Seater / Sleeper (2+1),03:40,09:45,06h 05m,500.0,1000.0,Alambagh,Krishna takies lucknow road ballia,Lucknow,Ballia
+15,Shri Siddhi Vinayak Travels,A/C Seater / Sleeper (2+2),03:30,11:00,07h 30m,3000.0,5000.0,Alambagh,Maldepur(mod) naveen travel ballia,Lucknow,Ballia

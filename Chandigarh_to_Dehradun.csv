@@ -1,0 +1,29 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Uttarakhand Transport Corporation (UTC) - 132I247,Ordinary 3+2 Non AC Seater,06:00,11:30,05h 30m,320.0,320.0,CHANDIGARH SECTOR FOURTYTHREE,Isbt,Chandigarh,Dehradun
+2,Uttarakhand Transport Corporation (UTC) - 454I975,Volvo A/C Seater (2+2),14:25,19:25,05h 00m,552.0,552.0,CHANDIGARH SECTOR FOURTYTHREE,Isbt,Chandigarh,Dehradun
+3,Uttarakhand Transport Corporation (UTC) - 134I251,Ordinary 3+2 Non AC Seater,17:45,23:15,05h 30m,320.0,320.0,CHANDIGARH SECTOR FOURTYTHREE,Isbt,Chandigarh,Dehradun
+4,Uttarakhand Transport Corporation (UTC) - 453I973,Volvo A/C Seater (2+2),18:10,23:10,05h 00m,552.0,552.0,CHANDIGARH SECTOR FOURTYTHREE,Isbt,Chandigarh,Dehradun
+5,NueGo,Electric A/C Seater (2+2),07:30,11:55,04h 25m,522.5,712.5,Opp ISBT Sec-43,Isbt,Chandigarh,Dehradun
+6,NueGo,Electric A/C Seater (2+2),18:00,22:55,04h 55m,712.5,997.5,Opp ISBT Sec-43,Isbt,Chandigarh,Dehradun
+7,Laxmi holidays,VE A/C Semi Sleeper (2+2),23:55,05:15,05h 20m,999.0,1549.0,Tribune Chowk Sector 31B,Jogiwala The Loving Family Restaurant,Chandigarh,Dehradun
+8,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),04:20,11:00,06h 40m,1501.0,2628.0,Tribune Chowk Sector 31B,Isbt,Chandigarh,Dehradun
+9,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),01:30,07:30,06h 00m,971.0,1699.0,Tribune Chowk Sector 31B,Isbt,Chandigarh,Dehradun
+10,Zimindara Travels,AC Sleeper (2+1),23:00,05:30,06h 30m,1049.0,1099.0,Sec 43,Isbt,Chandigarh,Dehradun
+11,City Land Travels,Volvo A/C Semi Sleeper (2+2),00:40,05:00,04h 20m,1213.2,1429.2,Sector 42 Indian Oil Petrol Pump,Isbt,Chandigarh,Dehradun
+12,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),23:55,04:00,04h 05m,799.0,1299.0,Sec 43 H.P. Petrol Pump opposite bus stand,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Chandigarh,Dehradun
+13,Kohli Tour & Travellers,VE A/C Semi Sleeper (2+2),01:25,06:45,05h 20m,1030.0,1692.0,HP Petrol Pump Opposite Sector 43 ISBT,Haridwar by pass road Dehradun,Chandigarh,Dehradun
+14,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06:10,06h 15m,1495.0,2898.0,Tribune Chowk Sector 31B,Isbt,Chandigarh,Dehradun
+15,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),23:59,04:30,04h 31m,1199.0,1299.0,Sec 43 H.P. Petrol Pump opposite bus stand,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Chandigarh,Dehradun
+16,City Land Travels,A/C Seater/Sleeper (2+1),03:15,09:20,06h 05m,979.2,1519.2,Sector 42 Indian Oil Petrol Pump,Isbt,Chandigarh,Dehradun
+17,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),00:25,05:45,05h 20m,1199.0,1649.0,Tribune Chowk Sector 31B,Jogiwala The Loving Family Restaurant,Chandigarh,Dehradun
+18,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),23:40,05:15,05h 35m,1749.0,1849.0,Tribune Chowk Sector 31B,Jogiwala The Loving Shadas Near Hero Showroom,Chandigarh,Dehradun
+19,City Land Travels,A/C Sleeper (2+1),03:30,08:10,04h 40m,1159.2,1393.2,Sector 42 Indian Oil Petrol Pump,Isbt,Chandigarh,Dehradun
+20,Kohli Tour & Travellers,VE A/C Semi Sleeper (2+2),23:55,05:15,05h 20m,850.0,990.0,HP Petrol Pump Opposite Sector 43 ISBT,Haridwar by pass road Dehradun,Chandigarh,Dehradun
+21,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),03:55,10:20,06h 25m,1099.0,1499.0,Sec 43 H.P. Petrol Pump opposite bus stand,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Chandigarh,Dehradun
+22,City Land Travels,A/C Seater/Sleeper (2+1),04:15,10:20,06h 05m,979.2,1519.2,Sector 42 Indian Oil Petrol Pump,Isbt,Chandigarh,Dehradun
+23,KN Nehra Travels,A/C Seater / Sleeper (2+1),00:50,06:20,05h 30m,999.0,1599.0,Chandni Chowk,Isbt,Chandigarh,Dehradun
+24,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+1),00:00,09:30,09h 30m,1199.0,1399.0,Sec 43 H.P. Petrol Pump opposite bus stand,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Chandigarh,Dehradun
+25,PRAKASH TOURISM,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),03:35,06:30,02h 55m,999.0,999.0,Sec 43,Isbt,Chandigarh,Dehradun
+26,PRAKASH TOURISM,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),07:00,12:00,05h 00m,1100.0,1100.0,Chandni Chowk,Isbt,Chandigarh,Dehradun
+27,Royal Safari India Travels,A/C Seater Push Back (2+2),23:55,05:15,05h 20m,971.0,971.0,TRIBHUVAN CHWOK Sector 43 0pposite ISBT Chandigarh,Isbt,Chandigarh,Dehradun
+28,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),02:30,07:50,05h 20m,2321.0,2321.0,Sec 43,At Home (Drop by Cab),Chandigarh,Dehradun

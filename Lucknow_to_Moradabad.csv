@@ -1,0 +1,27 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,UPSRTC - MZF0019,Ordinary Non AC Seater 2+3,04:00,12:33,08h 33m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+2,UPSRTC - BJR0013,Rajdhani Non AC Seater 2+3,05:10,14:00,08h 50m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+3,UPSRTC - SRG0233,Ordinary Non AC Seater 2+3,06:00,14:02,08h 02m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+4,UPSRTC - SRG0039,Ordinary Non AC Seater 2+3,07:00,15:02,08h 02m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+5,UPSRTC - SRD1031,Janrath AC Seater 2+3,11:01,19:10,08h 09m,611.0,611.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+6,UPSRTC - SRD1021,Janrath AC Seater 2+2,12:01,20:10,08h 09m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+7,UPSRTC - SRD1027,Janrath AC Seater 2+2,14:31,22:45,08h 14m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+8,UPSRTC - BRT0007,Ordinary Non AC Seater 2+3,15:00,23:40,08h 40m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+9,UPSRTC - MZF0115,Janrath AC Seater 2+2,15:31,23:20,07h 49m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+10,UPSRTC - LNI0017,Rajdhani Non AC Seater 2+3,16:00,23:30,07h 30m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+11,UPSRTC - SRG0008,Janrath AC Seater 2+2,17:00,02:00,09h 00m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+12,UPSRTC - SRG0745,Ordinary Non AC Seater 2+3,17:35,01:40,08h 05m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+13,UPSRTC - MRD0148,Janrath AC Seater 2+2,18:03,01:00,06h 57m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+14,UPSRTC - MZF0026,Janrath AC Seater 2+2,18:30,03:45,09h 15m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+15,UPSRTC - SBD0582,Pink Express AC Seater 2+2,19:02,02:25,07h 23m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+16,UPSRTC - SRD1025,Janrath AC Seater 2+2,19:32,03:15,07h 43m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+17,UPSRTC - BJR0007,Ordinary Non AC Seater 2+3,20:00,04:15,08h 15m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+18,UPSRTC - GND0100,Ordinary Non AC Seater 2+3,20:02,04:00,07h 58m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+19,UPSRTC - SBD0118,Pink Express AC Seater 2+2,21:01,03:00,05h 59m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+20,UPSRTC - CBG0092,Pink Express AC Seater 2+2,21:01,04:30,07h 29m,665.0,665.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+21,UPSRTC - MRD0007,Janrath AC Seater 2+2,22:00,06:15,08h 15m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+22,UPSRTC - SRG0033,Ordinary Non AC Seater 2+3,22:00,06:02,08h 02m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+23,UPSRTC - SBD0114,Pink Express AC Seater 2+2,22:01,05:00,06h 59m,664.0,664.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+24,UPSRTC - SRG0102,Ordinary Non AC Seater 2+3,23:30,07:32,08h 02m,543.0,543.0,Kaisarbagh,MORADABAD BUS STAND,Lucknow,Moradabad
+25,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04:00,07h 00m,999.0,1599.0,Transport Nagar,Hanuman Murti Infront Of Water Tank Rampur Road,Lucknow,Moradabad
+26,Tomar Travels,Non AC Seater (2+2),18:15,23:15,05h 00m,900.0,900.0,Transport Nagar,Moradabad,Lucknow,Moradabad

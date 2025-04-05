@@ -1,0 +1,43 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,HRTC - 1223,Ordinary 3+2 Non AC Seater,01:30,05:30,04h 00m,242.0,242.0,CHANDIGARH,Govt Bus Stand,Chandigarh,Shimla
+2,HRTC - 373,Ordinary 3+2 Non AC Seater,04:30,09:00,04h 30m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+3,HRTC - 2040084,Ordinary 3+2 Non AC Seater,04:36,08:30,03h 54m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+4,HRTC - 1513,Ordinary 3+2 Non AC Seater,04:40,09:00,04h 20m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+5,HRTC - 1730,Ordinary 3+2 Non AC Seater,06:00,10:15,04h 15m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+6,HRTC - 2030259,Ordinary 3+2 Non AC Seater,06:25,10:30,04h 05m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+7,HRTC - 2040090,Ordinary 3+2 Non AC Seater,06:30,10:45,04h 15m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+8,HRTC - 175,Ordinary 3+2 Non AC Seater,07:50,11:50,04h 00m,242.0,242.0,CHANDIGARH,Govt Bus Stand,Chandigarh,Shimla
+9,HRTC - 1550,Ordinary 3+2 Non AC Seater,11:40,15:45,04h 05m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+10,HRTC - 146,Ordinary 3+2 Non AC Seater,11:48,16:00,04h 12m,242.0,242.0,CHANDIGARH,Govt Bus Stand,Chandigarh,Shimla
+11,HRTC - 335,Ordinary 3+2 Non AC Seater,12:00,17:30,05h 30m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+12,HRTC - 1552,Ordinary 3+2 Non AC Seater,14:00,18:03,04h 03m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+13,HRTC - 1556,Ordinary 3+2 Non AC Seater,14:48,19:00,04h 12m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+14,HRTC - 126,Ordinary 3+2 Non AC Seater,15:15,19:45,04h 30m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+15,HRTC - 1553,Ordinary 3+2 Non AC Seater,16:40,20:49,04h 09m,242.0,242.0,CHANDIGARH,Govt Bus Stand,Chandigarh,Shimla
+16,HRTC - 63,Himsuta AC Seater Volvo/Scania 2+2,18:10,22:30,04h 20m,389.0,389.0,CHANDIGARH,Govt Bus Stand,Chandigarh,Shimla
+17,HRTC - 6707,Ordinary 3+2 Non AC Seater,18:30,23:00,04h 30m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+18,HRTC - 2040088,Ordinary 3+2 Non AC Seater,19:00,23:10,04h 10m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+19,HRTC - 2030270,Ordinary 3+2 Non AC Seater,19:30,23:00,03h 30m,242.0,242.0,CHANDIGARH,Govt Bus Stand,Chandigarh,Shimla
+20,HRTC - 137,Ordinary 3+2 Non AC Seater,19:40,23:50,04h 10m,242.0,242.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+21,HRTC - 1729,Ordinary 3+2 Non AC Seater,20:20,01:30,05h 10m,242.0,242.0,CHANDIGARH,Govt Bus Stand,Chandigarh,Shimla
+22,HRTC - 1215,Ordinary 3+2 Non AC Seater,23:05,03:30,04h 25m,232.0,232.0,Sec 43,Govt Bus Stand,Chandigarh,Shimla
+23,RSRTC - 192344,Super Luxury Volvo AC Seater Pushback 2+2,10:30,14:00,03h 30m,432.0,432.0,SECTOR 43 CHANDIGARH,SHIMLA,Chandigarh,Shimla
+24,Bedi Travels,Volvo A/C Semi Sleeper (2+2),03:50,08:00,04h 10m,827.1,1205.1,Zirakpur (Near KFC),Shimla By-Pass Crossing,Chandigarh,Shimla
+25,FlixBus,A/C Seater (2+2),03:30,07:40,04h 10m,615.18,766.07,Chandigarh - Zirakpur (N),Shimla - Bypass MC Car Parking,Chandigarh,Shimla
+26,City Land Travels,Volvo A/C Semi Sleeper (2+2),14:45,19:05,04h 20m,619.2,810.0,Sector 42 Indian Oil Petrol Pump,Shimla New Bus Stand,Chandigarh,Shimla
+27,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),04:05,07:45,03h 40m,1279.0,2390.0,Sec 43,Bypass Crossing,Chandigarh,Shimla
+28,City Land Travels,Volvo A/C Semi Sleeper (2+2),15:40,19:00,03h 20m,979.2,1159.2,Sector 42 Indian Oil Petrol Pump,Shimla New Bus Stand,Chandigarh,Shimla
+29,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),04:40,08:00,03h 20m,1699.0,1949.0,Tribune Chowk Sector 31B,Shimla By pass Mc Car Parking,Chandigarh,Shimla
+30,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),04:20,07:40,03h 20m,1260.0,1660.0,Sec 43,Shimla,Chandigarh,Shimla
+31,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),04:30,07:45,03h 15m,1169.0,1399.0,Tribune Chowk Sector 31B,Shimla By pass Mc Car Parking,Chandigarh,Shimla
+32,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),04:00,07:10,03h 10m,1500.0,1760.0,Sec 43,Shimla,Chandigarh,Shimla
+33,City Land Travels,Volvo A/C Semi Sleeper (2+2),02:30,06:00,03h 30m,1159.2,1429.2,Tribune Chowk Near Shiv Mandir,Shimla New Bus Stand,Chandigarh,Shimla
+34,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),03:35,07:20,03h 45m,1176.0,2176.0,Tribune Chowk Sector 31B,Shimla By pass Mc Car Parking,Chandigarh,Shimla
+35,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),04:40,09:05,04h 25m,994.0,1756.13,Sec 43,Bypass Crossing,Chandigarh,Shimla
+36,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),03:50,07:40,03h 50m,1175.0,2175.0,Tribune Chowk Sector 31B,Shimla By pass Mc Car Parking,Chandigarh,Shimla
+37,Deltin Travels Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),04:40,06:40,02h 00m,1420.0,1680.0,Tribune Chowk,Shimla By pass Crossing,Chandigarh,Shimla
+38,Deltin Travels Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),04:35,06:35,02h 00m,1500.0,1900.0,Tribune Chowk,Shimla By pass Crossing,Chandigarh,Shimla
+39,City Land Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),04:15,07:25,03h 10m,1249.2,1519.2,Majri Chowk Redlight Sector 1 Panchkula,Shimla New Bus Stand,Chandigarh,Shimla
+40,PAL Travel Lines,Bharat Benz A/C Semi Sleeper (2+2),05:05,07:50,02h 45m,1399.0,1399.0,Chandi Mandir:Toll Tax Barrier,Shimla,Chandigarh,Shimla
+41,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),04:15,07:00,02h 45m,1399.0,1399.0,Chandi Mandir:Toll Tax Barrier,Shimla,Chandigarh,Shimla
+42,Royal Safari India Travels,A/C Seater Push Back (2+2),04:30,08:05,03h 35m,971.0,971.0,TRIBHUVAN CHWOK Sector 43 0pposite ISBT Chandigarh,Shimla By Pass Crossing Car Parking,Chandigarh,Shimla

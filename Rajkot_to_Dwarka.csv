@@ -1,0 +1,33 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Galaxy Travels,A/C Sleeper (2+1),02:55,08:00,05h 05m,750.0,750.0,Limda Chowk,DWARKA,Rajkot,Dwarka
+2,SHREE BANSIDHAR TRAVELS®️,A/C Sleeper (2+1),02:06,07:15,05h 09m,800.0,800.0,rajkot  morbi road bedi chokdi,"Shree Banshidhar Travels ,Bhadrakali Chowk",Rajkot,Dwarka
+3,SHREE BANSIDHAR TRAVELS®️,NON A/C Sleeper (2+1),03:00,08:30,05h 30m,550.0,550.0,rajkot  morbi road bedi chokdi,"Shree Banshidhar Travels ,Bhadrakali Chowk",Rajkot,Dwarka
+4,SHREE BANSIDHAR TRAVELS®️,NON A/C Sleeper (2+1),04:00,08:30,04h 30m,500.0,500.0,Green Land Chokdi,shree Bansidhar travels bhadrakali chowk(Dwarka,Rajkot,Dwarka
+5,SHREE BANSIDHAR TRAVELS®️,NON A/C Sleeper (2+1),03:50,09:15,05h 25m,600.0,600.0,rajkot  morbi road bedi chokdi,"Shree Banshidhar Travels ,Bhadrakali Chowk",Rajkot,Dwarka
+6,Jay Dwarkesh Travels,A/C Sleeper (2+1),04:00,08:30,04h 30m,1000.0,1000.0,Green Land Chokdi,J.B Travels Bhadrakali Chowk,Rajkot,Dwarka
+7,Nand Travels (R),NON A/C Sleeper (2+1),04:00,08:45,04h 45m,523.0,523.0,Madhapar Chokdi,Swastik Travels - Bhadrakali Chowk,Rajkot,Dwarka
+8,Nand Travels (R),NON A/C Sleeper (2+1),04:15,09:15,05h 00m,570.0,570.0,Green Land Chokdi,Dwarka Circle,Rajkot,Dwarka
+9,Shree Vasudev Travels,NON A/C Sleeper (2+1),03:40,08:30,04h 50m,850.0,850.0,Green Land Chokdi,DWARKA,Rajkot,Dwarka
+10,Samay Travels,A/C Sleeper (2+1),03:20,10:00,06h 40m,1000.0,1000.0,Madhapar Chokdi,DWARKA,Rajkot,Dwarka
+11,Chirag Travels,A/C Sleeper (2+1),04:00,08:15,04h 15m,1000.0,1000.0,Madhapar Chokdi,Bhadrakali Road J.b Travels,Rajkot,Dwarka
+12,Samay Travels,A/C Sleeper (2+1),03:05,08:30,05h 25m,550.0,550.0,Madhapar Chokdi,DWARKA,Rajkot,Dwarka
+13,Samay Travels,NON A/C Sleeper (2+1),03:30,08:00,04h 30m,650.0,650.0,Madhapar Chokdi,DWARKA,Rajkot,Dwarka
+14,Samay Travels,NON A/C Sleeper (2+1),03:00,09:30,06h 30m,800.0,800.0,Madhapar Chokdi,DWARKA,Rajkot,Dwarka
+15,Gujarat Travels,Bharat Benz A/C Sleeper (2+1),03:05,06:55,03h 50m,1100.0,1100.0,Green Land Chokdi,Opp. Gomti gat gate,Rajkot,Dwarka
+16,Gujarat Travels Agency,A/C Seater / Sleeper (2+1),23:00,05:15,06h 15m,450.0,550.0,Limda Chowk,"GUJARAT Travels, Bhadrakali Road, Under Adhunik Hotel, Dwarka",Rajkot,Dwarka
+17,Shiv Shakti Travels,NON A/C Seater (2+2),16:30,21:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+18,Paavan Travels,AC Sleeper (2+1),02:15,07:30,05h 15m,800.0,800.0,Madhapar Chokdi,Dwarka,Rajkot,Dwarka
+19,Sudama Travels (Dwarka),A/C Sleeper (2+1),03:30,08:30,05h 00m,1149.0,1149.0,Madhapar Chokdi,Dwarka Gomti Ghat Hathi Parking,Rajkot,Dwarka
+20,Shiv Shakti Travels,NON A/C Seater (2+2),07:30,12:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+21,Shiv Shakti Travels,NON A/C Seater (2+2),15:30,20:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+22,Shiv Shakti Travels,NON A/C Seater (2+2),08:30,13:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+23,Shiv Shakti Travels,NON A/C Seater (2+2),13:30,18:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+24,Shiv Shakti Travels,Non AC Seater (2+2),11:30,16:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+25,Shiv Shakti Travels,NON A/C Seater (2+2),05:30,10:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+26,Shiv Shakti Travels,NON A/C Seater (2+2),06:30,11:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+27,Shiv Shakti Travels,NON A/C Seater (2+2),10:30,15:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+28,Shiv Shakti Travels,NON A/C Seater (2+3),14:30,19:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+29,Shiv Shakti Travels,Non AC Seater (2+2),12:30,17:30,05h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+30,Shiv Shakti Travels,NON A/C Seater (2+2),09:30,14:30,29h 00m,250.0,250.0,"Shiv Shakti Travels, Behind S.T Bus Stand","Shiv Shakti Traels,Opp - ICICI Bank, Bhadrakali Road, Dwarka",Rajkot,Dwarka
+31,Gujarat Travels,Bharat Benz A/C Sleeper (2+1),03:10,06:40,03h 30m,1100.0,1100.0,Green Land Chokdi,Opp. Gomti gat gate,Rajkot,Dwarka
+32,Kesri Nandan Travels,A/C Sleeper (2+1),04:00,08:00,04h 00m,600.0,600.0,Green Land Chokdi,Kuranga Fatak,Rajkot,Dwarka
