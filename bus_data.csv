@@ -1936,3 +1936,5 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 1935,CVR Express,Non A/C Seater / Sleeper (2+1),22:20,04:20,06h 00m,2700.0,2700.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
 1936,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),20:22,03:25,07h 03m,2550.0,2990.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
 1937,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:20,05:05,06h 45m,990.0,1490.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
+1938,Orange Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),13:45,21:45,08h 00m,1000.0,1100.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+1939,Sai Dasari Travels,Volvo Multi-Axle A/C Sleeper (2+1),23:05,04:27,05h 22m,1100.0,1200.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
