@@ -1233,7 +1233,7 @@ if __name__ == "__main__":
     
     visible_browser = "--visible" in sys.argv
     single_route = "--single" in sys.argv
-    max_retries = 3  # Default max retries
+    max_retries = 5  # Default max retries
     skip_failed_routes = not ("--no-skip" in sys.argv)  # Skip failed routes by default
     
     # Check for custom max retries argument

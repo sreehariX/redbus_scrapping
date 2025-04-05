@@ -52,3 +52,10 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 51,Madurai Pandian Travels,A/C Sleeper (2+1),22:50,07:30,08h 40m,1044.05,1234.05,Koyambedu,Mattuthavani,Chennai,Madurai
 52,Selva Murugan Travels,Non A/C Seater / Sleeper (2+1),20:40,06:30,09h 50m,1200.0,1700.0,Koyambedu,Mattuthavani,Chennai,Madurai
 53,Muthumari Travels,NON A/C Sleeper (2+1),21:00,05:35,08h 35m,950.0,1000.0,Koyambedu,Mattuthavani,Chennai,Madurai
+54,BLUE BIRDS TRAVELS,A/C Sleeper (2+1),05:02,13:00,07h 58m,1039.0,1489.0,Koyambedu,Mattuthavani,Chennai,Madurai
+55,SRI MEENAKSHI TRAVELS,A/C Sleeper (2+1),23:50,07:55,08h 05m,2500.0,2500.0,Koyambedu,Mattuthavani,Chennai,Madurai
+56,Zingbus Plus,A/C Sleeper (2+1),21:00,06:05,09h 05m,968.0,1914.0,Koyambedu,Mattuthavani,Chennai,Madurai
+57,JET Line,A/C Sleeper (2+1),21:05,05:30,08h 25m,1899.0,1899.0,Koyambedu,Mattuthavani,Chennai,Madurai
+58,Muthumari Travels,NON A/C Sleeper (2+1),20:25,05:15,08h 50m,950.0,1000.0,Koyambedu,Mattuthavani,Chennai,Madurai
+59,IntrCity SmartBus,A/C Sleeper (2+1),21:50,05:15,07h 25m,1599.0,2659.0,Perungalathur,Mattuthavani,Chennai,Madurai
+60,National Travels CHN,A/C Seater / Sleeper (2+1),19:25,03:50,08h 25m,950.0,1600.0,Koyambedu,Mattuthavani,Chennai,Madurai
