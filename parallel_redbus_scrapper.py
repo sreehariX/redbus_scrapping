@@ -1075,15 +1075,15 @@ if __name__ == "__main__":
         # ("Hyderabad", "Bangalore"),
         # ("Hyderabad", "Goa"),
         # ("Hyderabad", "Srisailam"),
-        ("Hyderabad", "Vijayawada"),
-        ("Hyderabad", "Tirupathi"),
-        ("Pune", "Goa"),
-        ("Pune", "Mumbai"),
-        ("Pune", "Nagpur"),
-        ("Pune", "Kolhapur"),
-        ("Pune", "Nashik"),
-        ("Mumbai", "Goa"),
-        ("Mumbai", "Pune"),
+        # ("Hyderabad", "Vijayawada"), error one  600+ routes
+        # ("Hyderabad", "Tirupathi"),
+        # ("Pune", "Goa"),
+        # ("Pune", "Mumbai"), error 428 routes
+        # ("Pune", "Nagpur"),
+        # ("Pune", "Kolhapur"), error 283 busses
+        # ("Pune", "Nashik"),
+        # ("Mumbai", "Goa"),
+        # ("Mumbai", "Pune"), error 545 entries
         ("Mumbai", "Shirdi"),
         ("Mumbai", "Mahabaleshwar"),
         ("Mumbai", "Kolhapur"),
