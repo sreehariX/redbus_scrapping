@@ -900,9 +900,48 @@ if __name__ == "__main__":
         # Process just a single route for testing
         print("Running in single route mode (for testing)")
         print(f"Browser mode: {'Visible' if visible_browser else 'Headless'}")
-        input_from_city = "Mumbai"
-        input_to_city = "Thane"
-        search_buses(input_from_city, input_to_city, target_month_year, target_day, visible=visible_browser)
+        input_from_city = "Delhi"
+        input_to_city = "Dehradun"
+        
+        # Create specific CSV filename for single route
+        single_route_csv = f"{input_from_city}_to_{input_to_city}.csv"
+        print(f"Data will be saved to: {single_route_csv}")
+        
+        # Delete existing file if it exists to avoid appending to old data
+        if os.path.exists(single_route_csv):
+            os.remove(single_route_csv)
+            print(f"Removed existing file: {single_route_csv}")
+        
+        # Initialize the CSV file with headers
+        fieldnames = ["Bus ID", "Bus Name", "Bus Type", "Departure Time", "Arrival Time", "Journey Duration",
+                    "Lowest Price(INR)", "Highest Price(INR)", "Starting Point", "Destination",
+                    "Starting Point Parent", "Destination Point Parent"]
+        with open(single_route_csv, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+        
+        # Temporarily rename the default CSV file if it exists
+        temp_default_csv = None
+        if os.path.exists('bus_data.csv'):
+            temp_default_csv = 'bus_data.csv.temp'
+            os.rename('bus_data.csv', temp_default_csv)
+            print("Temporarily renamed default CSV file to preserve it")
+        
+        try:
+            # Run the search
+            search_buses(input_from_city, input_to_city, target_month_year, target_day, visible=visible_browser)
+            
+            # Rename the generated bus_data.csv to our specific filename
+            if os.path.exists('bus_data.csv'):
+                os.replace('bus_data.csv', single_route_csv)
+                print(f"Saved route data to: {single_route_csv}")
+        finally:
+            # Restore the original default CSV if we renamed it
+            if temp_default_csv and os.path.exists(temp_default_csv):
+                if os.path.exists('bus_data.csv'):
+                    os.remove('bus_data.csv')  # Remove any new default file
+                os.rename(temp_default_csv, 'bus_data.csv')
+                print("Restored original default CSV file")
     else:
         # Process all routes
         process_multiple_routes(routes_to_process, target_month_year, target_day, visible=visible_browser)
