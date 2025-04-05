@@ -1,0 +1,12 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:30,11:00,04h 30m,550.0,550.0,Swargate,Thane,Pune,Mumbai
+2,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),12:00,16:40,04h 40m,429.0,529.0,Swargate,Andheri East,Pune,Mumbai
+3,Purple Bus - Metrolink,Volvo A/C Seater (2+2),12:35,18:00,05h 25m,449.0,570.0,Swargate,Andheri East,Pune,Mumbai
+4,AdRahi Tours And Travels,A/C Sleeper (2+1),03:00,07:05,04h 05m,1900.0,2000.0,Viman Nagar,Andheri East,Pune,Mumbai
+5,IntrCity SmartBus,Bharat Benz A/C Seater (2+2),11:00,15:40,04h 40m,429.0,529.0,Swargate,Andheri East,Pune,Mumbai
+6,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:00,10:15,04h 15m,449.0,499.0,Swargate,Andheri East,Pune,Mumbai
+7,Neeta tours and travels,Bharat Benz A/C Seater (2+1),06:45,11:15,04h 30m,449.0,499.0,Swargate,Andheri East,Pune,Mumbai
+8,Neeta tours and travels,Bharat Benz A/C Seater (2+1),07:15,11:37,04h 22m,449.0,499.0,Swargate,Andheri East,Pune,Mumbai
+9,Neeta tours and travels,Bharat Benz A/C Seater (2+1),15:30,20:40,05h 10m,450.0,550.0,Swargate,Andheri East,Pune,Mumbai
+10,Purple Bus - Metrolink,Volvo A/C Seater (2+2),15:35,21:20,05h 45m,449.0,570.0,Swargate,Andheri East,Pune,Mumbai
+11,Neeta tours and travels,Bharat Benz A/C Seater (2+1),19:30,00:20,04h 50m,450.0,550.0,Swargate,Andheri East,Pune,Mumbai

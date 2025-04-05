@@ -1,0 +1,64 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,TGSRTC - 1777,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",09:30,21:00,11h 30m,915.0,915.0,Central Bus Station (CBS),TIRUPATI BUS STATION,Hyderabad,Tirupathi
+2,TGSRTC - 8265,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",10:30,22:00,11h 30m,914.0,914.0,Central Bus Station (CBS),TIRUPATI BS,Hyderabad,Tirupathi
+3,TGSRTC - 6762,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:30,22:00,10h 30m,915.0,915.0,Central Bus Station (CBS),TIRUPATI BUS STATION,Hyderabad,Tirupathi
+4,TGSRTC - 2085,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:25,03:20,14h 55m,914.0,914.0,Isnapur,TIRUPATI BUS STATION,Hyderabad,Tirupathi
+5,TGSRTC - 1962,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",12:45,02:15,13h 30m,914.0,914.0,Patancheru,TIRUPATI BUS STATION,Hyderabad,Tirupathi
+6,TGSRTC - 2429,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",13:00,01:25,12h 25m,1002.0,1002.0,Central Bus Station (CBS),TIRUPATI BS,Hyderabad,Tirupathi
+7,TGSRTC - 1711,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:00,03:30,12h 30m,914.0,914.0,Uppal,TIRUPATI BUS STATION,Hyderabad,Tirupathi
+8,TGSRTC - 7452,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:15,04:30,13h 15m,915.0,915.0,Jubilee Bus Station JBS,TIRUPATI BUS STATION,Hyderabad,Tirupathi
+9,TGSRTC - 2855,Lahari A/C sleeper,16:00,05:45,13h 45m,1591.0,1591.0,Ramachandra Puram,TIRUPATI BUS STATION,Hyderabad,Tirupathi
+10,TGSRTC - 9595,Lahari A/C sleeper,16:30,05:40,13h 10m,1591.0,1591.0,Ramachandra Puram,TIRUPATI BUS STATION,Hyderabad,Tirupathi
+11,TGSRTC - 2474,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,04:30,12h 00m,915.0,915.0,Central Bus Station (CBS),TIRUPATI BUS STATION,Hyderabad,Tirupathi
+12,TGSRTC - 7649,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:40,05:30,12h 50m,915.0,915.0,Jubilee Bus Station JBS,TIRUPATI BUS STATION,Hyderabad,Tirupathi
+13,TGSRTC - 1759,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,05:50,13h 05m,916.0,916.0,Ecil,TIRUPATI BS,Hyderabad,Tirupathi
+14,TGSRTC - 2765,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,06:30,13h 15m,955.0,955.0,Central Bus Station (CBS),TIRUPATI BUS STATION,Hyderabad,Tirupathi
+15,TGSRTC - 9681,Lahari A/C sleeper,17:25,05:25,12h 00m,1524.0,1524.0,Miyapur,TIRUPATI BUS STATION,Hyderabad,Tirupathi
+16,TGSRTC - 7694,LAHARI A/C SLEEPER CUM SEATER,17:30,04:40,11h 10m,1119.0,1119.0,Jubilee Bus Station JBS,TIRUPATI BS,Hyderabad,Tirupathi
+17,TGSRTC - 1453,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,04:00,10h 30m,915.0,915.0,Central Bus Station (CBS),TIRUPATI BUS STATION,Hyderabad,Tirupathi
+18,TGSRTC - 6206,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,07:00,11h 15m,915.0,915.0,Jubilee Bus Station JBS,TIRUPATI BS,Hyderabad,Tirupathi
+19,TGSRTC - 8454,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,08:00,12h 15m,974.0,974.0,Central Bus Station (CBS),TIRUPATI BUS STATION,Hyderabad,Tirupathi
+20,TGSRTC - 1498,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,08:30,12h 30m,915.0,915.0,Central Bus Station (CBS),TIRUPATI BUS STATION,Hyderabad,Tirupathi
+21,APSRTC - 9148,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:00,03:45,12h 45m,911.0,911.0,Central Bus Station (CBS),TIRUPATHI,Hyderabad,Tirupathi
+22,APSRTC - 47144,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),18:30,05:45,11h 15m,1450.0,1450.0,Bhel,TIRUPATHI,Hyderabad,Tirupathi
+23,APSRTC - 5443,VENNELA (A.C. SLEEPER),19:00,06:30,11h 30m,1688.0,1688.0,Bhel,TIRUPATHI,Hyderabad,Tirupathi
+24,APSRTC - 5421,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,07:15,12h 15m,911.0,911.0,Central Bus Station (CBS),TIRUPATHI,Hyderabad,Tirupathi
+25,APSRTC - 9199,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,07:45,11h 45m,911.0,911.0,Central Bus Station (CBS),TIRUPATHI,Hyderabad,Tirupathi
+26,IntrCity SmartBus,AC Sleeper (2+1),20:50,06:40,09h 50m,2379.0,3659.0,Shivarampalli,Karakambadi,Hyderabad,Tirupathi
+27,Vikram Travels,A/C Sleeper (2+1),20:20,08:30,12h 10m,1319.0,1719.0,LB Nagar,RTC Bus Stand,Hyderabad,Tirupathi
+28,Zingbus Plus,A/C Sleeper (2+1),22:30,09:15,10h 45m,1103.0,1103.0,Ameerpet,Srinivasam,Hyderabad,Tirupathi
+29,AdSRI RATAN TATA EXPRESS,A/C Sleeper (2+1),18:00,05:30,11h 30m,2949.0,2949.0,Miyapur,RTC Bus Stand,Hyderabad,Tirupathi
+30,Zingbus Plus,A/C Sleeper (2+1),20:50,07:50,11h 00m,1353.0,1353.0,Shivarampalli,Srinivasam,Hyderabad,Tirupathi
+31,IntrCity SmartBus,AC Sleeper (2+1),21:35,07:25,09h 50m,2379.0,3659.0,Shivarampalli,Karakambadi,Hyderabad,Tirupathi
+32,Ramana Tours And Travels,A/C Sleeper (2+1),20:30,07:50,11h 20m,1248.0,1558.0,Mehdipatnam,RTC Bus Stand,Hyderabad,Tirupathi
+33,Jagan Travels,A/C Seater / Sleeper (2+1),22:00,09:30,11h 30m,1009.0,1813.0,Nampally,Srinivasam,Hyderabad,Tirupathi
+34,Jagan Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,05:15,10h 45m,1385.0,1938.0,Nallagandla Flyover,Srinivasam,Hyderabad,Tirupathi
+35,IntrCity SmartBus,AC Sleeper (2+1),19:20,05:35,10h 15m,2379.0,3659.0,Mehdipatnam,Karakambadi,Hyderabad,Tirupathi
+36,Sai Karthik Travels,Non A/C Seater / Sleeper (2+1),21:40,09:15,11h 35m,3000.0,3000.0,Miyapur,RTC Bus Stand,Hyderabad,Tirupathi
+37,V Kaveri Travels,VE A/C Sleeper (2+1),19:00,07:30,12h 30m,1385.0,1958.0,Ameerpet,Leela Mahal Circle,Hyderabad,Tirupathi
+38,Yolo Bus,Bharat Benz A/C Sleeper (2+1),22:00,10:26,12h 26m,2500.0,2980.0,Miyapur,Tirupathi,Hyderabad,Tirupathi
+39,7Hills roadways,Scania AC Multi Axle Sleeper (2+1),22:30,09:30,11h 00m,1349.1,1889.1,Miyapur,RTC Bus Stand,Hyderabad,Tirupathi
+40,Kaveri Travels,A/C Sleeper (2+1),21:00,07:30,10h 30m,1248.0,1629.0,Gachibowli,RTC Bus Stand,Hyderabad,Tirupathi
+41,BSR Tours And Travels,VE A/C Sleeper (2+1),20:00,06:00,10h 00m,2480.0,2980.0,Lakdikapul,Leela Mahal Circle,Hyderabad,Tirupathi
+42,Jagan Travels,Scania AC Multi Axle Sleeper (2+1),20:00,07:15,11h 15m,1350.0,1889.0,Bharat Nagar,Srinivasam,Hyderabad,Tirupathi
+43,Anagha Travels,Non A/C Seater / Sleeper (2+1),22:00,08:55,10h 55m,1000.0,1450.0,Kachiguda,Tirupathi,Hyderabad,Tirupathi
+44,Anagha Travels,A/C Seater / Sleeper (2+1),20:45,06:15,09h 30m,1150.0,1650.0,City Collage (Hyderabad),Renugunta Road,Hyderabad,Tirupathi
+45,Go Tour Travels and Holidays,A/C Sleeper (2+1),22:45,09:30,10h 45m,1259.1,1529.1,Lakdikapul,RTC Bus Stand,Hyderabad,Tirupathi
+46,Reddy Travels,NON A/C Sleeper (2+1),21:00,09:00,12h 00m,4000.0,4000.0,Miyapur,RTC Bus Stand,Hyderabad,Tirupathi
+47,CMR Express,A/C Sleeper (2+1),21:45,08:45,11h 00m,1350.0,1650.0,Kachiguda,Leela Mahal Circle,Hyderabad,Tirupathi
+48,CMR Express,Non A/C Seater / Sleeper (2+1),22:00,08:45,10h 45m,745.0,1340.0,Panjagutta,Leela Mahal Circle,Hyderabad,Tirupathi
+49,Moksha Travels,A/C Sleeper (2+1),17:00,05:15,12h 15m,1600.0,1600.0,Secunderabad,Srinivasam,Hyderabad,Tirupathi
+50,Jagan Travels,A/C Sleeper (2+1),22:30,09:45,11h 15m,2179.0,2739.0,Erragadda,Leela Mahal Circle,Hyderabad,Tirupathi
+51,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),16:45,03:30,10h 45m,1620.0,1720.0,Serilingampally,Korramenugunta,Hyderabad,Tirupathi
+52,IntrCity SmartBus,A/C Sleeper (2+1),22:10,08:10,10h 00m,5000.0,5000.0,Shivarampalli,Karakambadi,Hyderabad,Tirupathi
+53,Sri Krishna Travels,A/C Sleeper (2+1),17:45,06:30,12h 45m,1600.0,1800.0,Gandi Maisamma,RTC Bus Stand,Hyderabad,Tirupathi
+54,FlixBus,VE A/C Sleeper (2+1),22:00,10:15,12h 15m,659.82,659.82,Miyapur,RTC Bus Stand,Hyderabad,Tirupathi
+55,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),17:00,02:20,09h 20m,1600.0,1600.0,Shamshabad,Korramenugunta,Hyderabad,Tirupathi
+56,SREE LEKYAA TRAVELS,A/C Sleeper (2+1),21:30,09:30,12h 00m,1800.0,2100.0,Central Bus Station (CBS),RTC Bus Stand,Hyderabad,Tirupathi
+57,CMR Express,A/C Seater / Sleeper (2+1),21:45,08:30,10h 45m,830.0,1630.0,Kachiguda,RTC Bus Stand,Hyderabad,Tirupathi
+58,Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:00,08:30,11h 30m,1080.0,1580.0,Gachibowli,RTC Bus Stand,Hyderabad,Tirupathi
+59,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,08:30,11h 00m,2000.0,2200.0,Gachibowli,RTC Bus Stand,Hyderabad,Tirupathi
+60,KKaveri Travels,Non A/C Seater / Sleeper (2+1),22:00,09:00,11h 00m,990.0,1200.0,Kukatpally,RTC Bus Stand,Hyderabad,Tirupathi
+61,Srivastav Travels,Bharat Benz A/C Sleeper (2+1),20:00,07:00,11h 00m,1399.0,1899.0,Nizampet,Tirupati,Hyderabad,Tirupathi
+62,Orange Tours and Travels,NON A/C Seater/ Sleeper (2+1),20:15,06:30,10h 15m,1050.0,1430.0,Aramghar,RTC Bus Stand,Hyderabad,Tirupathi
+63,KKaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),18:40,07:00,12h 20m,1300.0,1500.0,Kukatpally,RTC bus stop,Hyderabad,Tirupathi

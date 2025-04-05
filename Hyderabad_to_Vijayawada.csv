@@ -1,0 +1,11 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,APSRTC - 3563,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:00,07:15,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+2,APSRTC - 35266,VENNELA (A.C. SLEEPER),01:25,07:30,06h 05m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+3,APSRTC - 3590,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",01:45,08:00,06h 15m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+4,APSRTC - 3058,VENNELA (A.C. SLEEPER),02:10,08:15,06h 05m,737.0,737.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+5,APSRTC - 3548,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",03:00,09:20,06h 20m,412.0,412.0,Central Bus Station (CBS),Benz Circle,Hyderabad,Vijayawada
+6,APSRTC - 35197,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),03:10,09:00,05h 50m,633.0,633.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+7,APSRTC - 35190,DOLPHIN CRUISE (VOLVO / SCANIA A.C Multi Axle),04:10,10:05,05h 55m,670.0,670.0,Shamshabad,Rtc bus stand,Hyderabad,Vijayawada
+8,APSRTC - 3558,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),04:20,09:45,05h 25m,633.0,633.0,Kukatpally,Rtc bus stand,Hyderabad,Vijayawada
+9,APSRTC - 4726,INDRA(A.C. Seater),04:30,10:15,05h 45m,528.0,528.0,Central Bus Station (CBS),Rtc bus stand,Hyderabad,Vijayawada
+10,APSRTC - 3540,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",04:45,12:05,07h 20m,412.0,412.0,Kukatpally,Benz Circle,Hyderabad,Vijayawada
