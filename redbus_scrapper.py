@@ -102,7 +102,7 @@ def setup_driver(headless=False):
     
     return driver
 
-def search_buses(from_city, to_city, target_month_year, target_day, output_folder=None, visible=False):
+def search_buses(from_city, to_city, target_month_year, target_day, output_folder=None, visible=False, custom_csv_path=None):
     """
     Search for buses between cities on a specific date and save the results.
     
@@ -113,6 +113,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
         target_day: Day of month (e.g., "20")
         output_folder: Folder to save output files (default: current directory)
         visible: Whether to run the browser in visible mode (default: False)
+        custom_csv_path: Custom path for CSV output (overrides default)
     """
     driver = setup_driver(headless=not visible)  # Enable visible mode if requested
     
@@ -123,6 +124,11 @@ def search_buses(from_city, to_city, target_month_year, target_day, output_folde
     else:
         json_file_path = 'bus_data.json'
         csv_file_path = 'bus_data.csv'
+    
+    # Override with custom CSV path if provided
+    if custom_csv_path:
+        csv_file_path = custom_csv_path
+        print(f"Using custom CSV path: {csv_file_path}")
     
     try:
         driver.get("https://www.redbus.in/")
@@ -920,28 +926,9 @@ if __name__ == "__main__":
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
         
-        # Temporarily rename the default CSV file if it exists
-        temp_default_csv = None
-        if os.path.exists('bus_data.csv'):
-            temp_default_csv = 'bus_data.csv.temp'
-            os.rename('bus_data.csv', temp_default_csv)
-            print("Temporarily renamed default CSV file to preserve it")
-        
-        try:
-            # Run the search
-            search_buses(input_from_city, input_to_city, target_month_year, target_day, visible=visible_browser)
-            
-            # Rename the generated bus_data.csv to our specific filename
-            if os.path.exists('bus_data.csv'):
-                os.replace('bus_data.csv', single_route_csv)
-                print(f"Saved route data to: {single_route_csv}")
-        finally:
-            # Restore the original default CSV if we renamed it
-            if temp_default_csv and os.path.exists(temp_default_csv):
-                if os.path.exists('bus_data.csv'):
-                    os.remove('bus_data.csv')  # Remove any new default file
-                os.rename(temp_default_csv, 'bus_data.csv')
-                print("Restored original default CSV file")
+        # Run the search with custom CSV path to avoid using bus_data.csv
+        search_buses(input_from_city, input_to_city, target_month_year, target_day, 
+                    visible=visible_browser, custom_csv_path=single_route_csv)
     else:
         # Process all routes
         process_multiple_routes(routes_to_process, target_month_year, target_day, visible=visible_browser)
