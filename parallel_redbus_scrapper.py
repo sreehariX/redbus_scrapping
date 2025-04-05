@@ -677,8 +677,8 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                                 print(f"[{from_city} to {to_city}] Bus {bus_id} data saved to CSV file {csv_file_path}")
                                 # Mark this bus as successfully processed
                                 bus_processed = True
-                            except Exception as csv_error:
-                                print(f"[{from_city} to {to_city}] Error saving bus {bus_id} to CSV file {csv_file_path}: {csv_error}")
+                            except Exception as e:
+                                print(f"[{from_city} to {to_city}] Error saving bus {bus_id} to CSV file {csv_file_path}: {e}")
                                 # If there's a file writing error, retry
                                 bus_retry_count += 1
                                 if bus_retry_count <= max_retries:
@@ -704,7 +704,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                                             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                                             error_row = {field: "error" for field in fieldnames}
                                             error_row["Bus ID"] = "error"
-                                            error_row["Bus Name"] = f"ERROR: Connection error: {str(conn_error)[:100]}"  # Use conn_error instead of e
+                                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Use e which is in scope
                                             error_row["Starting Point Parent"] = from_city
                                             error_row["Destination Point Parent"] = to_city
                                             writer.writerow(error_row)
@@ -740,7 +740,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                                         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                                         error_row = {field: "error" for field in fieldnames}
                                         error_row["Bus ID"] = "error"
-                                        error_row["Bus Name"] = f"ERROR: Connection error: {str(conn_error)[:100]}"  # Use conn_error instead of e
+                                        error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Use e which is in scope
                                         error_row["Starting Point Parent"] = from_city
                                         error_row["Destination Point Parent"] = to_city
                                         writer.writerow(error_row)
@@ -789,7 +789,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                             error_row = {field: "error" for field in fieldnames}
                             error_row["Bus ID"] = "error"
-                            error_row["Bus Name"] = f"ERROR: Connection error: {str(conn_error)[:100]}"  # Use conn_error instead of e
+                            error_row["Bus Name"] = f"ERROR: Route cancelled due to timeout"  # No exception variable available
                             error_row["Starting Point Parent"] = from_city
                             error_row["Destination Point Parent"] = to_city
                             writer.writerow(error_row)
@@ -842,7 +842,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                             error_row = {field: "error" for field in fieldnames}
                             error_row["Bus ID"] = "error"
-                            error_row["Bus Name"] = f"ERROR: Connection error: {str(conn_error)[:100]}"  # Use conn_error instead of e
+                            error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Use e which is in scope
                             error_row["Starting Point Parent"] = from_city
                             error_row["Destination Point Parent"] = to_city
                             writer.writerow(error_row)
@@ -901,7 +901,7 @@ def search_buses(from_city, to_city, target_month_year, target_day, csv_file_pat
                         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                         error_row = {field: "error" for field in fieldnames}
                         error_row["Bus ID"] = "error"
-                        error_row["Bus Name"] = f"ERROR: Connection error: {str(conn_error)[:100]}"  # Use conn_error instead of e
+                        error_row["Bus Name"] = f"ERROR: {str(e)[:100]}"  # Use e which is in scope
                         error_row["Starting Point Parent"] = from_city
                         error_row["Destination Point Parent"] = to_city
                         writer.writerow(error_row)
@@ -1071,7 +1071,7 @@ def process_multiple_routes(routes_list, target_month_year, target_day, visible=
                             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                             error_row = {field: "error" for field in fieldnames}
                             error_row["Bus ID"] = "error"
-                            error_row["Bus Name"] = f"ERROR: Connection error: {str(conn_error)[:100]}"  # Use conn_error instead of e
+                            error_row["Bus Name"] = f"ERROR: Route cancelled due to timeout"  # No exception variable available
                             error_row["Starting Point Parent"] = from_city
                             error_row["Destination Point Parent"] = to_city
                             writer.writerow(error_row)

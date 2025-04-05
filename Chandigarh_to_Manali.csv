@@ -22,3 +22,85 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 21,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),04:15,10:25,06h 10m,1012.38,1662.5,Sec 43,Mall Road,Chandigarh,Manali
 22,Zingbus Plus,Scania Multi-Axle AC Semi Sleeper (2+2),02:50,09:40,06h 50m,1207.0,1207.0,Sec 43,Mall Road,Chandigarh,Manali
 23,ReoBus Pro,Volvo 9600 Multi Axle Semi-Sleeper (2+2),00:30,07:00,06h 30m,1697.0,1997.0,Chandigarh,Manali,Chandigarh,Manali
+24,GLOBAL HOLIDAYS ADVENTURE TOURS,Volvo A/C Semi Sleeper (2+2),22:25,07:00,08h 35m,621.0,873.0,Sec 43,Private Bus Stand,Chandigarh,Manali
+25,GLOBAL HOLIDAYS ADVENTURE TOURS,Volvo A/C Semi Sleeper (2+2),22:35,07:10,08h 35m,809.0,809.0,Sec 43,Private Bus Stand,Chandigarh,Manali
+26,City Land Travels,Volvo A/C Semi Sleeper (2+2),22:15,05:40,07h 25m,853.2,1069.2,Sec 43,Private Bus Stand,Chandigarh,Manali
+27,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),01:50,07:15,05h 25m,854.0,1423.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+28,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),01:10,07:00,05h 50m,1399.0,1649.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+29,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),02:40,09:00,06h 20m,854.0,1423.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+30,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),03:05,09:20,06h 15m,976.5,1680.88,Sec 43,Mall Road,Chandigarh,Manali
+31,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),02:25,08:45,06h 20m,1033.38,1768.38,Sec 43,Mall Road,Chandigarh,Manali
+32,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),02:45,08:30,05h 45m,1269.0,1799.0,Gurudwara Singh Shaheedan,Private Bus Stand,Chandigarh,Manali
+33,Laxmi holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),04:10,10:30,06h 20m,1799.0,2049.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+34,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),04:50,10:20,05h 30m,899.0,1498.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+35,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),02:05,07:20,05h 15m,1590.0,2120.0,Sec 43,Mall Road,Chandigarh,Manali
+36,FlixBus,Volvo 9600 A/C Semi Sleeper (2+2),00:10,07:25,07h 15m,1106.25,1257.14,Chandigarh - Zirakpur (N),Private Bus Stand,Chandigarh,Manali
+37,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),02:55,09:00,06h 05m,1019.0,1409.0,Sector 31,Private Bus Stand,Chandigarh,Manali
+38,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),00:30,07:00,06h 30m,809.0,1348.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+39,Yolo Bus,Bharat Benz A/C Semi Sleeper (2+2),03:57,10:33,06h 36m,1210.0,1510.0,"Sector 78, near Gurudwara Sahib, Sohana",Private Bus Stand,Chandigarh,Manali
+40,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),03:25,09:55,06h 30m,1148.0,1977.5,Sec 43,Mall Road,Chandigarh,Manali
+41,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),03:50,10:00,06h 10m,899.0,1498.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+42,FlixBus,Volvo 9600 A/C Semi Sleeper (2+2),02:45,09:15,06h 30m,972.32,1123.21,Chandigarh - Zirakpur (N),Private Bus Stand,Chandigarh,Manali
+43,Kohli Tour & Travellers,VE A/C Semi Sleeper (2+2),01:30,07:15,05h 45m,1130.0,1782.0,HP Petrol Pump Opposite Sector 43 ISBT,Private Bus Stand,Chandigarh,Manali
+44,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),02:00,08:00,06h 00m,1148.0,1977.5,Sec 43,Mall Road,Chandigarh,Manali
+45,ReoBus Pro,Volvo 9600 Multi Axle Semi-Sleeper (2+2),01:40,07:40,06h 00m,1697.0,1997.0,Chandigarh,Manali,Chandigarh,Manali
+46,Laxmi holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),03:20,09:30,06h 10m,1008.0,1680.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+47,Deltin Travels Pvt Ltd,Volvo 9600 Multi Axle Semi-Sleeper (2+2),05:09,10:50,05h 41m,1000.0,1590.0,Tribune Chowk,Private Bus Stand,Chandigarh,Manali
+48,Deltin Travels Pvt Ltd,Volvo 9600 A/C Semi Sleeper (2+2),03:40,09:20,05h 40m,1190.0,1840.0,Tribune Chowk,Private Bus Stand,Chandigarh,Manali
+49,Vacation Express,Volvo Multi-Axle A/C Semi Sleeper (2+2),03:05,09:35,06h 30m,3999.0,3999.0,Sector 43 opposite ISBT BUS STAND at HP Petrol Pump (Pickup Van/Bus),Private Bus Parking,Chandigarh,Manali
+50,HIMACHAL TOURIST BUS SERVICE,Volvo A/C Semi Sleeper (2+2),03:30,09:30,06h 00m,1100.0,1600.0,Tribune Chowk chandigarh,Private Bus Parking Manali,Chandigarh,Manali
+51,HIMACHAL TOURIST BUS SERVICE,Volvo A/C Semi Sleeper (2+2),01:45,07:45,06h 00m,1100.0,1600.0,Tribune Chowk chandigarh,Private Bus Parking Manali,Chandigarh,Manali
+52,Vacation Express,Volvo Multi-Axle A/C Semi Sleeper (2+2),04:05,10:35,06h 30m,3999.0,3999.0,Sector 43 opposite ISBT BUS STAND at HP Petrol Pump,Private Bus Parking,Chandigarh,Manali
+53,Vacation Express,Volvo Multi-Axle A/C Semi Sleeper (2+2),01:35,08:05,06h 30m,3499.0,3499.0,Sector 43 opposite ISBT BUS STAND at HP Petrol Pump,Private Bus Parking,Chandigarh,Manali
+54,MAHARANI HOLIDAYS,Volvo Multi-Axle A/C Seater (2+2),01:30,07:30,06h 00m,3799.0,3799.0,Chandigarh,Manali,Chandigarh,Manali
+55,MAHARANI HOLIDAYS,Volvo Multi-Axle A/C Seater (2+2),01:20,07:20,06h 00m,1234.05,1424.05,Chandigarh,Manali,Chandigarh,Manali
+56,RS YADAV SMART BUS,VE A/C Semi Sleeper (2+2),03:10,10:15,07h 05m,999.0,1199.0,Metro Mall Zirakhpur,Private bus parking (manali),Chandigarh,Manali
+57,RS YADAV SMART BUS,Volvo 9600 A/C Semi Sleeper (2+2),02:54,09:10,06h 16m,1299.0,1299.0,Metro Mall Zirakhpur,Private bus parking (manali),Chandigarh,Manali
+58,zingbus Maxx,Volvo 9600 Multi Axle Semi-Sleeper (2+2),04:50,10:55,06h 05m,1384.25,2233.88,Sec 43,Mall Road,Chandigarh,Manali
+59,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),02:30,08:30,06h 00m,940.0,1490.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+60,City Land Travels,Volvo A/C Semi Sleeper (2+2),01:30,08:20,06h 50m,1303.2,1519.2,Tribune Chowk Near Shiv Mandir,Private Bus Stand,Chandigarh,Manali
+61,zingbus Maxx,Volvo 9600 Multi Axle Semi-Sleeper (2+2),03:35,10:05,06h 30m,2016.0,2016.0,Sec 43,Mall Road,Chandigarh,Manali
+62,IntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),04:10,10:00,05h 50m,1189.0,1189.0,Gurudwara Singh Shaheedan,Private Bus Stand,Chandigarh,Manali
+63,SIDDHI VINAYAK TRAVELS,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),01:35,08:00,06h 25m,990.0,1350.0,SOHANA SAHIB GURUDWARA,Manali,Chandigarh,Manali
+64,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),23:30,07:30,08h 00m,1000.0,1000.0,Sec 43 Chandigarh,Private Bus Stand,Chandigarh,Manali
+65,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),05:00,10:30,05h 30m,1890.0,2440.0,SOHANA SAHIB GURUDWARA,Private Bus Stand,Chandigarh,Manali
+66,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),23:57,07:00,07h 03m,1102.5,1242.5,Chandigarh Sec-43,Private Bus Stand,Chandigarh,Manali
+67,Deltin Travels Pvt Ltd,Volvo 9600 A/C Semi Sleeper (2+2),01:55,08:30,06h 35m,1160.0,1750.0,Tribune Chowk,Private Bus Stand,Chandigarh,Manali
+68,Malana Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),02:00,07:30,05h 30m,958.55,1433.55,Chandni Chowk,Manali,Chandigarh,Manali
+69,ReoBus Pro,Volvo 9600 Multi Axle Semi-Sleeper (2+2),03:25,09:30,06h 05m,1697.0,1997.0,Chandigarh,Manali,Chandigarh,Manali
+70,City Land Travels,Volvo A/C Semi Sleeper (2+2),14:45,22:00,07h 15m,1123.2,1339.2,Sector 42 Indian Oil Petrol Pump,Private Bus Stand,Chandigarh,Manali
+71,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),02:50,08:10,05h 20m,854.0,1423.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+72,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),01:40,08:00,06h 20m,727.0,727.0,Sec 43,Mall Road,Chandigarh,Manali
+73,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),03:00,08:55,05h 55m,1710.0,2360.0,Sec 43,Mall Road,Chandigarh,Manali
+74,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),03:00,09:00,06h 00m,1148.0,1977.5,Sec 43,Mall Road,Chandigarh,Manali
+75,RS YADAV SMART BUS,A/C Semi Sleeper (2+2),01:25,08:30,07h 05m,999.0,1399.0,Metro mall zirakhpur,Private Bus Stand,Chandigarh,Manali
+76,RS YADAV SMART BUS,Volvo 9600 A/C Semi Sleeper (2+2),02:54,09:15,06h 21m,1299.0,1599.0,Metro mall zirakhpur,Private Bus Stand,Chandigarh,Manali
+77,FlixBus,A/C Seater (2+2),04:10,10:50,06h 40m,641.96,792.86,Chandigarh - Zirakpur (N),Private Bus Stand,Chandigarh,Manali
+78,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),01:15,08:00,06h 45m,1020.0,1620.0,Sec 43,Private Bus Stand,Chandigarh,Manali
+79,DKN HOLIDAYS,Scania Multi-Axle AC Semi Sleeper (2+2),00:39,08:05,07h 26m,1078.0,1478.0,Sohana Gurudwara,Private Bus Stand,Chandigarh,Manali
+80,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),00:45,07:25,06h 40m,1900.0,2400.0,Sec 43,Private Bus Stand,Chandigarh,Manali
+81,Yolo Bus,Bharat Benz A/C Semi Sleeper (2+2),02:43,09:19,06h 36m,1130.0,1500.0,"Sector 78, near Gurudwara Sahib, Sohana",Private Bus Stand,Chandigarh,Manali
+82,Kashi Bus,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),01:00,06:00,05h 00m,899.0,1299.0,Amalia Petro Point,Private Bus Stand,Chandigarh,Manali
+83,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),03:00,08:00,05h 00m,1470.0,1870.0,SOHANA SAHIB GURUDWARA,Private Bus Stand,Chandigarh,Manali
+84,Cab India Travels,Volvo A/C Semi Sleeper (2+2),01:10,07:30,06h 20m,999.0,999.0,Suhana Gurudwara,Private Bus Stand,Chandigarh,Manali
+85,BSS COOL COOL TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),03:20,09:30,06h 10m,4000.0,4000.0,Sec 43 Chandigarh,Manali Private Volvo Bus Parking,Chandigarh,Manali
+86,City Land Travels,Scania Multi-Axle AC Semi Sleeper (2+2),04:15,12:00,07h 45m,943.2,1159.2,Sector 42 Indian Oil Petrol Pump,Private Bus Stand,Chandigarh,Manali
+87,HIMALAYAN HOLIDAYS,Scania A/C Semi Sleeper (2+2),23:59,06:30,06h 31m,949.05,1424.05,Chandigarh,Manali,Chandigarh,Manali
+88,Travel Zap India Pvt LTD.,Volvo A/C Semi Sleeper (2+2),23:59,07:10,07h 11m,999.0,1299.0,Sec 43,Manali,Chandigarh,Manali
+89,Northern Travels,Scania Multi-Axle AC Semi Sleeper (2+2),03:30,10:00,06h 30m,1160.0,1670.0,ISBT Sec 43,Private Bus Stand,Chandigarh,Manali
+90,Northern Travels,Volvo A/C Semi Sleeper (2+2),01:05,07:20,06h 15m,1000.0,1490.0,ISBT Sec 43,Private Bus Stand,Chandigarh,Manali
+91,Northern Travels,Scania Multi-Axle AC Semi Sleeper (2+2),04:20,10:50,06h 30m,1320.0,1870.0,ISBT Sec 43,Private Bus Stand,Chandigarh,Manali
+92,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),01:30,07:00,05h 30m,1000.0,1540.0,SOHANA SAHIB GURUDWARA,Private Bus Stand,Chandigarh,Manali
+93,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),23:45,08:25,08h 40m,649.0,899.0,Chandigarh Zirakhpur,Private Bus Stand,Chandigarh,Manali
+94,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),00:45,08:05,07h 20m,699.0,1099.0,Chandigarh Zirakhpur,Private Bus Stand,Chandigarh,Manali
+95,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),02:15,08:30,06h 15m,749.0,1099.0,Suhana Gurudwara,Private Bus Stand,Chandigarh,Manali
+96,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),04:40,10:00,05h 20m,1699.0,1949.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+97,Himgiri Adventure Tour,Bharat Benz A/C Semi Sleeper (2+2),22:00,07:15,09h 15m,850.0,850.0,Chandni Chowk,Manali,Chandigarh,Manali
+98,Supreme Travels,Volvo A/C (2+2),22:30,06:00,07h 30m,897.0,897.0,Sec 43,Private Bus Stand,Chandigarh,Manali
+99,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),01:05,07:45,06h 40m,943.2,1159.2,Sector 42 Indian Oil Petrol Pump,Private Bus Stand,Chandigarh,Manali
+100,Everest Holidays,Volvo A/C Semi Sleeper (2+2),23:59,07:00,07h 01m,1100.0,1100.0,Chandni Chowk,Private Bus Stand,Chandigarh,Manali
+101,Khurana Bus Service,Volvo A/C Semi Sleeper (2+2 ),03:20,08:35,05h 15m,1061.65,1359.15,Sec 43,Private Bus Stand,Chandigarh,Manali
+102,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),00:15,05:30,05h 15m,1079.1,1505.7,Chandigarh,Private Bus Stand,Chandigarh,Manali
+103,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),03:20,09:50,06h 30m,1060.0,1580.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+104,Holiday Appeal Private Limited,Volvo A/C Semi Sleeper (2+2),01:00,07:30,06h 30m,1699.0,2599.0,Sec 43,Private Bus Stand,Chandigarh,Manali
+105,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),04:35,09:50,05h 15m,1310.0,1610.0,Sec 43,Mall Road,Chandigarh,Manali
