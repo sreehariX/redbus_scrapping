@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Specify the output file here
-output_file = 'merged_output_v2_test.csv'
+output_file = 'merged_output_v3_test.csv'
 
 # Specify the input CSV files to merge (in the order they should be merged)
 input_files = [

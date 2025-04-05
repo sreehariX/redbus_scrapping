@@ -9,58 +9,6 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 8,UPSRTC - SRD0074,Ordinary Non AC Seater 2+3,13:05,19:35,06h 30m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
 9,UPSRTC - MZF0031,Ordinary Non AC Seater 2+3,14:00,21:20,07h 20m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
 10,UPSRTC - SRD0086,Ordinary Non AC Seater 2+3,14:05,20:35,06h 30m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-11,UPSRTC - NDD0192,Ordinary Non AC Seater 2+3,14:33,21:30,06h 57m,418.0,418.0,DEHRADOON BUS STAND,NOIDA BUS STAND,Dehradun,Delhi
-12,UPSRTC - CMP0001,Ordinary Non AC Seater 2+3,14:45,20:45,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-13,UPSRTC - CMP0002,Ordinary Non AC Seater 2+3,14:55,20:55,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-14,UPSRTC - SRD1450,Ordinary Non AC Seater 2+3,15:06,21:06,06h 00m,454.0,454.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-15,UPSRTC - CMP0003,Ordinary Non AC Seater 2+3,15:25,21:25,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-16,UPSRTC - CMP0004,Ordinary Non AC Seater 2+3,15:45,21:45,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-17,UPSRTC - SRD0102,Ordinary Non AC Seater 2+3,15:55,22:25,06h 30m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-18,UPSRTC - SBD0073,Ordinary Non AC Seater 2+3,16:05,22:05,06h 00m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-19,UPSRTC - CMP0006,Ordinary Non AC Seater 2+3,16:35,22:35,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-20,UPSRTC - MRD0060,Ordinary Non AC Seater 2+3,16:36,00:11,07h 35m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-21,UPSRTC - SRD1452,Ordinary Non AC Seater 2+3,16:45,22:45,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-22,UPSRTC - SRD1454,Ordinary Non AC Seater 2+3,16:55,22:55,06h 00m,454.0,454.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-23,UPSRTC - CMP0007,Ordinary Non AC Seater 2+3,17:35,23:35,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-24,UPSRTC - CMP0013,Ordinary Non AC Seater 2+3,17:45,23:45,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-25,UPSRTC - CMP0010,Ordinary Non AC Seater 2+3,18:25,00:25,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-26,UPSRTC - MRD0142,Ordinary Non AC Seater 2+3,18:30,02:05,07h 35m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-27,UPSRTC - CMP0011,Ordinary Non AC Seater 2+3,18:35,00:35,06h 00m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-28,UPSRTC - SRD1456,Ordinary Non AC Seater 2+3,19:00,01:00,06h 00m,454.0,454.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-29,UPSRTC - SBD0069,Ordinary Non AC Seater 2+3,19:45,02:00,06h 15m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-30,UPSRTC - MRD0058,Ordinary Non AC Seater 2+3,20:00,03:35,07h 35m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-31,UPSRTC - MRD0061,Ordinary Non AC Seater 2+3,20:31,04:06,07h 35m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-32,UPSRTC - LNI0269,Ordinary Non AC Seater 2+3,22:33,03:47,05h 14m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-33,UPSRTC - CMP0015,Ordinary Non AC Seater 2+3,23:30,06:00,06h 30m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-34,Uttarakhand Transport Corporation (UTC) - 19F36,Volvo AC Seater Non Stop 2+2,04:00,08:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-35,Uttarakhand Transport Corporation (UTC) - 177F341,Volvo AC Seater Non Stop 2+2,05:00,09:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-36,Uttarakhand Transport Corporation (UTC) - 145F271,Ordinary 3+2 Non AC Seater,05:00,11:55,06h 55m,420.0,420.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-37,Uttarakhand Transport Corporation (UTC) - 82F150,Volvo AC Seater Non Stop 2+2,06:00,10:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-38,Uttarakhand Transport Corporation (UTC) - 33F65,Volvo AC Seater Non Stop 2+2,07:00,11:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-39,Uttarakhand Transport Corporation (UTC) - 205F399,Volvo AC Seater Non Stop 2+2,08:00,12:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-40,Uttarakhand Transport Corporation (UTC) - 143F268,Ordinary 3+2 Non AC Seater,09:00,16:00,07h 00m,420.0,420.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-41,Uttarakhand Transport Corporation (UTC) - 43F81,Volvo AC Seater Non Stop 2+2,09:00,13:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-42,Uttarakhand Transport Corporation (UTC) - 510F1105,Volvo AC Seater Non Stop 2+2,09:30,14:00,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-43,Uttarakhand Transport Corporation (UTC) - 142F266,Ordinary 3+2 Non AC Seater,10:00,17:00,07h 00m,420.0,420.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-44,Uttarakhand Transport Corporation (UTC) - 232F455,Volvo AC Seater Non Stop 2+2,10:00,14:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-45,Uttarakhand Transport Corporation (UTC) - 81F148,Volvo AC Seater Non Stop 2+2,10:30,15:00,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-46,Uttarakhand Transport Corporation (UTC) - 446F959,Volvo AC Seater Non Stop 2+2,11:00,15:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-47,Uttarakhand Transport Corporation (UTC) - 35F154,Volvo AC Seater Non Stop 2+2,11:30,16:00,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-48,Uttarakhand Transport Corporation (UTC) - 32F63,Volvo AC Seater Non Stop 2+2,12:05,16:05,04h 00m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-49,Uttarakhand Transport Corporation (UTC) - 21F40,Volvo AC Seater Non Stop 2+2,12:30,17:00,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-50,Uttarakhand Transport Corporation (UTC) - 179F343,Volvo AC Seater Non Stop 2+2,13:00,17:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-51,Uttarakhand Transport Corporation (UTC) - 34F67,Volvo AC Seater Non Stop 2+2,14:00,18:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-52,Uttarakhand Transport Corporation (UTC) - 181F347,Volvo AC Seater Non Stop 2+2,15:00,19:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
-1,UPSRTC - KTL0088,Ordinary Non AC Seater 2+3,00:01,06:00,05h 59m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-2,UPSRTC - KTL0641,Ordinary Non AC Seater 2+3,00:02,06:02,06h 00m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-3,UPSRTC - MZF0034,Ordinary Non AC Seater 2+3,11:30,17:40,06h 10m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-4,UPSRTC - SRD0038,Ordinary Non AC Seater 2+3,11:45,19:00,07h 15m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-5,UPSRTC - SRD0066,Ordinary Non AC Seater 2+3,12:05,18:35,06h 30m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-6,UPSRTC - MRD0041,Ordinary Non AC Seater 2+3,12:15,19:50,07h 35m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-7,UPSRTC - SRD1446,Ordinary Non AC Seater 2+3,12:36,18:36,06h 00m,454.0,454.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-8,UPSRTC - SRD0074,Ordinary Non AC Seater 2+3,13:05,19:35,06h 30m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-9,UPSRTC - MZF0031,Ordinary Non AC Seater 2+3,14:00,21:20,07h 20m,434.0,434.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
-10,UPSRTC - SRD0086,Ordinary Non AC Seater 2+3,14:05,20:35,06h 30m,426.0,426.0,DEHRADOON BUS STAND,ISBT Kashmiri Gate,Dehradun,Delhi
 11,Uttarakhand Transport Corporation (UTC) - 19F36,Volvo AC Seater Non Stop 2+2,04:00,08:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
 12,Uttarakhand Transport Corporation (UTC) - 145F271,Ordinary 3+2 Non AC Seater,05:00,11:55,06h 55m,420.0,420.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi
 13,Uttarakhand Transport Corporation (UTC) - 177F341,Volvo AC Seater Non Stop 2+2,05:00,09:30,04h 30m,945.0,945.0,Isbt,DELHI KASHMIRIGATE,Dehradun,Delhi

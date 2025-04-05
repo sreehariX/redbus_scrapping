@@ -72,3 +72,125 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 71,Conti travels,Bharat Benz A/C Semi Sleeper (2+2),13:45,21:00,07h 15m,820.0,1020.0,Gandhipuram,Kalasipalyam,Coimbatore,Bangalore
 72,Conti travels,Bharat Benz A/C Semi Sleeper (2+2),22:00,04:30,06h 30m,780.0,990.0,Ganapathy,Kalasipalyam,Coimbatore,Bangalore
 73,No 1 Air Travels,Bharat Benz A/C Sleeper (2+1),23:30,05:30,06h 00m,1400.0,1600.0,Lakshmi Mills,Madiwala,Coimbatore,Bangalore
+74,Jihan luxury travels,A/C Sleeper (2+1),10:15,17:00,06h 45m,2010.0,2390.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+75,Conti travels,A/C Sleeper (2+1),22:30,05:45,07h 15m,1130.0,1430.0,Ganapathy,Kalasipalyam,Coimbatore,Bangalore
+76,KNT Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,05:50,07h 20m,1850.0,2300.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+77,KMS Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),15:30,22:30,07h 00m,1410.0,1870.0,Gandhipuram,Silk Board,Coimbatore,Bangalore
+78,Maaruti Travels,NON A/C Semi Sleeper / Sleeper (2+1),21:15,05:45,08h 30m,949.0,1199.0,Omni Bus Stand,Kalasipalyam,Coimbatore,Bangalore
+79,A1 Travels,Non A/C Seater / Sleeper (2+1),22:30,05:45,07h 15m,2150.0,2300.0,Gandhipuram,Kalasipalyam,Coimbatore,Bangalore
+80,No 1 Air Travels,A/C Sleeper (2+1),06:30,13:15,06h 45m,750.0,800.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+81,SHARMA TRANSPORTS,NON A/C Sleeper (2+1),21:20,06:05,08h 45m,990.0,1090.0,Gandhipuram,Silk Board,Coimbatore,Bangalore
+82,Swamy Ayyappa Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:00,22:45,06h 45m,2000.0,2100.0,Omni Bus Stand,Madiwala,Coimbatore,Bangalore
+83,Soumya Tours and Travels,NON AC Seater / Sleeper 2+1,21:15,05:00,07h 45m,1049.0,1399.0,Gandhipuram,Anand Rao Circle,Coimbatore,Bangalore
+84,City Travels,NON A/C Seater/ Sleeper (2+1),23:00,07:15,08h 15m,1099.0,1399.0,Nanjappa Raod,Kalasipalyam,Coimbatore,Bangalore
+85,No 1 Air Travels,Bharat Benz A/C Sleeper (2+1),23:15,05:15,06h 00m,1400.0,1600.0,Gandhipuram,Electronic City,Coimbatore,Bangalore
+86,YAS Tours and Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),18:00,01:00,07h 00m,1600.0,1700.0,Hopes College,Anand Rao Circle,Coimbatore,Bangalore
+87,Krish Travels,NON A/C Seater/ Sleeper (2+1),23:45,06:45,07h 00m,1700.0,2400.0,Neelambur,Kalasipalyam,Coimbatore,Bangalore
+88,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),16:50,23:20,06h 30m,2200.0,2500.0,Neelambur,Madiwala,Coimbatore,Bangalore
+89,No 1 Air Travels,A/C Seater / Sleeper (2+1),21:45,05:15,07h 30m,1100.0,1600.0,Gandhipuram,Mahadevapura,Coimbatore,Bangalore
+90,Swamy Ayyappa Travels,Volvo Multi-Axle I-Shift A/C Sleeper (2+1),18:15,01:10,06h 55m,2000.0,2100.0,Omni Bus Stand,Madiwala,Coimbatore,Bangalore
+91,Maaruti Travels,NON A/C Semi Sleeper / Sleeper (2+1),23:30,06:15,06h 45m,1949.0,2499.0,Gandhipuram,Majestic,Coimbatore,Bangalore
+92,Krish Travels,A/C Seater/Sleeper (2+1),23:59,07:15,07h 16m,1900.0,2800.0,Ettimadai,Madiwala,Coimbatore,Bangalore
+93,Shama Transport,VE A/C Sleeper (2+1),05:55,12:45,06h 50m,599.0,599.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+94,ACLS Navigator,Bharat Benz A/C Sleeper (2+1),00:01,07:45,07h 44m,3090.0,3690.0,Walaiyar,Kalasipalyam,Coimbatore,Bangalore
+95,Orange Tours and Travels,Volvo Multi-Axle Sleeper A/C (2+1),17:30,00:30,07h 00m,1400.0,1400.0,Eachanari,Madiwala,Coimbatore,Bangalore
+96,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),19:15,02:40,07h 25m,2000.0,2100.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+97,Sri Bala Tours and Travels,VE A/C Seater / Sleeper (2+1),09:00,16:00,07h 00m,649.0,1699.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+98,Soumya Tours and Travels,Non A/C Seater / Sleeper (2+1),23:00,06:00,07h 00m,999.0,1499.0,Omni Bus Stand,Kalasipalyam,Coimbatore,Bangalore
+99,Orange Tours and Travels,A/C Sleeper (2+1),18:00,02:10,08h 10m,1700.0,1800.0,Gandhipuram,Anand Rao Circle,Coimbatore,Bangalore
+100,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),16:00,23:30,07h 30m,1499.0,1499.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+101,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),16:00,23:30,07h 30m,2000.0,2200.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+102,Royal Rich India - R No 104,Bharat Benz A/C Sleeper (2+1),01:00,06:30,05h 30m,2190.0,2440.0,Neelambur,Madiwala,Coimbatore,Bangalore
+103,Royal Rich India,Volvo 9600 Multi-Axle A/C Sleeper (2+1),01:10,07:10,06h 00m,1700.0,1800.0,Neelambur,Madiwala,Coimbatore,Bangalore
+104,ELITE EXPRESS,A/C Sleeper (2+1),23:00,05:30,06h 30m,3899.0,3899.0,Vijayamangalam (Tollgate),Kalasipalyam,Coimbatore,Bangalore
+105,SURYA TRANSPORTS,A/C Sleeper (2+1),11:25,19:00,07h 35m,2200.0,2500.0,Neelambur,Madiwala,Coimbatore,Bangalore
+106,SPS Luxury Travels,A/C Sleeper (2+1),21:25,05:10,07h 45m,3000.0,3000.0,Ramnagar,Kalasipalyam,Coimbatore,Bangalore
+107,Krish Travels,A/C Seater / Sleeper (2+1),06:55,14:45,07h 50m,3100.0,3999.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+108,Smartline Travels,Non A/C Seater / Sleeper (2+1),23:15,05:20,06h 05m,1799.0,2299.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+109,Royal Rich India - R No 102,Bharat Benz A/C Sleeper (2+1),16:20,23:35,07h 15m,3530.0,3630.0,Neelambur,Madiwala,Coimbatore,Bangalore
+110,Delta Transports Pvt Ltd,Bharat Benz A/C Sleeper (2+1),01:15,07:45,06h 30m,1450.0,2100.0,Madhukkarai,Silk Board,Coimbatore,Bangalore
+111,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,06:00,06h 40m,2359.0,4299.0,Neelambur,Madiwala,Coimbatore,Bangalore
+112,Dream Line Travels Pvt Ltd,VE A/C Sleeper (2+1),23:59,06:00,06h 01m,3260.0,4310.0,Ettimadai,Electronic City,Coimbatore,Bangalore
+113,Adrin Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06:00,06h 05m,2800.0,3600.0,Chavadi,Madiwala,Coimbatore,Bangalore
+114,Kingfisher Connect,Non A/C Seater / Sleeper (2+1),21:45,05:30,07h 45m,900.0,1200.0,Gandhipuram,Kalasipalyam,Coimbatore,Bangalore
+115,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),06:00,13:00,07h 00m,1700.0,1900.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+116,Smartline Travels,A/C Sleeper (2+1),23:05,05:30,06h 25m,2190.0,2490.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+117,Sona Travels,Non A/C Seater / Sleeper (2+1),00:30,07:00,06h 30m,1050.0,1250.0,Gandhipuram,Lal Bagh,Coimbatore,Bangalore
+118,Surya Connect,Bharat Benz A/C Sleeper (2+1),23:55,06:00,06h 05m,3100.0,3100.0,Neelambur,Kalasipalyam,Coimbatore,Bangalore
+119,National travels and logistics,Bharat Benz A/C Sleeper (2+1),23:55,06:30,06h 35m,2900.0,3000.0,Neelambur,Christ University,Coimbatore,Bangalore
+120,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),18:00,00:55,06h 55m,2000.0,2100.0,Omni Bus Stand,Madiwala,Coimbatore,Bangalore
+121,Kallada Travels (Suresh Kallada),Scania Multi-Axle AC Semi Sleeper (2+2),18:30,01:55,07h 25m,1800.0,1800.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+122,GSM Trans India,Bharat Benz A/C Seater /Sleeper (2+1),00:55,06:30,05h 35m,2399.0,3499.0,Neelambur,Madiwala,Coimbatore,Bangalore
+123,VEE VEE BUS,A/C Seater / Sleeper (2+1),00:05,06:50,06h 45m,989.1,1889.1,Karumathampatti,Kalasipalyam,Coimbatore,Bangalore
+124,Kallada Travels G4,A/C Seater/Sleeper (2+1),02:30,07:30,05h 00m,1799.0,1999.0,Coimbatore Byepas,Kalasipalyam,Coimbatore,Bangalore
+125,SURYA TRANSPORTS,A/C Sleeper (2+1),11:15,17:40,06h 25m,3500.0,3500.0,Kanniyur tollgate,Madiwala,Coimbatore,Bangalore
+126,Oneness Tours And Travels,Bharat Benz A/C Sleeper (2+1),01:00,06:35,05h 35m,1850.0,2000.0,Neelambur,Madiwala,Coimbatore,Bangalore
+127,Green Bird Tours & Travels,Bharat Benz A/C Sleeper (2+1),23:40,07:05,07h 25m,3099.0,3249.0,Ettimadai,Kalasyapalyam,Coimbatore,Bangalore
+128,ACLS Navigator,Bharat Benz A/C Sleeper (2+1),01:45,06:50,05h 05m,1700.0,2250.0,Kanniyur Tollgate,Madiwala,Coimbatore,Bangalore
+129,Hilight Roadlinks,Bharat Benz A/C Sleeper (2+1),00:35,07:05,06h 30m,2499.0,2799.0,Neelambur,Madiwala,Coimbatore,Bangalore
+130,Hilight Roadlinks,A/C Sleeper (2+1),00:50,06:45,05h 55m,1499.0,1799.0,Neelambur,Madiwala,Coimbatore,Bangalore
+131,KBS Luxury Bus,A/C Sleeper (2+1),01:00,06:30,05h 30m,1330.0,2033.0,Eachanari,Madiwala,Coimbatore,Bangalore
+132,Intercity travels,Bharat Benz A/C Sleeper (2+1),01:00,07:00,06h 00m,1999.0,2399.0,Neelambur,Madiwala,Coimbatore,Bangalore
+133,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),01:40,07:30,05h 50m,2046.0,2684.0,L and T Bypass,Madiwala,Coimbatore,Bangalore
+134,Royal Rich India,Bharat Benz A/C Sleeper (2+1),15:20,22:20,07h 00m,2250.0,2350.0,Neelambur,Madiwala,Coimbatore,Bangalore
+135,Royal Rich India R No. 107,Bharat Benz A/C Sleeper (2+1),00:40,06:40,06h 00m,1250.0,1450.0,Neelambur,Madiwala,Coimbatore,Bangalore
+136,Royal Rich India - R No 108,Bharat Benz A/C Sleeper (2+1),01:00,06:50,05h 50m,1900.0,2480.0,Neelambur,Madiwala,Coimbatore,Bangalore
+137,DiyaBus,Non A/C Seater / Sleeper (2+1),01:20,06:00,04h 40m,2000.0,2500.0,Coimbatore Bypass,Electronic City,Coimbatore,Bangalore
+138,Royal Rich India - R No 105,Bharat Benz A/C Sleeper (2+1),00:45,06:35,05h 50m,2150.0,2780.0,Neelambur,Madiwala,Coimbatore,Bangalore
+139,Crownline Travels,NON A/C Seater/ Sleeper (2+1),00:05,06:15,06h 10m,2400.0,2800.0,Ettimadai,Madiwala,Coimbatore,Bangalore
+140,FlixBus,Bharat Benz A/C Sleeper (2+1),02:00,09:25,07h 25m,1008.04,1114.29,Neelambur,Majestic,Coimbatore,Bangalore
+141,Salabham Private Limited,A/C Sleeper (2+1),00:30,05:45,05h 15m,1942.0,2092.0,Ettimadai,Silk Board,Coimbatore,Bangalore
+142,Excel Cabs,Bharat Benz A/C Seater /Sleeper (2+1),22:55,05:10,06h 15m,2500.0,3000.0,Karumathampatti,Madiwala,Coimbatore,Bangalore
+143,Nila Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),22:30,05:30,07h 00m,2499.0,2499.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+144,Yathra Logistics,VE A/C Sleeper (2+1),02:10,08:30,06h 20m,1799.0,1899.0,Neelambur,Kalasipalyam,Coimbatore,Bangalore
+145,Rukma Travels,VE A/C Seater / Sleeper (2+1),23:59,06:15,06h 16m,2799.0,3199.0,Neelambur,Madiwala,Coimbatore,Bangalore
+146,Yathra Logistics,A/C Sleeper (2+1),02:30,08:00,05h 30m,1799.0,1899.0,Neelambur,Electronic City,Coimbatore,Bangalore
+147,GSM Trans India,A/C Seater / Sleeper (2+1),01:55,07:30,05h 35m,1799.0,2499.0,Neelambur,Madiwala,Coimbatore,Bangalore
+148,Suraj Holidays,VE A/C Sleeper (2+1),23:59,06:30,06h 31m,2400.0,2750.0,Avinashi Road,Madiwala,Coimbatore,Bangalore
+149,City Travels,Bharat Benz A/C Sleeper (2+1),12:45,20:00,07h 15m,809.1,989.1,Gandhipuram,Madiwala,Coimbatore,Bangalore
+150,PSK Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:00,01:15,06h 15m,3690.0,3890.0,Neelambur,Madiwala,Coimbatore,Bangalore
+151,Maaruti Travels,NON A/C Seater / Sleeper (2+2),23:45,07:15,07h 30m,2999.0,2999.0,Gandhipuram,Majestic,Coimbatore,Bangalore
+152,Nila Travels,A/C Sleeper (2+1),23:00,06:00,07h 00m,2799.0,2799.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+153,VEEKAY Travels,Bharat Benz A/C Sleeper (2+1),22:00,04:45,06h 45m,1500.0,2100.0,Omni Bus Stand,Madiwala,Coimbatore,Bangalore
+154,Shama Transport,VE A/C Sleeper (2+1),23:00,05:10,06h 10m,2749.0,2949.0,Karumathampatti,Madiwala,Coimbatore,Bangalore
+155,Venkteshwara Travels,A/C Sleeper (2+1),13:00,20:00,07h 00m,599.0,799.0,Hopes College,Electronic City,Coimbatore,Bangalore
+156,ELITE EXPRESS,A/C Sleeper (2+1),16:00,22:50,06h 50m,1323.0,1825.0,Omni Bus Stand,Tin Factory,Coimbatore,Bangalore
+157,VEE VEE BUS,A/C Sleeper (2+1),00:00,06:45,06h 45m,1214.1,1619.1,Madhukkarai,Kalasipalyam,Coimbatore,Bangalore
+158,VEE VEE BUS,A/C Seater / Sleeper (2+1),00:15,06:30,06h 15m,1259.1,2429.1,Karumathampatti,Kalasipalyam,Coimbatore,Bangalore
+159,FlixBus,A/C Sleeper (2+1),12:00,21:15,09h 15m,722.32,722.32,Omni Bus Stand,Majestic,Coimbatore,Bangalore
+160,Jihan luxury travels,A/C Sleeper (2+1),18:30,01:05,06h 35m,1150.0,1450.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+161,Surya Connect,Bharat Benz A/C Sleeper (2+1),00:45,07:00,06h 15m,1650.0,1850.0,Neelambur,Kalasipalyam,Coimbatore,Bangalore
+162,Surya Connect,VE A/C Sleeper (2+1),01:45,07:45,06h 00m,1650.0,1850.0,Neelambur,Kalasipalyam,Coimbatore,Bangalore
+163,Orange Tours and Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),15:30,22:25,06h 55m,2100.0,2200.0,Gandhipuram,Electronic City,Coimbatore,Bangalore
+164,No 1 Air Travels,A/C Seater / Sleeper (2+1),11:45,20:00,08h 15m,650.0,850.0,Gandhipuram,Kalasipalyam,Coimbatore,Bangalore
+165,Surya Connect,Bharat Benz A/C Sleeper (2+1),00:10,06:30,06h 20m,1450.0,1650.0,Neelambur,Kalasipalayam(Town Hall,Coimbatore,Bangalore
+166,Maaruti Travels,Non A/C Seater / Sleeper (2+1),23:10,06:00,06h 50m,1999.0,2499.0,Gandhipuram,Kalasipalyam,Coimbatore,Bangalore
+167,ELITE EXPRESS,A/C Sleeper (2+1),06:45,12:45,06h 00m,900.0,900.0,Omni Bus Stand,Madiwala,Coimbatore,Bangalore
+168,VEE VEE BUS,Bharat Benz A/C Seater (2+2),15:00,21:55,06h 55m,809.0,809.0,Gandhipuram,Kalasipalyam,Coimbatore,Bangalore
+169,Nila Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),23:15,06:15,07h 00m,2799.0,2799.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+170,Krish Travels,Bharat Benz A/C Seater /Sleeper (2+1),10:45,17:30,06h 45m,1100.0,1800.0,Gandhipuram,Madiwala,Coimbatore,Bangalore
+171,Maaruti Travels,Non A/C Seater / Sleeper (2+1),22:45,06:00,07h 15m,1699.0,2249.0,Gandhipuram,Majestic,Coimbatore,Bangalore
+172,VEE VEE BUS,Bharat Benz A/C Seater (2+1),07:45,13:40,05h 55m,599.0,599.0,Gandhipuram,Kalasipalyam,Coimbatore,Bangalore
+173,Nila Travels,A/C Sleeper (2+1),23:25,05:20,05h 55m,2999.0,2999.0,Neelambur,Madiwala,Coimbatore,Bangalore
+174,Nila Travels,A/C Sleeper (2+1),23:55,05:50,05h 55m,2999.0,2999.0,Neelambur,Madiwala,Coimbatore,Bangalore
+175,Nila Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:10,05:00,05h 50m,2699.0,2699.0,Neelambur,Madiwala,Coimbatore,Bangalore
+176,Royal Rich India - R No 103,Bharat Benz A/C Sleeper (2+1),23:40,06:20,06h 40m,3690.0,3690.0,Neelambur,Madiwala,Coimbatore,Bangalore
+177,DiyaBus,A/C Seater / Sleeper (2+1),01:30,06:30,05h 00m,2500.0,3000.0,Coimbatore Bypass,Electronic City,Coimbatore,Bangalore
+178,Atlas Travels,Non A/C Seater / Sleeper (2+1),23:59,06:30,06h 31m,1999.0,2350.0,Ettimadai,Madiwala,Coimbatore,Bangalore
+179,JaiSai Roadlinks (JSR),Volvo 9600 Multi-Axle A/C Sleeper (2+1),00:45,07:00,06h 15m,1750.0,1999.0,Neelambur,Madiwala,Coimbatore,Bangalore
+180,Excel Cabs,Bharat Benz A/C Sleeper (2+1),22:55,05:10,06h 15m,2800.0,3100.0,Karumathampatti,Madiwala,Coimbatore,Bangalore
+181,Kerala Lines,Scania AC Multi Axle Sleeper (2+1),23:45,06:00,06h 15m,3340.0,4040.0,Neelambur,Madiwala,Coimbatore,Bangalore
+182,Krish Travels,NON A/C Seater/ Sleeper (2+1),22:30,05:30,07h 00m,1200.0,1800.0,Gandhipuram,Bellandur,Coimbatore,Bangalore
+183,BSP Bus,A/C Sleeper (2+1),23:00,05:15,06h 15m,2999.0,3999.0,Annur,Madiwala,Coimbatore,Bangalore
+184,Krish Travels,Non A/C Seater / Sleeper (2+1),22:45,05:45,07h 00m,1200.0,1700.0,Gandhipuram,Shanthinagar,Coimbatore,Bangalore
+185,Rukma Travels,VE A/C Seater / Sleeper (2+1),23:59,06:15,06h 16m,2799.0,3199.0,Neelambur,Madiwala,Coimbatore,Bangalore
+186,Suraj Holidays,NON A/C Semi Sleeper / Sleeper (2+1),00:30,06:30,06h 00m,1950.0,2250.0,Avinashi Road,Madiwala,Coimbatore,Bangalore
+187,Greenline kerala,A/C Sleeper (2+1),23:59,05:57,05h 58m,2850.0,2999.0,Ettimadai,Madiwala,Coimbatore,Bangalore
+188,PHOENIX TRAVELS,A/C Sleeper (2+1),23:45,05:30,05h 45m,2699.0,2699.0,Neelambur,Madiwala,Coimbatore,Bangalore
+189,DA Transports,A/C Sleeper (2+1),21:25,06:00,08h 35m,1799.0,1799.0,Omni Bus Stand,Nayandahalli Mysore Road Metro Station,Coimbatore,Bangalore
+190,JTS Tours and Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:45,05:50,06h 05m,1900.0,1900.0,Gandhipuram,Majestic,Coimbatore,Bangalore
+191,Atlas Travels,Non A/C Seater / Sleeper (2+1),23:50,06:00,06h 10m,1999.0,2350.0,Ettimadai,Madiwala,Coimbatore,Bangalore
+192,VAV Travels,A/C Sleeper (2+1),23:30,06:00,06h 30m,2799.0,2799.0,Gandhipuram,Majestic,Coimbatore,Bangalore
+193,Blue Bird Travels,VE A/C Seater / Sleeper (2+1),00:30,06:00,05h 30m,999.0,1499.0,Neelambur,Attibele,Coimbatore,Bangalore
+194,Metroline,Non A/C Seater / Sleeper (2+1),00:25,05:35,05h 10m,1600.0,2395.0,Neelambur,Madiwala,Coimbatore,Bangalore
+195,VEE VEE BUS,A/C Seater / Sleeper (2+1),21:30,03:30,06h 00m,719.1,899.1,Gandhipuram,Madiwala,Coimbatore,Bangalore
