@@ -1,0 +1,18 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,KSRTC (Kerala) - 2312,SWIFT-GARUDA A/C SEATER BUS,20:30,04:30,08h 00m,1048.0,1048.0,Kilambakkam new b.s. Pf-6,"L and t bypass jn, neelambur",Chennai,Coimbatore
+2,SVT TRANZ,Bharat Benz A/C Sleeper (2+1),21:05,07:15,10h 10m,1500.0,1800.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+3,THAMARAI BUS TRANSPORTS,Bharat Benz A/C Sleeper (2+1),21:00,06:00,09h 00m,1100.0,1620.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+4,AdCity Travels,Bharat Benz A/C Sleeper (2+1),21:00,06:45,09h 45m,1799.0,2099.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+5,Delta Transports Pvt Ltd,Bharat Benz A/C Sleeper (2+1),21:30,07:25,09h 55m,1349.0,1999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+6,SST Limoliner,Bharat Benz A/C Sleeper (2+1),21:00,06:45,09h 45m,1299.0,1799.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+7,Chakra Travels,Bharat Benz A/C Sleeper (2+1),21:45,07:00,09h 15m,1140.0,1550.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+8,AdSPS Travels India,A/C Sleeper (2+1),20:30,05:55,09h 25m,850.0,1180.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+9,Mettur Super Services(mss),A/C Seater / Sleeper (2+1),21:45,06:53,09h 08m,480.0,830.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+10,SK Balu Bus,VE A/C Sleeper (2+1),23:15,08:45,09h 30m,800.0,900.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+11,SHRI AANJANEYA TRAVELS,Bharat Benz A/C Sleeper (2+1),21:00,05:55,08h 55m,1234.05,1709.05,Koyambedu,Gandhipuram,Chennai,Coimbatore
+12,SST Limoliner,Bharat Benz A/C Seater /Sleeper (2+1),21:15,06:55,09h 40m,999.0,1699.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+13,ACLS Navigator,Bharat Benz A/C Sleeper (2+1),21:15,06:50,09h 35m,1549.0,1699.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+14,KRSVP TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),21:30,06:58,09h 28m,760.0,1560.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+15,Delta Transports Pvt Ltd,Bharat Benz A/C Sleeper (2+1),22:00,07:55,09h 55m,1380.0,2400.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+16,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,06:45,09h 45m,703.0,1480.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+17,ARS Travels,Bharat Benz A/C Sleeper (2+1),21:30,06:45,09h 15m,1100.0,1400.0,Koyambedu,Gandhipuram,Chennai,Coimbatore

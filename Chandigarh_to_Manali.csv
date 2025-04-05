@@ -1,0 +1,24 @@
+Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,HRTC - 545,Ordinary 3+2 Non AC Seater,00:20,09:30,09h 10m,564.0,564.0,CHANDIGARH,MANALI,Chandigarh,Manali
+2,HRTC - 1224,Ordinary 3+2 Non AC Seater,01:30,14:00,12h 30m,564.0,564.0,CHANDIGARH,MANALI,Chandigarh,Manali
+3,HRTC - 306245,Ordinary 3+2 Non AC Seater,04:40,13:30,08h 50m,564.0,564.0,CHANDIGARH,MANALI,Chandigarh,Manali
+4,HRTC - 1506,Himsuta AC Seater Volvo/Scania 2+2,08:50,17:00,08h 10m,965.0,965.0,CHANDIGARH,MANALI,Chandigarh,Manali
+5,HRTC - 1545,Ordinary 3+2 Non AC Seater,08:55,17:30,08h 35m,564.0,564.0,CHANDIGARH,MANALI,Chandigarh,Manali
+6,HRTC - 508,A/C Executive (2+3),14:15,23:30,09h 15m,594.0,594.0,Sec 43,MANALI,Chandigarh,Manali
+7,HRTC - 2030250,Ordinary 3+2 Non AC Seater,16:30,22:30,06h 00m,554.0,554.0,Sec 43,MANALI,Chandigarh,Manali
+8,HRTC - 1507,Ordinary 3+2 Non AC Seater,18:40,03:00,08h 20m,575.0,575.0,CHANDIGARH,MANALI,Chandigarh,Manali
+9,HRTC - 58,Himsuta AC Seater Volvo/Scania 2+2,20:40,05:00,08h 20m,965.0,965.0,CHANDIGARH,MANALI,Chandigarh,Manali
+10,HRTC - 1544,Ordinary 3+2 Non AC Seater,21:40,05:00,07h 20m,595.0,595.0,CHANDIGARH,MANALI,Chandigarh,Manali
+11,HRTC - 1522,Himsuta AC Seater Volvo/Scania 2+2,22:00,06:30,08h 30m,965.0,965.0,CHANDIGARH,MANALI,Chandigarh,Manali
+12,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:30,05:30,06h 00m,599.0,849.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+13,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:30,05:00,06h 30m,629.0,1222.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+14,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:45,06:00,06h 15m,629.0,1222.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+15,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),23:30,04:50,05h 20m,840.0,1353.63,Sec 43,Mall Road,Chandigarh,Manali
+16,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),00:15,06:30,06h 15m,1499.0,1749.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+17,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:00,05:30,06h 30m,599.0,849.0,Tribune Chowk Sector 31B,Private Bus Stand,Chandigarh,Manali
+18,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),04:40,11:05,06h 25m,691.25,1548.75,Sec 43,Mall Road,Chandigarh,Manali
+19,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),02:10,08:30,06h 20m,1148.0,1977.5,Sec 43,Mall Road,Chandigarh,Manali
+20,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),00:35,06:45,06h 10m,976.5,1504.13,Sec 43,Mall Road,Chandigarh,Manali
+21,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),04:15,10:25,06h 10m,1012.38,1662.5,Sec 43,Mall Road,Chandigarh,Manali
+22,Zingbus Plus,Scania Multi-Axle AC Semi Sleeper (2+2),02:50,09:40,06h 50m,1207.0,1207.0,Sec 43,Mall Road,Chandigarh,Manali
+23,ReoBus Pro,Volvo 9600 Multi Axle Semi-Sleeper (2+2),00:30,07:00,06h 30m,1697.0,1997.0,Chandigarh,Manali,Chandigarh,Manali
