@@ -107,3 +107,49 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 106,National Travels CHN,Non A/C Seater / Sleeper (2+1),20:15,06:40,10h 25m,800.0,1400.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
 107,Jai Vishnu Travels,NON A/C Seater/ Sleeper (2+1),22:35,07:25,08h 50m,1350.0,1530.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
 108,City Travels,Non A/C Seater / Sleeper (2+1),23:00,08:30,09h 30m,1099.0,1399.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+109,FlixBus,A/C Sleeper (2+1),19:00,04:30,09h 30m,1115.18,1115.18,Koyambedu,Neelambur,Chennai,Coimbatore
+110,SBM TRAANSPORT,A/C Sleeper (2+1),19:00,04:30,09h 30m,2899.0,3199.0,Koyambedu,Madhukkarai,Chennai,Coimbatore
+111,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),17:45,02:25,08h 40m,1100.0,1300.0,Koyambedu,Neelambur,Chennai,Coimbatore
+112,Sri Krishna Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:50,06:00,08h 10m,3999.0,3999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+113,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),17:00,04:10,11h 10m,1100.0,1300.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+114,Salabham Private Limited,A/C Sleeper (2+1),20:15,04:10,07h 55m,2500.0,2750.0,Koyambedu,Neelambur,Chennai,Coimbatore
+115,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),19:45,04:35,08h 50m,1000.0,1200.0,Koyambedu,Neelambur,Chennai,Coimbatore
+116,Vijay Travels,VE A/C Seater / Sleeper (2+1),06:45,16:00,09h 15m,2699.0,2699.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+117,PALSLNT TRAVELS,A/C Seater / Sleeper (2+1),19:00,04:40,09h 40m,1299.0,1999.0,Koyambedu,Eachanari,Chennai,Coimbatore
+118,SRL Travels,A/C Sleeper (2+1),23:45,09:05,09h 20m,950.0,1199.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+119,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),18:05,03:55,09h 50m,1300.0,1500.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+120,Sri SMS Travels,Non A/C Seater / Sleeper (2+1),22:25,08:10,09h 45m,749.0,1099.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+121,SRL Travels,Bharat Benz A/C Sleeper (2+1),10:15,18:59,08h 44m,1099.0,1299.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+122,SRL Travels,A/C Sleeper (2+1),14:00,22:44,08h 44m,1099.0,1299.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+123,VEE VEE BUS,A/C Sleeper (2+1),17:00,03:15,10h 15m,1529.0,1529.0,Koyambedu,Karumathampatti,Chennai,Coimbatore
+124,SURYA TRANSPORTS,A/C Sleeper (2+1),08:30,17:55,09h 25m,2999.0,2999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+125,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),20:30,04:45,08h 15m,1150.0,1200.0,Koyambedu,Neelambur,Chennai,Coimbatore
+126,No 1 Air Travels,Bharat Benz A/C Sleeper (2+1),08:45,17:45,09h 00m,3999.0,3999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+127,SMG TRAVELS,A/C Sleeper (2+1),21:45,07:10,09h 25m,1999.0,1999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+128,PAT BUS,Non A/C Seater / Sleeper (2+1),22:05,08:45,10h 40m,2999.0,2999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+129,Sri SMS Travels,NON A/C Seater/ Sleeper (2+1),19:45,04:00,08h 15m,749.0,1099.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+130,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),21:50,06:00,08h 10m,950.0,1200.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+131,Orange Tours and Travels,Volvo Multi-Axle Sleeper A/C (2+1),21:00,06:00,09h 00m,1200.0,1300.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+132,PAT BUS,Non A/C Seater / Sleeper (2+1),22:35,09:15,10h 40m,2999.0,2999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+133,Azul Transports Private Limited,Bharat Benz A/C Sleeper (2+1),18:05,02:50,08h 45m,1480.0,2000.0,Koyambedu,Eachanari,Chennai,Coimbatore
+134,Delta Transports Pvt Ltd,Bharat Benz A/C Sleeper (2+1),21:30,07:00,09h 30m,2999.0,2999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+135,Shri Abinesh Roadways,VE A/C Sleeper (2+1),18:30,02:30,08h 00m,3400.0,3400.0,Koyambedu,Karumathampatti,Chennai,Coimbatore
+136,SURYA TRANSPORTS,Bharat Benz A/C Sleeper (2+1),22:00,07:00,09h 00m,4999.0,4999.0,Koyambedu,Omni Bus Stand,Chennai,Coimbatore
+137,SURYA TRANSPORTS,Bharat Benz A/C Sleeper (2+1),07:00,15:45,08h 45m,4999.0,4999.0,Koyambedu,Omni Bus Stand,Chennai,Coimbatore
+138,Sri Auto Travels,A/C Sleeper (2+1),17:30,03:35,10h 05m,1140.0,1420.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+139,Surya Connect,Bharat Benz A/C Sleeper (2+1),20:01,04:20,08h 19m,1450.0,1650.0,Koyambedu,Neelambur,Chennai,Coimbatore
+140,Asmii Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,07:25,09h 55m,2899.0,2899.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+141,Krish Travels,NON A/C Seater/ Sleeper (2+1),10:00,19:50,09h 50m,550.0,800.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+142,Krish Travels,NON A/C Seater/ Sleeper (2+1),09:00,18:50,09h 50m,550.0,800.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+143,Kannan Bus,A/C Seater / Sleeper (2+1),21:30,07:15,09h 45m,1999.0,2999.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+144,National Travels CHN,A/C Seater / Sleeper (2+1),18:00,03:00,09h 00m,2400.0,3500.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+145,(SBLT) Shri Bhagiyalakshimi Travels (MAARA),A/C Seater / Sleeper (2+1),20:30,06:35,10h 05m,1799.0,1799.0,Koyambedu,Saravanampatti,Chennai,Coimbatore
+146,City Travels,A/C Seater/Sleeper (2+1),20:15,06:00,09h 45m,924.0,924.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+147,VVM Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:00,04:30,09h 30m,1900.0,2000.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+148,Sri Ganapathy Travels,Non A/C Seater / Sleeper (2+1),20:30,06:35,10h 05m,1099.0,1499.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+149,Sri Ganapathy Travels,NON A/C Semi Sleeper (2+2),21:45,06:45,09h 00m,899.0,899.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+150,Sri Auto Travels,A/C Sleeper (2+1),23:45,08:25,08h 40m,1160.0,1440.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+151,Sri Auto Travels,A/C Sleeper (2+1),23:15,07:45,08h 30m,1170.0,1450.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+152,Sri Auto Travels,A/C Sleeper (2+1),15:00,23:25,08h 25m,950.0,1230.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+153,Sri Auto Travels,A/C Sleeper (2+1),06:00,15:25,09h 25m,1080.0,1400.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
+154,Sri Auto Travels,A/C Sleeper (2+1),05:45,14:35,08h 50m,1080.0,1400.0,Koyambedu,Gandhipuram,Chennai,Coimbatore
