@@ -1250,8 +1250,8 @@ if __name__ == "__main__":
         print("Running in single route mode (for testing)")
         print(f"Browser mode: {'Visible' if visible_browser else 'Headless'}")
         print(f"Max retries: {max_retries}")
-        input_from_city = "Mumbai"
-        input_to_city = "Thane"
+        input_from_city = "Delhi"
+        input_to_city = "Dehradun"
         csv_file_path = f"{input_from_city}_to_{input_to_city}.csv"
         
         # Check if route previously failed and confirm whether to proceed
