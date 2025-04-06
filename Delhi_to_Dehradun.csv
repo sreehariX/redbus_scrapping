@@ -11,13 +11,13 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 10,UPSRTC - LNI0689,Ordinary Non AC Seater 2+3,11:16,16:35,05h 19m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
 11,UPSRTC - LNI0266,Ordinary Non AC Seater 2+3,11:17,16:35,05h 18m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
 12,UPSRTC - SBD0068,Ordinary Non AC Seater 2+3,11:45,18:00,06h 15m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
-13,UPSRTC - MZF0371,Ordinary Non AC Seater 2+3,12:31,18:26,05h 55m,426.0,426.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
-14,UPSRTC - LNI0272,Ordinary Non AC Seater 2+3,12:31,17:02,04h 31m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
+13,UPSRTC - LNI0272,Ordinary Non AC Seater 2+3,12:31,17:02,04h 31m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
+14,UPSRTC - MZF0371,Ordinary Non AC Seater 2+3,12:31,18:26,05h 55m,426.0,426.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
 15,UPSRTC - LNI0280,Ordinary Non AC Seater 2+3,13:00,18:20,05h 20m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
 16,UPSRTC - KTL0087,Ordinary Non AC Seater 2+3,13:20,19:50,06h 30m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
 17,UPSRTC - SRD1440,Ordinary Non AC Seater 2+3,13:30,20:30,07h 00m,396.0,396.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
-18,UPSRTC - MZF0064,Ordinary Non AC Seater 2+3,14:30,20:05,05h 35m,426.0,426.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
-19,UPSRTC - SRD1442,Ordinary Non AC Seater 2+3,14:30,21:30,07h 00m,396.0,396.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
+18,UPSRTC - SRD1442,Ordinary Non AC Seater 2+3,14:30,21:30,07h 00m,396.0,396.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
+19,UPSRTC - MZF0064,Ordinary Non AC Seater 2+3,14:30,20:05,05h 35m,426.0,426.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
 20,UPSRTC - LNI0270,Ordinary Non AC Seater 2+3,14:46,20:05,05h 19m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
 21,UPSRTC - MZF0065,Ordinary Non AC Seater 2+3,15:30,21:05,05h 35m,426.0,426.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
 22,UPSRTC - LNI0278,Ordinary Non AC Seater 2+3,16:30,21:50,05h 20m,434.0,434.0,ISBT Kashmiri Gate,DEHRADOON BUS STAND,Delhi,Dehradun
@@ -43,8 +43,8 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 42,Uttarakhand Transport Corporation (UTC) - 141I265,Ordinary 3+2 Non AC Seater,08:30,15:30,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 43,Uttarakhand Transport Corporation (UTC) - 192I372,Volvo AC Seater Non Stop 2+2,09:00,13:30,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 44,Uttarakhand Transport Corporation (UTC) - 19I37,Volvo AC Seater Non Stop 2+2,09:30,14:00,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
-45,Uttarakhand Transport Corporation (UTC) - 83I153,Volvo AC Seater Non Stop 2+2,10:30,15:00,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
-46,Uttarakhand Transport Corporation (UTC) - 474I1017,Ordinary 3+2 Non AC Seater,10:30,17:30,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
+45,Uttarakhand Transport Corporation (UTC) - 474I1017,Ordinary 3+2 Non AC Seater,10:30,17:30,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
+46,Uttarakhand Transport Corporation (UTC) - 83I153,Volvo AC Seater Non Stop 2+2,10:30,15:00,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 47,Uttarakhand Transport Corporation (UTC) - 177I369,Volvo AC Seater Non Stop 2+2,11:00,15:30,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 48,Uttarakhand Transport Corporation (UTC) - 82I151,Volvo AC Seater Non Stop 2+2,12:01,16:31,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 49,Uttarakhand Transport Corporation (UTC) - 145I273,Ordinary 3+2 Non AC Seater,12:15,19:15,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
@@ -55,8 +55,8 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 54,Uttarakhand Transport Corporation (UTC) - 81I149,Volvo AC Seater Non Stop 2+2,16:00,20:30,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 55,Uttarakhand Transport Corporation (UTC) - 143I269,Ordinary 3+2 Non AC Seater,17:00,23:55,06h 55m,420.0,420.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 56,Uttarakhand Transport Corporation (UTC) - 446I960,Volvo AC Seater Non Stop 2+2,17:00,21:30,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
-57,Uttarakhand Transport Corporation (UTC) - 142I267,Ordinary 3+2 Non AC Seater,17:30,00:30,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
-58,Uttarakhand Transport Corporation (UTC) - 35I155,Volvo AC Seater Non Stop 2+2,17:30,22:00,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
+57,Uttarakhand Transport Corporation (UTC) - 35I155,Volvo AC Seater Non Stop 2+2,17:30,22:00,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
+58,Uttarakhand Transport Corporation (UTC) - 142I267,Ordinary 3+2 Non AC Seater,17:30,00:30,07h 00m,420.0,420.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 59,Uttarakhand Transport Corporation (UTC) - 32I64,Volvo AC Seater Non Stop 2+2,18:00,22:30,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 60,Uttarakhand Transport Corporation (UTC) - 21I41,Volvo AC Seater Non Stop 2+2,18:30,23:00,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 61,Uttarakhand Transport Corporation (UTC) - 179I344,Volvo AC Seater Non Stop 2+2,19:00,23:30,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
@@ -67,20 +67,20 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 66,Uttarakhand Transport Corporation (UTC) - 13I25,Volvo AC Seater Non Stop 2+2,23:00,03:30,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 67,Uttarakhand Transport Corporation (UTC) - 190I368,Volvo AC Seater Non Stop 2+2,23:59,04:29,04h 30m,945.0,945.0,DELHI KASHMIRIGATE,Isbt,Delhi,Dehradun
 68,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:50,05:50,06h 00m,789.0,1367.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
-69,Zingbus Plus,A/C Seater (2+2),09:00,15:30,06h 30m,837.0,837.0,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
+69,Zingbus Plus,A/C Seater (2+2),09:00,15:30,06h 30m,350.0,709.63,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
 70,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:40,05:40,06h 00m,1081.0,1405.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
 71,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),09:00,15:00,06h 00m,657.0,1095.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
-72,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),15:00,21:00,06h 00m,646.0,1119.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
-73,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),22:20,04:20,06h 00m,792.0,1371.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
-74,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),02:55,08:55,06h 00m,350.0,1144.5,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+72,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),22:20,04:20,06h 00m,792.0,1371.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+73,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),15:00,21:00,06h 00m,646.0,1119.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+74,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),02:55,08:55,06h 00m,350.0,1308.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
 75,Zingbus Plus,A/C Seater (2+2),22:45,04:55,06h 10m,350.0,676.38,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
-76,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:00,05:00,06h 00m,792.0,1376.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
-77,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,04:40,06h 10m,350.0,1232.0,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
-78,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),07:00,13:00,06h 00m,750.0,1124.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
-79,Zingbus Plus,A/C Seater (2+2),07:05,13:55,06h 50m,350.0,740.25,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
-80,Zingbus Plus,A/C Seater (2+2),23:45,06:05,06h 20m,375.38,770.88,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
-81,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:20,05:20,06h 00m,832.0,1438.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
-82,Zingbus Plus,A/C Seater (2+2),14:20,20:55,06h 35m,350.0,655.38,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+76,Zingbus Plus,A/C Seater (2+2),14:20,20:55,06h 35m,350.0,655.38,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+77,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:00,05:00,06h 00m,792.0,1376.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+78,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,04:40,06h 10m,350.0,1232.0,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
+79,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),07:00,13:00,06h 00m,750.0,1124.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+80,Zingbus Plus,A/C Seater (2+2),07:05,13:55,06h 50m,350.0,740.25,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+81,Zingbus Plus,A/C Seater (2+2),23:45,06:05,06h 20m,375.38,770.88,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+82,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:20,05:20,06h 00m,832.0,1438.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
 83,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),16:00,22:00,06h 00m,852.0,1110.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
 84,Zingbus Plus,VE A/C Seater (2+2),11:45,17:45,06h 00m,370.13,770.88,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
 85,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),11:00,17:00,06h 00m,642.0,1114.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
@@ -90,40 +90,155 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 89,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),08:00,14:00,06h 00m,862.0,1119.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
 90,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:45,05:45,06h 00m,676.0,1348.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
 91,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),12:30,19:00,06h 30m,309.0,689.0,ISBT Kashmiri Gate,ISBT,Delhi,Dehradun
-92,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),06:00,11:30,05h 30m,506.63,935.38,Munirka,Bus Stand,Delhi,Dehradun
+92,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),06:00,11:30,05h 30m,357.88,935.38,Munirka,Bus Stand,Delhi,Dehradun
 93,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06:05,06h 10m,429.0,1398.0,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
 94,City Land Travels,A/C Sleeper (2+1),22:30,05:00,06h 30m,889.2,1249.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
 95,NueGo,Electric A/C Seater (2+2),07:30,13:29,05h 59m,431.3,669.75,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
-96,FlixBus,A/C Seater (2+2),15:00,22:05,07h 05m,641.96,641.96,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+96,FlixBus,A/C Seater (2+2),15:00,22:05,07h 05m,641.96,792.86,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
 97,Zingbus Plus,A/C Seater (2+2),17:20,00:00,06h 40m,350.0,709.63,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
 98,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),09:20,16:05,06h 45m,349.0,689.0,ISBT Kashmiri Gate,ISBT,Delhi,Dehradun
 99,City Land Travels,A/C Sleeper (2+1),15:30,21:30,06h 00m,583.2,979.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
 100,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),11:50,17:50,06h 00m,632.0,1143.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
 101,Leafy Bus,Electric A/C Seater (2+2),23:15,05:15,06h 00m,499.0,1199.0,ISBT Kashmiri Gate,Near Dehradun ISBT Bus Terminal,Delhi,Dehradun
 102,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,04:40,05h 55m,309.0,699.0,Anand Vihar,ISBT,Delhi,Dehradun
-103,Zingbus Plus,VE A/C Seater (2+2),08:00,13:50,05h 50m,360.5,784.0,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
+103,Zingbus Plus,VE A/C Seater (2+2),08:00,13:50,05h 50m,360.5,896.0,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
 104,Zingbus Plus,VE A/C Seater (2+2),13:00,19:20,06h 20m,364.88,770.88,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
 105,City Land Travels,A/C Sleeper (2+1),08:00,14:00,06h 00m,540.0,855.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
-106,FlixBus,A/C Seater (2+2),22:30,05:50,07h 20m,534.82,534.82,Majnu Ka Tilla,Isbt,Delhi,Dehradun
-107,Leafy Bus,Electric A/C Seater (2+2),06:35,12:35,06h 00m,599.0,1199.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
-108,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,03:00,04h 00m,313.58,1145.38,Munirka,Bus Stand,Delhi,Dehradun
-109,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:30,04:00,05h 30m,299.0,700.0,Munirka,Bus Stand,Delhi,Dehradun
-110,NueGo,Electric A/C Seater (2+2),20:35,03:45,07h 10m,474.05,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+106,FlixBus,A/C Seater (2+2),22:30,05:50,07h 20m,534.82,685.71,Majnu Ka Tilla,Isbt,Delhi,Dehradun
+107,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,03:00,04h 00m,313.58,1145.38,Munirka,Bus Stand,Delhi,Dehradun
+108,Leafy Bus,Electric A/C Seater (2+2),06:35,12:35,06h 00m,599.0,1199.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+109,NueGo,Electric A/C Seater (2+2),20:35,03:45,07h 10m,474.05,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+110,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:30,04:00,05h 30m,299.0,700.0,Munirka,Bus Stand,Delhi,Dehradun
 111,Gola Bus Service,VE A/C Seater (2+2),22:40,05:40,07h 00m,539.0,939.0,ISBT Kashmiri Gate,Transport Nagar,Delhi,Dehradun
 112,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),22:13,04:01,05h 48m,480.0,950.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
 113,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:20,05:00,07h 40m,309.0,759.0,RK Ashram,ISBT,Delhi,Dehradun
-114,NueGo,Electric A/C Seater (2+2),15:35,22:45,07h 10m,514.9,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+114,NueGo,Electric A/C Seater (2+2),15:35,22:45,07h 10m,514.9,705.0,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
 115,City Land Travels,A/C Sleeper (2+1),20:00,02:00,06h 00m,1159.2,1519.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
 116,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,03:45,04h 45m,455.88,592.38,Munirka,Maharana Pratap Sports College Athletic Field,Delhi,Dehradun
-117,FlixBus,A/C Seater (2+2),07:30,14:35,07h 05m,454.46,454.46,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
-118,City Land Travels,A/C Sleeper (2+1),06:00,12:30,06h 30m,799.2,1339.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+117,City Land Travels,A/C Sleeper (2+1),06:00,12:30,06h 30m,799.2,1339.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+118,FlixBus,A/C Seater (2+2),07:30,14:35,07h 05m,454.46,605.36,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
 119,NueGo,Electric A/C Seater (2+2),09:35,17:10,07h 35m,514.9,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
-120,City Land Travels,A/C Seater / Sleeper (2+2),23:55,05:55,06h 00m,2239.0,2239.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+120,City Land Travels,A/C Seater / Sleeper (2+2),23:55,05:55,06h 00m,2239.2,2599.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+121,NueGo,Electric A/C Seater (2+2),16:35,23:00,06h 25m,514.9,669.75,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+122,Leafy Bus,Electric A/C Seater (2+2),15:20,21:40,06h 20m,499.0,1199.0,ISBT Kashmiri Gate,Near Dehradun ISBT Bus Terminal,Delhi,Dehradun
+123,NueGo,Electric A/C Seater (2+2),19:00,23:59,04h 59m,514.9,705.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+124,NueGo,Electric A/C Seater (2+2),17:35,01:05,07h 30m,514.9,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+125,NueGo,Electric A/C Seater (2+2),06:30,12:25,05h 55m,514.9,669.75,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+126,FlixBus,A/C Seater (2+2),10:20,17:55,07h 35m,695.54,846.43,Majnu Ka Tilla,Isbt,Delhi,Dehradun
 127,City Land Travels,A/C Sleeper (2+1),17:00,23:40,06h 40m,889.2,1339.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
-128,NueGo,Electric A/C Seater (2+2),12:35,20:10,07h 35m,514.9,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
-129,NueGo,Electric A/C Seater (2+2),21:35,05:10,07h 35m,514.9,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+128,NueGo,Electric A/C Seater (2+2),12:35,20:10,07h 35m,514.9,705.0,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+129,NueGo,Electric A/C Seater (2+2),21:35,05:10,07h 35m,514.9,705.0,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
 130,NueGo,Electric A/C Seater (2+2),13:35,20:45,07h 10m,514.9,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
 131,E Bus India,VE A/C Seater / Sleeper (2+1),23:30,06:00,06h 30m,999.0,1799.0,Anand Vihar,Isbt,Delhi,Dehradun
-132,City Land Travels,A/C Seater / Sleeper (2+2),10:15,16:15,06h 00m,799.2,1159.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
-133,Zingbus Plus,Bharat Benz A/C Seater (2+2),23:00,05:10,06h 10m,350.0,709.63,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
-134,NueGo,Electric A/C Seater (2+2),22:35,05:45,07h 10m,502.0,502.0,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+132,City Land Travels,A/C Seater / Sleeper (2+2),10:15,16:15,06h 00m,799.2,1288.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+133,Zingbus Plus,Bharat Benz A/C Seater (2+2),23:00,05:10,06h 10m,350.0,811.0,ISBT Kashmiri Gate,Rispana Chowk Near Bharat Petroleum,Delhi,Dehradun
+134,NueGo,Electric A/C Seater (2+2),22:35,05:45,07h 10m,501.6,601.35,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+135,YOLO PINK (Women's only),Bharat Benz A/C Semi Sleeper (2+2),07:30,13:14,05h 44m,550.0,980.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+136,NueGo,Electric A/C Seater (2+2),11:00,16:15,05h 15m,514.9,669.75,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+137,City Land Travels,A/C Sleeper (2+1),23:30,06:00,06h 30m,943.2,1303.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+138,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),06:00,11:25,05h 25m,930.0,1640.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+139,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:55,05:55,06h 00m,789.0,1367.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+140,FlixBus,A/C Seater (2+2),09:00,16:00,07h 00m,490.18,641.07,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+141,FlixBus,A/C Seater (2+2),22:30,05:20,06h 50m,499.11,499.11,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+142,FlixBus,A/C Sleeper (2+1),05:10,12:40,07h 30m,918.75,1025.0,Dhaula Kuan,Isbt,Delhi,Dehradun
+143,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),08:00,13:45,05h 45m,410.0,410.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+144,NueGo,Electric A/C Seater (2+2),23:30,06:40,07h 10m,501.6,651.7,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+145,FlixBus,A/C Seater (2+2),23:55,06:40,06h 45m,454.46,605.36,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+146,FlixBus,A/C Seater (2+2),23:00,05:50,06h 50m,534.82,534.82,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+147,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),14:30,20:23,05h 53m,380.0,380.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+148,TSB Tour express,AC Seater (2+2),23:30,06:20,06h 50m,669.0,669.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+149,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),15:30,21:30,06h 00m,678.0,1043.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+150,Maharani Travels,A/C Seater/Sleeper (2+1),02:00,08:00,06h 00m,799.0,1299.0,Mahipalpur,Isbt,Delhi,Dehradun
+151,PAL BUS(Patel Travels®),Bharat Benz A/C Sleeper (2+1),03:10,08:20,05h 10m,950.0,999.0,Dhaula Kuan,Brahman Wala Chowk,Delhi,Dehradun
+152,IntrCity SmartBus,A/C Seater / Sleeper (2+1),09:30,17:25,07h 55m,279.0,719.0,IFFCO Chowk -Boarding Zone,ISBT,Delhi,Dehradun
+153,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),13:00,18:53,05h 53m,300.0,720.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+154,NueGo,Electric A/C Seater (2+2),14:30,21:00,06h 30m,514.9,669.75,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+155,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,06:00,07h 00m,999.0,1599.0,ISBT Kashmiri Gate,Transport Nagar,Delhi,Dehradun
+156,BSS COOL COOL TRAVELS,A/C Seater/Sleeper (2+1),03:40,08:35,04h 55m,4000.0,4000.0,Akshardham Metro Station,Kargi Chowk Haridwar Bypass Road,Delhi,Dehradun
+157,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),23:59,05:50,05h 51m,967.5,1699.2,Akshardham Mandir,Brahman Wala Chowk,Delhi,Dehradun
+158,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),10:00,16:00,06h 00m,721.0,1252.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+159,NueGo,Electric A/C Seater (2+2),11:35,18:45,07h 10m,514.9,669.75,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+160,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,04:55,06h 55m,289.0,719.0,IFFCO Chowk -Boarding Zone,ISBT,Delhi,Dehradun
+161,NueGo,Electric A/C Seater (2+2),23:00,05:05,06h 05m,519.65,674.5,Dhaula Kuan,"Rispana Bridge, Dehradun",Delhi,Dehradun
+162,City Land Travels,A/C Sleeper (2+1),13:30,19:30,06h 00m,979.2,1519.2,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+163,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:00,05:30,06h 30m,699.0,799.0,Chandni Chowk,Isbt,Delhi,Dehradun
+164,Yuvraj Travels,A/C Seater / Sleeper (2+1),03:25,08:40,05h 15m,699.0,1099.0,Mahipalpur,Isbt,Delhi,Dehradun
+165,NueGo,Electric A/C Sleeper (2+1),23:45,06:30,06h 45m,687.8,757.15,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+166,NueGo,Electric A/C Seater (2+2),09:35,15:55,06h 20m,515.85,706.0,Dhaula Kuan,"Rispana Bridge, Dehradun",Delhi,Dehradun
+167,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),23:01,04:45,05h 44m,250.0,760.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+168,NueGo,Electric A/C Sleeper (2+1),13:05,19:50,06h 45m,687.8,941.0,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+169,OurBus India Limited,Electric A/C Seater (2+2),09:30,16:30,07h 00m,420.0,560.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+170,OurBus India Limited,Electric A/C Seater (2+2),23:00,06:00,07h 00m,393.75,621.25,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+171,OurBus India Limited,Electric A/C Seater (2+2),21:00,04:00,07h 00m,429.0,429.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+172,Vikas Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),04:50,10:20,05h 30m,699.0,699.0,Anand Vihar,Isbt,Delhi,Dehradun
+173,India Tours & Travels (GetBookCab),A/C Seater Push Back (2+2),21:00,04:00,07h 00m,726.0,726.0,Munirka,Isbt,Delhi,Dehradun
+174,AG BUS SERVICE,A/C Seater / Sleeper (2+1),23:55,05:56,06h 01m,719.0,719.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+175,Babu Travels,Bharat Benz A/C Sleeper (2+1),03:30,09:00,05h 30m,900.0,1200.0,ISBT Flyover,Brahman Wala Chowk,Delhi,Dehradun
+176,Rinku travels,A/C Seater / Sleeper (2+1),03:00,09:30,06h 30m,500.0,800.0,Barapula Flyover,Brahman Wala Chowk,Delhi,Dehradun
+177,Shree Raj Akanshi travels,Bharat Benz A/C Seater /Sleeper (2+1),02:00,06:45,04h 45m,799.0,1299.0,Dhaula Kuan,Kargi chowk,Delhi,Dehradun
+178,India Tours & Travels (GetBookCab),Bharat Benz A/C Semi Sleeper (2+2),21:30,04:30,07h 00m,507.5,1010.0,Munirka,Bus Stand,Delhi,Dehradun
+179,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),02:00,08:00,06h 00m,699.0,1099.0,Morigate,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Delhi,Dehradun
+180,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),02:50,08:50,06h 00m,799.0,1199.0,Morigate,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Delhi,Dehradun
+181,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Seater/Sleeper (2+1),03:30,10:00,06h 30m,899.0,1099.0,Morigate,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Delhi,Dehradun
+182,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+1),07:30,14:10,06h 40m,350.0,1500.0,Munirka,Maharana Pratap Sports College Athletic Field,Delhi,Dehradun
+183,Akash Yadav Travels,A/C Seater/Sleeper (2+1),23:20,05:50,06h 30m,649.0,749.0,ISBT Kashmiri Gate,Dehradun,Delhi,Dehradun
+184,Shishpal Bus Service,A/C Seater Push Back (2+2),23:40,07:05,07h 25m,999.0,999.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+185,India Tours & Travels (GetBookCab),A/C Seater Push Back (2+2),22:00,05:00,07h 00m,765.0,765.0,South Extension Metro Station,Bus Stand,Delhi,Dehradun
+186,Laxmi Holidays Pvt Ltd,A/C Seater (2+1),23:30,06:30,07h 00m,962.0,1205.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+187,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,06:00,07h 00m,999.0,1599.0,ISBT Kashmiri Gate,Transport Nagar,Delhi,Dehradun
+188,IntrCity SmartBus,A/C Seater (2+2),10:00,17:35,07h 35m,469.0,609.0,ISBT Kashmiri Gate,ISBT,Delhi,Dehradun
+189,Yolo Bus,Bharat Benz A/C Semi Sleeper (2+2),07:00,12:48,05h 48m,680.0,680.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+190,Gajraj bus service,A/C Seater / Sleeper (2+1),02:55,08:40,05h 45m,699.0,1199.0,ISBT Kashmiri Gate,Brahman Wala Chowk,Delhi,Dehradun
+191,Maa Ganga Yatra Co,A/C Seater / Sleeper (2+1),03:15,09:30,06h 15m,600.0,1000.0,Dhaula Kuan,Isbt dehradun,Delhi,Dehradun
+192,Ram Pratap Travels,AC Seater (2+2),23:15,04:55,05h 40m,599.0,599.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+193,Hill Travels,VE A/C Seater / Sleeper (2+1),23:10,05:30,06h 20m,719.1,899.1,Morigate,Isbt,Delhi,Dehradun
+194,TSB Tour express,AC Seater (2+2),22:50,07:00,08h 10m,734.0,734.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+195,Hill Travels,VE A/C Seater / Sleeper (2+1),22:50,06:50,08h 00m,719.1,899.1,Morigate,Isbt,Delhi,Dehradun
+196,Classic Travels,A/C Seater/Sleeper (2+1),22:55,05:25,06h 30m,609.0,1110.0,ISBT Kashmiri Gate,Bus Stand,Delhi,Dehradun
+197,YOLO PINK (Women's only),Bharat Benz A/C Semi Sleeper (2+2),22:30,04:18,05h 48m,520.0,520.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+198,Classic Travels,A/C Seater/Sleeper (2+1),11:50,18:20,06h 30m,699.0,1199.0,ISBT Kashmiri Gate,Bus Stand,Delhi,Dehradun
+199,Shakti Travels,A/C Seater / Sleeper (2+1),02:45,08:45,06h 00m,650.0,1050.0,Dhaula Kuan,Isbt,Delhi,Dehradun
+200,OurBus India Limited,Electric A/C Seater (2+2),11:00,18:00,07h 00m,420.0,560.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+201,Shree Hare Rama Travels,VE A/C Seater (2+2),23:30,06:30,07h 00m,851.0,851.0,ISBT Kashmiri Gate,DEHRADUN JMD TRAVEL,Delhi,Dehradun
+202,NueGo,Electric A/C Sleeper (2+1),00:30,06:44,06h 14m,792.3,1084.0,ISBT Kashmiri Gate,"Rispana Bridge, Dehradun",Delhi,Dehradun
+203,WELCOME TOUR & TRAVELS,A/C Seater Push Back (2+2),23:59,07:00,07h 01m,549.0,549.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+204,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),01:30,06:00,04h 30m,900.0,1400.0,Dhaula Kuan,Dehradun Shri Ganesh Yatra,Delhi,Dehradun
+205,TSB Tour express,AC Seater (2+2),22:45,06:50,08h 05m,673.0,673.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+206,Shree Hare Rama Travels,A/C Seater/Sleeper (2+1),23:59,06:30,06h 31m,719.1,1349.1,ISBT Kashmiri Gate,DEHRADUN JMD TRAVEL,Delhi,Dehradun
+207,WELCOME TOUR & TRAVELS,AC Seater (2+2),23:55,07:45,07h 50m,549.0,549.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+208,NueGo,Electric A/C Seater (2+2),23:59,06:05,06h 06m,501.6,651.7,Dhaula Kuan,"Rispana Bridge, Dehradun",Delhi,Dehradun
+209,IntrCity SmartBus,A/C Seater (2+2),22:30,05:15,06h 45m,499.0,609.0,ISBT Kashmiri Gate,ISBT,Delhi,Dehradun
+210,Ram Dalal Holidays,Bharat Benz (2+2),23:55,06:00,06h 05m,899.0,999.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+211,Ram Dalal Holidays,Bharat Benz (2+2),23:30,05:35,06h 05m,999.0,999.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+212,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),04:04,09:41,05h 37m,800.0,1200.0,Akshardham Mandir,Dehradun Shri Ganesh Yatra,Delhi,Dehradun
+213,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),23:30,05:00,05h 30m,600.0,800.0,Mahipalpur,Dehradun Shri Ganesh Yatra,Delhi,Dehradun
+214,Shakti Travels,A/C Seater / Sleeper (2+1),03:20,09:45,06h 25m,650.0,1050.0,Dhaula Kuan,Isbt,Delhi,Dehradun
+215,Asian's Shina Tour & Travels (Swoyambhu Manjushree Yatayat P. LTD),A/C Seater / Sleeper (2+2),21:30,04:30,07h 00m,540.0,855.0,Majnu Ka Tilla,Isbt,Delhi,Dehradun
+216,GV Tours,A/C Seater/Sleeper (2+1),03:15,09:50,06h 35m,665.0,1092.5,Dhaula Kuan,Kailash Hospital,Delhi,Dehradun
+217,Shree Saroj Travels,A/C Seater (2+2),23:00,05:00,06h 00m,999.0,999.0,Morigate,Isbt,Delhi,Dehradun
+218,Ram Dalal Holidays,Bharat Benz (2+2),23:15,05:20,06h 05m,899.0,999.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+219,Ram Dalal Holidays,Bharat Benz (2+2),23:00,05:05,06h 05m,999.0,999.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+220,Shree Hare Rama Travels,A/C Seater Push Back (2+2),23:59,06:30,06h 31m,799.0,799.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+221,Nath Travels,A/C Seater (2+2),10:15,16:15,06h 00m,2500.0,2500.0,ISBT Goverment Bus Terminal Counter Number 9 To 13,Dehradun,Delhi,Dehradun
+222,Shri Krishna Travels & Cargo,Bharat Benz A/C Seater (2+2),23:58,06:00,06h 02m,399.0,399.0,Anand Vihar,Isbt,Delhi,Dehradun
+223,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),02:45,07:50,05h 05m,1179.0,1909.0,Akshardham Mandir,SHREE GANESH YATRA SANG,Delhi,Dehradun
+224,FlixBus,A/C Sleeper (2+1),00:35,07:50,07h 15m,1204.46,1310.71,Dhaula Kuan,Isbt,Delhi,Dehradun
+225,Mahalaxmi Travels,A/C Sleeper (2+1),01:45,06:00,04h 15m,1499.0,1599.0,Redfort Parking Opp Near Sunehri Masjid,Isbt,Delhi,Dehradun
+226,Mahalaxmi Travels,Volvo 9600 A/C Sleeper (2+1),02:00,07:30,05h 30m,2499.0,2999.0,Redfort Parking Opp Near Sunehri Masjid,Isbt,Delhi,Dehradun
+227,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),05:00,11:00,06h 00m,1062.0,2126.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+228,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),02:00,08:00,06h 00m,1199.0,1599.0,Akshardham Metro Station,Isbt,Delhi,Dehradun
+229,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),03:10,08:00,04h 50m,1599.0,1599.0,Akshardham Metro Station,Isbt dehradun complex,Delhi,Dehradun
+230,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),04:30,09:30,05h 00m,6399.0,6999.0,ISBT Kashmiri Gate,SHREE GANESH YATRA SANG,Delhi,Dehradun
+231,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),03:00,09:00,06h 00m,1499.0,2099.0,Redfort Parking Opp Near Sunehri Masjid,Isbt,Delhi,Dehradun
+232,Mahalaxmi Travels,Volvo 9600 A/C Sleeper (2+1),03:45,10:00,06h 15m,3999.0,3999.0,Redfort Parking Opp Near Sunehri Masjid,Isbt,Delhi,Dehradun
+233,Star City Bus,Bharat Benz A/C Seater / Sleeper (2+2),22:30,06:00,07h 30m,1099.0,1099.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+234,Star City Bus,A/C Seater / Sleeper (2+2),22:15,06:00,07h 45m,1099.0,1099.0,RK Ashram,Isbt,Delhi,Dehradun
+235,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:58,05:00,05h 02m,4545.0,4545.0,ISBT Kashmiri Gate,Dekyiling Sahastradhara Road Walk in Garden Restaurant,Delhi,Dehradun
+236,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),04:30,09:30,05h 00m,2699.0,2799.0,Koushami Metro Station Delhi,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Delhi,Dehradun
+237,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),03:30,09:50,06h 20m,1699.0,1799.0,Koushami Metro Station Delhi,Shri Krishna Tour And Travels Brahaman Wala Chowk Dehradun,Delhi,Dehradun
+238,AG BUS SERVICE,A/C Seater Push Back (2+2),11:35,17:36,06h 01m,1439.0,1439.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+239,AG BUS SERVICE,A/C Seater / Sleeper (2+1),23:45,05:46,06h 01m,1599.0,1699.0,ISBT Kashmiri Gate,Isbt,Delhi,Dehradun
+240,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),04:15,11:00,06h 45m,1499.0,2099.0,Redfort Parking Opp Near Sunehri Masjid,Isbt,Delhi,Dehradun
+241,Ravina Travels (Regd),A/C Sleeper (2+1),05:15,12:00,06h 45m,4299.0,4499.0,Mahipalpur,Brahman Wala Chowk,Delhi,Dehradun
+242,DIVYANSHU TRAVELS,A/C Sleeper (2+1),03:00,08:00,05h 00m,1080.0,1200.0,Sarai Kale Khan,Bus Stand,Delhi,Dehradun
+243,"Shri Balaji Travels,Jaipur",Volvo Multi-Axle A/C Sleeper (2+1),04:10,09:20,05h 10m,1199.0,1299.0,Dhaula kuan,Brahman chowk,Delhi,Dehradun

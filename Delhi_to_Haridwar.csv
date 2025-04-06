@@ -1,1 +1,204 @@
 Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Price(INR),Highest Price(INR),Starting Point,Destination,Starting Point Parent,Destination Point Parent
+1,UPSRTC - NDD0175,Ordinary Non AC Seater 2+3,06:37,11:30,04h 53m,386.0,386.0,NOIDA BUS STAND,HARIDWAR BUS STAND,Delhi,Haridwar
+2,UPSRTC - KTL0091,Ordinary Non AC Seater 2+3,06:41,12:40,05h 59m,391.0,391.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+3,UPSRTC - NDD0183,Ordinary Non AC Seater 2+3,07:59,13:00,05h 01m,372.0,372.0,NOIDA BUS STAND,HARIDWAR BUS STAND,Delhi,Haridwar
+4,UPSRTC - MZF0056,Ordinary Non AC Seater 2+3,09:20,14:50,05h 30m,391.0,391.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+5,UPSRTC - MZF0055,Ordinary Non AC Seater 2+3,10:16,15:46,05h 30m,391.0,391.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+6,UPSRTC - MZF0875,Ordinary Non AC Seater 2+3,10:17,15:45,05h 28m,391.0,391.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+7,UPSRTC - SRG0105,Ordinary Non AC Seater 2+3,10:30,15:30,05h 00m,418.0,418.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+8,UPSRTC - MZF0057,Ordinary Non AC Seater 2+3,12:00,17:35,05h 35m,391.0,391.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+9,UPSRTC - BRT0352,Ordinary Non AC Seater 2+3,12:21,17:25,05h 04m,391.0,391.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+10,UPSRTC - BRT0364,Ordinary Non AC Seater 2+3,12:57,17:59,05h 02m,391.0,391.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+11,UPSRTC - MZF0058,Ordinary Non AC Seater 2+3,13:20,18:55,05h 35m,391.0,391.0,ISBT Kashmiri Gate,HARIDWAR BUS STAND,Delhi,Haridwar
+12,UPSRTC - NDD0486,Ordinary Non AC Seater 2+3,16:03,21:00,04h 57m,386.0,386.0,NOIDA BUS STAND,HARIDWAR BUS STAND,Delhi,Haridwar
+13,UPSRTC - NDD0165,Ordinary Non AC Seater 2+3,18:27,23:59,05h 32m,386.0,386.0,NOIDA BUS STAND,HARIDWAR BUS STAND,Delhi,Haridwar
+14,Uttarakhand Transport Corporation (UTC) - 209I408,Volvo A/C Seater (2+2),07:00,12:00,05h 00m,793.0,793.0,DELHI KASHMIRIGATE,HARIDWAR,Delhi,Haridwar
+15,Uttarakhand Transport Corporation (UTC) - 490I1055,Volvo A/C Seater (2+2),11:30,16:30,05h 00m,793.0,793.0,DELHI KASHMIRIGATE,HARIDWAR,Delhi,Haridwar
+16,Uttarakhand Transport Corporation (UTC) - 185I356,Volvo A/C Seater (2+2),22:00,03:00,05h 00m,793.0,793.0,DELHI KASHMIRIGATE,HARIDWAR,Delhi,Haridwar
+17,Uttarakhand Transport Corporation (UTC) - 206I402,Volvo A/C Seater (2+2),23:00,04:00,05h 00m,793.0,793.0,DELHI KASHMIRIGATE,HARIDWAR,Delhi,Haridwar
+18,Uttarakhand Transport Corporation (UTC) - 207I404,Volvo A/C Seater (2+2),23:59,04:59,05h 00m,793.0,793.0,DELHI KASHMIRIGATE,HARIDWAR,Delhi,Haridwar
+19,RSRTC - 157466,Express Non AC Seater 2+3,03:00,08:00,05h 00m,369.0,369.0,DELHI,HARIDWAR BUS STAND,Delhi,Haridwar
+20,RSRTC - 200115,A/C Seater / Sleeper (2+1),03:15,08:15,05h 00m,590.0,590.0,ISBT KASHMERE GATE DELHI,HARIDWAR BUS STAND,Delhi,Haridwar
+21,Zingbus Plus,A/C Seater (2+2),23:45,04:40,04h 55m,375.38,770.88,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+22,Zingbus Plus,A/C Seater (2+2),22:45,03:45,05h 00m,350.0,676.38,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+23,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),22:20,02:40,04h 20m,792.0,1371.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+24,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,02:45,03h 45m,299.0,567.88,Munirka,Haridwar Pass,Delhi,Haridwar
+25,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:00,03:20,04h 20m,792.0,1376.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+26,Zingbus Plus,A/C Seater (2+2),14:20,19:30,05h 10m,350.0,749.0,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+27,Zingbus Plus,A/C Seater (2+2),09:00,14:15,05h 15m,350.0,709.63,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+28,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),02:55,07:35,04h 40m,350.0,1308.0,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+29,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),11:50,16:10,04h 20m,632.0,1143.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+30,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:50,04:10,04h 20m,789.0,1367.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+31,Zingbus Plus,A/C Seater (2+2),07:05,12:15,05h 10m,350.0,846.0,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+32,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),09:00,13:20,04h 20m,657.0,1095.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+33,Zingbus Plus,A/C Seater (2+2),17:20,22:35,05h 15m,350.0,709.63,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+34,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:20,03:40,04h 20m,832.0,1438.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+35,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),11:00,15:20,04h 20m,642.0,1114.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+36,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:45,04:05,04h 20m,676.0,1348.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+37,Zingbus Plus,VE A/C Seater (2+2),13:00,18:15,05h 15m,364.88,770.88,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+38,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),16:00,20:20,04h 20m,852.0,1110.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+39,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),15:00,19:20,04h 20m,646.0,1119.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+40,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),07:00,11:20,04h 20m,750.0,1124.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+41,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),08:00,12:20,04h 20m,862.0,1119.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+42,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:55,04:15,04h 20m,789.0,1367.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+43,Zingbus Plus,VE A/C Seater (2+2),08:00,12:45,04h 45m,360.5,784.0,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+44,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:30,03:00,04h 30m,411.25,700.0,Munirka,Haridwar Pass,Delhi,Haridwar
+45,City Land Travels,A/C Sleeper (2+1),15:30,20:00,04h 30m,583.2,979.2,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+46,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,02:45,03h 45m,455.88,592.38,Munirka,Haridwar Pass,Delhi,Haridwar
+47,Shree Hare Rama Travels,VE A/C Seater (2+2),23:30,04:45,05h 15m,449.0,449.0,ISBT Kashmiri Gate,Chandi Devi Chowk,Delhi,Haridwar
+48,Zingbus Plus,VE A/C Seater (2+2),11:45,16:40,04h 55m,370.13,770.88,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+49,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:20,03:45,06h 25m,309.0,759.0,RK Ashram,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+50,City Land Travels,A/C Sleeper (2+1),22:30,04:00,05h 30m,889.2,1249.2,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+51,NueGo,Electric A/C Seater (2+2),15:35,21:45,06h 10m,514.9,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+52,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),23:40,04:00,04h 20m,1081.0,1405.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+53,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,03:30,05h 00m,350.0,1408.0,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+54,NueGo,Electric A/C Seater (2+2),16:35,21:27,04h 52m,514.9,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+55,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,03:20,04h 35m,309.0,699.0,Anand Vihar,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+56,NueGo,Electric A/C Seater (2+2),09:35,16:10,06h 35m,514.9,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+57,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),12:30,17:35,05h 05m,309.0,689.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+58,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:20,04:40,05h 20m,309.0,699.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+59,FlixBus,A/C Seater (2+2),23:55,05:10,05h 15m,418.75,418.75,ISBT Kashmiri Gate,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+60,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),06:00,10:50,04h 50m,497.88,926.63,Munirka,Haridwar Pass,Delhi,Haridwar
+61,Gola Bus Service,VE A/C Seater (2+2),22:40,04:10,05h 30m,539.0,939.0,ISBT Kashmiri Gate,Rishikul Parking,Delhi,Haridwar
+62,City Land Travels,A/C Sleeper (2+1),20:00,01:00,05h 00m,1159.2,1519.2,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+63,Leafy Bus,Electric A/C Seater (2+2),06:35,11:10,04h 35m,599.0,999.0,ISBT Kashmiri Gate,Haridwar,Delhi,Haridwar
+64,FlixBus,A/C Seater (2+2),15:00,20:35,05h 35m,579.46,730.36,ISBT Kashmiri Gate,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+65,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),06:00,10:38,04h 38m,930.0,1640.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+66,NueGo,Electric A/C Seater (2+2),20:35,02:45,06h 10m,474.05,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+67,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),11:30,16:40,05h 10m,309.0,699.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+68,City Land Travels,A/C Sleeper (2+1),08:00,13:00,05h 00m,540.0,855.0,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+69,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),22:13,02:44,04h 31m,480.0,950.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+70,NueGo,Electric A/C Seater (2+2),17:35,00:05,06h 30m,514.9,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+71,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),09:20,14:40,05h 20m,349.0,689.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+72,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),08:00,12:58,04h 58m,410.0,950.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+73,FlixBus,A/C Sleeper (2+1),05:10,11:25,06h 15m,722.32,801.79,Dhaula Kuan,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+74,NueGo,Electric A/C Seater (2+2),07:30,12:01,04h 31m,431.3,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+75,NueGo,Electric A/C Seater (2+2),12:35,19:10,06h 35m,514.9,566.2,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+76,City Land Travels,A/C Seater / Sleeper (2+2),10:15,14:45,04h 30m,799.2,1159.2,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+77,City Land Travels,A/C Sleeper (2+1),23:30,04:45,05h 15m,943.2,1303.2,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+78,NueGo,Electric A/C Seater (2+2),22:35,04:45,06h 10m,501.6,551.0,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+79,E Bus India,VE A/C Seater / Sleeper (2+1),23:30,04:30,05h 00m,999.0,1799.0,Anand Vihar,Haridwar Pass,Delhi,Haridwar
+80,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,04:55,05h 00m,429.0,1398.0,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+81,FlixBus,A/C Seater (2+2),22:30,03:50,05h 20m,445.54,596.43,ISBT Kashmiri Gate,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+82,FlixBus,A/C Seater (2+2),07:30,13:05,05h 35m,418.75,569.64,ISBT Kashmiri Gate,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+83,City Land Travels,A/C Sleeper (2+1),17:00,22:35,05h 35m,889.2,1339.2,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+84,FlixBus,A/C Seater (2+2),10:20,16:25,06h 05m,641.96,792.86,Majnu Ka Tilla,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+85,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),15:30,19:50,04h 20m,678.0,1043.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+86,Leafy Bus,Electric A/C Seater (2+2),15:20,20:10,04h 50m,499.0,1199.0,ISBT Kashmiri Gate,Kashyap Ashram Opp Rishikul Bridge Devpura NH 58 Haridwar,Delhi,Haridwar
+87,FlixBus,A/C Seater (2+2),09:00,14:30,05h 30m,427.68,578.57,ISBT Kashmiri Gate,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+88,City Land Travels,A/C Sleeper (2+1),13:30,18:25,04h 55m,979.2,1519.2,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+89,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),13:00,17:21,04h 21m,300.0,720.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+90,FlixBus,A/C Seater (2+2),22:30,04:20,05h 50m,490.18,641.07,Majnu Ka Tilla,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+91,NueGo,Electric A/C Seater (2+2),21:35,04:10,06h 35m,514.9,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+92,Leafy Bus,Electric A/C Seater (2+2),23:15,03:45,04h 30m,499.0,719.1,ISBT Kashmiri Gate,Kashyap Ashram Opp Rishikul Bridge Devpura NH 58 Haridwar,Delhi,Haridwar
+93,TSB Tour express,AC Seater (2+2),22:45,04:05,05h 20m,673.0,673.0,ISBT Kashmiri Gate,Haridwar Pass,Delhi,Haridwar
+94,City Land Travels,A/C Sleeper (2+1),06:00,11:10,05h 10m,799.2,1339.2,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+95,Maharani Travels,A/C Seater/Sleeper (2+1),02:00,07:00,05h 00m,799.0,1299.0,Mahipalpur,Har Ki Pouri,Delhi,Haridwar
+96,NueGo,Electric A/C Seater (2+2),06:30,10:52,04h 22m,514.9,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+97,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),05:00,09:20,04h 20m,1062.0,2126.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+98,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),10:00,14:20,04h 20m,721.0,1252.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+99,NueGo,Electric A/C Seater (2+2),13:35,19:45,06h 10m,514.9,705.0,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+100,YOLO PINK (Women's only),Bharat Benz A/C Semi Sleeper (2+2),07:30,11:57,04h 27m,549.0,979.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+101,NueGo,Electric A/C Seater (2+2),23:30,05:40,06h 10m,501.6,501.6,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+102,PAL BUS(Patel Travels®),Bharat Benz A/C Sleeper (2+1),03:10,07:15,04h 05m,950.0,999.0,Dhaula Kuan,"Gulab hotel,near bus stand,haridwar",Delhi,Haridwar
+103,NueGo,Electric A/C Seater (2+2),11:35,17:45,06h 10m,514.9,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+104,FlixBus,A/C Seater (2+2),23:00,04:20,05h 20m,490.18,641.07,ISBT Kashmiri Gate,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+105,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,04:30,05h 30m,999.0,1599.0,ISBT Kashmiri Gate,Rishikul Parking,Delhi,Haridwar
+106,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,03:50,05h 50m,289.0,719.0,IFFCO Chowk -Boarding Zone,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+107,TSB Tour express,AC Seater (2+2),23:30,05:10,05h 40m,669.0,669.0,ISBT Kashmiri Gate,Haridwar Pass,Delhi,Haridwar
+108,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:30,04:30,05h 00m,350.0,1302.0,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+109,Zingbus Plus,Bharat Benz A/C Seater (2+2),23:00,04:00,05h 00m,350.0,709.63,ISBT Kashmiri Gate,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+110,IntrCity SmartBus,A/C Seater / Sleeper (2+1),09:30,16:15,06h 45m,279.0,719.0,IFFCO Chowk -Boarding Zone,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+111,NueGo,Electric A/C Seater (2+2),23:00,04:15,05h 15m,603.25,783.75,Dhaula Kuan,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+112,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),23:59,04:20,04h 21m,967.5,1699.2,Akshardham Mandir,Haridwar Pass,Delhi,Haridwar
+113,BSS COOL COOL TRAVELS,A/C Seater/Sleeper (2+1),03:40,07:05,03h 25m,4000.0,4000.0,Akshardham Metro Station,Shree Ganesh Yatra Pantdeep Parking,Delhi,Haridwar
+114,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:00,04:00,05h 00m,699.0,799.0,Chandni Chowk,Pant Deep parking Gate no 2 BYPASS JAIPUR ROAD,Delhi,Haridwar
+115,Classic Travels,A/C Seater/Sleeper (2+1),22:55,03:55,05h 00m,609.0,1110.0,ISBT Kashmiri Gate,Haridwar,Delhi,Haridwar
+116,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),02:45,05:50,03h 05m,1179.0,1909.0,Akshardham Mandir,Har Ki Pouri,Delhi,Haridwar
+117,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),14:30,18:51,04h 21m,380.0,850.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+118,Yuvraj Travels,A/C Seater / Sleeper (2+1),03:25,08:30,05h 05m,699.0,1099.0,Mahipalpur,Panchdeep Parking,Delhi,Haridwar
+119,India Tours & Travels (GetBookCab),A/C Seater Push Back (2+2),21:00,03:00,06h 00m,681.0,681.0,Munirka,Haridwar Pass,Delhi,Haridwar
+120,OurBus India Limited,Electric A/C Seater (2+2),11:00,16:30,05h 30m,420.0,560.0,ISBT Kashmiri Gate,Kashyap Ashram- Near Gulab Sweets,Delhi,Haridwar
+121,OurBus India Limited,Electric A/C Seater (2+2),23:00,04:30,05h 30m,393.75,621.25,ISBT Kashmiri Gate,Kashyap Ashram- Near Gulab Sweets,Delhi,Haridwar
+122,OurBus India Limited,Electric A/C Seater (2+2),21:00,02:30,05h 30m,428.75,680.0,ISBT Kashmiri Gate,Kashyap Ashram- Near Gulab Sweets,Delhi,Haridwar
+123,OurBus India Limited,Electric A/C Seater (2+2),09:30,15:00,05h 30m,420.0,560.0,ISBT Kashmiri Gate,Kashyap Ashram- Near Gulab Sweets,Delhi,Haridwar
+124,Vikas Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),04:50,09:00,04h 10m,699.0,999.0,Anand Vihar,Near Shri Kashyap Samaj Ashram,Delhi,Haridwar
+125,NueGo,Electric A/C Sleeper (2+1),13:05,18:50,05h 45m,687.8,893.95,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+126,NueGo,Electric A/C Seater (2+2),09:35,15:05,05h 30m,515.85,706.0,Dhaula Kuan,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+127,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),04:04,07:44,03h 40m,800.0,1200.0,Akshardham Mandir,Har Ki Pouri,Delhi,Haridwar
+128,NueGo,Electric A/C Sleeper (2+1),23:45,05:30,05h 45m,687.8,941.0,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+129,Babu Travels,Bharat Benz A/C Sleeper (2+1),03:30,08:15,04h 45m,900.0,900.0,ISBT Flyover,Pantdeep Parking,Delhi,Haridwar
+130,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),23:30,04:00,04h 30m,600.0,800.0,Mahipalpur,Har Ki Pouri,Delhi,Haridwar
+131,YOLO PINK (Women's only),Bharat Benz A/C Semi Sleeper (2+2),22:30,03:01,04h 31m,520.0,520.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+132,Shakti Travels,A/C Seater / Sleeper (2+1),03:20,08:45,05h 25m,600.0,1000.0,Dhaula Kuan,pant deep parking gate no.1 near har ki paudi,Delhi,Haridwar
+133,Shakti Travels,A/C Seater / Sleeper (2+1),02:45,07:45,05h 00m,600.0,1000.0,Dhaula Kuan,pant deep parking gate no.1 near har ki paudi,Delhi,Haridwar
+134,Shree Raj Akanshi travels,Bharat Benz A/C Seater /Sleeper (2+1),02:00,05:20,03h 20m,799.0,799.0,Dhaula Kuan,Pantdeep parking har ki pauri haridwar,Delhi,Haridwar
+135,NueGo,Electric A/C Seater (2+2),14:30,19:24,04h 54m,514.9,669.75,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+136,Ram Dalal Holidays,Bharat Benz (2+2),23:30,04:30,05h 00m,999.0,999.0,ISBT Kashmiri Gate,Haridawr,Delhi,Haridwar
+137,Rinku travels,A/C Seater / Sleeper (2+1),03:00,08:10,05h 10m,500.0,750.0,Barapula Flyover,Gadda parking near chandi ghat chowk,Delhi,Haridwar
+138,Ram Dalal Holidays,Bharat Benz (2+2),23:55,04:55,05h 00m,899.0,999.0,ISBT Kashmiri Gate,Haridawr,Delhi,Haridwar
+139,FlixBus,A/C Sleeper (2+1),00:35,06:35,06h 00m,972.32,972.32,Dhaula Kuan,Haridwar - Kashyap Ashram (N),Delhi,Haridwar
+140,NueGo,Electric A/C Sleeper (2+1),00:30,05:44,05h 14m,792.3,1028.85,ISBT Kashmiri Gate,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+141,SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),01:30,05:00,03h 30m,800.0,1400.0,Dhaula Kuan,Ganesh yatra travels,Delhi,Haridwar
+142,India Tours & Travels (GetBookCab),Bharat Benz A/C Semi Sleeper (2+2),21:30,03:45,06h 15m,351.5,673.75,Munirka,Haridwar Pass,Delhi,Haridwar
+143,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+1),07:30,13:30,06h 00m,314.5,1500.0,Munirka,Haridwar Pass,Delhi,Haridwar
+144,Laxmi Holidays Pvt Ltd,A/C Seater (2+1),23:30,04:50,05h 20m,962.0,1205.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+145,India Tours & Travels (GetBookCab),A/C Seater Push Back (2+2),22:00,04:00,06h 00m,765.0,765.0,South Extension Metro Station,Haridwar Pass,Delhi,Haridwar
+146,IntrCity SmartBus,A/C Seater (2+2),10:00,16:10,06h 10m,469.0,609.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+147,IntrCity SmartBus,A/C Seater (2+2),22:30,04:00,05h 30m,499.0,609.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+148,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,04:30,05h 30m,999.0,1599.0,ISBT Kashmiri Gate,Rishikul Parking,Delhi,Haridwar
+149,NueGo,Electric A/C Seater (2+2),23:59,05:15,05h 16m,519.65,675.45,Dhaula Kuan,"Kashyap Ashram, Haridwar",Delhi,Haridwar
+150,Yolo Bus,Bharat Benz A/C Semi Sleeper (2+2),07:00,11:31,04h 31m,680.0,680.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+151,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),23:01,03:28,04h 27m,250.0,250.0,ISBT Kashmiri Gate,"Gulab Sweets and Restaurant Devpura, Haridwar",Delhi,Haridwar
+152,Ram Dalal Holidays,Bharat Benz (2+2),23:00,04:00,05h 00m,999.0,999.0,ISBT Kashmiri Gate,Haridawr,Delhi,Haridwar
+153,Ram Dalal Holidays,Bharat Benz (2+2),23:15,04:15,05h 00m,899.0,999.0,ISBT Kashmiri Gate,Haridawr,Delhi,Haridwar
+154,Star City Bus,Bharat Benz A/C Seater / Sleeper (2+2),22:30,05:00,06h 30m,1099.0,1499.0,ISBT Kashmiri Gate,Haridwar Pass,Delhi,Haridwar
+155,Star City Bus,A/C Seater / Sleeper (2+2),22:15,05:00,06h 45m,1099.0,1499.0,RK Ashram,Haridwar Pass,Delhi,Haridwar
+156,Akash Yadav Travels,A/C Seater/Sleeper (2+1),23:20,04:40,05h 20m,649.0,749.0,ISBT Kashmiri Gate,Haridwar,Delhi,Haridwar
+157,MASTER TRAVELS (RANIWAL),A/C Seater / Sleeper (2+2),04:30,08:30,04h 00m,759.05,1044.05,Dhaula Kuan,Jai Shree Ganesh Yatra Company Khaddewali Parking,Delhi,Haridwar
+158,Maa Ganga Yatra Co,A/C Seater / Sleeper (2+1),03:15,07:40,04h 25m,600.0,1000.0,Dhaula Kuan,Shivmurti chowk,Delhi,Haridwar
+159,Ravi Multani Sona,NON A/C Sleeper (2+1),05:05,09:05,04h 00m,1119.0,1119.0,By pass,"Pantdeep parking, har ki pauri, haridwar",Delhi,Haridwar
+160,Hill Travels,VE A/C Seater / Sleeper (2+1),23:10,03:30,04h 20m,719.1,899.1,Morigate,Rishikul parking,Delhi,Haridwar
+161,AG BUS SERVICE,A/C Seater / Sleeper (2+1),23:55,04:26,04h 31m,719.1,989.1,ISBT Kashmiri Gate,Rishikul parking near har ki pauri haridwar,Delhi,Haridwar
+162,TSB Tour express,AC Seater (2+2),22:50,04:05,05h 15m,662.0,662.0,ISBT Kashmiri Gate,Haridwar Pass,Delhi,Haridwar
+163,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),02:50,06:50,04h 00m,799.0,1199.0,Morigate,Har Ki Pouri,Delhi,Haridwar
+164,Crown Travels,A/C Seater / Sleeper (2+1),23:59,05:00,05h 01m,399.0,599.0,Chandni Chowk,Haridwar Pass,Delhi,Haridwar
+165,Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),00:45,05:55,05h 10m,899.0,899.0,Dhaula Kuan,Pantdeep parking har ki pauri haridwar,Delhi,Haridwar
+166,Shree Hare Rama Travels,A/C Seater Push Back (2+2),23:59,05:00,05h 01m,799.0,799.0,ISBT Kashmiri Gate,Chandi Devi Chowk,Delhi,Haridwar
+167,WELCOME TOUR & TRAVELS,A/C Seater Push Back (2+2),23:59,03:45,03h 46m,549.0,549.0,ISBT Kashmiri Gate,Rishikul Parking Haridwar,Delhi,Haridwar
+168,Shishpal Bus Service,A/C Seater Push Back (2+2),23:40,05:35,05h 55m,999.0,999.0,ISBT Kashmiri Gate,Haridwar Pass,Delhi,Haridwar
+169,Hill Travels,VE A/C Seater / Sleeper (2+1),22:50,04:51,06h 01m,719.1,899.1,Morigate,Rishikul parking,Delhi,Haridwar
+170,Shree Hare Rama Travels,A/C Seater/Sleeper (2+1),23:59,05:00,05h 01m,719.1,1499.0,ISBT Kashmiri Gate,Chandi Devi Chowk,Delhi,Haridwar
+171,WELCOME TOUR & TRAVELS,AC Seater (2+2),23:55,05:00,05h 05m,549.0,549.0,ISBT Kashmiri Gate,Rishikul Parking Haridwar,Delhi,Haridwar
+172,Ambey Travel Agency,A/C Seater / Sleeper (2+1),03:00,07:30,04h 30m,523.81,952.38,ISBT Kashmiri Gate,Pandeep parking near har ki podi,Delhi,Haridwar
+173,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),02:00,06:00,04h 00m,699.0,699.0,Morigate,Har Ki Pouri,Delhi,Haridwar
+174,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Seater/Sleeper (2+1),03:30,08:00,04h 30m,899.0,1099.0,Morigate,Har Ki Pouri,Delhi,Haridwar
+175,Asian's Shina Tour & Travels (Swoyambhu Manjushree Yatayat P. LTD),A/C Seater / Sleeper (2+2),21:30,03:00,05h 30m,540.0,540.0,Majnu Ka Tilla,BHARAT PETROL PUMP Hridwar KANKHAL GYAN LOk,Delhi,Haridwar
+176,GV Tours,A/C Seater/Sleeper (2+1),03:15,08:00,04h 45m,665.0,665.0,Dhaula Kuan,Haridwar Pass,Delhi,Haridwar
+177,WELCOME TOUR & TRAVELS,A/C Seater Push Back (2+2),23:30,05:00,05h 30m,549.0,549.0,Morigate,Rishikul Parking Haridwar,Delhi,Haridwar
+178,Shree Saroj Travels,A/C Seater (2+2),23:00,03:30,04h 30m,999.0,999.0,Morigate,Haridwar Pass,Delhi,Haridwar
+179,Ram Pratap Travels,AC Seater (2+2),23:15,04:00,04h 45m,599.0,599.0,ISBT Kashmiri Gate,Kashyap Ashram Haridwar,Delhi,Haridwar
+180,DIVYANSHU TRAVELS,A/C Sleeper (2+1),03:00,06:00,03h 00m,855.0,945.0,Sarai Kale Khan,Pantdeep Parking Har Ki Pauri,Delhi,Haridwar
+181,Hill Travels,VE A/C Seater / Sleeper (2+1),22:50,03:16,04h 26m,719.1,899.1,Morigate,Rishikul parking,Delhi,Haridwar
+182,Himanshu bus Service,A/C Seater (2+2),23:30,04:50,05h 20m,499.0,599.0,ISBT Kashmiri Gate,Rishikul Parking,Delhi,Haridwar
+183,Himanshu bus Service,A/C Seater (2+2),23:00,04:30,05h 30m,499.0,499.0,ISBT Kashmiri Gate,Rishikul Parking,Delhi,Haridwar
+184,Shri Krishna Travels & Cargo,Bharat Benz A/C Seater (2+2),23:58,04:45,04h 47m,399.0,399.0,Anand Vihar,Har Ki Pouri,Delhi,Haridwar
+185,Gajraj bus service,A/C Seater / Sleeper (2+1),02:55,07:00,04h 05m,699.0,1099.0,ISBT Kashmiri Gate,Pantdeep parking har ki pauri haridwar,Delhi,Haridwar
+186,City Land Travels,A/C Seater / Sleeper (2+2),23:55,04:25,04h 30m,2239.2,2888.0,ISBT Kashmiri Gate,har ki Pauri,Delhi,Haridwar
+187,Mahalaxmi Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),02:00,06:45,04h 45m,2499.0,2999.0,Redfort Parking Opp Near Sunehri Masjid,Har Ki Pouri,Delhi,Haridwar
+188,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),03:10,06:20,03h 10m,1599.0,1599.0,Akshardham Metro Station,Pant deep parking,Delhi,Haridwar
+189,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),04:15,09:30,05h 15m,1499.0,2099.0,Redfort Parking Opp Near Sunehri Masjid,Pant Deep parking Gate no 2 BYPASS JAIPUR ROAD,Delhi,Haridwar
+190,Mahalaxmi Travels,A/C Sleeper (2+1),01:45,05:00,03h 15m,1499.0,1599.0,Redfort Parking Opp Near Sunehri Masjid,Pant Deep parking Gate no 2 BYPASS JAIPUR ROAD,Delhi,Haridwar
+191,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),03:00,08:00,05h 00m,1499.0,2099.0,Redfort Parking Opp Near Sunehri Masjid,Pant Deep parking Gate no 2 BYPASS JAIPUR ROAD,Delhi,Haridwar
+192,Mahalaxmi Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),03:45,08:45,05h 00m,3999.0,3999.0,Redfort Parking Opp Near Sunehri Masjid,Har Ki Pouri,Delhi,Haridwar
+193,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),04:30,08:15,03h 45m,6399.0,6999.0,ISBT Kashmiri Gate,Har Ki Pouri,Delhi,Haridwar
+194,Ravina Travels (Regd),A/C Sleeper (2+1),05:15,10:00,04h 45m,3869.1,4499.0,Mahipalpur,Shree Krishna Travels Pantdeep Parking Gate no1,Delhi,Haridwar
+195,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:58,04:10,04h 12m,4545.0,4545.0,ISBT Kashmiri Gate,Shri Kashyap Samaj Ashram,Delhi,Haridwar
+196,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),02:00,06:30,04h 30m,1199.0,1599.0,Akshardham Metro Station,Har Ki Pouri,Delhi,Haridwar
+197,Raj Laxmi Travels,NON A/C Sleeper (2+1),03:40,09:10,05h 30m,1551.0,1551.0,Khanna market,Pantdeep parking har ki pauri haridwar,Delhi,Haridwar
+198,AG BUS SERVICE,A/C Seater / Sleeper (2+1),23:45,04:16,04h 31m,1599.0,1699.0,ISBT Kashmiri Gate,Rishikul parking near har ki pauri haridwar,Delhi,Haridwar
+199,AG BUS SERVICE,A/C Seater Push Back (2+2),11:35,16:06,04h 31m,1439.0,1439.0,ISBT Kashmiri Gate,Rishikul parking near har ki pauri haridwar,Delhi,Haridwar
+200,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),04:30,08:00,03h 30m,2699.0,2799.0,Koushami Metro Station Delhi,Har Ki Pouri,Delhi,Haridwar
+201,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),03:30,08:10,04h 40m,1699.0,1799.0,Koushami Metro Station Delhi,Har Ki Pouri,Delhi,Haridwar
+202,Nath Travels,A/C Seater (2+2),10:15,14:45,04h 30m,2500.0,2500.0,ISBT Goverment Bus Terminal Counter Number 9 To 13,Bharat Petrol Pump On Highway,Delhi,Haridwar
+203,"Shri Balaji Travels,Jaipur",Volvo Multi-Axle A/C Sleeper (2+1),03:10,07:15,04h 05m,1199.0,1299.0,Dhaula kuan,"Gulab hotel,near bus stand,haridwar",Delhi,Haridwar

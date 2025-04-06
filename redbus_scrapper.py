@@ -907,7 +907,7 @@ if __name__ == "__main__":
         print("Running in single route mode (for testing)")
         print(f"Browser mode: {'Visible' if visible_browser else 'Headless'}")
         input_from_city = "Delhi"
-        input_to_city = "Haridwar"
+        input_to_city = "Agra"
         
         # Create specific CSV filename for single route
         single_route_csv = f"{input_from_city}_to_{input_to_city}.csv"

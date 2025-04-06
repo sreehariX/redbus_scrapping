@@ -2,9 +2,9 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 1,UPSRTC - WAH0279,Ordinary Non AC Seater 2+3,02:32,08:00,05h 28m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
 2,UPSRTC - WAH0236,Ordinary Non AC Seater 2+3,04:17,20:49,16h 32m,386.0,386.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
 3,UPSRTC - GNA0136,Ordinary Non AC Seater 2+3,05:15,09:15,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
-4,UPSRTC - WAH0269,Ordinary Non AC Seater 2+3,05:46,10:15,04h 29m,308.0,308.0,ISBT Kashmiri Gate,BIJLIGHAR,Delhi,Agra
-5,UPSRTC - WAH0274,Ordinary Non AC Seater 2+3,06:16,12:00,05h 44m,308.0,308.0,ISBT Kashmiri Gate,BIJLIGHAR,Delhi,Agra
-6,UPSRTC - WAH0271,Ordinary Non AC Seater 2+3,06:30,10:45,04h 15m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+4,UPSRTC - WAH0271,Ordinary Non AC Seater 2+3,06:00,10:45,04h 45m,296.0,296.0,ISBT Kashmiri Gate,Agra ISBT,Delhi,Agra
+5,UPSRTC - WAH0269,Ordinary Non AC Seater 2+3,06:00,10:15,04h 15m,308.0,308.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+6,UPSRTC - WAH0274,Ordinary Non AC Seater 2+3,06:16,12:00,05h 44m,308.0,308.0,ISBT Kashmiri Gate,BIJLIGHAR,Delhi,Agra
 7,UPSRTC - WAH0277,Ordinary Non AC Seater 2+3,06:31,12:15,05h 44m,308.0,308.0,ISBT Kashmiri Gate,BIJLIGHAR,Delhi,Agra
 8,UPSRTC - ETD0018,Ordinary Non AC Seater 2+3,07:00,12:00,05h 00m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
 9,UPSRTC - GNA0128,Ordinary Non AC Seater 2+3,07:00,11:00,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
@@ -13,8 +13,8 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 12,UPSRTC - KSB0426,Shatabdi AC Seater 2+2,08:30,12:31,04h 01m,428.0,428.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
 13,UPSRTC - NDD0010,Ordinary Non AC Seater 2+3,09:00,13:00,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
 14,UPSRTC - GNA0069,Ordinary Non AC Seater 2+3,10:32,14:32,04h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
-15,UPSRTC - KSB0015,Janrath AC Seater 2+2,11:00,15:00,04h 00m,428.0,428.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
-16,UPSRTC - RAT0036,Ordinary Non AC Seater 2+3,11:00,16:07,05h 07m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+15,UPSRTC - RAT0036,Ordinary Non AC Seater 2+3,11:00,16:07,05h 07m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+16,UPSRTC - KSB0015,Janrath AC Seater 2+2,11:00,15:00,04h 00m,428.0,428.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
 17,UPSRTC - MHB0262,Ordinary Non AC Seater 2+3,12:26,17:54,05h 28m,283.0,283.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
 18,UPSRTC - BRT0001,Ordinary Non AC Seater 2+3,13:30,18:30,05h 00m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
 19,UPSRTC - FNG0554,Ordinary Non AC Seater 2+3,13:50,18:12,04h 22m,348.0,348.0,MAHAMAYA FLYOVER,Agra ISBT,Delhi,Agra
@@ -37,6 +37,17 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 36,UPSRTC - SKB0018,Ordinary Non AC Seater 2+3,18:00,23:20,05h 20m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
 37,UPSRTC - TAJ0014,Janrath AC Seater 2+2,18:01,22:15,04h 14m,457.0,457.0,Kaushambi Bus Stand(Delhi),Agra ISBT,Delhi,Agra
 38,UPSRTC - NDD0012,Ordinary Non AC Seater 2+3,20:00,23:58,03h 58m,348.0,348.0,NOIDA BUS STAND,Agra ISBT,Delhi,Agra
+39,UPSRTC - WAH0266,Ordinary Non AC Seater 2+3,20:07,01:00,04h 53m,308.0,308.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+40,UPSRTC - WAH0260,Ordinary Non AC Seater 2+3,20:31,03:45,07h 14m,308.0,308.0,ISBT Kashmiri Gate,BIJLIGHAR,Delhi,Agra
+41,UPSRTC - WAH0257,Ordinary Non AC Seater 2+3,21:02,02:15,05h 13m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+42,UPSRTC - WAH0240,Ordinary Non AC Seater 2+3,21:03,02:45,05h 42m,308.0,308.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+43,UPSRTC - WAH0253,Ordinary Non AC Seater 2+3,21:16,03:00,05h 44m,296.0,296.0,ISBT Kashmiri Gate,Agra ISBT,Delhi,Agra
+44,UPSRTC - WAH0244,Ordinary Non AC Seater 2+3,21:18,02:45,05h 27m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+45,UPSRTC - WAH0242,Ordinary Non AC Seater 2+3,21:31,02:45,05h 14m,308.0,308.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+46,UPSRTC - WAH0283,Ordinary Non AC Seater 2+3,22:09,03:30,05h 21m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+47,UPSRTC - WAH0264,Ordinary Non AC Seater 2+3,22:45,03:45,05h 00m,308.0,308.0,Sarai Kale Khan,BIJLIGHAR,Delhi,Agra
+48,UPSRTC - WAH0281,Ordinary Non AC Seater 2+3,23:02,04:00,04h 58m,296.0,296.0,Sarai Kale Khan,Agra ISBT,Delhi,Agra
+49,RSRTC - 180335,Express Non AC Seater 2+3,12:30,16:50,04h 20m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
 50,RSRTC - 159508,Express Non AC Seater 2+3,14:00,17:50,03h 50m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
 51,RSRTC - 170941,Express Non AC Seater 2+3,15:00,19:40,04h 40m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
 52,RSRTC - 159504,Express Non AC Seater 2+3,18:30,00:20,05h 50m,286.0,286.0,SARAY-KALE-KHA,AGRA BUS STAND,Delhi,Agra
@@ -46,3 +57,201 @@ Bus ID,Bus Name,Bus Type,Departure Time,Arrival Time,Journey Duration,Lowest Pri
 56,NueGo,Electric A/C Seater (2+2),06:40,11:30,04h 50m,379.05,454.1,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
 57,NueGo,Electric A/C Seater (2+2),15:00,19:30,04h 30m,379.05,454.1,Sarai Kale Khan,Agra Fort,Delhi,Agra
 58,AdRaj Kalpana Travels Pvt.ltd,VE A/C Seater (2+2),13:30,17:00,03h 30m,1399.0,1499.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+59,NueGo,Electric A/C Seater (2+2),07:25,12:15,04h 50m,379.05,454.1,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+60,NueGo,Electric A/C Seater (2+2),17:00,21:30,04h 30m,379.05,454.1,Sarai Kale Khan,Waterwork Chauraha,Delhi,Agra
+61,NueGo,Electric A/C Seater (2+2),23:55,04:20,04h 25m,379.05,478.0,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+62,AdRaj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),21:30,00:45,03h 15m,799.0,1169.1,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+63,NueGo,Electric A/C Seater (2+2),10:30,15:50,05h 20m,379.05,454.1,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+64,NueGo,Electric A/C Seater (2+2),13:00,17:50,04h 50m,379.05,454.1,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+65,NueGo,Electric A/C Seater (2+2),08:30,13:50,05h 20m,379.05,416.1,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+66,FlixBus,A/C Seater (2+2),07:00,12:05,05h 05m,213.39,364.29,ISBT Kashmiri Gate,Agra - Idgah,Delhi,Agra
+67,NueGo,Electric A/C Seater (2+2),15:25,20:50,05h 25m,379.0,379.0,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+68,NueGo,Electric A/C Seater (2+2),05:15,10:05,04h 50m,379.05,454.1,Sarai Kale Khan,Waterwork Chauraha,Delhi,Agra
+69,NueGo,Electric A/C Seater (2+2),21:00,02:05,05h 05m,379.05,478.0,ISBT Kashmiri Gate,Waterwork Chauraha,Delhi,Agra
+70,NueGo,Electric A/C Seater (2+2),18:00,23:15,05h 15m,379.05,454.1,ISBT Kashmiri Gate,Waterwork Chauraha,Delhi,Agra
+71,NueGo,Electric A/C Seater (2+2),14:00,18:50,04h 50m,379.05,454.1,Sarai Kale Khan,Agra Fort,Delhi,Agra
+72,NueGo,Electric A/C Seater (2+2),05:40,10:25,04h 45m,379.05,478.0,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+73,NueGo,Electric A/C Seater (2+2),19:00,23:35,04h 35m,379.05,454.1,Sarai Kale Khan,Waterwork Chauraha,Delhi,Agra
+74,Gola Bus Service,VE A/C Seater / Sleeper (2+1),09:20,12:30,03h 10m,499.0,819.0,ISBT Kashmiri Gate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+75,Raj Kalpana Travels Pvt.Ltd,VE A/C Seater (2+2),06:15,10:20,04h 05m,404.0,484.0,ISBT Kashmiri Gate,Agra Fort,Delhi,Agra
+76,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),13:00,17:00,04h 00m,499.0,1228.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+77,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,02:15,03h 45m,589.0,1199.0,Akshardham Metro Station,Kuberpur,Delhi,Agra
+78,Hans Travels (I) Private Limited,A/C Sleeper (2+1),19:30,23:15,03h 45m,500.0,500.0,Tis Hazari,M.G Road,Delhi,Agra
+79,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:10,01:50,03h 40m,639.0,1389.0,Anand Vihar,Kuberpur,Delhi,Agra
+80,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:30,03:30,04h 00m,509.0,1207.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+81,FlixBus,A/C Seater (2+2),11:00,16:00,05h 00m,597.32,748.21,ISBT Kashmiri Gate,"Agra - Zero Point, Kuberpur Cut (S)",Delhi,Agra
+82,FlixBus,A/C Seater (2+2),22:00,02:25,04h 25m,641.96,792.86,ISBT Kashmiri Gate,"Agra - Zero Point, Kuberpur Cut (S)",Delhi,Agra
+83,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:30,02:00,03h 30m,660.0,1276.0,ISBT Kashmiri Gate,Agra near kuberpur,Delhi,Agra
+84,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:30,01:10,03h 40m,569.0,1309.0,Anand Vihar,Kuberpur,Delhi,Agra
+85,IntrCity SmartBus,A/C Semi Sleeper / Sleeper (2+1),23:45,03:05,03h 20m,469.0,1219.0,Anand Vihar,Kuberpur,Delhi,Agra
+86,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,01:05,03h 35m,589.0,1199.0,Akshardham Metro Station,Kuberpur,Delhi,Agra
+87,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,02:25,03h 55m,549.0,549.0,Anand Vihar,Kuberpur,Delhi,Agra
+88,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:00,01:40,03h 40m,479.0,479.0,Anand Vihar,Kuberpur,Delhi,Agra
+89,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,02:15,03h 05m,591.0,1191.0,Akshardham Metro Station,Kuberpur,Delhi,Agra
+90,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:45,02:05,04h 20m,509.0,509.0,IFFCO Chowk -Boarding Zone,Agra Toll Plaza,Delhi,Agra
+91,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:15,01:50,04h 35m,570.0,570.0,IFFCO Chowk -Boarding Zone,Kuberpur,Delhi,Agra
+92,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:45,01:10,03h 25m,569.0,569.0,Anand Vihar,Kuberpur,Delhi,Agra
+93,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,02:20,05h 20m,571.0,1012.0,IFFCO Chowk -Boarding Zone,Kuberpur,Delhi,Agra
+94,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,01:10,02h 55m,469.0,469.0,Akshardham Metro Station,Kuberpur,Delhi,Agra
+95,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,02:50,03h 20m,639.0,1379.0,Anand Vihar,Kuberpur,Delhi,Agra
+96,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:55,03:15,03h 20m,549.0,1279.0,Anand Vihar,Kuberpur,Delhi,Agra
+97,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,02:35,05h 05m,530.0,937.0,IFFCO Chowk -Boarding Zone,Agra Toll Plaza,Delhi,Agra
+98,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,02:45,04h 45m,610.0,1192.0,IFFCO Chowk -Boarding Zone,Kuberpur,Delhi,Agra
+99,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,02:35,05h 05m,539.0,1149.0,IFFCO Chowk -Boarding Zone,Kuberpur,Delhi,Agra
+100,OurBus India Limited,VE A/C Sleeper (2+1),23:00,04:10,05h 10m,652.75,1095.5,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+101,FlixBus,A/C Sleeper (2+1),20:50,01:40,04h 50m,374.11,453.57,ISBT Kashmiri Gate,"Agra - Zero Point, Kuberpur Cut (S)",Delhi,Agra
+102,Safar Express,NON AC Seater / Sleeper 2+1,22:10,02:16,04h 06m,500.0,500.0,ISBT Kashmiri Gate,Zero point,Delhi,Agra
+103,Raj Kalpana Travels Pvt.ltd,A/C Seater/Sleeper (2+1),23:15,02:50,03h 35m,512.0,699.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+104,Raj Kalpana Travels Pvt.ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:45,02:05,03h 20m,499.0,1259.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+105,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:30,03:20,03h 50m,484.75,1831.0,Anand Vihar,Kuberpur Toll Plaza,Delhi,Agra
+106,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,03:15,04h 05m,359.63,1029.88,Anand Vihar,Kuberpur Toll Plaza,Delhi,Agra
+107,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,02:50,03h 50m,504.88,2190.0,Anand Vihar,Kuberpur Toll Plaza,Delhi,Agra
+108,Zingbus Plus,A/C Seater/Sleeper (2+1),22:40,02:20,03h 40m,472.5,1104.25,Anand Vihar,Kuberpur Toll Plaza,Delhi,Agra
+109,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,02:20,03h 50m,428.75,1619.0,Anand Vihar,Kuberpur Toll Plaza,Delhi,Agra
+110,Raj Kalpana Travels Pvt.ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:40,03:15,03h 35m,569.0,1169.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+111,Kamla Travels,Bharat Benz A/C Sleeper (2+1),19:30,23:30,04h 00m,500.0,500.0,Morigate,Kamla Travels Idgah Bus Stand Road Nr Riya Palace Hotel,Delhi,Agra
+112,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,02:15,04h 00m,563.0,1220.0,Anand Vihar,Kuberpur,Delhi,Agra
+113,Kashi Vishwanath Tours and Travels,A/C Seater / Sleeper (2+2),20:30,23:55,03h 25m,360.0,1999.0,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+114,Hans Travels (I) Private Limited,A/C Sleeper (2+1),20:25,23:40,03h 15m,500.0,500.0,Tis Hazari,M.G Road,Delhi,Agra
+115,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:00,02:00,03h 00m,540.0,1274.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+116,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,03:00,03h 30m,569.0,569.0,ISBT Kashmiri Gate,Kuberpur,Delhi,Agra
+117,FlixBus,A/C Seater (2+2),23:30,04:15,04h 45m,213.39,364.29,ISBT Kashmiri Gate,Agra - Idgah,Delhi,Agra
+118,Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),01:00,05:00,04h 00m,599.0,599.0,ISBT Kashmiri Gate,Express highway,Delhi,Agra
+119,KISSAN TRAVELS PILANI,Bharat Benz A/C Seater /Sleeper (2+1),02:57,07:00,04h 03m,499.0,999.0,"Anshi rajshree mori gate ,near golchakkar","Shilpa shrinath,namner circle",Delhi,Agra
+120,Raj Kalpana Travels Pvt.Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:30,03:20,03h 50m,529.0,1061.1,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+121,JD Travels (Khajuraho Travels),A/C Seater / Sleeper (2+1),23:00,03:00,04h 00m,499.0,799.0,ISBT Kashmiri Gate,Namner Chouraha Ranu Travels,Delhi,Agra
+122,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),09:00,12:00,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+123,JKM Travels,AC Seater (2+2),05:30,11:00,05h 30m,500.0,500.0,Dwarka,Tajmahal,Delhi,Agra
+124,Yadav Vishvkarma Tour And Travels,NON AC Seater / Sleeper 2+1,22:00,02:01,04h 01m,499.0,799.0,Morigate,Kuberpur cut on epressway,Delhi,Agra
+125,Kalpana Travels Kanpur,NON AC Seater / Sleeper 2+1,22:15,02:45,04h 30m,400.0,500.0,ISBT Kashmiri Gate,Yamuna Bank Metro Station,Delhi,Agra
+126,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),13:00,16:00,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+127,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),07:00,10:00,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+128,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),09:30,12:30,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+129,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),10:30,13:30,03h 00m,449.0,449.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+130,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),13:30,16:30,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+131,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),11:30,14:30,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+132,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),07:30,10:30,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+133,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),06:30,09:30,03h 00m,375.0,375.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+134,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),17:00,20:00,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+135,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),16:00,19:00,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+136,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),15:00,18:00,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+137,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),14:00,17:00,03h 00m,449.0,449.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+138,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),10:00,13:00,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+139,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),11:55,14:55,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+140,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),15:30,18:30,03h 00m,300.0,300.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+141,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),11:00,14:00,03h 00m,449.0,449.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+142,Taj Express Bus Service Pvt Ltd,Non AC Seater (2+2),12:30,15:30,03h 00m,449.0,449.0,Sec 37 indian oil petrol pump near bus stand noida,Kuberpur rohit cold store agra,Delhi,Agra
+144,Royal Safari India Travels,A/C Seater / Sleeper (2+1),22:45,03:00,04h 15m,684.86,1027.71,Kashmiri Gate No-2 Near Khoya Mandi Opp Rain Basera Delhi,KUBERPUR AGRA,Delhi,Agra
+145,Royal Safari India Travels,A/C Seater / Sleeper (2+1),23:00,03:00,04h 00m,513.44,770.58,Kashmiri Gate No-2 Near Khoya Mandi Opp Rain Basera Delhi,KUBERPUR AGRA,Delhi,Agra
+146,Red Apple Bus Service,A/C Seater / Sleeper (2+1),21:45,01:45,04h 00m,630.0,1200.0,Morigate,Bhagwan Takeej,Delhi,Agra
+147,Red Apple Bus Service,A/C Seater/Sleeper (2+1),21:45,01:45,04h 00m,630.0,1200.0,Morigate,Bhagwan Takeej,Delhi,Agra
+148,DIVYANSHU TRAVELS,A/C Sleeper (2+1),23:55,04:10,04h 15m,630.0,630.0,Sarai Kale Khan,GHODA CHOWK PARTAPUR,Delhi,Agra
+149,Shitla Travels,A/C Sleeper (2+1),22:00,03:30,05h 30m,650.0,650.0,Pragati Maidan,Bus Stand,Delhi,Agra
+150,RAWAT HOLIDAYS,A/C Seater (2+2),22:15,02:10,03h 55m,599.0,599.0,Sarai Kale Khan,"Waterworks Chouraha, Below Flyover Agra",Delhi,Agra
+151,RAWAT HOLIDAYS,A/C Seater (2+2),13:15,17:10,03h 55m,599.0,599.0,Sarai Kale Khan,"Waterworks Chouraha, Below Flyover Agra",Delhi,Agra
+152,RAWAT HOLIDAYS,A/C Seater (2+2),08:15,12:10,03h 55m,599.0,599.0,Sarai Kale Khan,"Waterworks Chouraha, Below Flyover Agra",Delhi,Agra
+153,Royal Star Travels,AC Seater (2+2),14:00,19:00,05h 00m,900.0,900.0,Sarai Kale Khan,Baluganj,Delhi,Agra
+154,Raj Laxmi Travels,A/C Seater Push Back (2+3),08:00,12:30,04h 30m,269.0,269.0,Sarai Kale Khan,Baluganj,Delhi,Agra
+155,Raj Laxmi Travels,A/C Seater Push Back (2+3),18:00,22:30,04h 30m,269.0,269.0,Sarai Kale Khan,Baluganj,Delhi,Agra
+156,FALCON TOUR and TRAVELS,Volvo AC Seater (2+2),06:00,11:35,05h 35m,571.43,571.43,Karol bagh metro gate no.2 delhi,Agra fort,Delhi,Agra
+157,Pandey Travels Krishna,A/C Sleeper (2+1),21:15,00:30,03h 15m,399.0,399.0,ISBT Kashmiri Gate,Agra Bypass Rd,Delhi,Agra
+158,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),11:30,15:15,03h 45m,740.0,1552.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+159,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),16:30,21:00,04h 30m,770.0,1536.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+160,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,20:30,03h 30m,1350.0,2620.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+161,FlixBus,A/C Sleeper (2+1),18:40,23:50,05h 10m,740.18,819.64,ISBT Kashmiri Gate,"Agra - Zero Point, Kuberpur Cut (S)",Delhi,Agra
+162,IntrCity SmartBus,A/C Seater / Sleeper (2+1),17:35,21:40,04h 05m,759.0,1739.0,Anand Vihar,Kuberpur,Delhi,Agra
+163,Laxmi holidays,VE A/C Seater / Sleeper (2+2),19:00,23:30,04h 30m,810.0,1402.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+164,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:20,02:45,03h 25m,825.0,825.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+165,Miles India Private Limited,Scania AC Multi Axle Sleeper (2+1),23:30,03:40,04h 10m,849.0,849.0,Morigate,Sadar Bazar Veerangana Avanti Bai Chauraha,Delhi,Agra
+166,Raj Kalpana Travels Pvt.ltd,A/C Sleeper (2+1),18:15,22:45,04h 30m,2999.0,2999.0,ISBT Kashmiri Gate,Sanjay travels opposite Impiriyal Hotel,Delhi,Agra
+167,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),23:45,03:15,03h 30m,1359.0,2209.0,ISBT Kashmiri Gate,kuberpur Agra,Delhi,Agra
+168,Raj Kalpana Travels Pvt.Ltd,A/C Seater / Sleeper (2+1),16:15,20:10,03h 55m,2499.0,3999.0,ISBT Kashmiri Gate,Kuberpur cut on epressway,Delhi,Agra
+169,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),11:55,15:15,03h 20m,740.0,1377.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+170,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:00,23:40,03h 40m,886.0,1548.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+171,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:00,03:00,04h 00m,900.0,1572.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+172,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:00,22:30,04h 30m,1176.0,2055.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+173,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,01:00,04h 30m,949.0,1914.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+174,SHRI VASHU BUS SERVICE,A/C Seater / Sleeper (2+1),10:45,14:15,03h 30m,3150.0,3150.0,ISBT Kashmiri Gate,Kuberpur,Delhi,Agra
+175,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:30,22:00,04h 30m,900.0,1572.0,ISBT Kashmiri Gate,Agra near kuberpur,Delhi,Agra
+176,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:15,01:20,03h 05m,1443.0,2790.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+177,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:30,22:40,04h 10m,949.0,1809.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+178,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,23:15,03h 45m,810.0,1572.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+179,Laxmi holidays,VE A/C Seater / Sleeper (2+2),22:00,01:45,03h 45m,900.0,1301.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+180,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,00:40,03h 40m,900.0,1572.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+181,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,00:40,03h 40m,900.0,1572.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+182,Shri Shyam Baba Travels,A/C Seater/Sleeper (2+1),18:00,22:30,04h 30m,1599.0,2699.0,Anand Vihar,Kuberpur toll plaza agra,Delhi,Agra
+183,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:55,02:55,03h 00m,1015.0,2306.0,ISBT Kashmiri Gate,Toll Plaza Expressway Agra near kuberpur,Delhi,Agra
+184,IntrCity SmartBus,A/C Seater / Sleeper (2+1),18:00,23:05,05h 05m,739.0,1639.0,ISBT Kashmiri Gate,Kuberpur,Delhi,Agra
+185,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,01:25,03h 55m,739.0,1639.0,Anand Vihar,Kuberpur,Delhi,Agra
+186,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:35,00:45,03h 10m,719.0,1719.0,Akshardham Metro Station,Kuberpur,Delhi,Agra
+187,OurBus India Limited,VE A/C Sleeper (2+1),21:30,03:00,05h 30m,1071.0,1467.0,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+188,OurBus India Limited,VE A/C Sleeper (2+1),16:30,20:50,04h 20m,1083.6,1980.9,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+189,OurBus India Limited,Bharat Benz A/C Sleeper (2+1),22:00,03:10,05h 10m,739.38,1105.13,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+190,OurBus India Limited,VE A/C Sleeper (2+1),18:00,23:30,05h 30m,963.0,1422.0,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+191,OurBus India Limited,VE A/C Sleeper (2+1),20:30,01:25,04h 55m,1341.0,1629.0,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+192,OurBus India Limited,VE A/C Sleeper (2+1),16:30,22:00,05h 30m,1071.0,1467.0,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+193,OurBus India Limited,VE A/C Sleeper (2+1),20:00,01:30,05h 30m,1071.0,1467.0,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+194,OurBus India Limited,A/C Sleeper (2+1),19:30,00:25,04h 55m,1440.0,1980.0,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+195,OurBus India Limited,Bharat Benz A/C Seater /Sleeper (2+1),20:30,00:50,04h 20m,858.6,1942.2,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+196,Fouji travels,A/C Seater / Sleeper (2+1),21:30,00:30,03h 00m,699.0,1299.0,ISBT Kashmiri Gate,Agra near kuberpur on Yamuna Express way,Delhi,Agra
+197,Fouji travels,A/C Seater / Sleeper (2+1),21:00,01:00,04h 00m,699.0,1299.0,ISBT Kashmiri Gate,Agra near kuberpur on Yamuna Express way,Delhi,Agra
+198,Gola Bus Service,Bharat Benz A/C Seater /Sleeper (2+1),20:00,23:00,03h 00m,1999.0,2999.0,ISBT Kashmiri Gate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+199,Gola Bus Service,Bharat Benz A/C Seater /Sleeper (2+1),22:30,02:10,03h 40m,1599.0,2399.0,ISBT Kashmiri Gate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+200,Gola Bus Service,A/C Seater/Sleeper (2+1),20:30,23:50,03h 20m,1999.0,2999.0,ISBT Kashmiri Gate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+201,Gola Bus Service,Bharat Benz A/C Sleeper (2+1),19:00,22:00,03h 00m,753.0,1619.0,ISBT Kashmiri Gate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+202,FlixBus,A/C Sleeper (2+1),19:15,00:20,05h 05m,677.68,677.68,ISBT Kashmiri Gate,"Agra - Zero Point, Kuberpur Cut (S)",Delhi,Agra
+203,FlixBus,A/C Sleeper (2+1),22:25,03:10,04h 45m,722.32,801.79,Dhaula Kuan,"Agra - Zero Point, Kuberpur Cut (S)",Delhi,Agra
+204,Ashok Bus Service,VE A/C Sleeper (2+1),23:55,04:30,04h 35m,1889.1,3689.1,Anand Vihar,Agra by pass(Express way),Delhi,Agra
+205,Gola Bus Service,AshokLeyland Stile A/C,18:20,22:00,03h 40m,1999.0,2999.0,ISBT Kashmiri Gate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+206,E Bus India,VE A/C Seater / Sleeper (2+1),17:30,22:00,04h 30m,1399.0,1799.0,Anand Vihar,Agra By Pass Road (on Highway Kuber Pull),Delhi,Agra
+207,Gola Bus Service,VE A/C Seater / Sleeper (2+1),19:20,23:00,03h 40m,2999.0,4999.0,ISBT Kashmiri Gate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+208,Gola Bus Service,VE A/C Sleeper (2+1),17:20,21:00,03h 40m,1999.0,2399.0,ISBT Kashmiri Gate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+209,Ashok Bus Service,VE A/C Sleeper (2+1),21:00,01:15,04h 15m,1889.1,3689.1,ISBT Kashmiri Gate,Inner Ring Road ADA Toll Plaza Agra,Delhi,Agra
+210,VGO BUS,VE A/C Seater / Sleeper (2+1),22:10,02:10,04h 00m,1999.0,3999.0,SUNEHRI MASJID PARKING RED FORT,By Pass,Delhi,Agra
+211,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),20:00,23:29,03h 29m,2000.0,3500.0,Morigate,Agara,Delhi,Agra
+212,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),17:30,21:20,03h 50m,2000.0,3500.0,Morigate,Agra Bypass Rd Kuberpur Bypass,Delhi,Agra
+213,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),18:30,23:30,05h 00m,1799.0,3000.0,Morigate,Agara,Delhi,Agra
+214,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),18:00,22:00,04h 00m,1600.0,1600.0,Morigate,"Shatabdi travels , near eidgah bus stand hotel riya palace, agra",Delhi,Agra
+215,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),23:45,02:55,03h 10m,1599.0,1599.0,Akshardham Metro Station,Kuberpur cut on epressway,Delhi,Agra
+216,Khajuraho Travels Pvt Ltd,AC Sleeper (2+1),22:16,02:12,03h 56m,896.0,896.0,Morigate,Kuberpur cut on epressway,Delhi,Agra
+217,Safar Express,A/C Seater / Sleeper (2+1),16:05,20:00,03h 55m,899.0,1399.0,ISBT Kashmiri Gate,Yamuna expressway (agra),Delhi,Agra
+218,Jamna Travels (Delhi),A/C Seater/Sleeper (2+1),20:00,23:30,03h 30m,2000.0,3500.0,Morigate,Agara,Delhi,Agra
+219,Safar Express,A/C Seater / Sleeper (2+1),20:05,23:30,03h 25m,899.0,1399.0,ISBT Kashmiri Gate,Yamuna expressway (agra),Delhi,Agra
+220,Khajuraho Travels Pvt Ltd,AC Sleeper (2+1),21:00,01:21,04h 21m,1096.0,1096.0,Morigate,Kuberpur cut on epressway,Delhi,Agra
+221,Shakmbhari Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:45,22:30,03h 45m,3599.0,3899.0,Morigate,Agara,Delhi,Agra
+222,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),00:50,04:00,03h 10m,799.0,1299.0,Akshardham Metro Station,kuberpur by pass agra,Delhi,Agra
+223,Jamna Travels (Delhi),A/C Seater/Sleeper (2+1),17:30,22:00,04h 30m,2000.0,3500.0,Morigate,Agra kuberpur Toll plaza,Delhi,Agra
+224,Safar Express,A/C Seater / Sleeper (2+2),19:30,23:25,03h 55m,1099.0,1699.0,ISBT Kashmiri Gate,Kuberpur cut on epressway,Delhi,Agra
+225,Safar Express,A/C Sleeper (2+1),20:20,23:40,03h 20m,1500.0,1500.0,ISBT Kashmiri Gate,Pratap pura,Delhi,Agra
+226,Ashok Bus Service,VE A/C Sleeper (2+1),18:50,23:15,04h 25m,2789.1,5489.1,ISBT Kashmiri Gate,Agra by pass(Express way),Delhi,Agra
+227,BT Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:10,23:00,04h 50m,1574.1,2699.1,ISBT Kashmiri Gate,Agra Kuberpur Cut,Delhi,Agra
+228,BSS COOL COOL TRAVELS,A/C Seater/Sleeper (2+1),00:40,03:30,02h 50m,4000.0,4000.0,Akshardham Metro Station,Kuber Pur Agra,Delhi,Agra
+229,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+1),23:50,03:00,03h 10m,999.0,1299.0,Koushami Metro Station Delhi,kuberpur by pass agra,Delhi,Agra
+230,Safar Express,A/C Seater / Sleeper (2+1),21:05,00:35,03h 30m,999.0,1399.0,ISBT Kashmiri Gate,Zero point,Delhi,Agra
+231,Shakmbhari Travels,A/C Seater / Sleeper (2+2),19:45,23:30,03h 45m,4000.0,5000.0,Morigate,Agara,Delhi,Agra
+232,Safar Express,A/C Seater / Sleeper (2+1),22:00,02:00,04h 00m,699.0,699.0,ISBT Kashmiri Gate,Zero point,Delhi,Agra
+233,Safar Express,A/C Seater / Sleeper (2+1),21:05,00:20,03h 15m,899.0,1399.0,ISBT Kashmiri Gate,Kuberpur cut on epressway,Delhi,Agra
+234,Safar Express,A/C Sleeper (2+1),20:30,23:23,02h 53m,1099.0,1099.0,ISBT Kashmiri Gate,Yamuna expressway (agra),Delhi,Agra
+235,Khajuraho Travels Pvt Ltd,A/C Seater / Sleeper (2+1),20:16,00:06,03h 50m,996.0,1496.0,Morigate,Kuberpur cut on epressway,Delhi,Agra
+236,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),23:00,03:00,04h 00m,2599.0,2699.0,Morigate,kuberpur by pass agra,Delhi,Agra
+237,Safar Express,A/C Seater / Sleeper (2+2),17:05,20:20,03h 15m,999.0,1399.0,ISBT Kashmiri Gate,Kuberpur cut on epressway,Delhi,Agra
+238,Safar Express,A/C Seater / Sleeper (2+2),17:30,21:30,04h 00m,1099.0,1699.0,ISBT Kashmiri Gate,Yamuna expressway (agra),Delhi,Agra
+239,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),00:40,03:30,02h 50m,699.0,1099.0,Electronic City Noida Sector 62,Bhagwan Talkij,Delhi,Agra
+240,Khajuraho Travels Pvt Ltd,AC Sleeper (2+1),22:00,01:56,03h 56m,1096.0,1096.0,Morigate,Kuberpur cut on epressway,Delhi,Agra
+241,BT Travels,VE A/C Seater / Sleeper (2+1),11:20,15:15,03h 55m,970.33,1664.08,Anand Vihar,Agra kuberpur Toll plaza,Delhi,Agra
+242,Raj Kalpana Travels Pvt.ltd,A/C Sleeper (2+1),20:30,00:00,03h 30m,1106.0,1106.0,ISBT Kashmiri Gate,Sai ki Takiya Rajkalpana Travels,Delhi,Agra
+243,Raj Kalpana Travels Pvt.ltd,VE A/C Seater (2+2),23:00,03:10,04h 10m,1449.0,1449.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+244,Rajdhani Tourist Bus Service,A/C Sleeper (2+1),22:30,03:40,05h 10m,1249.0,1249.0,ISBT Kashmiri Gate,Kuberpur Toll Plaza,Delhi,Agra
+245,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),23:25,03:25,04h 00m,986.0,986.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+246,Raj Kalpana Travels Pvt.Ltd,Bharat Benz A/C Seater /Sleeper (2+1),19:15,23:20,04h 05m,904.5,904.5,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+247,GK Travels,A/C Seater/Sleeper (2+1),22:30,02:30,04h 00m,1234.05,1899.05,Tilak Nagar Metro Satation,Kuberpur toll tax,Delhi,Agra
+248,Raj Kalpana Travels Pvt.ltd,A/C Sleeper (2+1),21:00,00:45,03h 45m,2599.0,3999.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+249,Raj Kalpana Travels Pvt.ltd,VE A/C Sleeper (2+1),21:40,01:25,03h 45m,1160.1,1448.1,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+250,Raj Kalpana Travels Pvt.Ltd,A/C Sleeper (2+1),22:45,02:15,03h 30m,1620.0,1620.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+251,Dharmendra Travels,A/C Sleeper (2+1),21:56,02:30,04h 34m,749.0,849.0,ISBT Kashmiri Gate,Agra Delhi Express Way,Delhi,Agra
+252,Raj Kalpana Travels Pvt.ltd,Non A/C Seater / Sleeper (2+1),21:30,01:30,04h 00m,1500.0,1500.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+253,GK Travels,A/C Seater/Sleeper (2+1),20:30,01:00,04h 30m,1329.05,1329.05,Morigate,Ramada hotel,Delhi,Agra
+254,Raj Kalpana Travels Pvt.ltd,A/C Sleeper (2+1),22:30,02:00,03h 30m,1599.0,1599.0,ISBT Kashmiri Gate,Taj View Crossing Tajganj Fatehabad Road Agra,Delhi,Agra
+255,Raj Kalpana Travels Pvt.ltd,A/C Seater/Sleeper (2+1),21:15,01:03,03h 48m,2200.0,2500.0,ISBT Kashmiri Gate,Kuberpur Agra,Delhi,Agra
+256,Raj Kalpana Travels Pvt.ltd,A/C Seater/Sleeper (2+1),20:00,23:45,03h 45m,2499.0,3499.0,ISBT Kashmiri Gate,Taj View Crossing Tajganj Fatehabad Road Agra,Delhi,Agra
+257,Krishna Travels,A/C Seater / Sleeper (2+2),19:00,22:45,03h 45m,2799.0,3299.0,ISBT Kashmiri Gate,kuberpur flyover Near Toll Plaza,Delhi,Agra
