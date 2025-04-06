@@ -392,7 +392,7 @@ def interactive_mode(csv_file_path):
         input("\nPress Enter to continue...")
 
 def main():
-    csv_file_path = 'merged_output_v2_test.csv'
+    csv_file_path = 'merged_output_v5_test.csv'
     
     # Check if custom CSV file path is provided
     for arg in sys.argv:
@@ -439,6 +439,6 @@ def main():
 if __name__ == "__main__":
     # If run directly without arguments, process the specified routes
     if len(sys.argv) == 1:
-        process_specific_routes('merged_output_v2_test.csv')
+        process_specific_routes('merged_output_v5_test.csv')
     else:
         main()
